@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "about": "Our Voyage",
+    "captain": "The Captain",
+    "services": "The Ritual",
+    "products": "Products",
+    "gallery": "On Board",
+    "contact": "Anchor Here",
+    "book": "Book Now"
+  },
+  "hero": {
+    "scroll": "Scroll to board"
+  },
+  "about": {
+    "title": "Our Voyage",
+    "since": "Since",
+    "cta": "Discover our ritual",
+    "text": "We founded Ancorador in 2024 with a clear purpose: to create a true sanctuary of masculine beauty. Here, every detail was crafted to recapture the essence of the classic barbershop, a place where tradition, style, and friendship meet.",
+    "text2": "More than cuts and grooming, we offer an experience. A space where a man can anchor his routine, renew his self-esteem, and leave strengthened to face the sea of life.",
+    "text3": "Ancorador is the union of high standards and roots essence, carrying the unique vibe of Florianópolis. A space to elevate self-esteem, relax, and create genuine connections.",
+    "quote": "At Ancorador, we don't just create styles. We create moments. And this is just the beginning of our voyage."
+  },
+  "captain": {
+    "title": "The Captain",
+    "subtitle": "Bruno 'Sucata'",
+    "text": "Bruno, better known as Sucata, traded his boxing gloves for the classic razor. From the countryside to the Magic Island, every step of his journey is reflected in the precision of every cut. A boxer at heart, a barber at soul, his passion for the timeless transforms every service into a ritual.",
+    "quote": "My style, my journey, my legacy.",
+    "followInstagram": "Follow on Instagram"
+  },
+  "services": {
+    "title": "The Ritual",
+    "subtitle": "Each service is a moment of care and tradition",
+    "currency": "R$",
+    "combo": "Combo",
+    "promoLabel": "Promo",
+    "promo": "10% off on your first cut",
+    "bookCta": "Book via WhatsApp"
+  },
+  "products": {
+    "label": "Official Reseller",
+    "all": "All",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "consultCta": "Inquire About Products",
+    "availableAt": "Products available at the barbershop. Check availability."
+  },
+  "lifestyle": {
+    "sectionTitle": "Culture & Style",
+    "block1Label": "The Ritual",
+    "block1Title": "The Razor Ritual",
+    "block1Desc": "More than a cut, the hot razor is a ritual of care. Every stroke is precise, every movement is tradition.",
+    "block2Label": "Tradition",
+    "block2Title": "Tradition That Inspires",
+    "block2Desc": "The classic barbershop is a sacred space. Here, every detail, from the scent of shaving cream to the sound of scissors, tells a story.",
+    "block3Label": "The Crew",
+    "block3Title": "Genuine Connection",
+    "block3Desc": "At Ancorador, you're not just a client. You're a sailor. Part of the crew."
+  },
+  "ctaBanner": {
+    "title": "Ready for the experience?",
+    "subtitle": "Your moment of care is just a click away"
+  },
+  "gallery": {
+    "followUs": "Follow @barbeariaancorador"
+  },
+  "contact": {
+    "phone": "Phone",
+    "email": "E-mail",
+    "address": "Address",
+    "hours": "Hours",
+    "whatsappCta": "Book via WhatsApp",
+    "bookingCta": "Book Online"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "tagline": "A True Barbershop"
+  }
+}

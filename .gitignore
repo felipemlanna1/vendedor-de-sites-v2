@@ -1,0 +1,8 @@
+.venv/
+.env
+ig_session.json
+leads/
+*.csv
+node_modules/
+__pycache__/
+*.pyc

@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "about": "Nossa Viagem",
+    "captain": "O Capitão",
+    "services": "O Ritual",
+    "products": "Produtos",
+    "gallery": "A Bordo",
+    "contact": "Ancore Aqui",
+    "book": "Agendar"
+  },
+  "hero": {
+    "scroll": "Desça para embarcar"
+  },
+  "about": {
+    "title": "Nossa Viagem",
+    "since": "Desde",
+    "cta": "Conheça nosso ritual",
+    "text": "Fundamos a Ancorador em 2024 com um propósito claro: criar um verdadeiro santuário da beleza masculina. Aqui, cada detalhe foi pensado para resgatar a essência da barbearia clássica, o lugar onde tradição, estilo e amizade se encontram.",
+    "text2": "Mais do que cortes e cuidados, oferecemos uma experiência. Um espaço onde o homem pode ancorar sua rotina, renovar sua autoestima e sair fortalecido para enfrentar o mar da vida.",
+    "text3": "A Âncorador é a união do alto padrão e da essência roots, carregando a vibe única de Florianópolis. Um espaço para elevar a autoestima, relaxar e criar conexões genuínas.",
+    "quote": "Na Ancorador, não criamos apenas estilos. Criamos momentos. E esse é só o começo da nossa viagem."
+  },
+  "captain": {
+    "title": "O Capitão",
+    "subtitle": "Bruno 'Sucata'",
+    "text": "Bruno, mais conhecido como Sucata, trocou as luvas de boxe pela navalha clássica. Da fazenda à Ilha da Magia, cada passo da sua jornada se reflete na precisão de cada corte. Boxeador de alma, barbeiro de coração, sua paixão pelo que é atemporal transforma cada atendimento em um ritual.",
+    "quote": "Meu estilo, minha jornada, meu legado.",
+    "followInstagram": "Siga no Instagram"
+  },
+  "services": {
+    "title": "O Ritual",
+    "subtitle": "Cada serviço é um momento de cuidado e tradição",
+    "currency": "R$",
+    "combo": "Combo",
+    "promoLabel": "Promoção",
+    "promo": "10% de desconto no primeiro corte",
+    "bookCta": "Agende pelo WhatsApp"
+  },
+  "products": {
+    "label": "Revenda Oficial",
+    "all": "Todos",
+    "inStock": "Disponível",
+    "outOfStock": "Indisponível",
+    "consultCta": "Consultar Produtos",
+    "availableAt": "Produtos disponíveis na barbearia. Consulte disponibilidade."
+  },
+  "lifestyle": {
+    "sectionTitle": "Cultura & Estilo",
+    "block1Label": "O Ritual",
+    "block1Title": "O Ritual da Navalha",
+    "block1Desc": "Mais do que um corte, a navalha quente é um ritual de cuidado. Cada passada é precisa, cada movimento é tradição.",
+    "block2Label": "A Tradição",
+    "block2Title": "Tradição Que Inspira",
+    "block2Desc": "A barbearia clássica é um espaço sagrado. Aqui, cada detalhe, do aroma do creme de barbear ao som da tesoura, conta uma história.",
+    "block3Label": "A Tripulação",
+    "block3Title": "Conexão Genuína",
+    "block3Desc": "Na Ancorador, você não é só um cliente. É um marujo. Faz parte da tripulação."
+  },
+  "ctaBanner": {
+    "title": "Pronto para a experiência?",
+    "subtitle": "Seu momento de cuidado está a um clique"
+  },
+  "gallery": {
+    "followUs": "Siga @barbeariaancorador"
+  },
+  "contact": {
+    "phone": "Telefone",
+    "email": "E-mail",
+    "address": "Endereço",
+    "hours": "Horário",
+    "whatsappCta": "Agende pelo WhatsApp",
+    "bookingCta": "Agendar Online"
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados.",
+    "tagline": "Barbearia de Verdade"
+  }
+}
