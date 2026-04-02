@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://barbearia-ancorador.pages.dev/sitemap.xml
