@@ -22,7 +22,7 @@ O fio condutor do site em 1 frase.
 - Redes: Instagram, Facebook, LinkedIn, TikTok (URLs + metricas)
 - Cardapio/Servicos: itens com nome, descricao, preco
 - Avaliacoes: nota agregada, total reviews, depoimentos por plataforma
-- Concorrentes: SOMENTE cores (para evitar repeticao). Benchmark = Awwwards, NAO concorrentes
+- Concorrentes: SOMENTE cores (para evitar repeticao). Benchmark = catalogo curado (`sites/_templates/design-references.md`), NAO concorrentes
 
 **2.4 Lacunas e fallbacks:**
 - Sem cores → derivar de imagens reais + evitar cores concorrentes

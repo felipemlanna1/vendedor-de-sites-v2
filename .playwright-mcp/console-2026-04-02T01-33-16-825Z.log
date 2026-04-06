@@ -1,0 +1,22 @@
+[     702ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[     703ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[    3002ms] [LOG] 
+%cEspere! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black; @ https://static.cdninstagram.com/rsrc.php/v4/yK/r/y3UASupc0mW.js:255
+[    3002ms] [LOG] 
+%cEste é um recurso de navegador voltado para desenvolvedores. Se uma pessoa disse para você copiar e colar algo aqui para ativar um recurso do Instagram ou "invadir" a conta de outra pessoa, isso é uma fraude e você dará a ela acesso à sua conta. font-family:helvetica; font-size:20px;  @ https://static.cdninstagram.com/rsrc.php/v4/yK/r/y3UASupc0mW.js:255
+[    3002ms] [LOG] 
+%cConsulte https://www.facebook.com/selfxss para mais informações. font-family:helvetica; font-size:20px;  @ https://static.cdninstagram.com/rsrc.php/v4/yK/r/y3UASupc0mW.js:255
+[    3002ms] [LOG] 
+%c  @ https://static.cdninstagram.com/rsrc.php/v4/yK/r/y3UASupc0mW.js:255
+[    3235ms] [INFO] Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner. @ https://www.instagram.com/explore/search/:0
+[    3880ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[    3883ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[    6511ms] [ERROR] Permissions policy violation: unload is not allowed in this document. @ https://static.xx.fbcdn.net/rsrc.php/v4/ya/r/R1pEz0OuWy4.js:251
+[    7058ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[    7059ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[   10335ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[   10517ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[   13545ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[   13693ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[   16729ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[   16870ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0

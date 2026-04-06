@@ -1,0 +1,272 @@
+- generic [ref=e11]:
+  - generic [ref=e13]:
+    - link "Instagram" [ref=e16] [cursor=pointer]:
+      - /url: /
+      - img "Instagram" [ref=e19]
+    - generic [ref=e24]:
+      - link "Entrar" [ref=e26] [cursor=pointer]:
+        - /url: /accounts/login/?next=%2Fp%2FDWj7zONDgIv%2F&source=desktop_nav
+      - link "Cadastre-se" [ref=e28] [cursor=pointer]:
+        - /url: /accounts/emailsignup/
+  - main [ref=e29]:
+    - dialog [ref=e34]:
+      - generic [ref=e35]:
+        - button "Fechar" [ref=e37] [cursor=pointer]:
+          - img "Fechar" [ref=e39]
+        - generic [ref=e43]:
+          - generic [ref=e44]:
+            - link "Foto do perfil de usinadohamburguer" [ref=e46] [cursor=pointer]:
+              - img "Foto do perfil de usinadohamburguer" [ref=e47]
+            - generic [ref=e49]:
+              - generic [ref=e50]: Não perca nenhum post de usinadohamburguer
+              - generic [ref=e52]: Cadastre-se no Instagram para ficar por dentro das novidades.
+              - generic [ref=e54]:
+                - text: Ao continuar, você concorda com os
+                - link "Termos de Uso" [ref=e55] [cursor=pointer]:
+                  - /url: https://help.instagram.com/581066165581870/?locale=pt_BR
+                - text: e a
+                - link "Política de Privacidade" [ref=e56] [cursor=pointer]:
+                  - /url: https://privacycenter.instagram.com/policy/
+                - text: do Instagram.
+          - generic [ref=e57]:
+            - link "Cadastre-se" [ref=e60] [cursor=pointer]:
+              - /url: /accounts/emailsignup/
+            - link "Entrar" [ref=e63] [cursor=pointer]:
+              - /url: /accounts/login/?source=desktop_dynamic_landing_dialog
+    - generic [ref=e64]:
+      - generic [ref=e66]:
+        - button [ref=e71]:
+          - generic [ref=e78]:
+            - list [ref=e80]:
+              - listitem [ref=e81]
+              - listitem [ref=e82]:
+                - img [ref=e89]
+              - listitem [ref=e91]:
+                - img [ref=e98]
+            - button [ref=e100] [cursor=pointer]
+        - generic [ref=e103]:
+          - generic [ref=e105]:
+            - button "Foto do perfil de usinadohamburguer" [disabled] [ref=e107]:
+              - link "Foto do perfil de usinadohamburguer" [disabled] [ref=e109] [cursor=pointer]:
+                - img "Foto do perfil de usinadohamburguer" [ref=e110]
+            - generic [ref=e113]:
+              - generic [ref=e115]:
+                - link "usinadohamburguer" [ref=e117] [cursor=pointer]:
+                  - /url: /usinadohamburguer/
+                  - generic [ref=e120]: usinadohamburguer
+                - img "Verificado" [ref=e122]
+              - generic [ref=e124]:
+                - generic [ref=e126]: •
+                - button "Seguir" [ref=e127] [cursor=pointer]
+            - button "Mais opções" [ref=e130] [cursor=pointer]:
+              - img "Mais opções" [ref=e133]
+          - separator [ref=e137]
+          - generic [ref=e139]:
+            - generic [ref=e141]:
+              - link "Foto do perfil de usinadohamburguer" [ref=e143] [cursor=pointer]:
+                - /url: /usinadohamburguer/
+                - img "Foto do perfil de usinadohamburguer" [ref=e144]
+              - generic [ref=e148]:
+                - generic [ref=e149]:
+                  - link "usinadohamburguer Verificado" [ref=e150] [cursor=pointer]:
+                    - /url: /usinadohamburguer/
+                    - generic [ref=e152]:
+                      - generic [ref=e153]: usinadohamburguer
+                      - img "Verificado" [ref=e155]
+                  - time [ref=e158]: 1 d
+                - generic [ref=e159]:
+                  - text: Quem sempre? ☝️
+                  - link "#UsinadoHamburguer" [ref=e160] [cursor=pointer]:
+                    - /url: /explore/tags/usinadohamburguer/
+            - button "Carregar mais comentários" [ref=e162] [cursor=pointer]:
+              - img "Carregar mais comentários" [ref=e164]
+            - generic [ref=e168]:
+              - heading "Ainda não há nenhum comentário." [level=2] [ref=e170]
+              - generic [ref=e172]: Inicie a conversa.
+          - generic [ref=e173]:
+            - generic [ref=e174]:
+              - generic [ref=e175]:
+                - button "Curtir" [ref=e178] [cursor=pointer]:
+                  - img "Curtir" [ref=e181]
+                - button "52" [ref=e183] [cursor=pointer]
+                - button "Comentar" [ref=e185] [cursor=pointer]:
+                  - img "Comentar" [ref=e187]
+                - button "Compartilhar" [ref=e189] [cursor=pointer]:
+                  - img "Compartilhar" [ref=e190]
+              - button "Salvar" [ref=e194] [cursor=pointer]:
+                - img "Salvar" [ref=e196]
+            - link "há 1 dia" [ref=e200] [cursor=pointer]:
+              - /url: /usinadohamburguer/p/DWj7zONDgIv/
+              - time [ref=e202]: há 1 dia
+          - generic [ref=e207]:
+            - link "Entrar" [ref=e208] [cursor=pointer]:
+              - /url: /accounts/login/?next=%2Fp%2FDWj7zONDgIv%2F&source=post_comment_input
+            - text: para curtir ou comentar.
+      - separator [ref=e210]
+      - generic [ref=e211]:
+        - generic [ref=e213]:
+          - text: Mais posts de
+          - link "usinadohamburguer" [ref=e214] [cursor=pointer]:
+            - /url: /usinadohamburguer/
+        - generic [ref=e217]:
+          - generic [ref=e218]:
+            - 'link "Aqui cada loja tem uma personalidade! E aí, qual Usina é a sua cara? ☀️🍔 #UsinaDoHamburguer Carrossel" [ref=e220] [cursor=pointer]':
+              - /url: /usinadohamburguer/p/DVhN6plDVn-/
+              - 'img "Aqui cada loja tem uma personalidade! E aí, qual Usina é a sua cara? ☀️🍔 #UsinaDoHamburguer" [ref=e223]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carrossel"
+            - 'link "Impacto real começa do jeito que dá, com o que você tem hoje. E vamos falar sério? Todo negócio pode ser uma força de mudança. 🎯 Se essa história fez você enxergar a Usina além do hambúrguer, compartilha com alguém que vai se motivar a dar o primeiro passo na construção de um mundo melhor! 🌍✅ #usinadohamburguer Carrossel" [ref=e226] [cursor=pointer]':
+              - /url: /usinadohamburguer/p/DRiKnanCSiN/
+              - 'img "Impacto real começa do jeito que dá, com o que você tem hoje. E vamos falar sério? Todo negócio pode ser uma força de mudança. 🎯 Se essa história fez você enxergar a Usina além do hambúrguer, compartilha com alguém que vai se motivar a dar o primeiro passo na construção de um mundo melhor! 🌍✅ #usinadohamburguer" [ref=e229]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carrossel"
+            - 'link "🍔 O hambúrguer de abril foi criado pelas nossas duas estagiárias mais que especiais: Manu e Emily, que fizeram \"HORA EXTRA\" e mandaram MUITO na criação dessa receita deliciosa: HORA EXTRA: 🍞 Pão brioche 🍔 2 discos ultrasmash de 60g 💥 Catupiry 🥓 Geleia de bacon 🌰 Farofa de nozes Uma combinação surpreendente, com equilíbrio perfeito entre cremosidade, crocância e aquele toque agridoce que conquista na primeira mordida. Disponível durante todo o mês de abril nas nossas lojas por R$39,90. E tem mais: a cada “Hora Extra\" vendido, R$1 será doado para a @casasementeviva , que desde 2011 abriga com muito amor crianças e adolescentes em situação de risco em Florianópolis. Carrossel" [ref=e232] [cursor=pointer]':
+              - /url: /usinadohamburguer/p/DWmngFriIV_/
+              - 'img "🍔 O hambúrguer de abril foi criado pelas nossas duas estagiárias mais que especiais: Manu e Emily, que fizeram \"HORA EXTRA\" e mandaram MUITO na criação dessa receita deliciosa: HORA EXTRA: 🍞 Pão brioche 🍔 2 discos ultrasmash de 60g 💥 Catupiry 🥓 Geleia de bacon 🌰 Farofa de nozes Uma combinação surpreendente, com equilíbrio perfeito entre cremosidade, crocância e aquele toque agridoce que conquista na primeira mordida. Disponível durante todo o mês de abril nas nossas lojas por R$39,90. E tem mais: a cada “Hora Extra\" vendido, R$1 será doado para a @casasementeviva , que desde 2011 abriga com muito amor crianças e adolescentes em situação de risco em Florianópolis." [ref=e235]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carrossel"
+          - generic [ref=e237]:
+            - 'link "Passa o dedo para.o lado e sinta nosso clássico com bacon e ovo, o mais vendido da Usina! 🍔 Deu vontade, não deu? 😋😋😋 #UsinadoHamburguer Carrossel" [ref=e239] [cursor=pointer]':
+              - /url: /usinadohamburguer/p/DWeyGYrgUpv/
+              - 'img "Passa o dedo para.o lado e sinta nosso clássico com bacon e ovo, o mais vendido da Usina! 🍔 Deu vontade, não deu? 😋😋😋 #UsinadoHamburguer" [ref=e242]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carrossel"
+            - 'link "Aqui ninguém fica de fora. Enquanto você pede seu hambúrguer, ele pede o dele. 🐶🍔 Pet Burger 100% pensado pra eles. Assado, sem sal, sem gordura e com validade de 3 meses no freezer. Já experimentaram juntos? #UsinaDoHamburguer Carrossel" [ref=e245] [cursor=pointer]':
+              - /url: /usinadohamburguer/p/DWXKpbnDc4f/
+              - 'img "Aqui ninguém fica de fora. Enquanto você pede seu hambúrguer, ele pede o dele. 🐶🍔 Pet Burger 100% pensado pra eles. Assado, sem sal, sem gordura e com validade de 3 meses no freezer. Já experimentaram juntos? #UsinaDoHamburguer" [ref=e248]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carrossel"
+            - link "Photo by USINA DO HAMBÚRGUER on March 24, 2026. May be an image of collard greens and text that says 'CLÁSSICO NA FOLHA DE COUVE COUVE FIBRAS MINERAIS VITAMINAS EN MARARA N LOW QUEIJO MUSSARELA 7G DE PROTEINA EÍNA HAMBÚRUGUER BOVINO 23G DE PROTEINA'." [ref=e251] [cursor=pointer]:
+              - /url: /usinadohamburguer/p/DWR6HrpEiEU/
+              - img "Photo by USINA DO HAMBÚRGUER on March 24, 2026. May be an image of collard greens and text that says 'CLÁSSICO NA FOLHA DE COUVE COUVE FIBRAS MINERAIS VITAMINAS EN MARARA N LOW QUEIJO MUSSARELA 7G DE PROTEINA EÍNA HAMBÚRUGUER BOVINO 23G DE PROTEINA'." [ref=e254]
+          - generic [ref=e256]:
+            - 'link "E aí, tá com o reflexo em dia? 😬😬😬 Não deixe para amanhã a Usina que você pode pedir hoje. #UsinadoHamburguer Clipe" [ref=e258] [cursor=pointer]':
+              - /url: /usinadohamburguer/reel/DWM38p7kV3H/
+              - 'img "E aí, tá com o reflexo em dia? 😬😬😬 Não deixe para amanhã a Usina que você pode pedir hoje. #UsinadoHamburguer" [ref=e261]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+            - link "Photo shared by USINA DO HAMBÚRGUER on March 19, 2026 tagging @eugabrielmccain, @mccainbrasilfoodservice, and @pier_oporto. May be an image of croquette, beer and text that says 'ENTRADAS EXCLUSIVAS USINA ITAPEMA sticks de mussarela e bolinho de pepperoni.'." [ref=e264] [cursor=pointer]:
+              - /url: /usinadohamburguer/p/DWFJEYPDLNh/
+              - img "Photo shared by USINA DO HAMBÚRGUER on March 19, 2026 tagging @eugabrielmccain, @mccainbrasilfoodservice, and @pier_oporto. May be an image of croquette, beer and text that says 'ENTRADAS EXCLUSIVAS USINA ITAPEMA sticks de mussarela e bolinho de pepperoni.'." [ref=e267]
+        - generic [ref=e270]:
+          - link "Ver mais posts" [ref=e272] [cursor=pointer]:
+            - /url: /usinadohamburguer/
+            - generic [ref=e273]: Ver mais posts
+          - separator [ref=e274]
+  - contentinfo [ref=e275]:
+    - generic [ref=e276]:
+      - generic [ref=e278]:
+        - link "Meta" [ref=e280] [cursor=pointer]:
+          - /url: https://about.meta.com/
+          - generic [ref=e281]: Meta
+        - link "Sobre" [ref=e283] [cursor=pointer]:
+          - /url: https://about.instagram.com/
+          - generic [ref=e284]: Sobre
+        - link "Blog" [ref=e286] [cursor=pointer]:
+          - /url: https://about.instagram.com/blog/
+          - generic [ref=e287]: Blog
+        - link "Carreiras" [ref=e289] [cursor=pointer]:
+          - /url: https://about.instagram.com/about-us/careers
+          - generic [ref=e290]: Carreiras
+        - link "Ajuda" [ref=e292] [cursor=pointer]:
+          - /url: https://help.instagram.com/
+          - generic [ref=e293]: Ajuda
+        - link "API" [ref=e295] [cursor=pointer]:
+          - /url: https://developers.facebook.com/docs/instagram
+          - generic [ref=e296]: API
+        - link "Privacidade" [ref=e298] [cursor=pointer]:
+          - /url: /legal/privacy/
+          - generic [ref=e299]: Privacidade
+        - link "Termos" [ref=e301] [cursor=pointer]:
+          - /url: /legal/terms/
+          - generic [ref=e302]: Termos
+        - link "Localizações" [ref=e304] [cursor=pointer]:
+          - /url: /explore/locations/
+          - generic [ref=e305]: Localizações
+        - link "Instagram Lite" [ref=e307] [cursor=pointer]:
+          - /url: /web/lite/
+          - generic [ref=e308]: Instagram Lite
+        - link "Meta AI" [ref=e310] [cursor=pointer]:
+          - /url: https://www.meta.ai/?utm_source=foa_web_footer
+          - generic [ref=e311]: Meta AI
+        - link "Threads" [ref=e313] [cursor=pointer]:
+          - /url: https://www.threads.com/
+          - generic [ref=e314]: Threads
+        - link "Upload de contatos e não usuários" [ref=e316] [cursor=pointer]:
+          - /url: https://www.facebook.com/help/instagram/261704639352628
+          - generic [ref=e317]: Upload de contatos e não usuários
+        - link "Meta Verified" [ref=e319] [cursor=pointer]:
+          - /url: /accounts/meta_verified/?entrypoint=web_footer
+          - generic [ref=e320]: Meta Verified
+      - generic [ref=e321]:
+        - generic [ref=e322] [cursor=pointer]:
+          - generic [ref=e323]:
+            - generic [ref=e324]: Português (Brasil)
+            - img "Ícone de seta para baixo" [ref=e327]
+          - combobox "Trocar idioma de exibição" [ref=e329]:
+            - option "Afrikaans"
+            - option "العربية"
+            - option "Čeština"
+            - option "Dansk"
+            - option "Deutsch"
+            - option "Ελληνικά"
+            - option "English"
+            - option "English (UK)"
+            - option "Español (España)"
+            - option "Español"
+            - option "فارسی"
+            - option "Suomi"
+            - option "Français"
+            - option "עברית"
+            - option "Bahasa Indonesia"
+            - option "Italiano"
+            - option "日本語"
+            - option "한국어"
+            - option "Bahasa Melayu"
+            - option "Norsk"
+            - option "Nederlands"
+            - option "Polski"
+            - option "Português (Brasil)" [selected]
+            - option "Português (Portugal)"
+            - option "Русский"
+            - option "Svenska"
+            - option "ภาษาไทย"
+            - option "Filipino"
+            - option "Türkçe"
+            - option "中文(简体)"
+            - option "中文(台灣)"
+            - option "বাংলা"
+            - option "ગુજરાતી"
+            - option "हिन्दी"
+            - option "Hrvatski"
+            - option "Magyar"
+            - option "ಕನ್ನಡ"
+            - option "മലയാളം"
+            - option "मराठी"
+            - option "नेपाली"
+            - option "ਪੰਜਾਬੀ"
+            - option "සිංහල"
+            - option "Slovenčina"
+            - option "தமிழ்"
+            - option "తెలుగు"
+            - option "اردو"
+            - option "Tiếng Việt"
+            - option "中文(香港)"
+            - option "Български"
+            - option "Français (Canada)"
+            - option "Română"
+            - option "Српски"
+            - option "Українська"
+        - generic [ref=e331]: © 2026 Instagram from Meta

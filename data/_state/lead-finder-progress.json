@@ -1,0 +1,53 @@
+{
+  "current_phase": 2,
+  "nicho": "fotografo",
+  "cidade": "Belo Horizonte",
+  "limite": 5,
+  "filtros": {
+    "max_idade_conta": 90,
+    "sem_site": true,
+    "so_comercial": true
+  },
+  "search_stats": {
+    "queries_executed": 8,
+    "total_results": 42,
+    "unique_usernames": 29,
+    "from_cache": 0,
+    "new_to_validate": 29
+  },
+  "candidates": [
+    "8tharte",
+    "fotografiabelohorizonte",
+    "edmourao",
+    "goldenstudiobh",
+    "retratosempresariaisbyhx",
+    "nicoleemilyfoto",
+    "orlando_bh_",
+    "booksensualbh",
+    "fotoevideobrascolor",
+    "jorgelmenezesjr",
+    "gustavoandradeduarte",
+    "caroline.fiuza",
+    "lagesfotografias",
+    "todebeca",
+    "anaforapanefotografia",
+    "raquelgalanfotografia",
+    "marlonteixeirafotografia",
+    "brunohenriquefoto",
+    "alvaroalmeidaph",
+    "thalytafotografia",
+    "marinacolenfotografia",
+    "ceciliarenata_fotografia",
+    "paulacotafotografia",
+    "carolportophoto",
+    "dennislimafotografia",
+    "lucashfotografia",
+    "flaviakarinefotografa",
+    "boudoirbelohorizonte",
+    "vanessaguimaraesfotografia",
+    "filiphegomesfotografia",
+    "leoncio.costa.fotografias"
+  ],
+  "validated": [],
+  "leads_found": 0
+}

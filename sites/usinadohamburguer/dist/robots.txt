@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://usinadohamburguer.com.br/sitemap.xml

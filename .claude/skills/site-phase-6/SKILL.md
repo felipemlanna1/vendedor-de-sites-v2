@@ -101,6 +101,8 @@ Para CADA secao definida na Fase 3:
 - Import e use: useTranslation, ScrollReveal, AnimatedText, CountUp, Button, ParallaxImage
 - TODOS os textos via `t('secao.chave')` — ZERO string hardcoded
 - Imagens do `/images/` com alt descritivo e loading="lazy" (hero: fetchpriority="high")
+- **COERENCIA IMAGEM ↔ SECAO (OBRIGATORIO):** Antes de colocar qualquer imagem numa secao, confirme que o CONTEUDO da imagem bate com o ASSUNTO da secao. Secao de pizza = foto de pizza, NAO foto de arroz. Secao de servicos de beleza = foto de salao, NAO foto de comida. Se nao tem imagem coerente, deixar sem e compensar com design CSS
+- **SOMENTE imagens aprovadas na Fase 4** (marcadas ✅ ou ⚠️). Imagens descartadas (❌) NAO devem aparecer. Se ⚠️, aplicar tratamento CSS definido (overlay, crop, filter)
 - **MOBILE-FIRST REAL:** Escreva PRIMEIRO para 375px. So depois `md:` e `lg:`. Ao escrever cada componente, PENSE: como empilha? Legivel? CTA cabe?
 - Touch targets >= 44x44px
 - Textos body >= 16px no mobile

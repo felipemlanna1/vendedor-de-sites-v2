@@ -3,7 +3,7 @@ SEMPRE comece mostrando este guia ao usuario:
 ```
 ========================================
   BUILD SITE — Gerador de Sites React
-  Custo: $0 | Sites nivel Awwwards
+  Custo: $0 | Sites premium de verdade
 ========================================
 
 O QUE FAZ:

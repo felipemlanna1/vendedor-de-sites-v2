@@ -4,7 +4,7 @@
 
 NAO classifique o cliente num "tipo" ou "arquetipo". Nao use padroes por nicho (ex: "medico = azul", "restaurante = tons quentes"). Derive TUDO do cliente individual: suas cores, sua historia, seu tom, suas imagens.
 
-## O que torna um site premiado (Awwwards-level)
+## O que torna um site premium (nivel dos melhores do mundo)
 
 - **Transicoes de contexto:** o scroll transforma o ambiente — cores mudam entre secoes, elementos se reposicionam, a atmosfera evolui
 - **Micro-interacoes com significado:** hover revela informacao util, nao apenas cresce
@@ -27,8 +27,23 @@ O layout NAO precisa ser Hero → Sobre → Servicos → Depoimentos → Contato
 Cada secao existe porque tem conteudo real. A ordem segue a jornada emocional.
 Pense em micro-secoes criativas: contadores, frases de efeito, parallax, transicoes de cor.
 
-## Imagens stock — regras de honestidade
+## Imagens — curadoria rigorosa
 
+### Imagens do briefing — coerencia imagem ↔ contexto (REGRA CRITICA)
+Antes de usar qualquer imagem do briefing, abra com Read (multimodal) e responda:
+1. **O que tem nessa imagem?** (descreva: "pizza", "fachada", "retrato", etc)
+2. **Em qual secao o conteudo da imagem faz sentido?**
+
+A imagem DEVE corresponder ao assunto da secao. Exemplos de erro grave:
+- Secao de pizza mostrando prato de arroz
+- Secao de imoveis mostrando pessoa
+- Secao de farmacia mostrando restaurante
+- Hero de barbearia mostrando padaria
+
+Se nao tem imagem que combine → sem imagem. Compensar com tipografia/CSS.
+NUNCA forcar imagem numa secao so porque "precisa de visual ali".
+
+### Imagens stock — regras de honestidade
 - NUNCA para: rosto do profissional, fachada, produtos/cardapio, equipe, logo
 - SOMENTE para: backgrounds, texturas, atmosfera, elementos abstratos
 - Buscar por conceito criativo, nao por nicho
@@ -48,8 +63,16 @@ CTA no navbar fixo, entre secoes, no footer. Cada CTA com abordagem diferente.
 
 Concorrentes locais servem APENAS para evitar repeticao acidental de cores.
 NUNCA como benchmark de qualidade, layout ou design.
-O unico benchmark e sites premiados (Awwwards SOTD).
-Pergunte: "como um site premiado faria isso?" — NAO "como o concorrente faz?"
+
+### Benchmark = catalogo curado de referencias
+
+O benchmark principal e o catalogo curado em `sites/_templates/design-references.md` — 30+ sites premium reais selecionados por layout, animacao, tipografia e tecnicas.
+Na Fase 3, filtre os mais relevantes por tags e tipo de cliente.
+Complemente com WebSearches por tecnicas especificas (ex: "best scroll animation techniques 2025", "react parallax examples").
+
+IMPORTANTE: Awwwards, CSS Design Awards etc sao AGREGADORES — o valor esta nos SITES listados neles, nao nas plataformas em si. Nunca referencie "nivel Awwwards" como se fosse um padrao. Referencie sites concretos do catalogo curado.
+
+Pergunte: "qual site do catalogo resolveu algo parecido e como?" — NAO "como o concorrente faz?"
 
 ## NAO e uma landing page
 

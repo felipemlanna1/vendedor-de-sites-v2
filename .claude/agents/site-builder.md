@@ -44,12 +44,31 @@ Invoque: `/site-phase-2`
 Espere completar. Deve retornar 6 itens escritos ao usuario.
 
 ### FASE 3 — Conceito Criativo + Design System
+Primeiro, leia o catalogo curado de referencias:
+```
+Read: /Users/felipemoreiralanna/Documents/GitHub/vendedor-de-sites-v2/sites/_templates/design-references.md
+```
+
+Com base no conceito do cliente (Fase 2.2), identifique 2-3 tags dominantes e filtre os 5 sites mais relevantes do catalogo.
+
 Lance 2 Agents EM PARALELO:
-- **Agent 1 (Explore):** "Acesse 2 destes sites premiados e tire screenshots como referencia 10/10: landonorris.com, neuroproductions.be, darknode.io, bfcm.shopify.com, houseofcorto.com. Escolha os 2 que mais combinam com o conceito do cliente [descrever cliente]. Anote: espacamento entre secoes (px), hierarquia tipografica, nivel de polish."
-- **Agent 2 (Explore):** "Execute 3 WebSearches: (1) awwwards.com site of the day 2025 2026 best scroll animation techniques (2) cssdesignawards.com best minimal portfolio website design 2025 (3) best react animated website awwwards techniques parallax scroll 2025. Anote 3 tecnicas visuais concretas de cada."
+- **Agent 1 (Explore):** "Navegue nos 3 sites mais relevantes do catalogo curado para este cliente [listar URLs escolhidas]. Para cada um, tire screenshot com browser_take_screenshot e salve a analise. Anote CONCRETAMENTE: espacamento entre secoes (px), hierarquia tipografica, tecnicas de animacao (GSAP? CSS? Three.js?), o que faz parecer premium, e layout patterns reutilizaveis para [descrever cliente]. Salve o screenshot do MELHOR site como sites/$LEAD_ID/screenshots/referencia-10-10.png usando browser_take_screenshot."
+- **Agent 2 (Explore):** "Execute 3 WebSearches por tecnicas visuais concretas: (1) best website scroll animation techniques 2025 2026 GSAP parallax (2) best [TIPO_DO_CLIENTE] website design inspiration premium (3) react animated website techniques text reveal micro-interactions 2025. Anote 3 tecnicas concretas de cada que sejam aplicaveis ao cliente. NAO referencie Awwwards/CSS Awards como se fossem padroes — eles sao agregadores, o valor esta nos sites listados neles."
 
 Enquanto espera, invoque: `/site-phase-3`
 Use resultados dos agents para completar conceito + design system.
+
+**SE UM AGENT FALHAR:** NAO abandone as referencias. Execute o trabalho do agent que falhou VOCE MESMO inline:
+- Se Agent 1 falhou: navegue os 3 sites voce mesmo com browser_navigate + browser_take_screenshot. Se o browser tambem falhar, use WebFetch nos 3 sites para ler o HTML e extrair tecnicas. Salve o screenshot do melhor como referencia-10-10.png. Se NADA funcionar, use WebSearch para encontrar screenshots dos sites de referencia e baixe o melhor.
+- Se Agent 2 falhou: execute as 3 WebSearches voce mesmo.
+- NUNCA diga "ja tenho dados suficientes" sem ter de fato navegado ou lido os sites.
+
+### CHECKPOINT OBRIGATORIO ANTES DA FASE 4
+```bash
+ls -la sites/$LEAD_ID/screenshots/referencia-10-10.png 2>/dev/null && echo "CHECKPOINT OK" || echo "BLOQUEADO: referencia-10-10.png NAO EXISTE"
+```
+Se o arquivo NAO existe: PARE. Volte e crie o screenshot de referencia. NAO avance para Fase 4 sem ele.
+O site inteiro sera comparado contra essa referencia na Fase 7. Sem ela, a qualidade final sera generica.
 
 ### FASE 4 — Estudar Docs + Scaffold
 Lance 1 Agent (Explore): "Pesquise docs oficiais: (1) tailwindcss v4 preflight css reset (2) react-i18next setup useTranslation (3) gsap react useEffect cleanup scrolltrigger (4) framer motion react 19 whileInView (5) lenis smooth scroll react setup. Anote armadilhas de cada."

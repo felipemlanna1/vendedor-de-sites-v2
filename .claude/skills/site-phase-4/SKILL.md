@@ -86,6 +86,35 @@ curl -sL -o sites/$LEAD_ID/public/images/NOME-DESCRITIVO.jpg "URL" && echo "OK: 
 Nomeie descritivamente: `portrait-dra-ariel.jpg`, `logo-usina.png`, `hamburguer-classico.jpg`.
 Verifique tamanho > 0. Estas sao PRIORITARIAS — usar sempre que possivel.
 
+**ANALISE VISUAL OBRIGATORIA — CADA imagem do briefing deve ser analisada antes de usar:**
+Apos baixar, abra CADA imagem com Read (ferramenta multimodal) e classifique:
+
+1. **O que tem nessa imagem?** Descreva objetivamente: "pizza margherita", "fachada de loja", "retrato de mulher", "logo verde", "prato de arroz com feijao".
+2. **Onde faz sentido usar?** Mapeie para secao ESPECIFICA do site baseado no CONTEUDO REAL da imagem:
+   - Foto de pizza → secao de cardapio/pizza. NUNCA na secao de sobremesas ou bebidas
+   - Foto de pessoa → secao "sobre" ou hero. NUNCA na secao de servicos de encanamento
+   - Foto de fachada → secao de localizacao/contato. NUNCA como background do hero de servicos
+   - Logo → navbar e footer. NUNCA como imagem de secao
+3. **Qualidade tecnica:** resolucao, foco, iluminacao. Precisa de tratamento CSS?
+
+**REGRA CRITICA — COERENCIA IMAGEM ↔ CONTEXTO:**
+A imagem DEVE corresponder ao conteudo da secao onde sera usada. Exemplos de ERRO GRAVE:
+- ❌ Secao fala de pizza, mostra prato de arroz
+- ❌ Secao fala de casa/imovel, mostra retrato de pessoa
+- ❌ Secao fala de farmacia, mostra interior de restaurante
+- ❌ Secao de servicos de beleza, mostra foto de comida
+- ❌ Hero de barbearia, mostra fachada de padaria
+
+Se NAO tem imagem que combine com a secao → deixar sem imagem e compensar com design tipografico/CSS.
+NUNCA forcar uma imagem numa secao so porque "precisa de imagem ali".
+
+**Decisao por imagem:**
+- ✅ USAR em [secao X] — conteudo da imagem bate com conteudo da secao
+- ⚠️ USAR COM TRATAMENTO em [secao X] — bate mas precisa de overlay/crop/filter
+- ❌ DESCARTAR — qualidade ruim, ou nao bate com nenhuma secao do site
+
+Listar ao usuario: cada imagem, o que contem, onde vai usar, e quais descartou (com motivo).
+
 **B) Imagens STOCK selecionadas na Fase 3.4:**
 ```bash
 curl -sL -o sites/$LEAD_ID/public/images/stock/NOME.jpg "URL" && echo "OK" || echo "FALHOU"

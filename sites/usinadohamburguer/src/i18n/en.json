@@ -1,0 +1,130 @@
+{
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "history": "Our Story",
+    "locations": "Locations",
+    "cta": "Order Now"
+  },
+  "hero": {
+    "title": "Every bite has a purpose",
+    "subtitle": "Artisanal burgers that transform premium ingredients into experiences with flavor and social impact. Since 2015, we've donated over R$200,000 to socio-environmental causes.",
+    "cta": "Order Now",
+    "cta_menu": "See Menu"
+  },
+  "delivery": {
+    "title": "Order your burger",
+    "ifood": "iFood",
+    "rappi": "Rappi",
+    "anotaai": "Anota Ai",
+    "whatsapp": "WhatsApp"
+  },
+  "impact": {
+    "title": "Flavor with purpose",
+    "subtitle": "For every burger sold, R$1 is donated to socio-environmental projects in partnership with ICOM Floripa.",
+    "donated": "R$ donated to social causes",
+    "years": "years transforming lives",
+    "locations_count": "locations in SC",
+    "reviews_count": "5-star reviews"
+  },
+  "highlights": {
+    "title": "Our highlights",
+    "subtitle": "Real artisanal burgers with Black Angus beef, homemade mayo, and fresh-baked buns.",
+    "cta": "Order this"
+  },
+  "reviews": {
+    "title": "What people say about us",
+    "subtitle": "Over 8,500 reviews across 7 different platforms.",
+    "ifood_label": "iFood",
+    "tripadvisor_label": "TripAdvisor",
+    "foursquare_label": "Foursquare",
+    "ranking": "#22 out of 2,490 restaurants in Florianopolis",
+    "items": {
+      "t1": {
+        "text": "A thousand points! For the taste, quality, atmosphere and care. The burger is impeccable, delicious.",
+        "author": "Vivian B.",
+        "platform": "TripAdvisor"
+      },
+      "t2": {
+        "text": "We found them through iFood and were blown away! Super attentive, impeccable taste and generous portions.",
+        "author": "Karolyna A.",
+        "platform": "TripAdvisor"
+      },
+      "t3": {
+        "text": "Incredible burgers, perfect service. The atmosphere is welcoming and the social cause makes everything even better.",
+        "author": "iFood Customer",
+        "platform": "iFood"
+      }
+    }
+  },
+  "locations": {
+    "title": "Our locations",
+    "subtitle": "4 addresses to satisfy your hunger with purpose.",
+    "order_here": "Order from this location",
+    "directions": "Get directions",
+    "hours": "Daily from 5:30 PM to midnight",
+    "units": {
+      "trindade": {
+        "name": "Trindade",
+        "address": "R. Prof. Bento Aguido Vieira, 20 - Trindade, Florianopolis/SC",
+        "since": "Since 2015"
+      },
+      "centro": {
+        "name": "Centro",
+        "address": "Av. Hercilio Luz, 633, Store 05 - Centro, Florianopolis/SC",
+        "since": "Since 2022"
+      },
+      "rio_tavares": {
+        "name": "Rio Tavares",
+        "address": "Rio Tavares, Florianopolis/SC",
+        "since": ""
+      },
+      "itapema": {
+        "name": "Itapema",
+        "address": "Pier o Porto, Itapema/SC",
+        "since": ""
+      }
+    }
+  },
+  "cta_final": {
+    "title": "Your next burger changes the world",
+    "subtitle": "Every order contributes R$1 to socio-environmental causes. Over R$200,000 donated so far.",
+    "cta": "Order Now"
+  },
+  "menu_page": {
+    "title": "Menu",
+    "subtitle": "Pick your favorite and order via iFood, Rappi or Anota Ai.",
+    "filter_all": "All",
+    "filter_combos": "Combos",
+    "filter_burgers": "Burgers",
+    "filter_smash": "Smash",
+    "filter_veggie": "Vegan & Vegetarian",
+    "filter_sides": "Sides",
+    "filter_drinks": "Drinks",
+    "filter_pet": "Pet Burger",
+    "order": "Order"
+  },
+  "history_page": {
+    "title": "Our Story",
+    "subtitle": "From 3 friends passionate about burgers to 4 locations and over R$200,000 donated.",
+    "origin_title": "How it all started",
+    "origin_text": "In 2015, three friends tired of the usual bread-meat-cheese-lettuce combo decided to create something different. Usina do Hamburguer was born, an artisanal burger joint with purpose: for every burger sold, R$1 would be donated to socio-environmental causes.",
+    "growth_title": "Growth",
+    "growth_text": "From the first location in Trindade, next to UFSC, Usina grew to 4 locations in Santa Catarina. Today we have 24 team members and over 39,000 social media followers.",
+    "impact_title": "Social impact",
+    "impact_text": "Through the Usina do Hamburguer Fund, in partnership with ICOM Floripa, over R$200,000 has been donated to animal protection, environmental and social inclusion projects.",
+    "pet_title": "Pet Burger",
+    "pet_text": "Because our love for animals goes beyond donations. We created the Pet Burger: a special burger for your best four-legged friend."
+  },
+  "footer": {
+    "copyright": "2026 Usina do Hamburguer. All rights reserved.",
+    "social": "Follow us",
+    "cnpj": "CNPJ: 23.003.410/0001-91",
+    "phone": "(48) 3371-8633",
+    "email": "contato@usinadohamburguer.com.br"
+  },
+  "lang": {
+    "pt": "Portugues",
+    "en": "English"
+  }
+}

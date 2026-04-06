@@ -1,0 +1,823 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Ir para o conteúdo principal" [ref=e2] [cursor=pointer]
+      - link "Desativar a rolagem contínua" [ref=e3] [cursor=pointer]:
+        - /url: "#"
+      - link "Ajuda sobre acessibilidade" [ref=e4] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=pt-BR
+      - link "Feedback de acessibilidade" [ref=e5] [cursor=pointer]
+  - generic [ref=e10]:
+    - search [ref=e11]:
+      - generic [ref=e13]:
+        - link "Ir para a página inicial do Google" [ref=e15] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=pt-BR&sa=X&ved=0ahUKEwi_sNii-M2TAxXdIrkGHX3zKrQQPAgK
+          - img [ref=e16]
+        - generic [ref=e23]:
+          - generic [ref=e24]:
+            - combobox "Pesquisar" [ref=e27]: usinadohamburguer site:instagram.com usinadohamburguer site:instagram.com
+            - generic [ref=e28]:
+              - button "Limpar" [ref=e30] [cursor=pointer]:
+                - img [ref=e32]
+              - generic [ref=e35]:
+                - button "Ferramentas de inserção de texto" [ref=e36] [cursor=pointer]:
+                  - img [ref=e38]
+                - button "Pesquisar por voz" [ref=e40] [cursor=pointer]:
+                  - img [ref=e41]
+                - button "Pesquisa por imagem" [ref=e43] [cursor=pointer]:
+                  - img [ref=e44]
+          - button "Pesquisar" [ref=e46] [cursor=pointer]:
+            - img [ref=e49]
+    - generic [ref=e51]:
+      - button "Configurações" [ref=e53] [cursor=pointer]:
+        - img [ref=e56]
+      - generic [ref=e59]:
+        - button "Google Apps" [ref=e61] [cursor=pointer]:
+          - img [ref=e62]
+        - link "Fazer login" [ref=e66] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=pt-BR&passive=true&continue=https://www.google.com/search%3Fq%3Dusinadohamburguer%2Bsite:instagram.com%26udm%3D2%26sei%3DKLzNaffQIYmx5OUP64fg2Ak&ec=futura_srp_og_si_72236_p
+  - generic [ref=e68]:
+    - navigation [ref=e73]:
+      - generic [ref=e74]:
+        - list [ref=e75]:
+          - listitem [ref=e76]:
+            - link "Modo IA" [ref=e79] [cursor=pointer]:
+              - /url: /search?q=usinadohamburguer+site:instagram.com&sca_esv=b78cf8500232fcdc&udm=50&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB050L1mo0clXJz4etTx7fehcx3SjdOtURQ2IHneRgiWTYwzyNWJm32ZYwPcEqvB219HN2vCbmuOmNGwY3cRBHdVmJwr9abz6bPRjeElfSPHYE9YKFtYT9KvVHSjJZORAX8AJr20T-rdVRK0OpxzKH3cHF_3aPfmE473tU20eqk1q8-Ho9H_93iYqSkpSUA_lljrSHr16I&aep=1&ntc=1&sa=X&ved=2ahUKEwi_sNii-M2TAxXdIrkGHX3zKrQQ2J8OegQICxAD
+              - generic [ref=e82]: Modo IA
+          - listitem [ref=e83]:
+            - link "Tudo" [ref=e84] [cursor=pointer]:
+              - /url: /search?sca_esv=b78cf8500232fcdc&q=usinadohamburguer+site:instagram.com&source=lnms&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB050L1mo0clXJz4etTx7fehcx3SjdOtURQ2IHneRgiWTYwzyNWJm32ZYwPcEqvB219HN2vCbmuOmNGwY3cRBHdVmJwr9abz6bPRjeElfSPHYE9YKFtYT9KvVHSjJZORAX8AJr20T-rdVRK0OpxzKH3cHF_3aPfmE473tU20eqk1q8-Ho9H_93iYqSkpSUA_lljrSHr16I&sa=X&ved=2ahUKEwi_sNii-M2TAxXdIrkGHX3zKrQQ0pQJegQIDBAB
+              - generic [ref=e86]: Tudo
+          - listitem [ref=e87]:
+            - link "Imagens" [disabled] [ref=e88]:
+              - generic [ref=e90]: Imagens
+          - listitem [ref=e91]:
+            - link "Maps" [ref=e92] [cursor=pointer]:
+              - /url: https://maps.google.com/maps?sca_esv=b78cf8500232fcdc&output=search&q=usinadohamburguer+site:instagram.com&source=lnms&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB050L1mo0clXJz4etTx7fehcx3SjdOtURQ2IHneRgiWTYwzyNWJm32ZYwPcEqvB219HN2vCbmuOmNGwY3cRBHdVmJwr9abz6bPRjeElfSPHYE9YKFtYT9KvVHSjJZORAX8AJr20T-rdVRK0OpxzKH3cHF_3aPfmE473tU20eqk1q8-Ho9H_93iYqSkpSUA_lljrSHr16I&entry=mc&ved=1t:200715&ictx=111
+              - generic [ref=e94]: Maps
+          - listitem [ref=e95]:
+            - link "Shopping" [ref=e96] [cursor=pointer]:
+              - /url: /search?sca_esv=b78cf8500232fcdc&udm=28&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB050L1mo0clXJz4etTx7fehcx3SjdOtURQ2IHneRgiWTYwzyNWJm32ZYwPcEqvB219HN2vCbmuOmNGwY3cRBHdVmJwr9abz6bPRjeElfSPHYE9YKFtYT9KvVHSjJZORAX8AJr20T-rdVRK0OpxzKH3cHF_3aPfmE473tU20eqk1q8-Ho9H_93iYqSkpSUA_lljrSHr16I&q=usinadohamburguer+site:instagram.com&ved=1t:220175&ictx=111
+              - generic [ref=e98]: Shopping
+          - listitem [ref=e99]:
+            - link "Vídeos" [ref=e100] [cursor=pointer]:
+              - /url: /search?sca_esv=b78cf8500232fcdc&udm=7&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB050L1mo0clXJz4etTx7fehcx3SjdOtURQ2IHneRgiWTYwzyNWJm32ZYwPcEqvB219HN2vCbmuOmNGwY3cRBHdVmJwr9abz6bPRjeElfSPHYE9YKFtYT9KvVHSjJZORAX8AJr20T-rdVRK0OpxzKH3cHF_3aPfmE473tU20eqk1q8-Ho9H_93iYqSkpSUA_lljrSHr16I&q=usinadohamburguer+site:instagram.com&sa=X&ved=2ahUKEwi_sNii-M2TAxXdIrkGHX3zKrQQtKgLegQIDxAB
+              - generic [ref=e102]: Vídeos
+          - listitem [ref=e103]:
+            - link "Notícias" [ref=e104] [cursor=pointer]:
+              - /url: /search?sca_esv=b78cf8500232fcdc&q=usinadohamburguer+site:instagram.com&tbm=nws&source=lnms&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB050L1mo0clXJz4etTx7fehcx3SjdOtURQ2IHneRgiWTYwzyNWJm32ZYwPcEqvB219HN2vCbmuOmNGwY3cRBHdVmJwr9abz6bPRjeElfSPHYE9YKFtYT9KvVHSjJZORAX8AJr20T-rdVRK0OpxzKH3cHF_3aPfmE473tU20eqk1q8-Ho9H_93iYqSkpSUA_lljrSHr16I&sa=X&ved=2ahUKEwi_sNii-M2TAxXdIrkGHX3zKrQQ0pQJegQIEBAB
+              - generic [ref=e106]: Notícias
+          - listitem [ref=e107]:
+            - button "Mais filtros" [ref=e108] [cursor=pointer]:
+              - generic "Mais filtros" [ref=e109]:
+                - generic [ref=e110]:
+                  - generic [ref=e111]: Mais
+                  - img [ref=e113]
+        - button "Ferramentas" [ref=e116] [cursor=pointer]:
+          - generic [ref=e118]:
+            - generic [ref=e119]: Ferramentas
+            - img [ref=e121]
+    - navigation [ref=e124]:
+      - navigation [ref=e127]:
+        - list [ref=e135]:
+          - listitem [ref=e136]:
+            - link "Adicionar Usina burger" [ref=e137] [cursor=pointer]:
+              - /url: /search?sca_esv=b78cf8500232fcdc&q=usina+burger+usinadohamburguer+site:instagram.com&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-p2edqP4ik7v2FPRwJbsSBKJD6Q3xZz1NxECHZNGsLzEbVYv3k5BkztncrTqJU4f6hXgDKPeG87evA0zN-uUC-JZmwZm19j7By7B4vJ0ojxqYNZ575jzv6UvCGi2ZaFsM-SHDsAD9XCgTZPIoMErv21zJnCkTnjMgpVmm0P2mYVd6kS54&udm=2&sa=X&ved=2ahUKEwi_sNii-M2TAxXdIrkGHX3zKrQQxKsJKAB6BAgSEAE&ictx=0
+              - generic [ref=e143]: Usina burger
+          - listitem [ref=e144]:
+            - link "Adicionar Pão salgado" [ref=e145] [cursor=pointer]:
+              - /url: /search?sca_esv=b78cf8500232fcdc&q=p%C3%A3o+salgado+usinadohamburguer+site:instagram.com&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-p2edqP4ik7v2FPRwJbsSBKJD6Q3xZz1NxECHZNGsLzEbVYv3k5BkztncrTqJU4f6P2wTtNZOBuNrRdFvWW3i5rrznL7ak2W8-uyNdeu2sA3UfXQZeXAs63NpLWOinWWfotjuu6RJ3ax46qS8utk-0CglDEzK5uoDTnYIqZsMIRpK2w5l&udm=2&sa=X&ved=2ahUKEwi_sNii-M2TAxXdIrkGHX3zKrQQxKsJKAF6BAgVEAE&ictx=0
+              - generic [ref=e151]: Pão salgado
+          - listitem [ref=e152]:
+            - link "Adicionar Hambúrguer vegano" [ref=e153] [cursor=pointer]:
+              - /url: /search?sca_esv=b78cf8500232fcdc&q=hamb%C3%BArguer+vegano+usinadohamburguer+site:instagram.com&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-K1fm-6MbHrVPgWC5v0Ha2oBUxerDvTJUMvFlmh1gucJlcIcT1o1scBZrMks6GQtZf_innfOxp2UphwDIZ_5m7d1J-8vkCiwZm6vi6gJ-ZFiwbHR_-o0YyBqt05YQH7NVukkocncZzIDEp5Bfz_-TytC9GTofDG0Q_7IzQkB811SSznJj&udm=2&sa=X&ved=2ahUKEwi_sNii-M2TAxXdIrkGHX3zKrQQxKsJKAJ6BAgWEAE&ictx=0
+              - generic [ref=e159]: Hambúrguer vegano
+          - listitem [ref=e160]:
+            - link "Adicionar Pão brioche" [ref=e161] [cursor=pointer]:
+              - /url: /search?sca_esv=b78cf8500232fcdc&q=p%C3%A3o+brioche+usinadohamburguer+site:instagram.com&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-p2edqP4ik7v2FPRwJbsSBKJD6Q3xZz1NxECHZNGsLzEbVYv3k5BkztncrTqJU4f6P2wTtNZOBuNrRdFvWW3i5qGa1InEIYbOSJls2RRI9BhGr3SAA43yvCtLmPK1V8COsSJ9OzrParaPhpLppJ4jO2mojEGppqCXKsGnuG4ZJworqdMo&udm=2&sa=X&ved=2ahUKEwi_sNii-M2TAxXdIrkGHX3zKrQQxKsJKAN6BAgUEAE&ictx=0
+              - generic [ref=e167]: Pão brioche
+          - listitem [ref=e168]:
+            - link "Adicionar Usina desfilando" [ref=e169] [cursor=pointer]:
+              - /url: /search?sca_esv=b78cf8500232fcdc&q=usina+desfilando+usinadohamburguer+site:instagram.com&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-ZUNM7mtYny5rKDXe5Qj352pGp0CkdMpKSjFXe80YSArniTNCAkBM5zdYRIe-qxw6kWtxOm9yimNLgb8Jfxl5PCwxpmE62aVG2-asNHaqq0m2PFeo7brkPleLJcybGNYJmItgKG4wRIOufJFb76FOPdOA5VhL_6cvw0INRCtcRaNBigMp&udm=2&sa=X&ved=2ahUKEwi_sNii-M2TAxXdIrkGHX3zKrQQxKsJKAR6BAgTEAE&ictx=0
+              - generic [ref=e175]: Usina desfilando
+          - listitem [ref=e176]:
+            - link "Adicionar Comer" [ref=e177] [cursor=pointer]:
+              - /url: /search?sca_esv=b78cf8500232fcdc&q=comer+usinadohamburguer+site:instagram.com&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-1SJLs6PR4i_l8aWdSowUAbG-dgRZgG0-Mt_lo9GsO2UkRAwgJcGd0Xm8_tH0wylTt_9DM1l6-420z2YNJy3f84uLWJnYnWvOK1_y8Wg6AA0A_o3hvyavFCamfOXR1oAQpwF3lbWG3Oe7HLKQ0S2Xxi93pLS7sqJf9ID0i_F_4neSrRrp&udm=2&sa=X&ved=2ahUKEwi_sNii-M2TAxXdIrkGHX3zKrQQxKsJKAV6BQiJARAB&ictx=0
+              - generic [ref=e183]: Comer
+          - listitem [ref=e184]:
+            - link "Adicionar Verdadeiro pov" [ref=e185] [cursor=pointer]:
+              - /url: /search?sca_esv=b78cf8500232fcdc&q=verdadeiro+pov+usinadohamburguer+site:instagram.com&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-lZXy4WXjCBs-WMfCmu8tIVtNlDp6I7dhj8LG2SSZu_cL92N41FuXKEJqN-v5N1p9MUUJmntRfRmrsz_9-MotwSbGUlz9fwiQ_BY4yKxItPQJGMU5HPvhfh4F4pe0yweN2gxOUcBzwXMkoUGbxA-MK3-_7EcqTgAQSw6mm_QbyXZyRpSi&udm=2&sa=X&ved=2ahUKEwi_sNii-M2TAxXdIrkGHX3zKrQQxKsJKAZ6BQiIARAB&ictx=0
+              - generic [ref=e191]: Verdadeiro pov
+          - listitem [ref=e192]:
+            - link "Adicionar Usinadohamburguer's" [ref=e193] [cursor=pointer]:
+              - /url: /search?sca_esv=b78cf8500232fcdc&q=usinadohamburguer%27s+usinadohamburguer+site:instagram.com&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-J3sv1lfnPvABCMwdVDYvw9rI32nd-btqPv7gyHloa0NM2i5IWhBcxG2oyBWNgRZ1R9vQM4DkhaIB8eDCNY5oPtBIZI0uVhEgt6SQWEu9Hdpz_eoItoFkcTF50y9010OZKZoUdpW2ycBcXh1XvLiLBNUs1lGbhqp_D8sRMIAOJcLSuyK4&udm=2&sa=X&ved=2ahUKEwi_sNii-M2TAxXdIrkGHX3zKrQQxKsJKAd6BQiHARAB&ictx=0
+              - generic [ref=e199]: Usinadohamburguer's
+          - listitem [ref=e200]:
+            - link "Adicionar Sandwich" [ref=e201] [cursor=pointer]:
+              - /url: /search?sca_esv=b78cf8500232fcdc&q=sandwich+usinadohamburguer+site:instagram.com&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-ibi_YxfvgNKakgd6aFgw6vwTkXZSohVML3PdvHuHJT4tFA_1zEBwQR4ritcpU2bXYkBfGkHJsQ_mcMnSFXSpaHfYsriFOWO0QDE31sNVOdOGtIDQYa1JTMmRFJK_hD2DnKzbq1gIgn_K8PBoy_bnr0BMc9vWjTGCk2kQOmEct7luXFvB&udm=2&sa=X&ved=2ahUKEwi_sNii-M2TAxXdIrkGHX3zKrQQxKsJKAh6BQiGARAB&ictx=0
+              - generic [ref=e207]: Sandwich
+          - listitem [ref=e208]:
+            - link "Adicionar Burger buns" [ref=e209] [cursor=pointer]:
+              - /url: /search?sca_esv=b78cf8500232fcdc&q=burger+buns+usinadohamburguer+site:instagram.com&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-C2wfRk_WPCwv56JaUFp85lyRvEolYjrjbpDh9KAofpJjJiEtwzWJCZTzvJJJuRfqn5jCL-4Rd-MZcr7OjNEjhME6UIQ4D_Nl0EnKtAmpCuya_rHC0bmA5vGVqsLFlkvHPf15-1Mlo9GJV-bguzp0kW6EMcsr-ULmErXmNxzCKG4Ci7CI&udm=2&sa=X&ved=2ahUKEwi_sNii-M2TAxXdIrkGHX3zKrQQxKsJKAl6BQiCARAB&ictx=0
+              - generic [ref=e215]: Burger buns
+          - listitem [ref=e216]:
+            - link "Adicionar Burguer" [ref=e217] [cursor=pointer]:
+              - /url: /search?sca_esv=b78cf8500232fcdc&q=burguer+usinadohamburguer+site:instagram.com&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-FI12WB8XefYsPz5ZDjWI92_N06b_p0l1FwKuH_9cJz65L5Iq-C8SIcYZzGfu5OwC-czJhQcgALU8HNkrg4Ta87DmaUcm_bB5sBhJ8hsRHgcoqIXNibiVt8SbbsTNFvBJh_Y_bcH4sRfvrfa2FBbko5ODQxo&udm=2&sa=X&ved=2ahUKEwi_sNii-M2TAxXdIrkGHX3zKrQQxKsJKAp6BQiEARAB&ictx=0
+              - generic [ref=e223]: Burguer
+          - listitem [ref=e224]:
+            - link "Adicionar Rio tavares" [ref=e225] [cursor=pointer]:
+              - /url: /search?sca_esv=b78cf8500232fcdc&q=rio+tavares+usinadohamburguer+site:instagram.com&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-C2wfRk_WPCwv56JaUFp85lyRvEolYjrjbpDh9KAofpJjJiEtwzWJCZTzvJJJuRfqD-6lIIJBFDmpfn85fzC4tuRh0levcbDvSJl5bAqLxRF-QMsUGhnIjTHxorDBDHBUSfD3EO-8oT1QprM9RvNme1hOTKwSqKsl-s8XQaZQKb0ojxMe&udm=2&sa=X&ved=2ahUKEwi_sNii-M2TAxXdIrkGHX3zKrQQxKsJKAt6BQiBARAB&ictx=0
+              - generic [ref=e231]: Rio tavares
+          - listitem [ref=e232]:
+            - link "Adicionar Profile picture" [ref=e233] [cursor=pointer]:
+              - /url: /search?sca_esv=b78cf8500232fcdc&q=profile+picture+usinadohamburguer+site:instagram.com&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-KV7hWfxLE_Vp1DUBDsK6sntAziYrWMXzDbAnaOUxRGYkAMIv7M5yrw00XIESsiLZi3CbR8TsfQ1J_mDksCLgqiETqIq6EWWXuEZDaTWdMw4NsxxdEk-GxPMga5VGQy2mqal1a_5a-UAHnJYBxIsyZkEbQbW-3B8gvjnD0DuyuITqWyKf&udm=2&sa=X&ved=2ahUKEwi_sNii-M2TAxXdIrkGHX3zKrQQxKsJKAx6BQiAARAB&ictx=0
+              - generic [ref=e239]: Profile picture
+          - listitem [ref=e240]:
+            - link "Adicionar Brioche clássico" [ref=e241] [cursor=pointer]:
+              - /url: /search?sca_esv=b78cf8500232fcdc&q=brioche+cl%C3%A1ssico+usinadohamburguer+site:instagram.com&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-JaQUCHPjKSMgcjMla-aoiyJ_Trn1YdzqHOkfRVBn1VIwp6HAFPK35yDLwBUptmyxHP5NydwlJsyqznqTQ3K3Lc3LxVDMe0XaAquaeKI3bRMCblIqycTNKKsRNs7JA9PdDYgAOa78ewyPtd5MohGUv8o3ZPBAhlIPjNUONSmuwHK23ZyRtXhc7dEs8CJMHef4sV875g&udm=2&sa=X&ved=2ahUKEwi_sNii-M2TAxXdIrkGHX3zKrQQxKsJKA16BQiFARAB&ictx=0
+              - generic [ref=e247]: Brioche clássico
+          - listitem [ref=e248]:
+            - link "Adicionar Usinadohamburguer's profile" [ref=e249] [cursor=pointer]:
+              - /url: /search?sca_esv=b78cf8500232fcdc&q=usinadohamburguer%27s+profile+usinadohamburguer+site:instagram.com&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-A9sIJK4-zKrzqjKmPL8hiiAOOHeNwpK_TPWmCvoTdRAVnMaQCDdOghASjDGzxENQvGY2_uHwXw8v2zZEzRdVmSQ75jlfBxPEMz3PiPSpfdInfeA4eom6AIoweZy6cZGcfuOjQ7xxlr4jDGAGlHcKiGWO2mOvilVkB49lPHRPUxJsrqLfiqVVDrhLNWJXUw1aoPyggw&udm=2&sa=X&ved=2ahUKEwi_sNii-M2TAxXdIrkGHX3zKrQQxKsJKA56BQiDARAB&ictx=0
+              - generic [ref=e251]: Usinadohamburguer's profile
+    - heading "Resultados da pesquisa" [level=1] [ref=e252]
+    - main [ref=e254]:
+      - 'heading "Você quis dizer: usina do hamburguer site:instagram.com" [level=2] [ref=e258]':
+        - text: "Você quis dizer:"
+        - link "usina do hamburguer site:instagram.com" [ref=e259] [cursor=pointer]:
+          - /url: /search?sca_esv=b78cf8500232fcdc&udm=2&q=usina+do+hamburguer+site:instagram.com&spell=1&sa=X&ved=2ahUKEwi_sNii-M2TAxXdIrkGHX3zKrQQBSgAegQIChAB
+          - generic [ref=e260]: usina do hamburguer
+          - text: site:instagram.com
+      - generic [ref=e266]:
+        - generic [ref=e269]:
+          - generic [ref=e270] [cursor=pointer]:
+            - heading "USINA DO HAMBÚRGUER (@usinadohamburguer) · Florianópolis, SC" [level=3] [ref=e272]:
+              - button "USINA DO HAMBÚRGUER (@usinadohamburguer) · Florianópolis, SC" [ref=e274]:
+                - img "USINA DO HAMBÚRGUER (@usinadohamburguer) · Florianópolis, SC" [ref=e277]
+            - link "Instagram USINA DO HAMBÚRGUER (@usinadohamburguer) · Florianópolis, SC" [ref=e279]:
+              - /url: https://www.instagram.com/usinadohamburguer/
+              - generic [ref=e284]: Instagram
+              - generic [ref=e286]: USINA DO HAMBÚRGUER (@usinadohamburguer) · Florianópolis, SC
+          - generic [ref=e287] [cursor=pointer]:
+            - 'heading "O verdadeiro POV. Diretamente da nossa cozinha para sua mesa. 🍔 Comida de verdade, feita com muito carinho. Isso é Usina. 🤩 😋 #UsinaDoHamburguer" [level=3] [ref=e289]':
+              - 'button "O verdadeiro POV. Diretamente da nossa cozinha para sua mesa. 🍔 Comida de verdade, feita com muito carinho. Isso é Usina. 🤩 😋 #UsinaDoHamburguer" [ref=e291]':
+                - 'img "O verdadeiro POV. Diretamente da nossa cozinha para sua mesa. 🍔 Comida de verdade, feita com muito carinho. Isso é Usina. 🤩 😋 #UsinaDoHamburguer" [ref=e294]'
+            - 'link "Instagram O verdadeiro POV. Diretamente da nossa cozinha para sua mesa. 🍔 Comida de verdade, feita com muito carinho. Isso é Usina. 🤩 😋 #UsinaDoHamburguer" [ref=e296]':
+              - /url: https://www.instagram.com/reel/DUgsZGDjnZk/
+              - generic [ref=e301]: Instagram
+              - generic [ref=e303]: "O verdadeiro POV. Diretamente da nossa cozinha para sua mesa. 🍔 Comida de verdade, feita com muito carinho. Isso é Usina. 🤩 😋 #UsinaDoHamburguer"
+          - generic [ref=e304] [cursor=pointer]:
+            - generic [ref=e305]:
+              - 'heading "Quem sempre? ☝️ #UsinadoHamburguer" [level=3] [ref=e306]':
+                - 'button "Quem sempre? ☝️ #UsinadoHamburguer" [ref=e308]':
+                  - 'img "Quem sempre? ☝️ #UsinadoHamburguer" [ref=e311]'
+              - generic:
+                - generic: um dia atrás
+            - 'link "Instagram Quem sempre? ☝️ #UsinadoHamburguer" [ref=e313]':
+              - /url: https://www.instagram.com/p/DWj7zONDgIv/
+              - generic [ref=e318]: Instagram
+              - generic [ref=e320]: "Quem sempre? ☝️ #UsinadoHamburguer"
+          - generic [ref=e321] [cursor=pointer]:
+            - generic [ref=e322]:
+              - 'heading "Passa o dedo para.o lado e sinta nosso clássico com bacon e ovo, o mais vendido da Usina! 🍔 Deu vontade, não deu? 😋😋😋 #UsinadoHamburguer" [level=3] [ref=e323]':
+                - 'button "Passa o dedo para.o lado e sinta nosso clássico com bacon e ovo, o mais vendido da Usina! 🍔 Deu vontade, não deu? 😋😋😋 #UsinadoHamburguer" [ref=e325]':
+                  - 'img "Passa o dedo para.o lado e sinta nosso clássico com bacon e ovo, o mais vendido da Usina! 🍔 Deu vontade, não deu? 😋😋😋 #UsinadoHamburguer" [ref=e328]'
+              - generic:
+                - generic: 3 dias atrás
+            - 'link "Instagram Passa o dedo para.o lado e sinta nosso clássico com bacon e ovo, o mais vendido da Usina! 🍔 Deu vontade, não deu? 😋😋😋 #UsinadoHamburguer" [ref=e330]':
+              - /url: https://www.instagram.com/p/DWeyGYrgUpv/
+              - generic [ref=e335]: Instagram
+              - generic [ref=e337]: "Passa o dedo para.o lado e sinta nosso clássico com bacon e ovo, o mais vendido da Usina! 🍔 Deu vontade, não deu? 😋😋😋 #UsinadoHamburguer"
+          - generic [ref=e338] [cursor=pointer]:
+            - generic [ref=e339]:
+              - 'heading "Aqui cada loja tem uma personalidade! E aí, qual Usina é a sua cara? ☀️🍔 # UsinaDoHamburguer" [level=3] [ref=e340]':
+                - 'link "Aqui cada loja tem uma personalidade! E aí, qual Usina é a sua cara? ☀️🍔 # UsinaDoHamburguer" [ref=e341]':
+                  - /url: /imgres?q=usinadohamburguer%20site%3Ainstagram.com&imgurl=https%3A%2F%2Flookaside.instagram.com%2Fseo%2Fgoogle_widget%2Fcrawler%2F%3Fmedia_id%3D3846416646160611258&imgrefurl=https%3A%2F%2Fwww.instagram.com%2Fp%2FDVhN6plDVn-%2F&docid=0X2Ea3jvPikS0M&tbnid=qAVfZqP8DcFYXM&vet=12ahUKEwi_sNii-M2TAxXdIrkGHX3zKrQQnPAOegQIKBAB..i&w=720&h=900&hcb=2&itg=1&ved=2ahUKEwi_sNii-M2TAxXdIrkGHX3zKrQQnPAOegQIKBAB
+                  - 'button "Aqui cada loja tem uma personalidade! E aí, qual Usina é a sua cara? ☀️🍔 # UsinaDoHamburguer" [ref=e342]':
+                    - 'img "Aqui cada loja tem uma personalidade! E aí, qual Usina é a sua cara? ☀️🍔 # UsinaDoHamburguer" [ref=e345]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+                  - generic: 0:06
+            - 'link "Instagram Aqui cada loja tem uma personalidade! E aí, qual Usina é a sua cara? ☀️🍔 # UsinaDoHamburguer" [ref=e347]':
+              - /url: https://www.instagram.com/p/DVhN6plDVn-/
+              - generic [ref=e352]: Instagram
+              - generic [ref=e354]: "Aqui cada loja tem uma personalidade! E aí, qual Usina é a sua cara? ☀️🍔 # UsinaDoHamburguer"
+          - generic [ref=e355] [cursor=pointer]:
+            - generic [ref=e356]:
+              - 'heading "Quem sempre? ☝️ #UsinadoHamburguer" [level=3] [ref=e357]':
+                - 'button "Quem sempre? ☝️ #UsinadoHamburguer" [ref=e359]':
+                  - 'img "Quem sempre? ☝️ #UsinadoHamburguer" [ref=e362]'
+              - generic:
+                - generic: um dia atrás
+            - 'link "Instagram Quem sempre? ☝️ #UsinadoHamburguer" [ref=e364]':
+              - /url: https://www.instagram.com/p/DWj7zONDgIv/
+              - generic [ref=e369]: Instagram
+              - generic [ref=e371]: "Quem sempre? ☝️ #UsinadoHamburguer"
+          - generic [ref=e372] [cursor=pointer]:
+            - generic [ref=e373]:
+              - 'heading "Manual de sobrevivência de janeiro: Não pensar muito, comer bem (na Usina, claro). 😏😏 #UsinaDoHamburguer" [level=3] [ref=e374]':
+                - 'button "Manual de sobrevivência de janeiro: Não pensar muito, comer bem (na Usina, claro). 😏😏 #UsinaDoHamburguer" [ref=e376]':
+                  - 'img "Manual de sobrevivência de janeiro: Não pensar muito, comer bem (na Usina, claro). 😏😏 #UsinaDoHamburguer" [ref=e379]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Manual de sobrevivência de janeiro: Não pensar muito, comer bem (na Usina, claro). 😏😏 #UsinaDoHamburguer" [ref=e381]':
+              - /url: https://www.instagram.com/p/DTql59JDjqB/
+              - generic [ref=e386]: Instagram
+              - generic [ref=e388]: "Manual de sobrevivência de janeiro: Não pensar muito, comer bem (na Usina, claro). 😏😏 #UsinaDoHamburguer"
+          - generic [ref=e389] [cursor=pointer]:
+            - generic [ref=e390]:
+              - 'heading "Aqui cada loja tem uma personalidade! E aí, qual Usina é a sua cara? ☀️🍔 # UsinaDoHamburguer" [level=3] [ref=e391]':
+                - 'button "Aqui cada loja tem uma personalidade! E aí, qual Usina é a sua cara? ☀️🍔 # UsinaDoHamburguer" [ref=e393]':
+                  - 'img "Aqui cada loja tem uma personalidade! E aí, qual Usina é a sua cara? ☀️🍔 # UsinaDoHamburguer" [ref=e396]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Aqui cada loja tem uma personalidade! E aí, qual Usina é a sua cara? ☀️🍔 # UsinaDoHamburguer" [ref=e398]':
+              - /url: https://www.instagram.com/p/DVhN6plDVn-/
+              - generic [ref=e403]: Instagram
+              - generic [ref=e405]: "Aqui cada loja tem uma personalidade! E aí, qual Usina é a sua cara? ☀️🍔 # UsinaDoHamburguer"
+          - generic [ref=e406] [cursor=pointer]:
+            - generic [ref=e407]:
+              - 'heading "POV: Seu delivery da Usina chegou! 😋😋 O resto pode esperar. Esse momento é seu. #UsinadoHamburguer" [level=3] [ref=e408]':
+                - 'button "POV: Seu delivery da Usina chegou! 😋😋 O resto pode esperar. Esse momento é seu. #UsinadoHamburguer" [ref=e410]':
+                  - 'img "POV: Seu delivery da Usina chegou! 😋😋 O resto pode esperar. Esse momento é seu. #UsinadoHamburguer" [ref=e413]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram POV: Seu delivery da Usina chegou! 😋😋 O resto pode esperar. Esse momento é seu. #UsinadoHamburguer" [ref=e415]':
+              - /url: https://www.instagram.com/reel/DUG3QtRjIYe/
+              - generic [ref=e420]: Instagram
+              - generic [ref=e422]: "POV: Seu delivery da Usina chegou! 😋😋 O resto pode esperar. Esse momento é seu. #UsinadoHamburguer"
+          - generic [ref=e423] [cursor=pointer]:
+            - generic [ref=e424]:
+              - 'heading "Quem aí também aceita? 😋😋😋 #UsinadoHamburguer" [level=3] [ref=e425]':
+                - 'button "Quem aí também aceita? 😋😋😋 #UsinadoHamburguer" [ref=e427]':
+                  - 'img "Quem aí também aceita? 😋😋😋 #UsinadoHamburguer" [ref=e430]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Quem aí também aceita? 😋😋😋 #UsinadoHamburguer" [ref=e432]':
+              - /url: https://www.instagram.com/reel/DUl158rjYVD/
+              - generic [ref=e437]: Instagram
+              - generic [ref=e439]: "Quem aí também aceita? 😋😋😋 #UsinadoHamburguer"
+          - generic [ref=e440] [cursor=pointer]:
+            - 'heading "Caraca, ki avaliação sincera, a gente ama! 🤣 🍔 #UsinaDoHamburguer" [level=3] [ref=e442]':
+              - 'button "Caraca, ki avaliação sincera, a gente ama! 🤣 🍔 #UsinaDoHamburguer" [ref=e444]':
+                - 'img "Caraca, ki avaliação sincera, a gente ama! 🤣 🍔 #UsinaDoHamburguer" [ref=e447]'
+            - 'link "Instagram Caraca, ki avaliação sincera, a gente ama! 🤣 🍔 #UsinaDoHamburguer" [ref=e449]':
+              - /url: https://www.instagram.com/p/DV__aaZDEoL/
+              - generic [ref=e454]: Instagram
+              - generic [ref=e456]: "Caraca, ki avaliação sincera, a gente ama! 🤣 🍔 #UsinaDoHamburguer"
+          - generic [ref=e457] [cursor=pointer]:
+            - generic [ref=e458]:
+              - 'heading "Aqui cada loja tem uma personalidade! E aí, qual Usina é a sua cara? ☀️🍔 # UsinaDoHamburguer" [level=3] [ref=e459]':
+                - 'button "Aqui cada loja tem uma personalidade! E aí, qual Usina é a sua cara? ☀️🍔 # UsinaDoHamburguer" [ref=e461]':
+                  - 'img "Aqui cada loja tem uma personalidade! E aí, qual Usina é a sua cara? ☀️🍔 # UsinaDoHamburguer" [ref=e464]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Aqui cada loja tem uma personalidade! E aí, qual Usina é a sua cara? ☀️🍔 # UsinaDoHamburguer" [ref=e466]':
+              - /url: https://www.instagram.com/p/DVhN6plDVn-/
+              - generic [ref=e471]: Instagram
+              - generic [ref=e473]: "Aqui cada loja tem uma personalidade! E aí, qual Usina é a sua cara? ☀️🍔 # UsinaDoHamburguer"
+          - generic [ref=e474] [cursor=pointer]:
+            - 'heading "Que vibe boa foi ver tanta gente colando por aqui nesses dias! 💛 A temporada tá só começando, então chama geral e vem ser feliz na Usina. 🍔. # UsinadoHamburguer #UsinaRioTavares" [level=3] [ref=e476]':
+              - 'button "Que vibe boa foi ver tanta gente colando por aqui nesses dias! 💛 A temporada tá só começando, então chama geral e vem ser feliz na Usina. 🍔. # UsinadoHamburguer #UsinaRioTavares" [ref=e478]':
+                - 'img "Que vibe boa foi ver tanta gente colando por aqui nesses dias! 💛 A temporada tá só começando, então chama geral e vem ser feliz na Usina. 🍔. # UsinadoHamburguer #UsinaRioTavares" [ref=e481]'
+            - 'link "Instagram Que vibe boa foi ver tanta gente colando por aqui nesses dias! 💛 A temporada tá só começando, então chama geral e vem ser feliz na Usina. 🍔. # UsinadoHamburguer #UsinaRioTavares" [ref=e483]':
+              - /url: https://www.instagram.com/p/DRIXygVDAuL/
+              - generic [ref=e488]: Instagram
+              - generic [ref=e490]: "Que vibe boa foi ver tanta gente colando por aqui nesses dias! 💛 A temporada tá só começando, então chama geral e vem ser feliz na Usina. 🍔. # UsinadoHamburguer #UsinaRioTavares"
+          - generic [ref=e491] [cursor=pointer]:
+            - generic [ref=e492]:
+              - 'heading "Aqui cada loja tem uma personalidade! E aí, qual Usina é a sua cara? ☀️🍔 # UsinaDoHamburguer" [level=3] [ref=e493]':
+                - 'button "Aqui cada loja tem uma personalidade! E aí, qual Usina é a sua cara? ☀️🍔 # UsinaDoHamburguer" [ref=e495]':
+                  - 'img "Aqui cada loja tem uma personalidade! E aí, qual Usina é a sua cara? ☀️🍔 # UsinaDoHamburguer" [ref=e498]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Aqui cada loja tem uma personalidade! E aí, qual Usina é a sua cara? ☀️🍔 # UsinaDoHamburguer" [ref=e500]':
+              - /url: https://www.instagram.com/p/DVhN6plDVn-/
+              - generic [ref=e505]: Instagram
+              - generic [ref=e507]: "Aqui cada loja tem uma personalidade! E aí, qual Usina é a sua cara? ☀️🍔 # UsinaDoHamburguer"
+          - generic [ref=e508] [cursor=pointer]:
+            - heading "Isso não é um hamburguer. Isso é um movimento Na Usina, R$1 de cada hambúrguer vai direto pra quem precisa. Hamburguer para você. Vida melhor para todos. Topa transformar a sua fome" [level=3] [ref=e510]:
+              - button "Isso não é um hamburguer. Isso é um movimento Na Usina, R$1 de cada hambúrguer vai direto pra quem precisa. Hamburguer para você. Vida melhor para todos. Topa transformar a sua fome" [ref=e512]:
+                - img "Isso não é um hamburguer. Isso é um movimento Na Usina, R$1 de cada hambúrguer vai direto pra quem precisa. Hamburguer para você. Vida melhor para todos. Topa transformar a sua fome" [ref=e515]
+            - link "Instagram Isso não é um hamburguer. Isso é um movimento Na Usina, R$1 de cada hambúrguer vai direto pra quem precisa. Hamburguer para você. Vida melhor para todos. Topa transformar a sua fome" [ref=e517]:
+              - /url: https://www.instagram.com/p/DIw8-p-S7Xn/
+              - generic [ref=e522]: Instagram
+              - generic [ref=e524]: Isso não é um hamburguer. Isso é um movimento Na Usina, R$1 de cada hambúrguer vai direto pra quem precisa. Hamburguer para você. Vida melhor para todos. Topa transformar a sua fome
+          - generic [ref=e525] [cursor=pointer]:
+            - 'heading "Qual seu favorito? 😍🍔 #usinadohamburguer #hamburgueria" [level=3] [ref=e527]':
+              - 'button "Qual seu favorito? 😍🍔 #usinadohamburguer #hamburgueria" [ref=e529]':
+                - 'img "Qual seu favorito? 😍🍔 #usinadohamburguer #hamburgueria" [ref=e532]'
+            - 'link "Instagram Qual seu favorito? 😍🍔 #usinadohamburguer #hamburgueria" [ref=e534]':
+              - /url: https://www.instagram.com/p/DJXgF--yyot/
+              - generic [ref=e539]: Instagram
+              - generic [ref=e541]: "Qual seu favorito? 😍🍔 #usinadohamburguer #hamburgueria"
+          - generic [ref=e542] [cursor=pointer]:
+            - generic [ref=e543]:
+              - 'heading "Não cabe na trend. Mas cabe no teu pedido hoje. Sextou, vem de Usina. # usinadohamburguer" [level=3] [ref=e544]':
+                - 'button "Não cabe na trend. Mas cabe no teu pedido hoje. Sextou, vem de Usina. # usinadohamburguer" [ref=e546]':
+                  - 'img "Não cabe na trend. Mas cabe no teu pedido hoje. Sextou, vem de Usina. # usinadohamburguer" [ref=e549]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Não cabe na trend. Mas cabe no teu pedido hoje. Sextou, vem de Usina. # usinadohamburguer" [ref=e551]':
+              - /url: https://www.instagram.com/p/DPEsfvFDef6/
+              - generic [ref=e556]: Instagram
+              - generic [ref=e558]: "Não cabe na trend. Mas cabe no teu pedido hoje. Sextou, vem de Usina. # usinadohamburguer"
+          - generic [ref=e559] [cursor=pointer]:
+            - generic [ref=e560]:
+              - 'heading "No pão salgado ou no pão de brioche, clássico é clássico. 🍔🍔 # UsinadoHamburguer" [level=3] [ref=e561]':
+                - 'button "No pão salgado ou no pão de brioche, clássico é clássico. 🍔🍔 # UsinadoHamburguer" [ref=e563]':
+                  - 'img "No pão salgado ou no pão de brioche, clássico é clássico. 🍔🍔 # UsinadoHamburguer" [ref=e566]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram No pão salgado ou no pão de brioche, clássico é clássico. 🍔🍔 # UsinadoHamburguer" [ref=e568]':
+              - /url: https://www.instagram.com/p/DVEvadxDova/
+              - generic [ref=e573]: Instagram
+              - generic [ref=e575]: "No pão salgado ou no pão de brioche, clássico é clássico. 🍔🍔 # UsinadoHamburguer"
+          - generic [ref=e576] [cursor=pointer]:
+            - generic [ref=e577]:
+              - 'heading "O verdadeiro POV. Diretamente da nossa cozinha para sua mesa. 🍔 Comida de verdade, feita com muito carinho. Isso é Usina. 🤩 😋 #UsinaDoHamburguer" [level=3] [ref=e578]':
+                - 'button "O verdadeiro POV. Diretamente da nossa cozinha para sua mesa. 🍔 Comida de verdade, feita com muito carinho. Isso é Usina. 🤩 😋 #UsinaDoHamburguer" [ref=e580]':
+                  - 'img "O verdadeiro POV. Diretamente da nossa cozinha para sua mesa. 🍔 Comida de verdade, feita com muito carinho. Isso é Usina. 🤩 😋 #UsinaDoHamburguer" [ref=e583]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram O verdadeiro POV. Diretamente da nossa cozinha para sua mesa. 🍔 Comida de verdade, feita com muito carinho. Isso é Usina. 🤩 😋 #UsinaDoHamburguer" [ref=e585]':
+              - /url: https://www.instagram.com/p/DUgsZGDjnZk/
+              - generic [ref=e590]: Instagram
+              - generic [ref=e592]: "O verdadeiro POV. Diretamente da nossa cozinha para sua mesa. 🍔 Comida de verdade, feita com muito carinho. Isso é Usina. 🤩 😋 #UsinaDoHamburguer"
+          - generic [ref=e593] [cursor=pointer]:
+            - generic [ref=e594]:
+              - 'heading "Manual de sobrevivência de janeiro: Não pensar muito, comer bem (na Usina, claro). 😏😏 #UsinaDoHamburguer" [level=3] [ref=e595]':
+                - 'button "Manual de sobrevivência de janeiro: Não pensar muito, comer bem (na Usina, claro). 😏😏 #UsinaDoHamburguer" [ref=e597]':
+                  - 'img "Manual de sobrevivência de janeiro: Não pensar muito, comer bem (na Usina, claro). 😏😏 #UsinaDoHamburguer" [ref=e600]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Manual de sobrevivência de janeiro: Não pensar muito, comer bem (na Usina, claro). 😏😏 #UsinaDoHamburguer" [ref=e602]':
+              - /url: https://www.instagram.com/p/DTql59JDjqB/
+              - generic [ref=e607]: Instagram
+              - generic [ref=e609]: "Manual de sobrevivência de janeiro: Não pensar muito, comer bem (na Usina, claro). 😏😏 #UsinaDoHamburguer"
+          - generic [ref=e610] [cursor=pointer]:
+            - generic [ref=e611]:
+              - 'heading "Manual de sobrevivência de janeiro: Não pensar muito, comer bem (na Usina, claro). 😏😏 #UsinaDoHamburguer" [level=3] [ref=e612]':
+                - 'button "Manual de sobrevivência de janeiro: Não pensar muito, comer bem (na Usina, claro). 😏😏 #UsinaDoHamburguer" [ref=e614]':
+                  - 'img "Manual de sobrevivência de janeiro: Não pensar muito, comer bem (na Usina, claro). 😏😏 #UsinaDoHamburguer" [ref=e617]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Manual de sobrevivência de janeiro: Não pensar muito, comer bem (na Usina, claro). 😏😏 #UsinaDoHamburguer" [ref=e619]':
+              - /url: https://www.instagram.com/p/DTql59JDjqB/
+              - generic [ref=e624]: Instagram
+              - generic [ref=e626]: "Manual de sobrevivência de janeiro: Não pensar muito, comer bem (na Usina, claro). 😏😏 #UsinaDoHamburguer"
+          - generic [ref=e627] [cursor=pointer]:
+            - generic [ref=e628]:
+              - 'heading "Passa o dedo para.o lado e sinta nosso clássico com bacon e ovo, o mais vendido da Usina! 🍔 Deu vontade, não deu? 😋😋😋 #UsinadoHamburguer" [level=3] [ref=e629]':
+                - 'button "Passa o dedo para.o lado e sinta nosso clássico com bacon e ovo, o mais vendido da Usina! 🍔 Deu vontade, não deu? 😋😋😋 #UsinadoHamburguer" [ref=e631]':
+                  - 'img "Passa o dedo para.o lado e sinta nosso clássico com bacon e ovo, o mais vendido da Usina! 🍔 Deu vontade, não deu? 😋😋😋 #UsinadoHamburguer" [ref=e634]'
+              - generic:
+                - generic: 3 dias atrás
+            - 'link "Instagram Passa o dedo para.o lado e sinta nosso clássico com bacon e ovo, o mais vendido da Usina! 🍔 Deu vontade, não deu? 😋😋😋 #UsinadoHamburguer" [ref=e636]':
+              - /url: https://www.instagram.com/p/DWeyGYrgUpv/
+              - generic [ref=e641]: Instagram
+              - generic [ref=e643]: "Passa o dedo para.o lado e sinta nosso clássico com bacon e ovo, o mais vendido da Usina! 🍔 Deu vontade, não deu? 😋😋😋 #UsinadoHamburguer"
+          - generic [ref=e644] [cursor=pointer]:
+            - 'heading "Quando a gente lê avaliações carinhosas de vocês: 🤩🤩 Quando a gente lê avaliações carinhosas falando de impacto social: 🤍🤍🤍🤍🤍 # UsinadoHamburguer" [level=3] [ref=e646]':
+              - 'button "Quando a gente lê avaliações carinhosas de vocês: 🤩🤩 Quando a gente lê avaliações carinhosas falando de impacto social: 🤍🤍🤍🤍🤍 # UsinadoHamburguer" [ref=e648]':
+                - 'img "Quando a gente lê avaliações carinhosas de vocês: 🤩🤩 Quando a gente lê avaliações carinhosas falando de impacto social: 🤍🤍🤍🤍🤍 # UsinadoHamburguer" [ref=e651]'
+            - 'link "Instagram Quando a gente lê avaliações carinhosas de vocês: 🤩🤩 Quando a gente lê avaliações carinhosas falando de impacto social: 🤍🤍🤍🤍🤍 # UsinadoHamburguer" [ref=e653]':
+              - /url: https://www.instagram.com/p/DVO9b_VD4yw/
+              - generic [ref=e658]: Instagram
+              - generic [ref=e660]: "Quando a gente lê avaliações carinhosas de vocês: 🤩🤩 Quando a gente lê avaliações carinhosas falando de impacto social: 🤍🤍🤍🤍🤍 # UsinadoHamburguer"
+          - generic [ref=e661] [cursor=pointer]:
+            - generic [ref=e662]:
+              - 'heading "Podemos contar com você em 2026? 🥰🍔 #UsinaDoHamburguer" [level=3] [ref=e663]':
+                - 'button "Podemos contar com você em 2026? 🥰🍔 #UsinaDoHamburguer" [ref=e665]':
+                  - 'img "Podemos contar com você em 2026? 🥰🍔 #UsinaDoHamburguer" [ref=e668]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Podemos contar com você em 2026? 🥰🍔 #UsinaDoHamburguer" [ref=e670]':
+              - /url: https://www.instagram.com/p/DS0jUq8EoTi/
+              - generic [ref=e675]: Instagram
+              - generic [ref=e677]: "Podemos contar com você em 2026? 🥰🍔 #UsinaDoHamburguer"
+          - generic [ref=e678] [cursor=pointer]:
+            - 'heading "No pão salgado ou no pão de brioche, clássico é clássico. 🍔🍔 # UsinadoHamburguer" [level=3] [ref=e680]':
+              - 'button "No pão salgado ou no pão de brioche, clássico é clássico. 🍔🍔 # UsinadoHamburguer" [ref=e682]':
+                - 'img "No pão salgado ou no pão de brioche, clássico é clássico. 🍔🍔 # UsinadoHamburguer" [ref=e685]'
+            - 'link "Instagram No pão salgado ou no pão de brioche, clássico é clássico. 🍔🍔 # UsinadoHamburguer" [ref=e687]':
+              - /url: https://www.instagram.com/p/DVEvadxDova/
+              - generic [ref=e692]: Instagram
+              - generic [ref=e694]: "No pão salgado ou no pão de brioche, clássico é clássico. 🍔🍔 # UsinadoHamburguer"
+          - generic [ref=e695] [cursor=pointer]:
+            - 'heading "Um dos mais pedidos da Usina desfilando na sua tela, vai resistir? 😬😬😬 # UsinadoHamburguer #SmashDuploComBacon" [level=3] [ref=e697]':
+              - 'button "Um dos mais pedidos da Usina desfilando na sua tela, vai resistir? 😬😬😬 # UsinadoHamburguer #SmashDuploComBacon" [ref=e699]':
+                - 'img "Um dos mais pedidos da Usina desfilando na sua tela, vai resistir? 😬😬😬 # UsinadoHamburguer #SmashDuploComBacon" [ref=e702]'
+            - 'link "Instagram Um dos mais pedidos da Usina desfilando na sua tela, vai resistir? 😬😬😬 # UsinadoHamburguer #SmashDuploComBacon" [ref=e704]':
+              - /url: https://www.instagram.com/p/DSaLkFcDyr_/
+              - generic [ref=e709]: Instagram
+              - generic [ref=e711]: "Um dos mais pedidos da Usina desfilando na sua tela, vai resistir? 😬😬😬 # UsinadoHamburguer #SmashDuploComBacon"
+          - generic [ref=e712] [cursor=pointer]:
+            - generic [ref=e713]:
+              - 'heading "Manual de sobrevivência de janeiro: Não pensar muito, comer bem (na Usina, claro). 😏😏 #UsinaDoHamburguer" [level=3] [ref=e714]':
+                - 'button "Manual de sobrevivência de janeiro: Não pensar muito, comer bem (na Usina, claro). 😏😏 #UsinaDoHamburguer" [ref=e716]':
+                  - 'img "Manual de sobrevivência de janeiro: Não pensar muito, comer bem (na Usina, claro). 😏😏 #UsinaDoHamburguer" [ref=e719]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Manual de sobrevivência de janeiro: Não pensar muito, comer bem (na Usina, claro). 😏😏 #UsinaDoHamburguer" [ref=e721]':
+              - /url: https://www.instagram.com/p/DTql59JDjqB/
+              - generic [ref=e726]: Instagram
+              - generic [ref=e728]: "Manual de sobrevivência de janeiro: Não pensar muito, comer bem (na Usina, claro). 😏😏 #UsinaDoHamburguer"
+          - generic [ref=e729] [cursor=pointer]:
+            - 'heading "O pós-praia mais querido do verão tem nome e sobrenome: Usina Rio Tavares. ☀️ 🍔 #UsinaDoHamburguer" [level=3] [ref=e731]':
+              - 'button "O pós-praia mais querido do verão tem nome e sobrenome: Usina Rio Tavares. ☀️ 🍔 #UsinaDoHamburguer" [ref=e733]':
+                - 'img "O pós-praia mais querido do verão tem nome e sobrenome: Usina Rio Tavares. ☀️ 🍔 #UsinaDoHamburguer" [ref=e736]'
+            - 'link "Instagram O pós-praia mais querido do verão tem nome e sobrenome: Usina Rio Tavares. ☀️ 🍔 #UsinaDoHamburguer" [ref=e738]':
+              - /url: https://www.instagram.com/p/DTRAqh4Egjp/
+              - generic [ref=e743]: Instagram
+              - generic [ref=e745]: "O pós-praia mais querido do verão tem nome e sobrenome: Usina Rio Tavares. ☀️ 🍔 #UsinaDoHamburguer"
+          - generic [ref=e746] [cursor=pointer]:
+            - 'heading "Status do nosso coração em janeiro: cheeeio. 🖤 Motivo: vocês e esses depoimentos lindos. 🤩🤩🤩 #UsinadoHamburguer" [level=3] [ref=e748]':
+              - 'button "Status do nosso coração em janeiro: cheeeio. 🖤 Motivo: vocês e esses depoimentos lindos. 🤩🤩🤩 #UsinadoHamburguer" [ref=e750]':
+                - 'img "Status do nosso coração em janeiro: cheeeio. 🖤 Motivo: vocês e esses depoimentos lindos. 🤩🤩🤩 #UsinadoHamburguer" [ref=e753]'
+            - 'link "Instagram Status do nosso coração em janeiro: cheeeio. 🖤 Motivo: vocês e esses depoimentos lindos. 🤩🤩🤩 #UsinadoHamburguer" [ref=e755]':
+              - /url: https://www.instagram.com/p/DTdqdklloNf/
+              - generic [ref=e760]: Instagram
+              - generic [ref=e762]: "Status do nosso coração em janeiro: cheeeio. 🖤 Motivo: vocês e esses depoimentos lindos. 🤩🤩🤩 #UsinadoHamburguer"
+          - generic [ref=e763] [cursor=pointer]:
+            - 'heading "Aqui cada loja tem uma personalidade! E aí, qual Usina é a sua cara? ☀️🍔 # UsinaDoHamburguer" [level=3] [ref=e765]':
+              - 'button "Aqui cada loja tem uma personalidade! E aí, qual Usina é a sua cara? ☀️🍔 # UsinaDoHamburguer" [ref=e767]':
+                - 'img "Aqui cada loja tem uma personalidade! E aí, qual Usina é a sua cara? ☀️🍔 # UsinaDoHamburguer" [ref=e770]'
+            - 'link "Instagram Aqui cada loja tem uma personalidade! E aí, qual Usina é a sua cara? ☀️🍔 # UsinaDoHamburguer" [ref=e772]':
+              - /url: https://www.instagram.com/p/DVhN6plDVn-/
+              - generic [ref=e777]: Instagram
+              - generic [ref=e779]: "Aqui cada loja tem uma personalidade! E aí, qual Usina é a sua cara? ☀️🍔 # UsinaDoHamburguer"
+          - generic [ref=e780] [cursor=pointer]:
+            - generic [ref=e781]:
+              - 'heading "Manual de sobrevivência de janeiro: Não pensar muito, comer bem (na Usina, claro). 😏😏 #UsinaDoHamburguer" [level=3] [ref=e782]':
+                - 'button "Manual de sobrevivência de janeiro: Não pensar muito, comer bem (na Usina, claro). 😏😏 #UsinaDoHamburguer" [ref=e784]':
+                  - 'img "Manual de sobrevivência de janeiro: Não pensar muito, comer bem (na Usina, claro). 😏😏 #UsinaDoHamburguer" [ref=e787]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Manual de sobrevivência de janeiro: Não pensar muito, comer bem (na Usina, claro). 😏😏 #UsinaDoHamburguer" [ref=e789]':
+              - /url: https://www.instagram.com/p/DTql59JDjqB/
+              - generic [ref=e794]: Instagram
+              - generic [ref=e796]: "Manual de sobrevivência de janeiro: Não pensar muito, comer bem (na Usina, claro). 😏😏 #UsinaDoHamburguer"
+          - generic [ref=e797] [cursor=pointer]:
+            - 'heading "Qual seu favorito? 😍🍔 #usinadohamburguer #hamburgueria" [level=3] [ref=e799]':
+              - 'button "Qual seu favorito? 😍🍔 #usinadohamburguer #hamburgueria" [ref=e801]':
+                - 'img "Qual seu favorito? 😍🍔 #usinadohamburguer #hamburgueria" [ref=e804]'
+            - 'link "Instagram Qual seu favorito? 😍🍔 #usinadohamburguer #hamburgueria" [ref=e806]':
+              - /url: https://www.instagram.com/p/DJXgF--yyot/
+              - generic [ref=e811]: Instagram
+              - generic [ref=e813]: "Qual seu favorito? 😍🍔 #usinadohamburguer #hamburgueria"
+          - generic [ref=e814] [cursor=pointer]:
+            - 'heading "A gente joga a bomba e sai correndo 😬 Diz aí: Smash com crispy ou clássico com bacon e ovo? #foodporn #usinadohamburger #queijocrispy #smasburguer" [level=3] [ref=e816]':
+              - 'button "A gente joga a bomba e sai correndo 😬 Diz aí: Smash com crispy ou clássico com bacon e ovo? #foodporn #usinadohamburger #queijocrispy #smasburguer" [ref=e818]':
+                - 'img "A gente joga a bomba e sai correndo 😬 Diz aí: Smash com crispy ou clássico com bacon e ovo? #foodporn #usinadohamburger #queijocrispy #smasburguer" [ref=e821]'
+            - 'link "Instagram A gente joga a bomba e sai correndo 😬 Diz aí: Smash com crispy ou clássico com bacon e ovo? #foodporn #usinadohamburger #queijocrispy #smasburguer" [ref=e823]':
+              - /url: https://www.instagram.com/p/DJASrgYIwPW/
+              - generic [ref=e828]: Instagram
+              - generic [ref=e830]: "A gente joga a bomba e sai correndo 😬 Diz aí: Smash com crispy ou clássico com bacon e ovo? #foodporn #usinadohamburger #queijocrispy #smasburguer"
+          - generic [ref=e831] [cursor=pointer]:
+            - generic [ref=e832]:
+              - 'heading "A Usina é o lugar perfeito pra desestressar do trânsito de floripa (da rotina também)! E melhor ainda com os amigos. Vem pra cá! 🍔 # UsinadoHamburguer #VempraUsina" [level=3] [ref=e833]':
+                - 'button "A Usina é o lugar perfeito pra desestressar do trânsito de floripa (da rotina também)! E melhor ainda com os amigos. Vem pra cá! 🍔 # UsinadoHamburguer #VempraUsina" [ref=e835]':
+                  - 'img "A Usina é o lugar perfeito pra desestressar do trânsito de floripa (da rotina também)! E melhor ainda com os amigos. Vem pra cá! 🍔 # UsinadoHamburguer #VempraUsina" [ref=e838]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram A Usina é o lugar perfeito pra desestressar do trânsito de floripa (da rotina também)! E melhor ainda com os amigos. Vem pra cá! 🍔 # UsinadoHamburguer #VempraUsina" [ref=e840]':
+              - /url: https://www.instagram.com/p/DOW4c1ZjfyK/
+              - generic [ref=e845]: Instagram
+              - generic [ref=e847]: "A Usina é o lugar perfeito pra desestressar do trânsito de floripa (da rotina também)! E melhor ainda com os amigos. Vem pra cá! 🍔 # UsinadoHamburguer #VempraUsina"
+          - generic [ref=e848] [cursor=pointer]:
+            - generic [ref=e849]:
+              - 'heading "Ficou de boca aberta aí? Só não vale babar no celular. 🤭 Compartilha com quem vem na Usina contigo provar o hambúrguer do mês. 🍔 #UsinadoHamburguer #UsinaRioTavares" [level=3] [ref=e850]':
+                - 'button "Ficou de boca aberta aí? Só não vale babar no celular. 🤭 Compartilha com quem vem na Usina contigo provar o hambúrguer do mês. 🍔 #UsinadoHamburguer #UsinaRioTavares" [ref=e852]':
+                  - 'img "Ficou de boca aberta aí? Só não vale babar no celular. 🤭 Compartilha com quem vem na Usina contigo provar o hambúrguer do mês. 🍔 #UsinadoHamburguer #UsinaRioTavares" [ref=e855]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Ficou de boca aberta aí? Só não vale babar no celular. 🤭 Compartilha com quem vem na Usina contigo provar o hambúrguer do mês. 🍔 #UsinadoHamburguer #UsinaRioTavares" [ref=e857]':
+              - /url: https://www.instagram.com/reel/DQkbm0rEgv8/
+              - generic [ref=e862]: Instagram
+              - generic [ref=e864]: "Ficou de boca aberta aí? Só não vale babar no celular. 🤭 Compartilha com quem vem na Usina contigo provar o hambúrguer do mês. 🍔 #UsinadoHamburguer #UsinaRioTavares"
+          - generic [ref=e865] [cursor=pointer]:
+            - 'heading "Um dos mais pedidos da Usina desfilando na sua tela, vai resistir? 😬😬😬 # UsinadoHamburguer #SmashDuploComBacon" [level=3] [ref=e867]':
+              - 'button "Um dos mais pedidos da Usina desfilando na sua tela, vai resistir? 😬😬😬 # UsinadoHamburguer #SmashDuploComBacon" [ref=e869]':
+                - 'img "Um dos mais pedidos da Usina desfilando na sua tela, vai resistir? 😬😬😬 # UsinadoHamburguer #SmashDuploComBacon" [ref=e872]'
+            - 'link "Instagram Um dos mais pedidos da Usina desfilando na sua tela, vai resistir? 😬😬😬 # UsinadoHamburguer #SmashDuploComBacon" [ref=e874]':
+              - /url: https://www.instagram.com/p/DSaLkFcDyr_/
+              - generic [ref=e879]: Instagram
+              - generic [ref=e881]: "Um dos mais pedidos da Usina desfilando na sua tela, vai resistir? 😬😬😬 # UsinadoHamburguer #SmashDuploComBacon"
+          - generic [ref=e882] [cursor=pointer]:
+            - 'heading "No pão salgado ou no pão de brioche, clássico é clássico. 🍔🍔 # UsinadoHamburguer" [level=3] [ref=e884]':
+              - 'button "No pão salgado ou no pão de brioche, clássico é clássico. 🍔🍔 # UsinadoHamburguer" [ref=e886]':
+                - 'img "No pão salgado ou no pão de brioche, clássico é clássico. 🍔🍔 # UsinadoHamburguer" [ref=e889]'
+            - 'link "Instagram No pão salgado ou no pão de brioche, clássico é clássico. 🍔🍔 # UsinadoHamburguer" [ref=e891]':
+              - /url: https://www.instagram.com/p/DVEvadxDova/
+              - generic [ref=e896]: Instagram
+              - generic [ref=e898]: "No pão salgado ou no pão de brioche, clássico é clássico. 🍔🍔 # UsinadoHamburguer"
+          - generic [ref=e899] [cursor=pointer]:
+            - 'heading "Que vibe boa foi ver tanta gente colando por aqui nesses dias! 💛 A temporada tá só começando, então chama geral e vem ser feliz na Usina. 🍔. # UsinadoHamburguer #UsinaRioTavares" [level=3] [ref=e901]':
+              - 'button "Que vibe boa foi ver tanta gente colando por aqui nesses dias! 💛 A temporada tá só começando, então chama geral e vem ser feliz na Usina. 🍔. # UsinadoHamburguer #UsinaRioTavares" [ref=e903]':
+                - 'img "Que vibe boa foi ver tanta gente colando por aqui nesses dias! 💛 A temporada tá só começando, então chama geral e vem ser feliz na Usina. 🍔. # UsinadoHamburguer #UsinaRioTavares" [ref=e906]'
+            - 'link "Instagram Que vibe boa foi ver tanta gente colando por aqui nesses dias! 💛 A temporada tá só começando, então chama geral e vem ser feliz na Usina. 🍔. # UsinadoHamburguer #UsinaRioTavares" [ref=e908]':
+              - /url: https://www.instagram.com/p/DRIXygVDAuL/
+              - generic [ref=e913]: Instagram
+              - generic [ref=e915]: "Que vibe boa foi ver tanta gente colando por aqui nesses dias! 💛 A temporada tá só começando, então chama geral e vem ser feliz na Usina. 🍔. # UsinadoHamburguer #UsinaRioTavares"
+          - generic [ref=e916] [cursor=pointer]:
+            - generic [ref=e917]:
+              - 'heading "Tem coisa que a gente não explica, só sente na primeira mordida 😋 O hambúrguer do mês tá te esperando até dia 30! #JohnnyPickle # UsinaDoHamburguer" [level=3] [ref=e918]':
+                - 'button "Tem coisa que a gente não explica, só sente na primeira mordida 😋 O hambúrguer do mês tá te esperando até dia 30! #JohnnyPickle # UsinaDoHamburguer" [ref=e920]':
+                  - 'img "Tem coisa que a gente não explica, só sente na primeira mordida 😋 O hambúrguer do mês tá te esperando até dia 30! #JohnnyPickle # UsinaDoHamburguer" [ref=e923]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Tem coisa que a gente não explica, só sente na primeira mordida 😋 O hambúrguer do mês tá te esperando até dia 30! #JohnnyPickle # UsinaDoHamburguer" [ref=e925]':
+              - /url: https://www.instagram.com/p/DQ48zR-FFuK/
+              - generic [ref=e930]: Instagram
+              - generic [ref=e932]: "Tem coisa que a gente não explica, só sente na primeira mordida 😋 O hambúrguer do mês tá te esperando até dia 30! #JohnnyPickle # UsinaDoHamburguer"
+          - generic [ref=e933] [cursor=pointer]:
+            - generic [ref=e934]:
+              - 'heading "Quem sempre? ☝️ #UsinadoHamburguer" [level=3] [ref=e935]':
+                - 'button "Quem sempre? ☝️ #UsinadoHamburguer" [ref=e937]':
+                  - 'img "Quem sempre? ☝️ #UsinadoHamburguer" [ref=e940]'
+              - generic:
+                - generic: um dia atrás
+            - 'link "Instagram Quem sempre? ☝️ #UsinadoHamburguer" [ref=e942]':
+              - /url: https://www.instagram.com/p/DWj7zONDgIv/
+              - generic [ref=e947]: Instagram
+              - generic [ref=e949]: "Quem sempre? ☝️ #UsinadoHamburguer"
+          - generic [ref=e950] [cursor=pointer]:
+            - 'heading "No pão salgado ou no pão de brioche, clássico é clássico. 🍔🍔 # UsinadoHamburguer" [level=3] [ref=e952]':
+              - 'button "No pão salgado ou no pão de brioche, clássico é clássico. 🍔🍔 # UsinadoHamburguer" [ref=e954]':
+                - 'img "No pão salgado ou no pão de brioche, clássico é clássico. 🍔🍔 # UsinadoHamburguer" [ref=e957]'
+            - 'link "Instagram No pão salgado ou no pão de brioche, clássico é clássico. 🍔🍔 # UsinadoHamburguer" [ref=e959]':
+              - /url: https://www.instagram.com/p/DVEvadxDova/
+              - generic [ref=e964]: Instagram
+              - generic [ref=e966]: "No pão salgado ou no pão de brioche, clássico é clássico. 🍔🍔 # UsinadoHamburguer"
+          - generic [ref=e967] [cursor=pointer]:
+            - generic [ref=e968]:
+              - 'heading "Cada loja, uma vibe. A Su, nossa guardiã da experiência, contou qual é a melhor loja pra cada rolê. 🍔👀 Assiste até o fim e me diz se você concorda! #usinadohamburguer" [level=3] [ref=e969]':
+                - 'button "Cada loja, uma vibe. A Su, nossa guardiã da experiência, contou qual é a melhor loja pra cada rolê. 🍔👀 Assiste até o fim e me diz se você concorda! #usinadohamburguer" [ref=e971]':
+                  - 'img "Cada loja, uma vibe. A Su, nossa guardiã da experiência, contou qual é a melhor loja pra cada rolê. 🍔👀 Assiste até o fim e me diz se você concorda! #usinadohamburguer" [ref=e974]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Cada loja, uma vibe. A Su, nossa guardiã da experiência, contou qual é a melhor loja pra cada rolê. 🍔👀 Assiste até o fim e me diz se você concorda! #usinadohamburguer" [ref=e976]':
+              - /url: https://www.instagram.com/p/DL3IhVASL6Z/
+              - generic [ref=e981]: Instagram
+              - generic [ref=e983]: "Cada loja, uma vibe. A Su, nossa guardiã da experiência, contou qual é a melhor loja pra cada rolê. 🍔👀 Assiste até o fim e me diz se você concorda! #usinadohamburguer"
+          - generic [ref=e984] [cursor=pointer]:
+            - 'heading "Que vibe boa foi ver tanta gente colando por aqui nesses dias! 💛 A temporada tá só começando, então chama geral e vem ser feliz na Usina. 🍔. # UsinadoHamburguer #UsinaRioTavares" [level=3] [ref=e986]':
+              - 'button "Que vibe boa foi ver tanta gente colando por aqui nesses dias! 💛 A temporada tá só começando, então chama geral e vem ser feliz na Usina. 🍔. # UsinadoHamburguer #UsinaRioTavares" [ref=e988]':
+                - 'img "Que vibe boa foi ver tanta gente colando por aqui nesses dias! 💛 A temporada tá só começando, então chama geral e vem ser feliz na Usina. 🍔. # UsinadoHamburguer #UsinaRioTavares" [ref=e991]'
+            - 'link "Instagram Que vibe boa foi ver tanta gente colando por aqui nesses dias! 💛 A temporada tá só começando, então chama geral e vem ser feliz na Usina. 🍔. # UsinadoHamburguer #UsinaRioTavares" [ref=e993]':
+              - /url: https://www.instagram.com/p/DRIXygVDAuL/
+              - generic [ref=e998]: Instagram
+              - generic [ref=e1000]: "Que vibe boa foi ver tanta gente colando por aqui nesses dias! 💛 A temporada tá só começando, então chama geral e vem ser feliz na Usina. 🍔. # UsinadoHamburguer #UsinaRioTavares"
+          - generic [ref=e1001] [cursor=pointer]:
+            - 'heading "Que vibe boa foi ver tanta gente colando por aqui nesses dias! 💛 A temporada tá só começando, então chama geral e vem ser feliz na Usina. 🍔. # UsinadoHamburguer #UsinaRioTavares" [level=3] [ref=e1003]':
+              - 'button "Que vibe boa foi ver tanta gente colando por aqui nesses dias! 💛 A temporada tá só começando, então chama geral e vem ser feliz na Usina. 🍔. # UsinadoHamburguer #UsinaRioTavares" [ref=e1005]':
+                - 'img "Que vibe boa foi ver tanta gente colando por aqui nesses dias! 💛 A temporada tá só começando, então chama geral e vem ser feliz na Usina. 🍔. # UsinadoHamburguer #UsinaRioTavares" [ref=e1008]'
+            - 'link "Instagram Que vibe boa foi ver tanta gente colando por aqui nesses dias! 💛 A temporada tá só começando, então chama geral e vem ser feliz na Usina. 🍔. # UsinadoHamburguer #UsinaRioTavares" [ref=e1010]':
+              - /url: https://www.instagram.com/p/DRIXygVDAuL/
+              - generic [ref=e1015]: Instagram
+              - generic [ref=e1017]: "Que vibe boa foi ver tanta gente colando por aqui nesses dias! 💛 A temporada tá só começando, então chama geral e vem ser feliz na Usina. 🍔. # UsinadoHamburguer #UsinaRioTavares"
+          - generic [ref=e1018] [cursor=pointer]:
+            - generic [ref=e1019]:
+              - heading "Impacto real começa do jeito que dá, com o que você tem hoje. E vamos falar sério? Todo negócio pode ser uma força de mudança. 🎯 Se essa história fez você enxergar" [level=3] [ref=e1020]:
+                - button "Impacto real começa do jeito que dá, com o que você tem hoje. E vamos falar sério? Todo negócio pode ser uma força de mudança. 🎯 Se essa história fez você enxergar" [ref=e1022]:
+                  - img "Impacto real começa do jeito que dá, com o que você tem hoje. E vamos falar sério? Todo negócio pode ser uma força de mudança. 🎯 Se essa história fez você enxergar" [ref=e1025]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Impacto real começa do jeito que dá, com o que você tem hoje. E vamos falar sério? Todo negócio pode ser uma força de mudança. 🎯 Se essa história fez você enxergar" [ref=e1027]:
+              - /url: https://www.instagram.com/p/DRiKnanCSiN/
+              - generic [ref=e1032]: Instagram
+              - generic [ref=e1034]: Impacto real começa do jeito que dá, com o que você tem hoje. E vamos falar sério? Todo negócio pode ser uma força de mudança. 🎯 Se essa história fez você enxergar
+          - generic [ref=e1035] [cursor=pointer]:
+            - 'heading "Que vibe boa foi ver tanta gente colando por aqui nesses dias! 💛 A temporada tá só começando, então chama geral e vem ser feliz na Usina. 🍔. # UsinadoHamburguer #UsinaRioTavares" [level=3] [ref=e1037]':
+              - 'button "Que vibe boa foi ver tanta gente colando por aqui nesses dias! 💛 A temporada tá só começando, então chama geral e vem ser feliz na Usina. 🍔. # UsinadoHamburguer #UsinaRioTavares" [ref=e1039]':
+                - 'img "Que vibe boa foi ver tanta gente colando por aqui nesses dias! 💛 A temporada tá só começando, então chama geral e vem ser feliz na Usina. 🍔. # UsinadoHamburguer #UsinaRioTavares" [ref=e1042]'
+            - 'link "Instagram Que vibe boa foi ver tanta gente colando por aqui nesses dias! 💛 A temporada tá só começando, então chama geral e vem ser feliz na Usina. 🍔. # UsinadoHamburguer #UsinaRioTavares" [ref=e1044]':
+              - /url: https://www.instagram.com/p/DRIXygVDAuL/
+              - generic [ref=e1049]: Instagram
+              - generic [ref=e1051]: "Que vibe boa foi ver tanta gente colando por aqui nesses dias! 💛 A temporada tá só começando, então chama geral e vem ser feliz na Usina. 🍔. # UsinadoHamburguer #UsinaRioTavares"
+          - generic [ref=e1052] [cursor=pointer]:
+            - generic [ref=e1053]:
+              - 'heading "🧀 Mix de queijos mussarela com provolone empanado no panko. 🥲🤤 Esse queijo delicioso, queridinho dos adicionais, é produzido diretamente aqui na Usina. Tá salivando aí? O link tá na bio. Vai. #" [level=3] [ref=e1054]':
+                - 'button "🧀 Mix de queijos mussarela com provolone empanado no panko. 🥲🤤 Esse queijo delicioso, queridinho dos adicionais, é produzido diretamente aqui na Usina. Tá salivando aí? O link tá na bio. Vai. #" [ref=e1056]':
+                  - 'img "🧀 Mix de queijos mussarela com provolone empanado no panko. 🥲🤤 Esse queijo delicioso, queridinho dos adicionais, é produzido diretamente aqui na Usina. Tá salivando aí? O link tá na bio. Vai. #" [ref=e1059]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram 🧀 Mix de queijos mussarela com provolone empanado no panko. 🥲🤤 Esse queijo delicioso, queridinho dos adicionais, é produzido diretamente aqui na Usina. Tá salivando aí? O link tá na bio. Vai. #" [ref=e1061]':
+              - /url: https://www.instagram.com/reel/DI7PWLsysHD/
+              - generic [ref=e1066]: Instagram
+              - generic [ref=e1068]: "🧀 Mix de queijos mussarela com provolone empanado no panko. 🥲🤤 Esse queijo delicioso, queridinho dos adicionais, é produzido diretamente aqui na Usina. Tá salivando aí? O link tá na bio. Vai. #"
+          - generic [ref=e1069] [cursor=pointer]:
+            - heading "O Fashion Smash ta um sucessoooooo 😍😍😍 Já experimentou? Lembrando que cada vez que vc come um hambúrguer na Usina, R$1 é investido em projetos sociais em Floripa!💛" [level=3] [ref=e1071]:
+              - button "O Fashion Smash ta um sucessoooooo 😍😍😍 Já experimentou? Lembrando que cada vez que vc come um hambúrguer na Usina, R$1 é investido em projetos sociais em Floripa!💛" [ref=e1073]:
+                - img "O Fashion Smash ta um sucessoooooo 😍😍😍 Já experimentou? Lembrando que cada vez que vc come um hambúrguer na Usina, R$1 é investido em projetos sociais em Floripa!💛" [ref=e1076]
+            - link "Instagram O Fashion Smash ta um sucessoooooo 😍😍😍 Já experimentou? Lembrando que cada vez que vc come um hambúrguer na Usina, R$1 é investido em projetos sociais em Floripa!💛" [ref=e1078]:
+              - /url: https://www.instagram.com/reel/C-dlk9yv8la/
+              - generic [ref=e1083]: Instagram
+              - generic [ref=e1085]: O Fashion Smash ta um sucessoooooo 😍😍😍 Já experimentou? Lembrando que cada vez que vc come um hambúrguer na Usina, R$1 é investido em projetos sociais em Floripa!💛
+          - generic [ref=e1086] [cursor=pointer]:
+            - generic [ref=e1087]:
+              - 'heading "Prazer: substantivo que define o que acontece depois da primeira mordida. 😋 🍔 Hoje é o dia oficial do prazer sem culpa, vulgo dia do hambúrguer. 🍔 Vem pra Usina! #diadohambúrguer #usinadohamburguer" [level=3] [ref=e1088]':
+                - 'button "Prazer: substantivo que define o que acontece depois da primeira mordida. 😋 🍔 Hoje é o dia oficial do prazer sem culpa, vulgo dia do hambúrguer. 🍔 Vem pra Usina! #diadohambúrguer #usinadohamburguer" [ref=e1090]':
+                  - 'img "Prazer: substantivo que define o que acontece depois da primeira mordida. 😋 🍔 Hoje é o dia oficial do prazer sem culpa, vulgo dia do hambúrguer. 🍔 Vem pra Usina! #diadohambúrguer #usinadohamburguer" [ref=e1093]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Prazer: substantivo que define o que acontece depois da primeira mordida. 😋 🍔 Hoje é o dia oficial do prazer sem culpa, vulgo dia do hambúrguer. 🍔 Vem pra Usina! #diadohambúrguer #usinadohamburguer" [ref=e1095]':
+              - /url: https://www.instagram.com/p/DKNHlQrtLyN/
+              - generic [ref=e1100]: Instagram
+              - generic [ref=e1102]: "Prazer: substantivo que define o que acontece depois da primeira mordida. 😋 🍔 Hoje é o dia oficial do prazer sem culpa, vulgo dia do hambúrguer. 🍔 Vem pra Usina! #diadohambúrguer #usinadohamburguer"
+          - generic [ref=e1103] [cursor=pointer]:
+            - generic [ref=e1104]:
+              - heading "Se não é a hamburgueria mais querida e completa da cidade passando pelo seu feed! 🫶 Além de encontrar os sabores mais diferentões aos clássicos, no @ usinadohamburguer a cada burguer comprado, R$1,00" [level=3] [ref=e1105]:
+                - button "Se não é a hamburgueria mais querida e completa da cidade passando pelo seu feed! 🫶 Além de encontrar os sabores mais diferentões aos clássicos, no @ usinadohamburguer a cada burguer comprado, R$1,00" [ref=e1107]:
+                  - img "Se não é a hamburgueria mais querida e completa da cidade passando pelo seu feed! 🫶 Além de encontrar os sabores mais diferentões aos clássicos, no @ usinadohamburguer a cada burguer comprado, R$1,00" [ref=e1110]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Se não é a hamburgueria mais querida e completa da cidade passando pelo seu feed! 🫶 Além de encontrar os sabores mais diferentões aos clássicos, no @ usinadohamburguer a cada burguer comprado, R$1,00" [ref=e1112]:
+              - /url: https://www.instagram.com/reel/C-8hB8qvmBA/
+              - generic [ref=e1117]: Instagram
+              - generic [ref=e1119]: Se não é a hamburgueria mais querida e completa da cidade passando pelo seu feed! 🫶 Além de encontrar os sabores mais diferentões aos clássicos, no @ usinadohamburguer a cada burguer comprado, R$1,00
+          - generic [ref=e1120] [cursor=pointer]:
+            - 'heading "E aí, tá com o reflexo em dia? 😬😬😬 Não deixe para amanhã a Usina que você pode pedir hoje. #UsinadoHamburguer" [level=3] [ref=e1122]':
+              - 'button "E aí, tá com o reflexo em dia? 😬😬😬 Não deixe para amanhã a Usina que você pode pedir hoje. #UsinadoHamburguer" [ref=e1124]':
+                - 'img "E aí, tá com o reflexo em dia? 😬😬😬 Não deixe para amanhã a Usina que você pode pedir hoje. #UsinadoHamburguer" [ref=e1127]'
+            - 'link "Instagram E aí, tá com o reflexo em dia? 😬😬😬 Não deixe para amanhã a Usina que você pode pedir hoje. #UsinadoHamburguer" [ref=e1129]':
+              - /url: https://www.instagram.com/p/DWM38p7kV3H/
+              - generic [ref=e1134]: Instagram
+              - generic [ref=e1136]: "E aí, tá com o reflexo em dia? 😬😬😬 Não deixe para amanhã a Usina que você pode pedir hoje. #UsinadoHamburguer"
+          - generic [ref=e1137] [cursor=pointer]:
+            - 'heading "Tem um que você nunca abre mão quando come Usina. Qual? 🍔 # UsinaDoHamburguer" [level=3] [ref=e1139]':
+              - 'button "Tem um que você nunca abre mão quando come Usina. Qual? 🍔 # UsinaDoHamburguer" [ref=e1141]':
+                - 'img "Tem um que você nunca abre mão quando come Usina. Qual? 🍔 # UsinaDoHamburguer" [ref=e1144]'
+            - 'link "Instagram Tem um que você nunca abre mão quando come Usina. Qual? 🍔 # UsinaDoHamburguer" [ref=e1146]':
+              - /url: https://www.instagram.com/p/DTYn2akkbj2/
+              - generic [ref=e1151]: Instagram
+              - generic [ref=e1153]: "Tem um que você nunca abre mão quando come Usina. Qual? 🍔 # UsinaDoHamburguer"
+          - generic [ref=e1154] [cursor=pointer]:
+            - generic [ref=e1155]:
+              - 'heading "E aí, tá com o reflexo em dia? 😬😬😬 Não deixe para amanhã a Usina que você pode pedir hoje. #UsinadoHamburguer" [level=3] [ref=e1156]':
+                - 'button "E aí, tá com o reflexo em dia? 😬😬😬 Não deixe para amanhã a Usina que você pode pedir hoje. #UsinadoHamburguer" [ref=e1158]':
+                  - 'img "E aí, tá com o reflexo em dia? 😬😬😬 Não deixe para amanhã a Usina que você pode pedir hoje. #UsinadoHamburguer" [ref=e1161]'
+              - generic:
+                - generic: 4 dias atrás
+            - 'link "Instagram E aí, tá com o reflexo em dia? 😬😬😬 Não deixe para amanhã a Usina que você pode pedir hoje. #UsinadoHamburguer" [ref=e1163]':
+              - /url: https://www.instagram.com/p/DWM38p7kV3H/
+              - generic [ref=e1168]: Instagram
+              - generic [ref=e1170]: "E aí, tá com o reflexo em dia? 😬😬😬 Não deixe para amanhã a Usina que você pode pedir hoje. #UsinadoHamburguer"
+          - generic [ref=e1171] [cursor=pointer]:
+            - 'heading "E aí, tá com o reflexo em dia? 😬😬😬 Não deixe para amanhã a Usina que você pode pedir hoje. #UsinadoHamburguer" [level=3] [ref=e1173]':
+              - 'button "E aí, tá com o reflexo em dia? 😬😬😬 Não deixe para amanhã a Usina que você pode pedir hoje. #UsinadoHamburguer" [ref=e1175]':
+                - 'img "E aí, tá com o reflexo em dia? 😬😬😬 Não deixe para amanhã a Usina que você pode pedir hoje. #UsinadoHamburguer" [ref=e1178]'
+            - 'link "Instagram E aí, tá com o reflexo em dia? 😬😬😬 Não deixe para amanhã a Usina que você pode pedir hoje. #UsinadoHamburguer" [ref=e1180]':
+              - /url: https://www.instagram.com/reel/DWM38p7kV3H/
+              - generic [ref=e1185]: Instagram
+              - generic [ref=e1187]: "E aí, tá com o reflexo em dia? 😬😬😬 Não deixe para amanhã a Usina que você pode pedir hoje. #UsinadoHamburguer"
+          - generic [ref=e1188] [cursor=pointer]:
+            - 'heading "Carboidrato ✓ Fibras ✓ Proteína ✓ Gostosura ✓✓✓ Hambúrguer da Usina é equilíbrio, é sabor, é comida de verdade. Deu fome aí? 🤭🍔🍔 # usinadohamburguer #deufome" [level=3] [ref=e1190]':
+              - 'button "Carboidrato ✓ Fibras ✓ Proteína ✓ Gostosura ✓✓✓ Hambúrguer da Usina é equilíbrio, é sabor, é comida de verdade. Deu fome aí? 🤭🍔🍔 # usinadohamburguer #deufome" [ref=e1192]':
+                - 'img "Carboidrato ✓ Fibras ✓ Proteína ✓ Gostosura ✓✓✓ Hambúrguer da Usina é equilíbrio, é sabor, é comida de verdade. Deu fome aí? 🤭🍔🍔 # usinadohamburguer #deufome" [ref=e1195]'
+            - 'link "Instagram Carboidrato ✓ Fibras ✓ Proteína ✓ Gostosura ✓✓✓ Hambúrguer da Usina é equilíbrio, é sabor, é comida de verdade. Deu fome aí? 🤭🍔🍔 # usinadohamburguer #deufome" [ref=e1197]':
+              - /url: https://www.instagram.com/p/DO9XPHqiYFl/
+              - generic [ref=e1202]: Instagram
+              - generic [ref=e1204]: "Carboidrato ✓ Fibras ✓ Proteína ✓ Gostosura ✓✓✓ Hambúrguer da Usina é equilíbrio, é sabor, é comida de verdade. Deu fome aí? 🤭🍔🍔 # usinadohamburguer #deufome"
+          - generic [ref=e1205] [cursor=pointer]:
+            - 'heading "O pós-praia mais querido do verão tem nome e sobrenome: Usina Rio Tavares. ☀️ 🍔 #UsinaDoHamburguer" [level=3] [ref=e1207]':
+              - 'button "O pós-praia mais querido do verão tem nome e sobrenome: Usina Rio Tavares. ☀️ 🍔 #UsinaDoHamburguer" [ref=e1209]':
+                - 'img "O pós-praia mais querido do verão tem nome e sobrenome: Usina Rio Tavares. ☀️ 🍔 #UsinaDoHamburguer" [ref=e1212]'
+            - 'link "Instagram O pós-praia mais querido do verão tem nome e sobrenome: Usina Rio Tavares. ☀️ 🍔 #UsinaDoHamburguer" [ref=e1214]':
+              - /url: https://www.instagram.com/p/DTRAqh4Egjp/
+              - generic [ref=e1219]: Instagram
+              - generic [ref=e1221]: "O pós-praia mais querido do verão tem nome e sobrenome: Usina Rio Tavares. ☀️ 🍔 #UsinaDoHamburguer"
+          - generic [ref=e1222] [cursor=pointer]:
+            - 'heading "Que vibe boa foi ver tanta gente colando por aqui nesses dias! 💛 A temporada tá só começando, então chama geral e vem ser feliz na Usina. 🍔. # UsinadoHamburguer #UsinaRioTavares" [level=3] [ref=e1224]':
+              - 'button "Que vibe boa foi ver tanta gente colando por aqui nesses dias! 💛 A temporada tá só começando, então chama geral e vem ser feliz na Usina. 🍔. # UsinadoHamburguer #UsinaRioTavares" [ref=e1226]':
+                - 'img "Que vibe boa foi ver tanta gente colando por aqui nesses dias! 💛 A temporada tá só começando, então chama geral e vem ser feliz na Usina. 🍔. # UsinadoHamburguer #UsinaRioTavares" [ref=e1229]'
+            - 'link "Instagram Que vibe boa foi ver tanta gente colando por aqui nesses dias! 💛 A temporada tá só começando, então chama geral e vem ser feliz na Usina. 🍔. # UsinadoHamburguer #UsinaRioTavares" [ref=e1231]':
+              - /url: https://www.instagram.com/p/DRIXygVDAuL/
+              - generic [ref=e1236]: Instagram
+              - generic [ref=e1238]: "Que vibe boa foi ver tanta gente colando por aqui nesses dias! 💛 A temporada tá só começando, então chama geral e vem ser feliz na Usina. 🍔. # UsinadoHamburguer #UsinaRioTavares"
+          - generic [ref=e1239] [cursor=pointer]:
+            - 'heading "Sim, aqui na Usina chuchar o frango crocante no molho é questão de obrigação. Teste na sua próxima visita e depois nos conte! 😬😬😬 # UsinadoHamburguer" [level=3] [ref=e1241]':
+              - 'button "Sim, aqui na Usina chuchar o frango crocante no molho é questão de obrigação. Teste na sua próxima visita e depois nos conte! 😬😬😬 # UsinadoHamburguer" [ref=e1243]':
+                - 'img "Sim, aqui na Usina chuchar o frango crocante no molho é questão de obrigação. Teste na sua próxima visita e depois nos conte! 😬😬😬 # UsinadoHamburguer" [ref=e1246]'
+            - 'link "Instagram Sim, aqui na Usina chuchar o frango crocante no molho é questão de obrigação. Teste na sua próxima visita e depois nos conte! 😬😬😬 # UsinadoHamburguer" [ref=e1248]':
+              - /url: https://www.instagram.com/p/DU_l3NJDjb4/
+              - generic [ref=e1253]: Instagram
+              - generic [ref=e1255]: "Sim, aqui na Usina chuchar o frango crocante no molho é questão de obrigação. Teste na sua próxima visita e depois nos conte! 😬😬😬 # UsinadoHamburguer"
+          - generic [ref=e1256] [cursor=pointer]:
+            - 'heading "Sim, aqui na Usina chuchar o frango crocante no molho é questão de obrigação. Teste na sua próxima visita e depois nos conte! 😬😬😬 # UsinadoHamburguer" [level=3] [ref=e1258]':
+              - 'button "Sim, aqui na Usina chuchar o frango crocante no molho é questão de obrigação. Teste na sua próxima visita e depois nos conte! 😬😬😬 # UsinadoHamburguer" [ref=e1260]':
+                - 'img "Sim, aqui na Usina chuchar o frango crocante no molho é questão de obrigação. Teste na sua próxima visita e depois nos conte! 😬😬😬 # UsinadoHamburguer" [ref=e1263]'
+            - 'link "Instagram Sim, aqui na Usina chuchar o frango crocante no molho é questão de obrigação. Teste na sua próxima visita e depois nos conte! 😬😬😬 # UsinadoHamburguer" [ref=e1265]':
+              - /url: https://www.instagram.com/p/DU_l3NJDjb4/
+              - generic [ref=e1270]: Instagram
+              - generic [ref=e1272]: "Sim, aqui na Usina chuchar o frango crocante no molho é questão de obrigação. Teste na sua próxima visita e depois nos conte! 😬😬😬 # UsinadoHamburguer"
+          - generic [ref=e1273] [cursor=pointer]:
+            - 'heading "Tem um que você nunca abre mão quando come Usina. Qual? 🍔 # UsinaDoHamburguer" [level=3] [ref=e1275]':
+              - 'button "Tem um que você nunca abre mão quando come Usina. Qual? 🍔 # UsinaDoHamburguer" [ref=e1277]':
+                - 'img "Tem um que você nunca abre mão quando come Usina. Qual? 🍔 # UsinaDoHamburguer" [ref=e1280]'
+            - 'link "Instagram Tem um que você nunca abre mão quando come Usina. Qual? 🍔 # UsinaDoHamburguer" [ref=e1282]':
+              - /url: https://www.instagram.com/p/DTYn2akkbj2/
+              - generic [ref=e1287]: Instagram
+              - generic [ref=e1289]: "Tem um que você nunca abre mão quando come Usina. Qual? 🍔 # UsinaDoHamburguer"
+          - generic [ref=e1290] [cursor=pointer]:
+            - 'heading "Sim, aqui na Usina chuchar o frango crocante no molho é questão de obrigação. Teste na sua próxima visita e depois nos conte! 😬😬😬 # UsinadoHamburguer" [level=3] [ref=e1292]':
+              - 'button "Sim, aqui na Usina chuchar o frango crocante no molho é questão de obrigação. Teste na sua próxima visita e depois nos conte! 😬😬😬 # UsinadoHamburguer" [ref=e1294]':
+                - 'img "Sim, aqui na Usina chuchar o frango crocante no molho é questão de obrigação. Teste na sua próxima visita e depois nos conte! 😬😬😬 # UsinadoHamburguer" [ref=e1297]'
+            - 'link "Instagram Sim, aqui na Usina chuchar o frango crocante no molho é questão de obrigação. Teste na sua próxima visita e depois nos conte! 😬😬😬 # UsinadoHamburguer" [ref=e1299]':
+              - /url: https://www.instagram.com/p/DU_l3NJDjb4/
+              - generic [ref=e1304]: Instagram
+              - generic [ref=e1306]: "Sim, aqui na Usina chuchar o frango crocante no molho é questão de obrigação. Teste na sua próxima visita e depois nos conte! 😬😬😬 # UsinadoHamburguer"
+          - generic [ref=e1307] [cursor=pointer]:
+            - 'heading "POV: Como eu me sinto depois da primeira mordida na Usina. 😋👀✨⛈️🌋⚡️☄️🌷 # UsinadoHamburguer" [level=3] [ref=e1309]':
+              - 'button "POV: Como eu me sinto depois da primeira mordida na Usina. 😋👀✨⛈️🌋⚡️☄️🌷 # UsinadoHamburguer" [ref=e1311]':
+                - 'img "POV: Como eu me sinto depois da primeira mordida na Usina. 😋👀✨⛈️🌋⚡️☄️🌷 # UsinadoHamburguer" [ref=e1314]'
+            - 'link "Instagram POV: Como eu me sinto depois da primeira mordida na Usina. 😋👀✨⛈️🌋⚡️☄️🌷 # UsinadoHamburguer" [ref=e1316]':
+              - /url: https://www.instagram.com/p/DVUMwhvDlyZ/
+              - generic [ref=e1321]: Instagram
+              - generic [ref=e1323]: "POV: Como eu me sinto depois da primeira mordida na Usina. 😋👀✨⛈️🌋⚡️☄️🌷 # UsinadoHamburguer"
+          - generic [ref=e1324] [cursor=pointer]:
+            - generic [ref=e1325]:
+              - 'heading "Tem um que você nunca abre mão quando come Usina. Qual? 🍔 # UsinaDoHamburguer" [level=3] [ref=e1326]':
+                - 'button "Tem um que você nunca abre mão quando come Usina. Qual? 🍔 # UsinaDoHamburguer" [ref=e1328]':
+                  - 'img "Tem um que você nunca abre mão quando come Usina. Qual? 🍔 # UsinaDoHamburguer" [ref=e1331]'
+              - generic:
+                - generic: 6 dias atrás
+            - 'link "Instagram Tem um que você nunca abre mão quando come Usina. Qual? 🍔 # UsinaDoHamburguer" [ref=e1333]':
+              - /url: https://www.instagram.com/p/DTYn2akkbj2/
+              - generic [ref=e1338]: Instagram
+              - generic [ref=e1340]: "Tem um que você nunca abre mão quando come Usina. Qual? 🍔 # UsinaDoHamburguer"
+          - generic [ref=e1341] [cursor=pointer]:
+            - heading "Smash com bacon e cebola caramelizada passando na sua frente agora 🤤🤤" [level=3] [ref=e1343]:
+              - button "Smash com bacon e cebola caramelizada passando na sua frente agora 🤤🤤" [ref=e1345]:
+                - img "Smash com bacon e cebola caramelizada passando na sua frente agora 🤤🤤" [ref=e1348]
+            - link "Instagram Smash com bacon e cebola caramelizada passando na sua frente agora 🤤🤤" [ref=e1350]:
+              - /url: https://www.instagram.com/p/DAgyJFRPxXk/
+              - generic [ref=e1355]: Instagram
+              - generic [ref=e1357]: Smash com bacon e cebola caramelizada passando na sua frente agora 🤤🤤
+          - generic [ref=e1358] [cursor=pointer]:
+            - generic [ref=e1359]:
+              - heading "Isso não é um hamburguer. Isso é um movimento Na Usina, R$1 de cada hambúrguer vai direto pra quem precisa. Hamburguer para você. Vida melhor para todos. Topa transformar a sua fome" [level=3] [ref=e1360]:
+                - button "Isso não é um hamburguer. Isso é um movimento Na Usina, R$1 de cada hambúrguer vai direto pra quem precisa. Hamburguer para você. Vida melhor para todos. Topa transformar a sua fome" [ref=e1362]:
+                  - img "Isso não é um hamburguer. Isso é um movimento Na Usina, R$1 de cada hambúrguer vai direto pra quem precisa. Hamburguer para você. Vida melhor para todos. Topa transformar a sua fome" [ref=e1365]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Isso não é um hamburguer. Isso é um movimento Na Usina, R$1 de cada hambúrguer vai direto pra quem precisa. Hamburguer para você. Vida melhor para todos. Topa transformar a sua fome" [ref=e1367]:
+              - /url: https://www.instagram.com/p/DIw8-p-S7Xn/
+              - generic [ref=e1372]: Instagram
+              - generic [ref=e1374]: Isso não é um hamburguer. Isso é um movimento Na Usina, R$1 de cada hambúrguer vai direto pra quem precisa. Hamburguer para você. Vida melhor para todos. Topa transformar a sua fome
+        - generic [ref=e1377]:
+          - heading "Page Navigation" [level=1] [ref=e1378]
+          - generic [ref=e1379]:
+            - text: O restante dos resultados pode não ser o que você procura.
+            - link "Conferir mais mesmo assim" [ref=e1380] [cursor=pointer]:
+              - /url: "#"
+      - navigation
