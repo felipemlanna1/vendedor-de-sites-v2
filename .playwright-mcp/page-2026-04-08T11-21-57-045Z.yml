@@ -1,0 +1,125 @@
+- generic [ref=e5]:
+  - banner:
+    - generic [ref=e8]:
+      - generic [ref=e10]:
+        - generic:
+          - button [disabled]:
+            - img
+        - button "Facebook" [ref=e12] [cursor=pointer]:
+          - img "Facebook" [ref=e13]
+      - generic [ref=e18]:
+        - textbox "Email ou telefone" [ref=e21]
+        - textbox "Senha" [ref=e24]
+        - button "Entrar" [ref=e27] [cursor=pointer]:
+          - generic [ref=e31]: Entrar
+        - link "Esqueceu a conta?" [ref=e34] [cursor=pointer]:
+          - /url: https://www.facebook.com/recover/initiate?ars=royal_blue_bar
+  - main [ref=e41]:
+    - generic [ref=e42]:
+      - link [ref=e53] [cursor=pointer]:
+        - /url: https://www.facebook.com/photo/?fbid=1376284331175013&set=a.475387531264702
+      - generic [ref=e62]:
+        - link [ref=e65] [cursor=pointer]:
+          - /url: https://www.facebook.com/photo/?fbid=475387561264699&set=a.475387534598035&__tn__=%3C
+          - img [ref=e67]
+        - generic [ref=e73]:
+          - heading [level=1] [ref=e78]: Valle e Metzelthin Advogadas Associadas
+          - generic [ref=e80]:
+            - link [ref=e81] [cursor=pointer]:
+              - /url: https://www.facebook.com/advocaciaalinemetzelthin/followers/
+              - strong [ref=e82]: "340"
+              - text: seguidores
+            - text: •
+            - link [ref=e83] [cursor=pointer]:
+              - /url: https://www.facebook.com/advocaciaalinemetzelthin/following/
+              - text: Seguindo
+              - strong [ref=e84]: "3"
+    - generic [ref=e92]:
+      - tablist [ref=e100]:
+        - generic [ref=e102]:
+          - generic [ref=e103]:
+            - generic [ref=e104]: Mais
+            - img [ref=e106]
+          - tab [ref=e109] [cursor=pointer]:
+            - generic [ref=e111]: Posts
+          - tab [ref=e113] [cursor=pointer]:
+            - generic [ref=e115]: Sobre
+          - tab [selected] [ref=e117] [cursor=pointer]:
+            - generic [ref=e119]: Fotos
+      - button [ref=e123] [cursor=pointer]:
+        - img [ref=e125]
+    - generic [ref=e137]:
+      - heading [level=2] [ref=e142]:
+        - link [ref=e144] [cursor=pointer]:
+          - /url: https://www.facebook.com/advocaciaalinemetzelthin/photos
+          - text: Fotos
+      - tablist [ref=e148]:
+        - generic [ref=e150]:
+          - generic [ref=e151]:
+            - generic [ref=e152]: Mais
+            - img [ref=e154]
+          - tab [disabled] [selected] [ref=e157] [cursor=pointer]:
+            - generic [ref=e159]: Fotos de Valle e Metzelthin Advogadas Associadas
+          - tab [disabled] [ref=e161] [cursor=pointer]:
+            - generic [ref=e163]: Álbuns
+      - generic [ref=e165]:
+        - generic [ref=e166]:
+          - link [ref=e172] [cursor=pointer]:
+            - /url: https://www.facebook.com/photo.php?fbid=1376284331175013&set=pb.100063803760277.-2207520000&type=3
+            - img [ref=e173]
+          - link [ref=e179] [cursor=pointer]:
+            - /url: https://www.facebook.com/photo.php?fbid=1178654144271367&set=pb.100063803760277.-2207520000&type=3
+            - img [ref=e180]
+          - link [ref=e186] [cursor=pointer]:
+            - /url: https://www.facebook.com/photo.php?fbid=889639586506159&set=pb.100063803760277.-2207520000&type=3
+            - img [ref=e187]
+          - link [ref=e193] [cursor=pointer]:
+            - /url: https://www.facebook.com/photo.php?fbid=874919847978133&set=pb.100063803760277.-2207520000&type=3
+            - img [ref=e194]
+          - link [ref=e200] [cursor=pointer]:
+            - /url: https://www.facebook.com/photo.php?fbid=872752944861490&set=pb.100063803760277.-2207520000&type=3
+            - img [ref=e201]
+          - link [ref=e207] [cursor=pointer]:
+            - /url: https://www.facebook.com/photo.php?fbid=475387561264699&set=pb.100063803760277.-2207520000&type=3
+            - img [ref=e208]
+          - link [ref=e214] [cursor=pointer]:
+            - /url: https://www.facebook.com/photo.php?fbid=762176554520888&set=pb.100063803760277.-2207520000&type=3
+            - img [ref=e215]
+          - link [ref=e221] [cursor=pointer]:
+            - /url: https://www.facebook.com/photo.php?fbid=713589046046306&set=pb.100063803760277.-2207520000&type=3
+            - img [ref=e222]
+          - status [ref=e227]
+          - status [ref=e232]
+          - status [ref=e235]
+          - status [ref=e238]
+          - status [ref=e241]
+          - status [ref=e244]
+          - status [ref=e247]
+          - status [ref=e250]
+          - status [ref=e253]
+          - status [ref=e256]
+          - status [ref=e259]
+          - status [ref=e262]
+          - status [ref=e265]
+          - status [ref=e268]
+          - status [ref=e271]
+          - status [ref=e274]
+        - status [ref=e276]
+  - dialog [ref=e370]:
+    - button "Fechar" [ref=e372] [cursor=pointer]
+    - generic [ref=e379]:
+      - generic [ref=e382]: Ver mais no Facebook
+      - generic [ref=e387]:
+        - generic: Email ou telefone
+        - textbox "Email ou telefone" [active] [ref=e388]
+      - generic [ref=e393]:
+        - generic: Senha
+        - textbox "Senha" [ref=e394]
+      - button "Entrar no Facebook" [ref=e396] [cursor=pointer]:
+        - generic [ref=e399]: Entrar
+      - link "Esqueceu a senha?" [ref=e401] [cursor=pointer]:
+        - /url: https://www.facebook.com/recover/initiate?ars=royal_blue_bar
+        - generic [ref=e402]: Esqueceu a senha?
+      - generic [ref=e408]: ou
+      - button "Criar nova conta" [ref=e412] [cursor=pointer]:
+        - generic [ref=e415]: Criar nova conta

@@ -3,13 +3,13 @@ import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom'
 import Lenis from 'lenis'
 import { HelmetProvider } from 'react-helmet-async'
 import Navbar from './components/layout/Navbar'
-import Footer from './components/layout/Footer'
 import DeliveryBar from './components/layout/DeliveryBar'
+import Footer from './components/layout/Footer'
 import JsonLd from './components/seo/JsonLd'
 import Home from './pages/Home'
-import MenuPage from './pages/MenuPage'
-import HistoryPage from './pages/HistoryPage'
-import LocationsPage from './pages/LocationsPage'
+import Cardapio from './pages/Cardapio'
+import NossaHistoria from './pages/NossaHistoria'
+import Unidades from './pages/Unidades'
 
 function ScrollToTop() {
   const { pathname } = useLocation()
@@ -19,7 +19,7 @@ function ScrollToTop() {
   return null
 }
 
-function AppShell() {
+function AppContent() {
   useEffect(() => {
     const lenis = new Lenis({ lerp: 0.1, duration: 1.2, smoothWheel: true })
     function raf(time) {
@@ -34,17 +34,17 @@ function AppShell() {
     <>
       <ScrollToTop />
       <JsonLd />
+      <DeliveryBar />
       <Navbar />
       <main>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/cardapio" element={<MenuPage />} />
-          <Route path="/nossa-historia" element={<HistoryPage />} />
-          <Route path="/unidades" element={<LocationsPage />} />
+          <Route path="/cardapio" element={<Cardapio />} />
+          <Route path="/nossa-historia" element={<NossaHistoria />} />
+          <Route path="/unidades" element={<Unidades />} />
         </Routes>
       </main>
       <Footer />
-      <DeliveryBar />
     </>
   )
 }
@@ -53,7 +53,7 @@ export default function App() {
   return (
     <HelmetProvider>
       <BrowserRouter>
-        <AppShell />
+        <AppContent />
       </BrowserRouter>
     </HelmetProvider>
   )

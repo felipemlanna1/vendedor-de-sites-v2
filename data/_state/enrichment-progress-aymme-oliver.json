@@ -1,0 +1,472 @@
+{
+  "current_phase": 7,
+  "lead_id": "aymme-oliver",
+  "nome": "Aymme Oliver",
+  "cidade": "Florianópolis",
+  "nicho": "advogada",
+  "strategy": "legal",
+  "source": "instagram",
+  "discovered_urls": {
+    "site_url": "",
+    "instagram_username": "aymmeoliver",
+    "facebook_url": "https://www.facebook.com/people/Aymme-Oliver/pfbid027PGSW1GBiSH9B2UKi746YBEnh3qwBTUSWnM26VRVyRR6JnKxJuVLG1FZwx4YXszzl/",
+    "google_maps_url": "",
+    "platform_urls": {},
+    "linkedin_url": "https://www.linkedin.com/in/aymme-oliver-b46957165/"
+  },
+  "data_points": [
+    {
+      "category": "presence",
+      "label": "Instagram confirmado",
+      "value": "@aymmeoliver",
+      "detail": {
+        "followers": 5062,
+        "posts": 8,
+        "bio": "Advogada especialista em Processo Civil e Pós Graduada em Processo Penal",
+        "has_link_in_bio": false,
+        "platform": "instagram"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:12:14.849011"
+    },
+    {
+      "category": "presence",
+      "label": "LinkedIn encontrado",
+      "value": "https://www.linkedin.com/in/aymme-oliver-b46957165/",
+      "detail": {
+        "title": "Student at Universidade do Vale do Itajaí",
+        "location": "Santa Catarina",
+        "platform": "linkedin"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:12:14.849011"
+    },
+    {
+      "category": "presence",
+      "label": "Facebook encontrado",
+      "value": "https://www.facebook.com/people/Aymme-Oliver/pfbid027PGSW1GBiSH9B2UKi746YBEnh3qwBTUSWnM26VRVyRR6JnKxJuVLG1FZwx4YXszzl/",
+      "detail": {
+        "platform": "facebook"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:12:14.849011"
+    },
+    {
+      "category": "presence",
+      "label": "Sem site próprio",
+      "value": "Nenhum site profissional encontrado",
+      "detail": {
+        "has_website": false
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:12:14.849011"
+    },
+    {
+      "category": "history",
+      "label": "Formação acadêmica",
+      "value": "Universidade do Vale do Itajaí (Univali)",
+      "detail": {
+        "curso": "Direito",
+        "especializacao_1": "Processo Civil",
+        "pos_graduacao": "Processo Penal"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch + LinkedIn",
+      "fetched_at": "2026-04-08T08:12:14.849011"
+    },
+    {
+      "category": "presence",
+      "label": "Sem Google Maps",
+      "value": "Nenhum perfil Google Business encontrado",
+      "detail": {
+        "has_gmaps": false
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:12:14.849011"
+    },
+    {
+      "category": "presence",
+      "label": "Sem avaliações online",
+      "value": "Nenhuma avaliação encontrada em plataformas públicas",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:12:14.849011"
+    },
+    {
+      "category": "identity",
+      "label": "CNPJ",
+      "value": "Não encontrado",
+      "detail": {
+        "nota": "Nenhum CNPJ encontrado associado a Aymme Oliver. Possivelmente atua como pessoa física ou em escritório de terceiros."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:13:41.013115"
+    },
+    {
+      "category": "professional_registry",
+      "label": "OAB",
+      "value": "Não encontrado via WebSearch",
+      "detail": {
+        "nota": "Nenhum registro OAB encontrado via buscas web. CNA da OAB requer formulário dinâmico. Bio do Instagram confirma que é advogada especialista em Processo Civil e Pós-Graduada em Processo Penal.",
+        "formacao": "Universidade do Vale do Itajaí (Univali)",
+        "especializacao": "Processo Civil",
+        "pos_graduacao": "Processo Penal",
+        "seccional_provavel": "OAB/SC"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch + CNA OAB",
+      "fetched_at": "2026-04-08T08:13:41.013115"
+    },
+    {
+      "category": "identity",
+      "label": "JusBrasil",
+      "value": "Não encontrado",
+      "detail": {
+        "nota": "Nenhum perfil ou processo encontrado no JusBrasil para Aymme Oliver"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:13:41.013115"
+    },
+    {
+      "category": "website",
+      "label": "Website",
+      "value": "Não possui site",
+      "detail": {
+        "status": "sem_site"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-08T08:14:13.005615"
+    },
+    {
+      "category": "sales_channels",
+      "label": "JusBrasil",
+      "value": "Não encontrado",
+      "detail": {
+        "platform": "jusbrasil",
+        "status": "sem_perfil"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:15:14.774469"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Escavador",
+      "value": "Não encontrado",
+      "detail": {
+        "platform": "escavador",
+        "status": "sem_perfil"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:15:14.774469"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Reclame Aqui",
+      "value": "Não encontrado",
+      "detail": {
+        "platform": "reclameaqui",
+        "status": "sem_perfil"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:15:14.774469"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Google Maps",
+      "value": "Não encontrado",
+      "detail": {
+        "platform": "google_maps",
+        "status": "sem_perfil"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:15:14.774469"
+    },
+    {
+      "category": "images",
+      "label": "Foto de perfil Instagram",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.75761-19/508396342_18509627140060975_6532571684207189494_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=7-5&_nc_sid=bf7eb4",
+      "detail": {
+        "urls": [
+          "https://scontent-poa1-1.cdninstagram.com/v/t51.75761-19/508396342_18509627140060975_6532571684207189494_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=7-5&_nc_sid=bf7eb4",
+          "https://scontent-poa1-1.cdninstagram.com/v/t51.2885-19/508396342_18509627140060975_6532571684207189494_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-poa1-1.cdninstagram.com&_nc_cat=107"
+        ],
+        "tipo": "profile_pic",
+        "fonte": "Playwright (Instagram perfil)",
+        "width": 100,
+        "height": 100
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T08:23:40.515278"
+    },
+    {
+      "category": "images",
+      "label": "Post Instagram - Season 26, Episode 1 - selfie",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/626240331_18555829975060975_927256309338477779_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107",
+      "detail": {
+        "urls": [
+          "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/626240331_18555829975060975_927256309338477779_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107"
+        ],
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post DUZM5FAEqEV)",
+        "width": 1179,
+        "height": 1572,
+        "alt": "Season 26, Episode 1 - selfie"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T08:23:40.515278"
+    },
+    {
+      "category": "images",
+      "label": "Post Instagram - Season 26, Episode 1 - foto 2, hair",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/627392357_18555829966060975_9157441013941709724_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101",
+      "detail": {
+        "urls": [
+          "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/627392357_18555829966060975_9157441013941709724_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101"
+        ],
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post DUZM5FAEqEV)",
+        "width": 1179,
+        "height": 1572,
+        "alt": "Season 26, Episode 1 - foto 2, hair"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T08:23:40.515278"
+    },
+    {
+      "category": "images",
+      "label": "Post Instagram - summer and calm days",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/609896643_18548594386060975_8907851764182814620_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102",
+      "detail": {
+        "urls": [
+          "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/609896643_18548594386060975_8907851764182814620_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102"
+        ],
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post DTCFZ0ejCbL)",
+        "width": 1179,
+        "height": 1571,
+        "alt": "summer and calm days"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T08:23:40.515278"
+    },
+    {
+      "category": "images",
+      "label": "Post Instagram - Some memories",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/542826580_18524278954060975_3751706195246961053_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101",
+      "detail": {
+        "urls": [
+          "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/542826580_18524278954060975_3751706195246961053_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101"
+        ],
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post DORJdYeETt0)",
+        "width": 1284,
+        "height": 1575,
+        "alt": "Some memories"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T08:23:40.515278"
+    },
+    {
+      "category": "images",
+      "label": "Post Instagram - Um agosto bem vivido!",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/539965393_18522262783060975_5477351556703687425_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104",
+      "detail": {
+        "urls": [
+          "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/539965393_18522262783060975_5477351556703687425_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104"
+        ],
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post DN0ceqC4oH1)",
+        "width": 1284,
+        "height": 1712,
+        "alt": "Um agosto bem vivido!"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T08:23:40.515278"
+    },
+    {
+      "category": "images",
+      "label": "Post Instagram - Foto profissional Aymme Oliver Advogada",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.75761-15/509226739_18509629903060975_2421177951643765681_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110",
+      "detail": {
+        "urls": [
+          "https://scontent-poa1-1.cdninstagram.com/v/t51.75761-15/509226739_18509629903060975_2421177951643765681_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110"
+        ],
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post DLACYkDgIjQ)",
+        "width": 1440,
+        "height": 1799,
+        "alt": "Foto profissional Aymme Oliver Advogada"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T08:23:40.515278"
+    },
+    {
+      "category": "images",
+      "label": "Post Instagram - Foto lifestyle",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.75761-15/500477138_18505038586060975_3589281046542832145_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104",
+      "detail": {
+        "urls": [
+          "https://scontent-poa1-1.cdninstagram.com/v/t51.75761-15/500477138_18505038586060975_3589281046542832145_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104"
+        ],
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post DKFp3Hnpl4K)",
+        "width": 1284,
+        "height": 1605,
+        "alt": "Foto lifestyle"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T08:23:40.515278"
+    },
+    {
+      "category": "images",
+      "label": "Post Instagram - Foto post antigo",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/654957356_18061897157347905_4515051795372149329_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=103",
+      "detail": {
+        "urls": [
+          "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/654957356_18061897157347905_4515051795372149329_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=103"
+        ],
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post C-kl-8igpnB)",
+        "width": 1440,
+        "height": 1800,
+        "alt": "Foto post antigo"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T08:23:40.515278"
+    },
+    {
+      "category": "images",
+      "label": "OG Image - Post mais recente",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/629331676_18555829996060975_5225109598135137074_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74",
+      "detail": {
+        "urls": [
+          "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/629331676_18555829996060975_5225109598135137074_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74"
+        ],
+        "tipo": "post",
+        "fonte": "Playwright (og:image post DUZM5FAEqEV)",
+        "width": 640,
+        "height": 640
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T08:23:40.515278"
+    },
+    {
+      "category": "presence",
+      "label": "Instagram dados confirmados (MCP)",
+      "value": "@aymmeoliver",
+      "detail": {
+        "full_name": "Aymme Oliver | Advogada",
+        "user_id": "370364974",
+        "bio": "Especialista em Processo Civil / Pós Graduada em Processo Penal / Florianópolis/SC",
+        "followers": 5062,
+        "following": 2666,
+        "posts": 8,
+        "is_business": true,
+        "is_private": false,
+        "external_url": "",
+        "og_desc": "5,065 seguidores, seguindo 2,845, 8 posts",
+        "oldest_post": "2024-08-12",
+        "newest_post": "2026-02-05"
+      },
+      "source_type": "briefing",
+      "source_name": "Instagram MCP + Playwright",
+      "fetched_at": "2026-04-08T08:23:40.515278"
+    },
+    {
+      "category": "brand",
+      "label": "Padrões da marca",
+      "value": "Perfil lifestyle/pessoal com bio profissional, tom sofisticado e clean",
+      "detail": {
+        "cores": [
+          "tons neutros",
+          "preto",
+          "branco",
+          "beige"
+        ],
+        "tom": "sofisticado-casual, mix de lifestyle pessoal com identidade profissional",
+        "publico_alvo": "Clientes particulares buscando advogada processualista em Florianópolis, perfil feminino jovem-adulto",
+        "estilo_visual": "Lifestyle sofisticado, fotos pessoais de alta qualidade, poucos posts (8), sem conteúdo jurídico educativo",
+        "slogan": "Não identificado"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-08T08:25:11.161445"
+    },
+    {
+      "category": "competitors",
+      "label": "Concorrentes com site",
+      "value": "5 encontrados",
+      "detail": [
+        "Faquetti Advocacia - https://www.faquettiadvocacia.com.br/",
+        "Pedro de Queiroz Advocacia - https://pedrodequeiroz.adv.br/",
+        "Morais & Tavares Advogados - https://moraistavares.adv.br/",
+        "Viviane Advocacia - https://vivianeadvocacia.com.br/",
+        "Telini & Falk Advogados - https://www.telini.adv.br/"
+      ],
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:25:11.161445"
+    }
+  ],
+  "phases": {
+    "phase_1": {
+      "status": "complete",
+      "completed_at": "2026-04-08T08:10:38.022073"
+    },
+    "phase_2": {
+      "status": "complete",
+      "result": "3 URLs descobertas, 7 data_points",
+      "completed_at": "2026-04-08T08:12:14.849011"
+    },
+    "phase_3": {
+      "status": "complete",
+      "result": "3 data_points (CNPJ nao encontrado, OAB nao confirmado via web)",
+      "completed_at": "2026-04-08T08:13:41.013115"
+    },
+    "phase_4": {
+      "status": "complete",
+      "result": "Sem site - 1 data_point registrado",
+      "completed_at": "2026-04-08T08:14:13.005615"
+    },
+    "phase_5": {
+      "status": "complete",
+      "result": "Nenhuma plataforma encontrada. 4 data_points registrados.",
+      "completed_at": "2026-04-08T08:15:14.774469"
+    },
+    "phase_6": {
+      "status": "complete",
+      "result": "11 data_points (8 post images + 1 profile pic + 1 og:image + 1 presenca)",
+      "completed_at": "2026-04-08T08:23:40.515278"
+    },
+    "phase_7": {
+      "status": "complete",
+      "result": "Briefing salvo no vendedor.db",
+      "completed_at": "2026-04-08T08:25:11.161445"
+    }
+  },
+  "started_at": "2026-04-08T08:10:38.022069",
+  "completed_at": "2026-04-08T08:25:11.161445"
+}

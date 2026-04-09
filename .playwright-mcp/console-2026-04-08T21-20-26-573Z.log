@@ -1,0 +1,6 @@
+[     573ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5180/node_modules/.vite/deps/react-dom_client.js?v=6674ab09:20102
+[     603ms] [ERROR] Invalid DOM property `%s`. Did you mean `%s`? fetchpriority fetchPriority @ http://localhost:5180/node_modules/.vite/deps/react-dom_client.js?v=6674ab09:2396
+[     682ms] [ERROR] Error: <ellipse> attribute rx: Expected length, "undefined". @ http://localhost:5180/node_modules/.vite/deps/motion_react.js?v=6674ab09:5875
+[     682ms] [ERROR] Error: <ellipse> attribute rx: Expected length, "undefined". @ http://localhost:5180/node_modules/.vite/deps/motion_react.js?v=6674ab09:5875
+[     682ms] [ERROR] Error: <ellipse> attribute ry: Expected length, "undefined". @ http://localhost:5180/node_modules/.vite/deps/motion_react.js?v=6674ab09:5875
+[     682ms] [ERROR] Error: <ellipse> attribute ry: Expected length, "undefined". @ http://localhost:5180/node_modules/.vite/deps/motion_react.js?v=6674ab09:5875

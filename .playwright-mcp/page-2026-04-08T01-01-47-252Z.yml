@@ -1,0 +1,325 @@
+- generic [ref=e8]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - link "Instagram" [ref=e21] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e26]
+      - generic [ref=e29]:
+        - link "Página inicial" [ref=e34] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e39]
+        - link "Reels" [ref=e44] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e49]
+        - link "Mensagens" [ref=e56] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e61]
+        - link "Pesquisa" [ref=e67] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e72]
+        - link "Notificações" [ref=e79] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e84]
+        - link "Novo post" [ref=e92] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e97]
+        - link "Foto do perfil de _pipelinestudio" [ref=e103] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e108]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e109]
+      - generic [ref=e110]:
+        - link "Configurações" [ref=e113] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e118]
+        - link "Também da Meta" [ref=e121] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e126]
+    - generic [ref=e129]:
+      - main [ref=e130]:
+        - generic [ref=e132]:
+          - generic [ref=e133]:
+            - generic [ref=e134]:
+              - button "Foto do perfil de draiaratavares" [ref=e139] [cursor=pointer]:
+                - link "Foto do perfil de draiaratavares" [ref=e141]:
+                  - img "Foto do perfil de draiaratavares" [ref=e142]
+              - generic [ref=e143]:
+                - generic [ref=e144]:
+                  - generic [ref=e145]:
+                    - link "draiaratavares" [ref=e147] [cursor=pointer]:
+                      - /url: "#"
+                      - heading "draiaratavares" [level=2] [ref=e148]:
+                        - generic [ref=e149]: draiaratavares
+                    - button "Opções" [ref=e151] [cursor=pointer]:
+                      - img "Opções" [ref=e153]
+                  - generic [ref=e158]: Iara Tavares | Harmonização Facial
+                  - generic [ref=e159]:
+                    - generic [ref=e161]:
+                      - generic [ref=e162]: "285"
+                      - text: posts
+                    - link "7.517 seguidores" [ref=e164] [cursor=pointer]:
+                      - /url: /draiaratavares/followers/
+                      - generic [ref=e165]:
+                        - generic "7.517" [ref=e166]
+                        - text: seguidores
+                    - link "1.524 seguindo" [ref=e168] [cursor=pointer]:
+                      - /url: /draiaratavares/following/
+                      - generic [ref=e169]:
+                        - generic [ref=e170]: "1.524"
+                        - text: seguindo
+                - generic [ref=e172]:
+                  - button "Esculpindo e elevando a sua beleza ✨ Cirurgiã Dentista - CRO 55.104 Raul Soares - MG Informações e agendamento👇🏼" [ref=e174] [cursor=pointer]:
+                    - generic [ref=e175]:
+                      - text: Esculpindo e elevando a sua beleza ✨
+                      - text: Cirurgiã Dentista - CRO 55.104
+                      - text: Raul Soares - MG
+                      - text: Informações e agendamento👇🏼
+                  - heading [level=1]
+            - generic [ref=e180]:
+              - button "Seguir" [ref=e182] [cursor=pointer]:
+                - generic [ref=e184]: Seguir
+              - button "Enviar mensagem" [ref=e186] [cursor=pointer]
+              - button "Contas semelhantes" [ref=e188] [cursor=pointer]:
+                - img "Contas semelhantes" [ref=e190]
+            - menu [ref=e194]:
+              - list [ref=e198]:
+                - listitem [ref=e199]
+                - listitem [ref=e200]
+                - listitem [ref=e201]:
+                  - link "Ver destaque de Viagens" [ref=e204] [cursor=pointer]:
+                    - /url: /stories/highlights/18123040171350732/
+                    - button "Foto do story no destaque de draiaratavares Viagens" [ref=e205]:
+                      - button "Foto do story no destaque de draiaratavares" [ref=e206]:
+                        - img "Foto do story no destaque de draiaratavares" [ref=e209]
+                      - generic [ref=e212]: Viagens
+                - listitem [ref=e213]:
+                  - link "Ver destaque de Antes/Depois" [ref=e216] [cursor=pointer]:
+                    - /url: /stories/highlights/17921861291790974/
+                    - button "Foto do story no destaque de draiaratavares Antes/Depois" [ref=e217]:
+                      - button "Foto do story no destaque de draiaratavares" [ref=e218]:
+                        - img "Foto do story no destaque de draiaratavares" [ref=e221]
+                      - generic [ref=e224]: Antes/Depois
+                - listitem [ref=e225]:
+                  - link "Ver destaque de Experiência" [ref=e228] [cursor=pointer]:
+                    - /url: /stories/highlights/18056531911569204/
+                    - button "Foto do story no destaque de draiaratavares Experiência" [ref=e229]:
+                      - button "Foto do story no destaque de draiaratavares" [ref=e230]:
+                        - img "Foto do story no destaque de draiaratavares" [ref=e233]
+                      - generic [ref=e236]: Experiência
+                - listitem [ref=e237]:
+                  - link "Ver destaque de Clínica" [ref=e240] [cursor=pointer]:
+                    - /url: /stories/highlights/18030521050935554/
+                    - button "Foto do story no destaque de draiaratavares Clínica" [ref=e241]:
+                      - button "Foto do story no destaque de draiaratavares" [ref=e242]:
+                        - img "Foto do story no destaque de draiaratavares" [ref=e245]
+                      - generic [ref=e248]: Clínica
+          - generic [ref=e249]:
+            - tablist [ref=e250]:
+              - link "Posts" [ref=e252] [cursor=pointer]:
+                - /url: /draiaratavares/
+                - img "Posts" [ref=e254]
+              - link "Reels" [ref=e265] [cursor=pointer]:
+                - /url: /draiaratavares/reels/
+                - img "Reels" [ref=e267]
+              - link "Marcados" [ref=e270] [cursor=pointer]:
+                - /url: /draiaratavares/tagged/
+                - img "Marcados" [ref=e272]
+            - tabpanel
+          - generic [ref=e362]:
+            - generic [ref=e363]:
+              - link "Esse caso tinhaaa que vir para o feed! Realçando a beleza da @afotografaaa 😍 Ícone de post fixado" [ref=e365] [cursor=pointer]:
+                - /url: /draiaratavares/p/DRvM-ePCW7Q/
+                - img "Esse caso tinhaaa que vir para o feed! Realçando a beleza da @afotografaaa 😍" [ref=e368]
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Ícone de post fixado"
+              - link "Mais harmonia, contornos definidos e uma imagem que transmite força e confiança! 🤩 Ícone de post fixado" [ref=e371] [cursor=pointer]:
+                - /url: /draiaratavares/p/DQIP7ehDSmq/
+                - img "Mais harmonia, contornos definidos e uma imagem que transmite força e confiança! 🤩" [ref=e374]
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Ícone de post fixado"
+              - link "Photo by Iara Tavares | Harmonização Facial in Raul Soares. Ícone de post fixado" [ref=e377] [cursor=pointer]:
+                - /url: /draiaratavares/p/CrPBs8qrMAy/
+                - img "Photo by Iara Tavares | Harmonização Facial in Raul Soares." [ref=e380]
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Ícone de post fixado"
+            - generic [ref=e382]:
+              - link "As vezes, um detalhe muda tudo! 😍 O preenchimento labial não só valoriza os lábios, ele traz harmonia para o rosto e rejuvenesce o paciente de uma forma surpreendente! Clipe" [ref=e384] [cursor=pointer]:
+                - /url: /draiaratavares/reel/DWZAv1FjQJ1/
+                - img "As vezes, um detalhe muda tudo! 😍 O preenchimento labial não só valoriza os lábios, ele traz harmonia para o rosto e rejuvenesce o paciente de uma forma surpreendente!" [ref=e387]
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Clipe"
+              - link "CAMPEÃS!! 🏆🥇 Obrigada pela parceria dupla!! Você joga muitoooo! Que venham muito mais torneios juntinhas! 🤍 Carrossel" [ref=e390] [cursor=pointer]:
+                - /url: /draiaratavares/p/DWM3n0Bifvd/
+                - img "CAMPEÃS!! 🏆🥇 Obrigada pela parceria dupla!! Você joga muitoooo! Que venham muito mais torneios juntinhas! 🤍" [ref=e393]
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Carrossel"
+              - link "Completamente apaixonada pela Toscana! 🇮🇹 - Florença - Montepulciano - Pienza - San Quirico d’Orcia 📍 Carrossel" [ref=e396] [cursor=pointer]:
+                - /url: /draiaratavares/p/DWFPsN8CZWj/
+                - img "Completamente apaixonada pela Toscana! 🇮🇹 - Florença - Montepulciano - Pienza - San Quirico d’Orcia 📍" [ref=e399]
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Carrossel"
+            - generic [ref=e401]:
+              - link "SIM SIM SIMMMMM! Mil vezes sim para o amor da minha vida! ❤️ Carrossel" [ref=e403] [cursor=pointer]:
+                - /url: /draiaratavares/p/DVrpb17CPYM/
+                - img "SIM SIM SIMMMMM! Mil vezes sim para o amor da minha vida! ❤️" [ref=e406]
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Carrossel"
+              - link "🇮🇹 Carrossel" [ref=e409] [cursor=pointer]:
+                - /url: /draiaratavares/p/DVpDOA3iKVG/
+                - img "🇮🇹" [ref=e412]
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Carrossel"
+              - 'link "Aberta a temporada de gelatos, pastas, pizzas, vinhos e de tudo que faz a Itália ser simplesmente maravilhosa! 🍨 🍕 🍝 🍷 🇮🇹 #italia #roma #colosseo #casal #trend Clipe" [ref=e415] [cursor=pointer]':
+                - /url: /draiaratavares/reel/DVl3Pb4CCpy/
+                - 'img "Aberta a temporada de gelatos, pastas, pizzas, vinhos e de tudo que faz a Itália ser simplesmente maravilhosa! 🍨 🍕 🍝 🍷 🇮🇹 #italia #roma #colosseo #casal #trend" [ref=e418]'
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Clipe"
+            - generic [ref=e420]:
+              - link "Dia de cuidar da Marcely! 💕 Um pequeno ajuste que faz uma grande diferença no perfil! 😍 Clipe" [ref=e422] [cursor=pointer]:
+                - /url: /draiaratavares/reel/DVhM9tVCVvQ/
+                - img "Dia de cuidar da Marcely! 💕 Um pequeno ajuste que faz uma grande diferença no perfil! 😍" [ref=e425]
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Clipe"
+              - link "Que honra fazer parte desse momento tão especial! Ontem foi dia de cuidar dessa noivinha linda e realçar ainda mais a beleza dela para o grande dia! 💍 💎 Clipe" [ref=e428] [cursor=pointer]:
+                - /url: /draiaratavares/reel/DVTeJaZDfr9/
+                - img "Que honra fazer parte desse momento tão especial! Ontem foi dia de cuidar dessa noivinha linda e realçar ainda mais a beleza dela para o grande dia! 💍 💎" [ref=e431]
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Clipe"
+              - 'link "Celebrando o amor! 🤎 Vestido: @lucreciaatelier Carrossel" [ref=e434] [cursor=pointer]':
+                - /url: /draiaratavares/p/DVE346FCac9/
+                - 'img "Celebrando o amor! 🤎 Vestido: @lucreciaatelier" [ref=e437]'
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Carrossel"
+      - contentinfo [ref=e290]:
+        - generic [ref=e291]:
+          - generic [ref=e293]:
+            - link "Meta" [ref=e295] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e296]: Meta
+            - link "Sobre" [ref=e298] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e299]: Sobre
+            - link "Blog" [ref=e301] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e302]: Blog
+            - link "Carreiras" [ref=e304] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e305]: Carreiras
+            - link "Ajuda" [ref=e307] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e308]: Ajuda
+            - link "API" [ref=e310] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e311]: API
+            - link "Privacidade" [ref=e313] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e314]: Privacidade
+            - link "Termos" [ref=e316] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e317]: Termos
+            - link "Localizações" [ref=e319] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e320]: Localizações
+            - link "Instagram Lite" [ref=e322] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e323]: Instagram Lite
+            - link "Meta AI" [ref=e325] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e326]: Meta AI
+            - link "Threads" [ref=e328] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e329]: Threads
+            - link "Upload de contatos e não usuários" [ref=e331] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e332]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e334] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e335]: Meta Verified
+          - generic [ref=e336]:
+            - generic [ref=e337] [cursor=pointer]:
+              - generic [ref=e338]:
+                - generic [ref=e339]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e342]
+              - combobox "Trocar idioma de exibição" [ref=e344]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e346]: © 2026 Instagram from Meta
+  - button "Mensagens" [ref=e349] [cursor=pointer]:
+    - generic "Mensagens" [ref=e350]:
+      - generic [ref=e351]:
+        - img "Mensagens" [ref=e354]
+        - generic [ref=e357]: Mensagens

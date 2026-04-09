@@ -1,0 +1,265 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e86] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e91]
+        - link "Foto do perfil de _pipelinestudio" [ref=e97] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e102]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e103]
+      - generic [ref=e104]:
+        - link "Configurações" [ref=e107] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e112]
+        - link "Também da Meta" [ref=e115] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e120]
+    - generic [ref=e123]:
+      - main [ref=e124]:
+        - generic [ref=e125]:
+          - generic [ref=e127]:
+            - button [ref=e132]:
+              - generic [ref=e139]:
+                - list [ref=e141]:
+                  - listitem [ref=e142]
+                  - listitem [ref=e143]:
+                    - generic [ref=e148] [cursor=pointer]:
+                      - button [ref=e149]:
+                        - img [ref=e151]
+                      - button [ref=e154]:
+                        - img [ref=e156]
+                  - listitem [ref=e158]:
+                    - img [ref=e165]
+                - button [ref=e167] [cursor=pointer]
+            - generic [ref=e170]:
+              - generic [ref=e172]:
+                - generic [ref=e174]:
+                  - link "Foto do perfil de dra.rafaellalibano" [ref=e175]:
+                    - img "Foto do perfil de dra.rafaellalibano" [ref=e176]
+                  - link "Foto do perfil de hospitalsaolucascb" [ref=e179]:
+                    - img "Foto do perfil de hospitalsaolucascb" [ref=e180]
+                - generic [ref=e184]:
+                  - generic [ref=e187]:
+                    - link "hospitalsaolucascb" [ref=e192] [cursor=pointer]:
+                      - /url: /hospitalsaolucascb/
+                      - generic [ref=e195]: hospitalsaolucascb
+                    - text: e
+                    - link "dra.rafaellalibano" [ref=e200] [cursor=pointer]:
+                      - /url: /dra.rafaellalibano/
+                      - generic [ref=e203]: dra.rafaellalibano
+                  - link "Campo Belo" [ref=e207] [cursor=pointer]:
+                    - /url: /explore/locations/297806134/campo-belo/
+                - button "Mais opções" [ref=e210] [cursor=pointer]:
+                  - img "Mais opções" [ref=e213]
+              - separator [ref=e217]
+              - generic [ref=e219]:
+                - generic [ref=e221]:
+                  - link "Foto do perfil de hospitalsaolucascb" [ref=e226] [cursor=pointer]:
+                    - /url: /hospitalsaolucascb/
+                    - img "Foto do perfil de hospitalsaolucascb" [ref=e227]
+                  - generic [ref=e231]:
+                    - generic [ref=e232]:
+                      - link "hospitalsaolucascb" [ref=e236] [cursor=pointer]:
+                        - /url: /hospitalsaolucascb/
+                        - generic [ref=e239]: hospitalsaolucascb
+                      - time [ref=e241]: 6 sem
+                    - generic [ref=e242]:
+                      - text: Seu cansaço pode ter uma causa e ela merece ser investigada.
+                      - text: Alterações hormonais impactam diretamente sua energia, seu sono e seu bem-estar. Com a avaliação adequada e os exames corretos, é possível identificar o que está acontecendo e cuidar da sua saúde de forma precisa.
+                      - text: Aqui no Hospital São Lucas, contamos com a especialista em Endocrinologia, Dra Rafaella Libano.
+                      - text: Agende sua consulta e seus exames.
+                      - text: Cuidar da sua saúde é o primeiro passo para voltar a se sentir bem.
+                      - text: 📲 (35) 3831-1144
+                - generic [ref=e245]:
+                  - heading "Ainda não há nenhum comentário." [level=2] [ref=e247]
+                  - generic [ref=e249]: Inicie a conversa.
+              - generic [ref=e250]:
+                - generic [ref=e251]:
+                  - generic [ref=e252]:
+                    - button "Curtir" [ref=e255] [cursor=pointer]:
+                      - img "Curtir" [ref=e258]
+                    - button "19" [ref=e260] [cursor=pointer]
+                    - button "Comentar" [ref=e262] [cursor=pointer]:
+                      - img "Comentar" [ref=e264]
+                    - button "Compartilhar" [ref=e266] [cursor=pointer]:
+                      - img "Compartilhar" [ref=e267]
+                  - button "Salvar" [ref=e272] [cursor=pointer]:
+                    - button "Salvar" [ref=e273]:
+                      - img "Salvar" [ref=e275]
+                - link "24 de fevereiro" [ref=e279] [cursor=pointer]:
+                  - /url: /hospitalsaolucascb/p/DVJ1fRDkWB9/
+                  - time [ref=e281]: 24 de fevereiro
+              - generic [ref=e284]:
+                - link [ref=e285]
+                - generic [ref=e287]:
+                  - button "Emoji" [ref=e289] [cursor=pointer]:
+                    - img "Emoji" [ref=e291]
+                  - textbox "Adicione um comentário..." [ref=e293]
+          - separator [ref=e295]
+          - generic [ref=e296]:
+            - generic [ref=e298]:
+              - text: Mais posts de
+              - link "hospitalsaolucascb" [ref=e299] [cursor=pointer]:
+                - /url: /hospitalsaolucascb/
+            - generic [ref=e302]:
+              - generic [ref=e303]:
+                - 'link "🩺 Nosso muito obrigada a esses verdadeiros Heróis da medicina! 🙏🏻Feliz dia de todos os dias🙏🏻 #hospitalsãolucas #medico #saude#medicina Clipe" [ref=e305] [cursor=pointer]':
+                  - /url: /hospitalsaolucascb/reel/DBRJD0oPlDM/
+                  - 'img "🩺 Nosso muito obrigada a esses verdadeiros Heróis da medicina! 🙏🏻Feliz dia de todos os dias🙏🏻 #hospitalsãolucas #medico #saude#medicina" [ref=e308]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - link "Carrossel" [ref=e311] [cursor=pointer]:
+                  - /url: /hospitalsaolucascb/p/C5WfIALqIJV/
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - link "Photo by Hospital São Lucas in Campo Belo." [ref=e316] [cursor=pointer]:
+                  - /url: /hospitalsaolucascb/p/CtcXV4pvDwG/
+                  - img "Photo by Hospital São Lucas in Campo Belo." [ref=e319]
+              - generic [ref=e321]:
+                - 'link "A descoberta mais emocionante da gestação começa aqui 💙💖 A sexagem fetal é um exame simples, rápido e seguro que permite identificar o sexo do bebê a partir de uma amostra de sangue da mãe — e o melhor: pode ser feito precocemente, trazendo ainda mais alegria para esse momento único! No Hospital São Lucas, você conta com um laboratório preparado, equipe qualificada e toda a confiança que esse momento merece. Antecipe essa emoção e descubra se vem príncipe ou princesa 👶✨ Em caso de dúvidas, procure o laboratório do Hospital São Lucas. #SexagemFetal #Gestação #DescobertaDoBebê #Gravidez #Mamãe Papai Exames HospitalSãoLucas Saúde Emoção BebêACaminho Clipe" [ref=e323] [cursor=pointer]':
+                  - /url: /hospitalsaolucascb/reel/DW3hX7MkTRj/
+                  - 'img "A descoberta mais emocionante da gestação começa aqui 💙💖 A sexagem fetal é um exame simples, rápido e seguro que permite identificar o sexo do bebê a partir de uma amostra de sangue da mãe — e o melhor: pode ser feito precocemente, trazendo ainda mais alegria para esse momento único! No Hospital São Lucas, você conta com um laboratório preparado, equipe qualificada e toda a confiança que esse momento merece. Antecipe essa emoção e descubra se vem príncipe ou princesa 👶✨ Em caso de dúvidas, procure o laboratório do Hospital São Lucas. #SexagemFetal #Gestação #DescobertaDoBebê #Gravidez #Mamãe Papai Exames HospitalSãoLucas Saúde Emoção BebêACaminho" [ref=e326]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - link "Photo by Hospital São Lucas in Campo Belo. May be an image of tablet and text that says 'SÃOLUCAS HOSPITAL SÃO LUCAS វក Be + Segredos para ENVELHE ELHECER CER com saude Leia Leiaa a legenda や'." [ref=e329] [cursor=pointer]:
+                  - /url: /hospitalsaolucascb/p/DW1n4Bakbfu/
+                  - img "Photo by Hospital São Lucas in Campo Belo. May be an image of tablet and text that says 'SÃOLUCAS HOSPITAL SÃO LUCAS វក Be + Segredos para ENVELHE ELHECER CER com saude Leia Leiaa a legenda や'." [ref=e332]
+                - link "Photo by Hospital São Lucas in Campo Belo. May be an image of poster, Easter egg and text that says 'W HOSPITAL SÃO LUCAS ក + FELIZ pascoa a Abra seu coração para transformação celebre a vida nesta Páscoa! + mA0'." [ref=e335] [cursor=pointer]:
+                  - /url: /hospitalsaolucascb/p/DWv5TbGEdYm/
+                  - img "Photo by Hospital São Lucas in Campo Belo. May be an image of poster, Easter egg and text that says 'W HOSPITAL SÃO LUCAS ក + FELIZ pascoa a Abra seu coração para transformação celebre a vida nesta Páscoa! + mA0'." [ref=e338]
+      - contentinfo [ref=e340]:
+        - generic [ref=e341]:
+          - generic [ref=e343]:
+            - link "Meta" [ref=e345] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e346]: Meta
+            - link "Sobre" [ref=e348] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e349]: Sobre
+            - link "Blog" [ref=e351] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e352]: Blog
+            - link "Carreiras" [ref=e354] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e355]: Carreiras
+            - link "Ajuda" [ref=e357] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e358]: Ajuda
+            - link "API" [ref=e360] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e361]: API
+            - link "Privacidade" [ref=e363] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e364]: Privacidade
+            - link "Termos" [ref=e366] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e367]: Termos
+            - link "Localizações" [ref=e369] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e370]: Localizações
+            - link "Instagram Lite" [ref=e372] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e373]: Instagram Lite
+            - link "Meta AI" [ref=e375] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e376]: Meta AI
+            - link "Threads" [ref=e378] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e379]: Threads
+            - link "Upload de contatos e não usuários" [ref=e381] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e382]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e384] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e385]: Meta Verified
+          - generic [ref=e386]:
+            - generic [ref=e387] [cursor=pointer]:
+              - generic [ref=e388]:
+                - generic [ref=e389]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e392]
+              - combobox "Trocar idioma de exibição" [ref=e394]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e396]: © 2026 Instagram from Meta
+  - button "Mensagens" [ref=e399] [cursor=pointer]:
+    - generic "Mensagens" [ref=e400]:
+      - generic [ref=e401]:
+        - img "Mensagens" [ref=e404]
+        - generic [ref=e407]: Mensagens

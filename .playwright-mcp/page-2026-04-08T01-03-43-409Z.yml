@@ -1,0 +1,294 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Ir para o conteúdo principal" [ref=e2] [cursor=pointer]
+      - link "Desativar a rolagem contínua" [ref=e3] [cursor=pointer]:
+        - /url: "#"
+      - link "Ajuda sobre acessibilidade" [ref=e4] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=pt-BR
+      - link "Feedback de acessibilidade" [ref=e5] [cursor=pointer]
+  - generic [ref=e10]:
+    - search [ref=e11]:
+      - generic [ref=e13]:
+        - link "Ir para a página inicial do Google" [ref=e15] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=pt-BR&sa=X&ved=0ahUKEwjoscDEh92TAxXrs5UCHcP6NX0QPAgK
+          - img [ref=e16]
+        - generic [ref=e18]:
+          - generic [ref=e19]:
+            - combobox "Pesquisar" [ref=e22]: draiaratavares site:instagram.com draiaratavares site:instagram.com
+            - generic [ref=e23]:
+              - button "Limpar" [ref=e25] [cursor=pointer]:
+                - img [ref=e27]
+              - generic [ref=e30]:
+                - button "Ferramentas de inserção de texto" [ref=e31] [cursor=pointer]:
+                  - img [ref=e33]
+                - button "Pesquisar por voz" [ref=e35] [cursor=pointer]:
+                  - img [ref=e36]
+                - button "Pesquisa por imagem" [ref=e38] [cursor=pointer]:
+                  - img [ref=e39]
+          - button "Pesquisar" [ref=e41] [cursor=pointer]:
+            - img [ref=e44]
+    - generic [ref=e46]:
+      - button "Configurações" [ref=e48] [cursor=pointer]:
+        - img [ref=e51]
+      - generic [ref=e54]:
+        - button "Google Apps" [ref=e56] [cursor=pointer]:
+          - img [ref=e57]
+        - link "Fazer login" [ref=e61] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=pt-BR&passive=true&continue=https://www.google.com/search%3Fq%3Ddraiaratavares%2Bsite:instagram.com%26udm%3D2&ec=futura_srp_og_si_72236_p
+  - generic [ref=e63]:
+    - navigation [ref=e68]:
+      - generic [ref=e69]:
+        - list [ref=e70]:
+          - listitem [ref=e71]:
+            - link "Modo IA" [ref=e74] [cursor=pointer]:
+              - /url: /search?q=draiaratavares+site:instagram.com&sca_esv=91f788fc0d48d683&udm=50&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB056b93wKmVeAAORa3GINFZT67RHmD8tBnhEcNAi-9cSkyUOnfW1dj70A8r-7Qd4s_sdVzBjEPQTM-e7jn02dSpjVryr0orHEWWj2G7_A1WYF-QAL3O5XftuUj2SmGsvMkxlybL3b8JS55HgIkHIZDdD-Wew6CYA0bUKlqzvCs99HSZDLjx54BidxQ4GJHdBCXpuahoWM&aep=1&ntc=1&sa=X&ved=2ahUKEwjoscDEh92TAxXrs5UCHcP6NX0Q2J8OegQIChAD
+              - generic [ref=e77]: Modo IA
+          - listitem [ref=e78]:
+            - link "Tudo" [ref=e79] [cursor=pointer]:
+              - /url: /search?sca_esv=91f788fc0d48d683&q=draiaratavares+site:instagram.com&source=lnms&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB056b93wKmVeAAORa3GINFZT67RHmD8tBnhEcNAi-9cSkyUOnfW1dj70A8r-7Qd4s_sdVzBjEPQTM-e7jn02dSpjVryr0orHEWWj2G7_A1WYF-QAL3O5XftuUj2SmGsvMkxlybL3b8JS55HgIkHIZDdD-Wew6CYA0bUKlqzvCs99HSZDLjx54BidxQ4GJHdBCXpuahoWM&sa=X&ved=2ahUKEwjoscDEh92TAxXrs5UCHcP6NX0Q0pQJegQICxAB
+              - generic [ref=e81]: Tudo
+          - listitem [ref=e82]:
+            - link "Imagens" [disabled] [ref=e83]:
+              - generic [ref=e85]: Imagens
+          - listitem [ref=e86]:
+            - link "Shopping" [ref=e87] [cursor=pointer]:
+              - /url: /search?sca_esv=91f788fc0d48d683&udm=28&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB056b93wKmVeAAORa3GINFZT67RHmD8tBnhEcNAi-9cSkyUOnfW1dj70A8r-7Qd4s_sdVzBjEPQTM-e7jn02dSpjVryr0orHEWWj2G7_A1WYF-QAL3O5XftuUj2SmGsvMkxlybL3b8JS55HgIkHIZDdD-Wew6CYA0bUKlqzvCs99HSZDLjx54BidxQ4GJHdBCXpuahoWM&q=draiaratavares+site:instagram.com&ved=1t:220175&ictx=111
+              - generic [ref=e89]: Shopping
+          - listitem [ref=e90]:
+            - link "Vídeos" [ref=e91] [cursor=pointer]:
+              - /url: /search?sca_esv=91f788fc0d48d683&udm=7&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB056b93wKmVeAAORa3GINFZT67RHmD8tBnhEcNAi-9cSkyUOnfW1dj70A8r-7Qd4s_sdVzBjEPQTM-e7jn02dSpjVryr0orHEWWj2G7_A1WYF-QAL3O5XftuUj2SmGsvMkxlybL3b8JS55HgIkHIZDdD-Wew6CYA0bUKlqzvCs99HSZDLjx54BidxQ4GJHdBCXpuahoWM&q=draiaratavares+site:instagram.com&sa=X&ved=2ahUKEwjoscDEh92TAxXrs5UCHcP6NX0QtKgLegQIDRAB
+              - generic [ref=e93]: Vídeos
+          - listitem [ref=e94]:
+            - link "Maps" [ref=e95] [cursor=pointer]:
+              - /url: https://maps.google.com/maps?sca_esv=91f788fc0d48d683&output=search&q=draiaratavares+site:instagram.com&source=lnms&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB056b93wKmVeAAORa3GINFZT67RHmD8tBnhEcNAi-9cSkyUOnfW1dj70A8r-7Qd4s_sdVzBjEPQTM-e7jn02dSpjVryr0orHEWWj2G7_A1WYF-QAL3O5XftuUj2SmGsvMkxlybL3b8JS55HgIkHIZDdD-Wew6CYA0bUKlqzvCs99HSZDLjx54BidxQ4GJHdBCXpuahoWM&entry=mc&ved=1t:200715&ictx=111
+              - generic [ref=e97]: Maps
+          - listitem [ref=e98]:
+            - link "Notícias" [ref=e99] [cursor=pointer]:
+              - /url: /search?sca_esv=91f788fc0d48d683&q=draiaratavares+site:instagram.com&tbm=nws&source=lnms&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB056b93wKmVeAAORa3GINFZT67RHmD8tBnhEcNAi-9cSkyUOnfW1dj70A8r-7Qd4s_sdVzBjEPQTM-e7jn02dSpjVryr0orHEWWj2G7_A1WYF-QAL3O5XftuUj2SmGsvMkxlybL3b8JS55HgIkHIZDdD-Wew6CYA0bUKlqzvCs99HSZDLjx54BidxQ4GJHdBCXpuahoWM&sa=X&ved=2ahUKEwjoscDEh92TAxXrs5UCHcP6NX0Q0pQJegQIDhAB
+              - generic [ref=e101]: Notícias
+          - listitem [ref=e102]:
+            - button "Mais filtros" [ref=e103] [cursor=pointer]:
+              - generic "Mais filtros" [ref=e104]:
+                - generic [ref=e105]:
+                  - generic [ref=e106]: Mais
+                  - img [ref=e108]
+        - button "Ferramentas" [ref=e111] [cursor=pointer]:
+          - generic [ref=e113]:
+            - generic [ref=e114]: Ferramentas
+            - img [ref=e116]
+    - heading "Resultados da pesquisa" [level=1] [ref=e118]
+    - main [ref=e120]:
+      - generic [ref=e126]:
+        - generic [ref=e129]:
+          - generic [ref=e130] [cursor=pointer]:
+            - generic [ref=e131]:
+              - 'heading "Tivemos o prazer de vestir a @draiaratavares com um jaleco que reflete exatamente o que a Mais Branco entrega: elegância, conforto e excelência em cada detalhe! Porque quem se dedica com excelência" [level=3] [ref=e132]':
+                - 'button "Tivemos o prazer de vestir a @draiaratavares com um jaleco que reflete exatamente o que a Mais Branco entrega: elegância, conforto e excelência em cada detalhe! Porque quem se dedica com excelência" [ref=e134]':
+                  - 'img "Tivemos o prazer de vestir a @draiaratavares com um jaleco que reflete exatamente o que a Mais Branco entrega: elegância, conforto e excelência em cada detalhe! Porque quem se dedica com excelência" [ref=e137]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Tivemos o prazer de vestir a @draiaratavares com um jaleco que reflete exatamente o que a Mais Branco entrega: elegância, conforto e excelência em cada detalhe! Porque quem se dedica com excelência" [ref=e139]':
+              - /url: https://www.instagram.com/reel/DJmHYDmtiJN/
+              - generic [ref=e144]: Instagram
+              - generic [ref=e146]: "Tivemos o prazer de vestir a @draiaratavares com um jaleco que reflete exatamente o que a Mais Branco entrega: elegância, conforto e excelência em cada detalhe! Porque quem se dedica com excelência"
+          - generic [ref=e147] [cursor=pointer]:
+            - heading "Trazendo essa foto de hoje para o feed a pedido das minhas amigas! ❤️ hahah Mais um diazinho no lugar que eu amo!" [level=3] [ref=e149]:
+              - button "Trazendo essa foto de hoje para o feed a pedido das minhas amigas! ❤️ hahah Mais um diazinho no lugar que eu amo!" [ref=e151]:
+                - img "Trazendo essa foto de hoje para o feed a pedido das minhas amigas! ❤️ hahah Mais um diazinho no lugar que eu amo!" [ref=e154]
+            - link "Instagram Trazendo essa foto de hoje para o feed a pedido das minhas amigas! ❤️ hahah Mais um diazinho no lugar que eu amo!" [ref=e156]:
+              - /url: https://www.instagram.com/p/C-6SHAiytbq/
+              - generic [ref=e161]: Instagram
+              - generic [ref=e163]: Trazendo essa foto de hoje para o feed a pedido das minhas amigas! ❤️ hahah Mais um diazinho no lugar que eu amo!
+          - generic [ref=e164] [cursor=pointer]:
+            - heading "Iara Tavares | Harmonização Facial (@draiaratavares) • Instagram photos and videos" [level=3] [ref=e166]:
+              - button "Iara Tavares | Harmonização Facial (@draiaratavares) • Instagram photos and videos" [ref=e168]:
+                - img "Iara Tavares | Harmonização Facial (@draiaratavares) • Instagram photos and videos" [ref=e171]
+            - link "Instagram Iara Tavares | Harmonização Facial (@draiaratavares) • Instagram photos and videos" [ref=e173]:
+              - /url: https://www.instagram.com/draiaratavares/
+              - generic [ref=e178]: Instagram
+              - generic [ref=e180]: Iara Tavares | Harmonização Facial (@draiaratavares) • Instagram photos and videos
+          - generic [ref=e181] [cursor=pointer]:
+            - generic [ref=e182]:
+              - heading "Ser mulher e ser médica é, todos os dias, ocupar um espaço com responsabilidade, escuta e presença. Na oftalmologia pediátrica, aprendi que cuidar da visão também é sobre acolher histórias, entender alguns" [level=3] [ref=e183]:
+                - button "Ser mulher e ser médica é, todos os dias, ocupar um espaço com responsabilidade, escuta e presença. Na oftalmologia pediátrica, aprendi que cuidar da visão também é sobre acolher histórias, entender alguns" [ref=e185]:
+                  - img "Ser mulher e ser médica é, todos os dias, ocupar um espaço com responsabilidade, escuta e presença. Na oftalmologia pediátrica, aprendi que cuidar da visão também é sobre acolher histórias, entender alguns" [ref=e188]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Ser mulher e ser médica é, todos os dias, ocupar um espaço com responsabilidade, escuta e presença. Na oftalmologia pediátrica, aprendi que cuidar da visão também é sobre acolher histórias, entender alguns" [ref=e190]:
+              - /url: https://www.instagram.com/p/DVn2d6zgYtF/
+              - generic [ref=e195]: Instagram
+              - generic [ref=e197]: Ser mulher e ser médica é, todos os dias, ocupar um espaço com responsabilidade, escuta e presença. Na oftalmologia pediátrica, aprendi que cuidar da visão também é sobre acolher histórias, entender alguns
+          - generic [ref=e198] [cursor=pointer]:
+            - generic [ref=e199]:
+              - 'heading "Quando uma criança é diagnosticada com ambliopia, o uso regular do oclusor torna-se um fator essencial e indispensável para o tratamento da doença. Existem três principais tipos de tampão: adesivo, tecido e" [level=3] [ref=e200]':
+                - 'button "Quando uma criança é diagnosticada com ambliopia, o uso regular do oclusor torna-se um fator essencial e indispensável para o tratamento da doença. Existem três principais tipos de tampão: adesivo, tecido e" [ref=e202]':
+                  - 'img "Quando uma criança é diagnosticada com ambliopia, o uso regular do oclusor torna-se um fator essencial e indispensável para o tratamento da doença. Existem três principais tipos de tampão: adesivo, tecido e" [ref=e205]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Quando uma criança é diagnosticada com ambliopia, o uso regular do oclusor torna-se um fator essencial e indispensável para o tratamento da doença. Existem três principais tipos de tampão: adesivo, tecido e" [ref=e207]':
+              - /url: https://www.instagram.com/reel/C4fkHPVrZsR/
+              - generic [ref=e212]: Instagram
+              - generic [ref=e214]: "Quando uma criança é diagnosticada com ambliopia, o uso regular do oclusor torna-se um fator essencial e indispensável para o tratamento da doença. Existem três principais tipos de tampão: adesivo, tecido e"
+          - generic [ref=e215] [cursor=pointer]:
+            - generic [ref=e216]:
+              - heading "Iara Tavares | Harmonização Facial (@draiaratavares) • Instagram photos and videos" [level=3] [ref=e217]:
+                - button "Iara Tavares | Harmonização Facial (@draiaratavares) • Instagram photos and videos" [ref=e219]:
+                  - img "Iara Tavares | Harmonização Facial (@draiaratavares) • Instagram photos and videos" [ref=e222]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Iara Tavares | Harmonização Facial (@draiaratavares) • Instagram photos and videos" [ref=e224]:
+              - /url: https://www.instagram.com/draiaratavares/
+              - generic [ref=e229]: Instagram
+              - generic [ref=e231]: Iara Tavares | Harmonização Facial (@draiaratavares) • Instagram photos and videos
+          - generic [ref=e232] [cursor=pointer]:
+            - heading "meu preenchimento labial com a @draiaratavares 👄💉✨" [level=3] [ref=e234]:
+              - button "meu preenchimento labial com a @draiaratavares 👄💉✨" [ref=e236]:
+                - img "meu preenchimento labial com a @draiaratavares 👄💉✨" [ref=e239]
+            - link "Instagram meu preenchimento labial com a @draiaratavares 👄💉✨" [ref=e241]:
+              - /url: https://www.instagram.com/reel/DT6PBFSkZEt/
+              - generic [ref=e246]: Instagram
+              - generic [ref=e248]: meu preenchimento labial com a @draiaratavares 👄💉✨
+          - generic [ref=e249] [cursor=pointer]:
+            - generic [ref=e250]:
+              - 'heading "A Dra. Iara Tavares e o Dr. Cesar Fracalossi respondem à pergunta: o que é, de fato, essencial para que um procedimento oftalmológico atinja seu mais alto padrão? Para nós, a resposta" [level=3] [ref=e251]':
+                - 'button "A Dra. Iara Tavares e o Dr. Cesar Fracalossi respondem à pergunta: o que é, de fato, essencial para que um procedimento oftalmológico atinja seu mais alto padrão? Para nós, a resposta" [ref=e253]':
+                  - 'img "A Dra. Iara Tavares e o Dr. Cesar Fracalossi respondem à pergunta: o que é, de fato, essencial para que um procedimento oftalmológico atinja seu mais alto padrão? Para nós, a resposta" [ref=e256]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram A Dra. Iara Tavares e o Dr. Cesar Fracalossi respondem à pergunta: o que é, de fato, essencial para que um procedimento oftalmológico atinja seu mais alto padrão? Para nós, a resposta" [ref=e258]':
+              - /url: https://www.instagram.com/p/DKF0OZiBPrP/
+              - generic [ref=e263]: Instagram
+              - generic [ref=e265]: "A Dra. Iara Tavares e o Dr. Cesar Fracalossi respondem à pergunta: o que é, de fato, essencial para que um procedimento oftalmológico atinja seu mais alto padrão? Para nós, a resposta"
+          - generic [ref=e266] [cursor=pointer]:
+            - heading "Iara Tavares | Harmonização Facial (@draiaratavares) • Instagram photos and videos" [level=3] [ref=e268]:
+              - button "Iara Tavares | Harmonização Facial (@draiaratavares) • Instagram photos and videos" [ref=e270]:
+                - img "Iara Tavares | Harmonização Facial (@draiaratavares) • Instagram photos and videos" [ref=e273]
+            - link "Instagram Iara Tavares | Harmonização Facial (@draiaratavares) • Instagram photos and videos" [ref=e275]:
+              - /url: https://www.instagram.com/draiaratavares/
+              - generic [ref=e280]: Instagram
+              - generic [ref=e282]: Iara Tavares | Harmonização Facial (@draiaratavares) • Instagram photos and videos
+          - generic [ref=e283] [cursor=pointer]:
+            - heading "meu preenchimento labial com a @draiaratavares 👄💉✨" [level=3] [ref=e285]:
+              - button "meu preenchimento labial com a @draiaratavares 👄💉✨" [ref=e287]:
+                - img "meu preenchimento labial com a @draiaratavares 👄💉✨" [ref=e290]
+            - link "Instagram meu preenchimento labial com a @draiaratavares 👄💉✨" [ref=e292]:
+              - /url: https://www.instagram.com/reel/DT6PBFSkZEt/
+              - generic [ref=e297]: Instagram
+              - generic [ref=e299]: meu preenchimento labial com a @draiaratavares 👄💉✨
+          - generic [ref=e300] [cursor=pointer]:
+            - heading "Iara Tavares | Harmonização Facial (@draiaratavares) • Instagram photos and videos" [level=3] [ref=e302]:
+              - button "Iara Tavares | Harmonização Facial (@draiaratavares) • Instagram photos and videos" [ref=e304]:
+                - img "Iara Tavares | Harmonização Facial (@draiaratavares) • Instagram photos and videos" [ref=e307]
+            - link "Instagram Iara Tavares | Harmonização Facial (@draiaratavares) • Instagram photos and videos" [ref=e309]:
+              - /url: https://www.instagram.com/draiaratavares/
+              - generic [ref=e314]: Instagram
+              - generic [ref=e316]: Iara Tavares | Harmonização Facial (@draiaratavares) • Instagram photos and videos
+          - generic [ref=e317] [cursor=pointer]:
+            - heading "SIM SIM SIMMMMM! Mil vezes sim para o amor da minha vida! ❤️" [level=3] [ref=e319]:
+              - button "SIM SIM SIMMMMM! Mil vezes sim para o amor da minha vida! ❤️" [ref=e321]:
+                - img "SIM SIM SIMMMMM! Mil vezes sim para o amor da minha vida! ❤️" [ref=e324]
+            - link "Instagram SIM SIM SIMMMMM! Mil vezes sim para o amor da minha vida! ❤️" [ref=e326]:
+              - /url: https://www.instagram.com/p/DVrpb17CPYM/
+              - generic [ref=e331]: Instagram
+              - generic [ref=e333]: SIM SIM SIMMMMM! Mil vezes sim para o amor da minha vida! ❤️
+          - generic [ref=e334] [cursor=pointer]:
+            - heading "A cirurgia de estrabismo pode ser indicada em qualquer fase da vida. Em adultos, ela costuma trazer benefícios importantes tanto na parte funcional quanto no bem-estar no dia a dia. Além de" [level=3] [ref=e336]:
+              - button "A cirurgia de estrabismo pode ser indicada em qualquer fase da vida. Em adultos, ela costuma trazer benefícios importantes tanto na parte funcional quanto no bem-estar no dia a dia. Além de" [ref=e338]:
+                - img "A cirurgia de estrabismo pode ser indicada em qualquer fase da vida. Em adultos, ela costuma trazer benefícios importantes tanto na parte funcional quanto no bem-estar no dia a dia. Além de" [ref=e341]
+            - link "Instagram A cirurgia de estrabismo pode ser indicada em qualquer fase da vida. Em adultos, ela costuma trazer benefícios importantes tanto na parte funcional quanto no bem-estar no dia a dia. Além de" [ref=e343]:
+              - /url: https://www.instagram.com/p/DVv7JeAD6gO/
+              - generic [ref=e348]: Instagram
+              - generic [ref=e350]: A cirurgia de estrabismo pode ser indicada em qualquer fase da vida. Em adultos, ela costuma trazer benefícios importantes tanto na parte funcional quanto no bem-estar no dia a dia. Além de
+          - generic [ref=e351] [cursor=pointer]:
+            - heading "🇮🇹" [level=3] [ref=e353]:
+              - button "🇮🇹" [ref=e355]:
+                - img "🇮🇹" [ref=e358]
+            - link "Instagram 🇮🇹" [ref=e360]:
+              - /url: https://www.instagram.com/p/DVpDOA3iKVG/
+              - generic [ref=e365]: Instagram
+              - generic [ref=e367]: 🇮🇹
+          - generic [ref=e368] [cursor=pointer]:
+            - heading "🇮🇹" [level=3] [ref=e370]:
+              - button "🇮🇹" [ref=e372]:
+                - img "🇮🇹" [ref=e375]
+            - link "Instagram 🇮🇹" [ref=e377]:
+              - /url: https://www.instagram.com/p/DVpDOA3iKVG/
+              - generic [ref=e382]: Instagram
+              - generic [ref=e384]: 🇮🇹
+          - generic [ref=e385] [cursor=pointer]:
+            - heading "SIM SIM SIMMMMM! Mil vezes sim para o amor da minha vida! ❤️" [level=3] [ref=e387]:
+              - button "SIM SIM SIMMMMM! Mil vezes sim para o amor da minha vida! ❤️" [ref=e389]:
+                - img "SIM SIM SIMMMMM! Mil vezes sim para o amor da minha vida! ❤️" [ref=e392]
+            - link "Instagram SIM SIM SIMMMMM! Mil vezes sim para o amor da minha vida! ❤️" [ref=e394]:
+              - /url: https://www.instagram.com/p/DVrpb17CPYM/
+              - generic [ref=e399]: Instagram
+              - generic [ref=e401]: SIM SIM SIMMMMM! Mil vezes sim para o amor da minha vida! ❤️
+          - generic [ref=e402] [cursor=pointer]:
+            - heading "🇮🇹" [level=3] [ref=e404]:
+              - button "🇮🇹" [ref=e406]:
+                - img "🇮🇹" [ref=e409]
+            - link "Instagram 🇮🇹" [ref=e411]:
+              - /url: https://www.instagram.com/p/DVpDOA3iKVG/
+              - generic [ref=e416]: Instagram
+              - generic [ref=e418]: 🇮🇹
+          - generic [ref=e419] [cursor=pointer]:
+            - heading "SIM SIM SIMMMMM! Mil vezes sim para o amor da minha vida! ❤️" [level=3] [ref=e421]:
+              - button "SIM SIM SIMMMMM! Mil vezes sim para o amor da minha vida! ❤️" [ref=e423]:
+                - img "SIM SIM SIMMMMM! Mil vezes sim para o amor da minha vida! ❤️" [ref=e426]
+            - link "Instagram SIM SIM SIMMMMM! Mil vezes sim para o amor da minha vida! ❤️" [ref=e428]:
+              - /url: https://www.instagram.com/p/DVrpb17CPYM/
+              - generic [ref=e433]: Instagram
+              - generic [ref=e435]: SIM SIM SIMMMMM! Mil vezes sim para o amor da minha vida! ❤️
+          - generic [ref=e436] [cursor=pointer]:
+            - heading "meu preenchimento labial com a @draiaratavares 👄💉✨" [level=3] [ref=e438]:
+              - button "meu preenchimento labial com a @draiaratavares 👄💉✨" [ref=e440]:
+                - img "meu preenchimento labial com a @draiaratavares 👄💉✨" [ref=e443]
+            - link "Instagram meu preenchimento labial com a @draiaratavares 👄💉✨" [ref=e445]:
+              - /url: https://www.instagram.com/reel/DT6PBFSkZEt/
+              - generic [ref=e450]: Instagram
+              - generic [ref=e452]: meu preenchimento labial com a @draiaratavares 👄💉✨
+          - generic [ref=e453] [cursor=pointer]:
+            - heading "Iara Tavares | Harmonização Facial (@draiaratavares) • Instagram photos and videos" [level=3] [ref=e455]:
+              - button "Iara Tavares | Harmonização Facial (@draiaratavares) • Instagram photos and videos" [ref=e457]:
+                - img "Iara Tavares | Harmonização Facial (@draiaratavares) • Instagram photos and videos" [ref=e460]
+            - link "Instagram Iara Tavares | Harmonização Facial (@draiaratavares) • Instagram photos and videos" [ref=e462]:
+              - /url: https://www.instagram.com/draiaratavares/
+              - generic [ref=e467]: Instagram
+              - generic [ref=e469]: Iara Tavares | Harmonização Facial (@draiaratavares) • Instagram photos and videos
+          - generic [ref=e470] [cursor=pointer]:
+            - generic [ref=e471]:
+              - heading "Meu local de atendimento mudou! Agora conto com mais espaço, conforto e tecnologia de ponta para receber as crianças. O endereço continua o mesmo, no Centro Capixaba de Olhos, mas agora estamos" [level=3] [ref=e472]:
+                - button "Meu local de atendimento mudou! Agora conto com mais espaço, conforto e tecnologia de ponta para receber as crianças. O endereço continua o mesmo, no Centro Capixaba de Olhos, mas agora estamos" [ref=e474]:
+                  - img "Meu local de atendimento mudou! Agora conto com mais espaço, conforto e tecnologia de ponta para receber as crianças. O endereço continua o mesmo, no Centro Capixaba de Olhos, mas agora estamos" [ref=e477]
+              - generic:
+                - generic: 6 dias atrás
+            - link "Instagram Meu local de atendimento mudou! Agora conto com mais espaço, conforto e tecnologia de ponta para receber as crianças. O endereço continua o mesmo, no Centro Capixaba de Olhos, mas agora estamos" [ref=e479]:
+              - /url: https://www.instagram.com/reel/DFoHZLyPzMp/
+              - generic [ref=e484]: Instagram
+              - generic [ref=e486]: Meu local de atendimento mudou! Agora conto com mais espaço, conforto e tecnologia de ponta para receber as crianças. O endereço continua o mesmo, no Centro Capixaba de Olhos, mas agora estamos
+          - generic [ref=e487] [cursor=pointer]:
+            - heading "SIM SIM SIMMMMM! Mil vezes sim para o amor da minha vida! ❤️" [level=3] [ref=e489]:
+              - button "SIM SIM SIMMMMM! Mil vezes sim para o amor da minha vida! ❤️" [ref=e491]:
+                - img "SIM SIM SIMMMMM! Mil vezes sim para o amor da minha vida! ❤️" [ref=e494]
+            - link "Instagram SIM SIM SIMMMMM! Mil vezes sim para o amor da minha vida! ❤️" [ref=e496]:
+              - /url: https://www.instagram.com/p/DVrpb17CPYM/
+              - generic [ref=e501]: Instagram
+              - generic [ref=e503]: SIM SIM SIMMMMM! Mil vezes sim para o amor da minha vida! ❤️
+        - generic [ref=e506]:
+          - heading "Page Navigation" [level=1] [ref=e507]
+          - generic [ref=e508]:
+            - text: O restante dos resultados pode não ser o que você procura.
+            - link "Conferir mais mesmo assim" [ref=e509] [cursor=pointer]:
+              - /url: "#"
+      - navigation

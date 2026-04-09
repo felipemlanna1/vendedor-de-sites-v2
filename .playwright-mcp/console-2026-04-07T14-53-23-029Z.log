@@ -1,0 +1,8 @@
+[     597ms] [ERROR] Failed to load resource: net::ERR_UNKNOWN_URL_SCHEME @ deletethishttps://cdn.jsdelivr.net/gh/studio-freight/lenis@latest/bundled/lenis.js:0
+[     857ms] ReferenceError: gsap is not defined
+    at https://www.torebentsen.com/:557:23
+[     857ms] ReferenceError: Lenis is not defined
+    at https://www.torebentsen.com/:618:22
+[     928ms] [LOG] THREE.WebGLRenderer 100 @ https://cdnjs.cloudflare.com/ajax/libs/three.js/100/three.min.js:176
+[    1040ms] [WARNING] THREE.WebGLRenderer: image is not power of two (1600x2400). Resized to 1024x2048 @ https://cdnjs.cloudflare.com/ajax/libs/three.js/100/three.min.js:120
+[    1767ms] [LOG] dom content loaded @ https://www.torebentsen.com/:739

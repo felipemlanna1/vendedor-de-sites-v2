@@ -1,0 +1,325 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e88] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e93]
+        - link "Foto do perfil de _pipelinestudio" [ref=e99] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e104]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e105]
+      - generic [ref=e106]:
+        - link "Configurações" [ref=e109] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e114]
+        - link "Também da Meta" [ref=e117] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e122]
+    - generic [ref=e125]:
+      - main [ref=e126]:
+        - generic [ref=e127]:
+          - generic [ref=e129]:
+            - button [ref=e134]:
+              - generic [ref=e141]:
+                - list [ref=e143]:
+                  - listitem [ref=e144]
+                  - listitem [ref=e145]:
+                    - generic [ref=e150] [cursor=pointer]:
+                      - button [ref=e151]:
+                        - img [ref=e153]
+                      - button [ref=e156]:
+                        - img [ref=e158]
+                  - listitem [ref=e160]:
+                    - img [ref=e167]
+                - button [ref=e169] [cursor=pointer]
+            - generic [ref=e172]:
+              - generic [ref=e174]:
+                - generic [ref=e176]:
+                  - link "Foto do perfil de dradeboraclima" [ref=e177]:
+                    - img "Foto do perfil de dradeboraclima" [ref=e178]
+                  - link "Foto do perfil de clinica.odontolima" [ref=e181]:
+                    - img "Foto do perfil de clinica.odontolima" [ref=e182]
+                - generic [ref=e186]:
+                  - generic [ref=e189]:
+                    - link "clinica.odontolima" [ref=e193] [cursor=pointer]:
+                      - /url: /clinica.odontolima/
+                      - generic [ref=e196]: clinica.odontolima
+                    - text: e
+                    - link "dradeboraclima" [ref=e200] [cursor=pointer]:
+                      - /url: /dradeboraclima/
+                      - generic [ref=e203]: dradeboraclima
+                  - link "Clínica Odonto Lima" [ref=e207] [cursor=pointer]:
+                    - /url: /explore/locations/1020116160/clinica-odonto-lima/
+                - button "Mais opções" [ref=e210] [cursor=pointer]:
+                  - img "Mais opções" [ref=e213]
+              - separator [ref=e217]
+              - generic [ref=e219]:
+                - generic [ref=e221]:
+                  - link "Foto do perfil de clinica.odontolima" [ref=e226] [cursor=pointer]:
+                    - /url: /clinica.odontolima/
+                    - img "Foto do perfil de clinica.odontolima" [ref=e227]
+                  - generic [ref=e231]:
+                    - generic [ref=e232]:
+                      - link "clinica.odontolima Verificado" [ref=e236] [cursor=pointer]:
+                        - /url: /clinica.odontolima/
+                        - generic [ref=e238]:
+                          - generic [ref=e239]: clinica.odontolima
+                          - img "Verificado" [ref=e241]
+                      - time [ref=e244]: 2 sem
+                    - generic [ref=e245]:
+                      - text: Muitas vezes, a busca pelo “preço” acaba escondendo o que realmente importa para um resultado seguro e natural.
+                      - text: "No meu consultório, o valor de cada procedimento é construído sobre pilares que garantem a sua segurança e satisfação:"
+                      - text: "• Olhar Expert: Uma análise técnica e estética profunda para entender as proporções únicas do seu rosto."
+                      - text: "• Técnicas Apuradas: O uso do que há de mais moderno na reabilitação oral e estética facial."
+                      - text: "• Atendimento Individualizado: Você não é apenas mais um paciente; cada planejamento é exclusivo para as suas necessidades."
+                      - text: "• Equipe Multidisciplinar: O suporte de diferentes especialidades para um cuidado integral."
+                      - text: "• Comprometimento: Minha dedicação total em entregar o resultado que você sempre sonhou."
+                      - text: Quando você escolhe excelência, o resultado não é apenas estético, é transformador. 💎
+                      - text: Deseja um planejamento pensado exclusivamente para você? Clique no link da bio e agende sua consulta.👆🏻
+                - generic [ref=e246]:
+                  - generic [ref=e249]:
+                    - link "Foto do perfil de zenilda9171" [ref=e255] [cursor=pointer]:
+                      - /url: /zenilda9171/
+                      - img "Foto do perfil de zenilda9171" [ref=e256]
+                    - generic [ref=e257]:
+                      - generic [ref=e258]:
+                        - generic [ref=e260]:
+                          - generic [ref=e261]:
+                            - link "zenilda9171" [ref=e266] [cursor=pointer]:
+                              - /url: /zenilda9171/
+                              - generic [ref=e269]: zenilda9171
+                            - link "2 sem" [ref=e271] [cursor=pointer]:
+                              - /url: /p/DWG9xlpgGYL/c/18042165038751532/
+                              - time [ref=e272]: 2 sem
+                          - generic [ref=e274]: Só recomendo 🙌 maravilhosa
+                        - button "Responder" [ref=e276] [cursor=pointer]:
+                          - generic [ref=e278]: Responder
+                      - button "Curtir" [ref=e283] [cursor=pointer]:
+                        - img "Curtir" [ref=e286]
+                  - generic [ref=e290]:
+                    - link "Foto do perfil de adriana_cborges" [ref=e296] [cursor=pointer]:
+                      - /url: /adriana_cborges/
+                      - img "Foto do perfil de adriana_cborges" [ref=e297]
+                    - generic [ref=e298]:
+                      - generic [ref=e299]:
+                        - generic [ref=e301]:
+                          - generic [ref=e302]:
+                            - link "adriana_cborges" [ref=e307] [cursor=pointer]:
+                              - /url: /adriana_cborges/
+                              - generic [ref=e310]: adriana_cborges
+                            - link "2 sem" [ref=e312] [cursor=pointer]:
+                              - /url: /p/DWG9xlpgGYL/c/17874294495556165/
+                              - time [ref=e313]: 2 sem
+                          - generic [ref=e315]:
+                            - text: Sou fã ❤️👏👏👏
+                            - link "@dradeboraclima" [ref=e316] [cursor=pointer]:
+                              - /url: /dradeboraclima/
+                            - text: é maravilhosa!
+                        - button "Responder" [ref=e318] [cursor=pointer]:
+                          - generic [ref=e320]: Responder
+                      - button "Curtir" [ref=e325] [cursor=pointer]:
+                        - img "Curtir" [ref=e328]
+                  - generic [ref=e331]:
+                    - img [ref=e333]
+                    - generic [ref=e337]: 2 comentários no Facebook
+              - generic [ref=e338]:
+                - generic [ref=e339]:
+                  - generic [ref=e340]:
+                    - button "Curtir" [ref=e343] [cursor=pointer]:
+                      - img "Curtir" [ref=e346]
+                    - button "Comentar" [ref=e349] [cursor=pointer]:
+                      - img "Comentar" [ref=e351]
+                    - button "4" [ref=e353] [cursor=pointer]
+                    - button "Compartilhar" [ref=e354] [cursor=pointer]:
+                      - img "Compartilhar" [ref=e355]
+                  - button "Salvar" [ref=e360] [cursor=pointer]:
+                    - button "Salvar" [ref=e361]:
+                      - img "Salvar" [ref=e363]
+                - link "20 de março" [ref=e367] [cursor=pointer]:
+                  - /url: /clinica.odontolima/p/DWG9xlpgGYL/
+                  - time [ref=e369]: 20 de março
+              - generic [ref=e372]:
+                - link [ref=e373]
+                - generic [ref=e375]:
+                  - button "Emoji" [ref=e377] [cursor=pointer]:
+                    - img "Emoji" [ref=e379]
+                  - textbox "Adicione um comentário..." [ref=e381]
+          - separator [ref=e383]
+          - generic [ref=e384]:
+            - generic [ref=e386]:
+              - text: Mais posts de
+              - link "clinica.odontolima" [ref=e387] [cursor=pointer]:
+                - /url: /clinica.odontolima/
+            - generic [ref=e390]:
+              - generic [ref=e391]:
+                - 'link "✨Porque a decisão de mudar está apenas a um clique de distância.👆🏻 Não são apenas antes e depois incríveis de novos sorrisos, são também novas vidas transformadas e o cumprimento de um grande propósito: devolver ao nosso paciente a função e auto estima através de uma odontologia de excelência. Por mais sorrisos livres, sem medo, sem receios.. Por uma melhor versão de si.❤️ #lentedecontatodental #reabilitacaooral #sorriso #manaus #implantesdentários Clipe" [ref=e393] [cursor=pointer]':
+                  - /url: /clinica.odontolima/reel/DSultJDAIvp/
+                  - 'img "✨Porque a decisão de mudar está apenas a um clique de distância.👆🏻 Não são apenas antes e depois incríveis de novos sorrisos, são também novas vidas transformadas e o cumprimento de um grande propósito: devolver ao nosso paciente a função e auto estima através de uma odontologia de excelência. Por mais sorrisos livres, sem medo, sem receios.. Por uma melhor versão de si.❤️ #lentedecontatodental #reabilitacaooral #sorriso #manaus #implantesdentários" [ref=e396]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - 'link "Paciente se incomodava bastante com a flacidez de papada e ruga de marionete; Já havia realizado vários procedimentos como bioestimulador, fios de sustentação mas nada resolvia esse incômodo; Ela veio do Nordeste para realizar comigo a sua Cervicoplastia; Com 68 anos ela resolveu elevar a autoestima e realizar o seu sonho; Com apenas 10 dias de pós operatório vemos uma papada sem flacidez e um rosto mais rejuvenescido e com naturalidade; #cervicoplastia #deepneck #deepplanefacelift #lipodepapada manaus z Clipe" [ref=e399] [cursor=pointer]':
+                  - /url: /clinica.odontolima/reel/DUZWzFpiYj7/
+                  - 'img "Paciente se incomodava bastante com a flacidez de papada e ruga de marionete; Já havia realizado vários procedimentos como bioestimulador, fios de sustentação mas nada resolvia esse incômodo; Ela veio do Nordeste para realizar comigo a sua Cervicoplastia; Com 68 anos ela resolveu elevar a autoestima e realizar o seu sonho; Com apenas 10 dias de pós operatório vemos uma papada sem flacidez e um rosto mais rejuvenescido e com naturalidade; #cervicoplastia #deepneck #deepplanefacelift #lipodepapada manaus z" [ref=e402]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - 'link "✨🔩🦷👆🏻Uma linda reabilitação com protocolo sobre implante superior! Nossa paciente veio de Maranhão , e ganhou de presente de seu filho o sonho de ter um lindo sorriso; Foi um prazer proporcionar esse sonho para ela! Se você também sonha em jogar fora a sua dentadura e ter um sorriso lindo, fixo, poder mastigar , falar , sorrir com confiança, podemos te ajudar nisso! Clica no link da Bio e dê o primeiro passo para o sorriso dos seus sonhos! #reabilitacaooral #implantes #implantesdentários #protocolodentario #manaus Clipe" [ref=e405] [cursor=pointer]':
+                  - /url: /clinica.odontolima/reel/DU1QYLRia0V/
+                  - 'img "✨🔩🦷👆🏻Uma linda reabilitação com protocolo sobre implante superior! Nossa paciente veio de Maranhão , e ganhou de presente de seu filho o sonho de ter um lindo sorriso; Foi um prazer proporcionar esse sonho para ela! Se você também sonha em jogar fora a sua dentadura e ter um sorriso lindo, fixo, poder mastigar , falar , sorrir com confiança, podemos te ajudar nisso! Clica no link da Bio e dê o primeiro passo para o sorriso dos seus sonhos! #reabilitacaooral #implantes #implantesdentários #protocolodentario #manaus" [ref=e408]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+              - generic [ref=e410]:
+                - 'link "👆🏻Pós imediato do lifting das sobrancelhas (castanhares), blefaroplastia superior e inferior e lip lift; A combinação dessas quatro técnicas em um único tempo cirúrgico promove um rejuvenescimento estrutural da face, tratando simultaneamente o terço superior e a região perioral. O objetivo principal não é apenas “esticar”, mas restaurar proporções que se perdem com o processo de envelhecimento. Paciente já era linda e agora tratamos as suas queixas que tanto a incomodava; Nesse pós inicial o edema é normal e controlado, pós operatório sem dor ; #cirurgiasestéticasfaciais #blefaroplastía #liplift #manaus #harmonizaçãoorofacial Clipe" [ref=e412] [cursor=pointer]':
+                  - /url: /dradeboraclima/reel/DWopvD3jToQ/
+                  - 'img "👆🏻Pós imediato do lifting das sobrancelhas (castanhares), blefaroplastia superior e inferior e lip lift; A combinação dessas quatro técnicas em um único tempo cirúrgico promove um rejuvenescimento estrutural da face, tratando simultaneamente o terço superior e a região perioral. O objetivo principal não é apenas “esticar”, mas restaurar proporções que se perdem com o processo de envelhecimento. Paciente já era linda e agora tratamos as suas queixas que tanto a incomodava; Nesse pós inicial o edema é normal e controlado, pós operatório sem dor ; #cirurgiasestéticasfaciais #blefaroplastía #liplift #manaus #harmonizaçãoorofacial" [ref=e415]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - 'link "😌Que momento gratificante! Ver o impacto imediato na autoestima de alguém é, sem dúvida, a melhor parte do meu trabalho; Hoje foi o dia que mais uma paciente voltou a sorrir. Finalizamos um caso de Protocolo sobre Implantes e o resultado foi muito além da estética: foi sobre devolver a liberdade de falar, comer e se expressar sem medo. Ver o brilho nos olhos dela ao se olhar no espelho é o que dá sentido a todo o nosso trabalho técnico. A reabilitação oral não transforma apenas sorrisos, ela transforma vidas. ✨ #reabilitacaooral #implantedentário #autoestima #manaus #sorriso Clipe" [ref=e418] [cursor=pointer]':
+                  - /url: /dradeboraclima/reel/DWXzGnYDXB_/
+                  - 'img "😌Que momento gratificante! Ver o impacto imediato na autoestima de alguém é, sem dúvida, a melhor parte do meu trabalho; Hoje foi o dia que mais uma paciente voltou a sorrir. Finalizamos um caso de Protocolo sobre Implantes e o resultado foi muito além da estética: foi sobre devolver a liberdade de falar, comer e se expressar sem medo. Ver o brilho nos olhos dela ao se olhar no espelho é o que dá sentido a todo o nosso trabalho técnico. A reabilitação oral não transforma apenas sorrisos, ela transforma vidas. ✨ #reabilitacaooral #implantedentário #autoestima #manaus #sorriso" [ref=e421]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - 'link "“Você usa dentadura ou tem vários dentes perdidos e sonha em ter dentes fixos novamente?” “O protocolo sobre implantes é uma técnica que permite devolver um sorriso fixo, bonito e funcional, muitas vezes em poucos dias.” “Com o protocolo você: ✔ abandona a dentadura ✔ tem dentes fixos ✔ mastiga com segurança ✔ volta a sorrir com confiança” “O valor do protocolo varia conforme: ✔ quantidade de implantes ✔ tipo de prótese ✔ necessidade de enxerto ✔ estrutura óssea do paciente” “Por isso, a avaliação é indispensável para montar um planejamento correto.” “É um procedimento seguro, feito por especialista em implantodontia e bucomaxilofacial, com tecnologia e planejamento digital.” “Se você quer abandonar a dentadura e voltar a sorrir com dentes fixos, clique agora no botão do WhatsApp e agende sua avaliação.” 👆🏻 Clipe" [ref=e424] [cursor=pointer]':
+                  - /url: /clinica.odontolima/reel/DWR18A6ib0N/
+                  - 'img "“Você usa dentadura ou tem vários dentes perdidos e sonha em ter dentes fixos novamente?” “O protocolo sobre implantes é uma técnica que permite devolver um sorriso fixo, bonito e funcional, muitas vezes em poucos dias.” “Com o protocolo você: ✔ abandona a dentadura ✔ tem dentes fixos ✔ mastiga com segurança ✔ volta a sorrir com confiança” “O valor do protocolo varia conforme: ✔ quantidade de implantes ✔ tipo de prótese ✔ necessidade de enxerto ✔ estrutura óssea do paciente” “Por isso, a avaliação é indispensável para montar um planejamento correto.” “É um procedimento seguro, feito por especialista em implantodontia e bucomaxilofacial, com tecnologia e planejamento digital.” “Se você quer abandonar a dentadura e voltar a sorrir com dentes fixos, clique agora no botão do WhatsApp e agende sua avaliação.” 👆🏻" [ref=e427]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+      - contentinfo [ref=e429]:
+        - generic [ref=e430]:
+          - generic [ref=e432]:
+            - link "Meta" [ref=e434] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e435]: Meta
+            - link "Sobre" [ref=e437] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e438]: Sobre
+            - link "Blog" [ref=e440] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e441]: Blog
+            - link "Carreiras" [ref=e443] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e444]: Carreiras
+            - link "Ajuda" [ref=e446] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e447]: Ajuda
+            - link "API" [ref=e449] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e450]: API
+            - link "Privacidade" [ref=e452] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e453]: Privacidade
+            - link "Termos" [ref=e455] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e456]: Termos
+            - link "Localizações" [ref=e458] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e459]: Localizações
+            - link "Instagram Lite" [ref=e461] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e462]: Instagram Lite
+            - link "Meta AI" [ref=e464] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e465]: Meta AI
+            - link "Threads" [ref=e467] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e468]: Threads
+            - link "Upload de contatos e não usuários" [ref=e470] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e471]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e473] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e474]: Meta Verified
+          - generic [ref=e475]:
+            - generic [ref=e476] [cursor=pointer]:
+              - generic [ref=e477]:
+                - generic [ref=e478]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e481]
+              - combobox "Trocar idioma de exibição" [ref=e483]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e485]: © 2026 Instagram from Meta
+  - button "Mensagens Mensagens" [ref=e487] [cursor=pointer]:
+    - generic [ref=e489]:
+      - img "Mensagens" [ref=e491]
+      - generic [ref=e494]: Mensagens

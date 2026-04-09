@@ -1,0 +1,134 @@
+{
+  "nav": {
+    "home": "In\u00edcio",
+    "about": "Sobre",
+    "services": "Servi\u00e7os",
+    "technology": "Tecnologia",
+    "clinic": "UNA Dermatologia",
+    "credentials": "Credenciais",
+    "gallery": "Galeria",
+    "contact": "Contato",
+    "cta": "Agendar Consulta"
+  },
+  "hero": {
+    "greeting": "Dra. Ariel C\u00f3rdova Rosa",
+    "title": "Dermatologista",
+    "subtitle": "Cl\u00ednica \u2022 Cir\u00fargica \u2022 Est\u00e9tica",
+    "description": "Pesquisadora, preceptora da Resid\u00eancia em Dermatologia do HU-UFSC e membro da diretoria da SBD/SC. Ci\u00eancia e cuidado para a sa\u00fade da sua pele.",
+    "cta": "Agendar Consulta",
+    "cta_secondary": "Conhe\u00e7a meu trabalho",
+    "crm": "CRM 23372 SC \u2022 RQE 18753"
+  },
+  "about": {
+    "label": "Sobre",
+    "title": "Ci\u00eancia que cuida",
+    "description": "Formada em Medicina pela UFSC em 2016, com Resid\u00eancia em Dermatologia no Hospital Universit\u00e1rio da UFSC. Atualmente mestranda em Ci\u00eancias M\u00e9dicas, pesquisando psor\u00edase ungueal e artrite psori\u00e1sica.",
+    "text_2": "Como preceptora da Resid\u00eancia em Dermatologia do HU-UFSC, formo os dermatologistas do futuro. Lidero o ambulat\u00f3rio de Ultrassonografia de alta frequ\u00eancia e Microscopia confocal.",
+    "text_3": "Membro da diretoria da Sociedade Catarinense de Dermatologia (SBD-SC), participo de congressos internacionais como o EADV em Paris e o Congresso Brasileiro de Dermatologia.",
+    "highlight_1": "Pesquisadora em melanoma e cirurgia dermatol\u00f3gica",
+    "highlight_2": "Preceptora da Resid\u00eancia HU-UFSC",
+    "highlight_3": "Diretoria SBD/SC"
+  },
+  "services": {
+    "label": "Servi\u00e7os",
+    "title": "Tr\u00eas pilares de cuidado",
+    "subtitle": "Cada \u00e1rea da dermatologia exige conhecimento espec\u00edfico. Atuo nas tr\u00eas frentes para oferecer um cuidado completo.",
+    "clinical": {
+      "title": "Dermatologia Cl\u00ednica",
+      "description": "Diagn\u00f3stico e tratamento de doen\u00e7as da pele com embasamento cient\u00edfico e tecnologia avan\u00e7ada.",
+      "items": "Acne, C\u00e2ncer de Pele, Melasma, Dermatite, Psor\u00edase, Alergia Dermatol\u00f3gica, Cicatriz, Ros\u00e1cea, Melanoma, Hiperpigmenta\u00e7\u00e3o, Mapeamento Corporal Total"
+    },
+    "surgical": {
+      "title": "Dermatologia Cir\u00fargica",
+      "description": "Procedimentos cir\u00fargicos dermatol\u00f3gicos com precis\u00e3o e seguran\u00e7a.",
+      "items": "Retirada de tumores de pele, Cirurgias de unha, Lobuloplastia, Bi\u00f3psias de pele"
+    },
+    "aesthetic": {
+      "title": "Dermatologia Est\u00e9tica",
+      "description": "Tratamentos est\u00e9ticos com vis\u00e3o m\u00e9dica e resultados naturais.",
+      "items": "\u00c1cido hialur\u00f4nico, Preenchedores, Toxina botul\u00ednica, Lasers, Peelings qu\u00edmicos, Bioestimuladores, Rejuvenescimento facial"
+    }
+  },
+  "technology": {
+    "label": "Tecnologia",
+    "title": "Tecnologia a servi\u00e7o da precis\u00e3o",
+    "subtitle": "Equipamentos de \u00faltima gera\u00e7\u00e3o para diagn\u00f3sticos mais precisos e acompanhamento detalhado.",
+    "fotofinder": {
+      "title": "Mapeamento Corporal Total",
+      "description": "Sistema FotoFinder para mapeamento completo de pintas e les\u00f5es, fundamental no acompanhamento de pacientes com risco de melanoma."
+    },
+    "ultrasound": {
+      "title": "Ultrassonografia Dermatol\u00f3gica",
+      "description": "Exame de imagem de alta frequ\u00eancia para avalia\u00e7\u00e3o n\u00e3o invasiva de les\u00f5es cut\u00e2neas, tumores e estruturas da pele."
+    },
+    "confocal": {
+      "title": "Microscopia Confocal",
+      "description": "An\u00e1lise celular in vivo da pele, permitindo diagn\u00f3stico sem necessidade de bi\u00f3psia em muitos casos."
+    }
+  },
+  "impact": {
+    "phrase": "Sua pele merece ci\u00eancia"
+  },
+  "clinic": {
+    "label": "A Cl\u00ednica",
+    "title": "UNA Dermatologia",
+    "subtitle": "Um novo conceito em tratamento dermatol\u00f3gico",
+    "description": "Fundada em 2023, a UNA Dermatologia nasceu da vis\u00e3o de oferecer dermatologia completa \u2014 cl\u00ednica, est\u00e9tica, cir\u00fargica, exames e tecnologias \u2014 num \u00fanico espa\u00e7o pensado para o bem-estar do paciente.",
+    "address": "Rua Angelo La Porta, 53 - Sala 904, Centro, Florian\u00f3polis/SC",
+    "phone": "(48) 3028-1560"
+  },
+  "credentials": {
+    "label": "Credenciais",
+    "title": "Forma\u00e7\u00e3o e reconhecimento",
+    "stats": {
+      "rating": "5.0",
+      "rating_label": "Nota no Doctoralia",
+      "reviews": "27",
+      "reviews_label": "Avalia\u00e7\u00f5es",
+      "followers": "3.061",
+      "followers_label": "Seguidores",
+      "experience": "2016",
+      "experience_label": "Medicina desde"
+    },
+    "items": {
+      "ufsc": "Medicina - UFSC (2016)",
+      "residencia": "Resid\u00eancia Dermatologia - HU UFSC (2019)",
+      "mestrado": "Mestranda Ci\u00eancias M\u00e9dicas - UFSC",
+      "preceptora": "Preceptora da Resid\u00eancia HU-UFSC",
+      "sbd": "Diretoria SBD/SC",
+      "eadv": "Congressista EADV (Paris)",
+      "cbd": "Congressista Brasileiro de Dermatologia",
+      "crm": "CRM 23372 SC | RQE 18753"
+    }
+  },
+  "gallery": {
+    "label": "Galeria",
+    "title": "Momentos e trajet\u00f3ria"
+  },
+  "contact": {
+    "label": "Contato",
+    "title": "Agende sua consulta",
+    "subtitle": "Atendimento particular. Agende pelo WhatsApp ou pelo Doctoralia.",
+    "whatsapp": "(48) 99123-2270",
+    "whatsapp_cta": "Falar pelo WhatsApp",
+    "phone": "(48) 3028-1560",
+    "phone_label": "Telefone da cl\u00ednica",
+    "address": "Rua Angelo La Porta, 53 - Sala 904, Centro, Florian\u00f3polis/SC",
+    "hours": "Segunda a Sexta: 09h - 18h | S\u00e1bado: 09h - 13h",
+    "doctoralia_cta": "Agendar pelo Doctoralia",
+    "doctoralia_url": "https://www.doctoralia.com.br/ariel-cordova/dermatologista/florianopolis",
+    "payment": "Atendimento particular \u2022 Transfer\u00eancia banc\u00e1ria",
+    "telemedicine": "Consultas por telemedicina dispon\u00edveis"
+  },
+  "footer": {
+    "copyright": "\u00a9 2026 Dra. Ariel C\u00f3rdova Rosa. Todos os direitos reservados.",
+    "crm": "CRM 23372 SC | RQE 18753",
+    "social": "Redes sociais",
+    "privacy": "Pol\u00edtica de Privacidade",
+    "disclaimer": "As informa\u00e7\u00f5es contidas neste site t\u00eam car\u00e1ter informativo e n\u00e3o substituem uma consulta m\u00e9dica."
+  },
+  "lang": {
+    "pt": "Portugu\u00eas",
+    "en": "English"
+  }
+}

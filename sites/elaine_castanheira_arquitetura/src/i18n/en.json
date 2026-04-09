@@ -1,0 +1,126 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "portfolio": "Projects",
+    "credentials": "Credentials",
+    "contact": "Contact",
+    "cta": "Request a Quote"
+  },
+  "hero": {
+    "title": "Spaces that grow with you",
+    "subtitle": "Residential interior architecture in Florianopolis",
+    "cta": "Free Consultation",
+    "scroll": "Explore"
+  },
+  "about": {
+    "label": "About",
+    "title": "20 years creating spaces that tell your family's story",
+    "description": "Graduated in Architecture and Urban Planning from UFSC in 1999, I began my career at firms in Joinville and Florianopolis before founding my own studio in 2006. Over two decades, I have developed an approach that goes beyond aesthetics: each project is born from a deep conversation about how you live, how your family grows, and what makes a space truly feel like yours.",
+    "philosophy": "My method is collaborative. You express your aspirations, and I combine them with technical expertise to create something uniquely yours. The result is timeless spaces that evolve with your life.",
+    "credentials": "CAU-SC A29242-7",
+    "cta": "See my work"
+  },
+  "statement": {
+    "text": "Creating timeless spaces that evolve with the family"
+  },
+  "services": {
+    "label": "Services",
+    "title": "How I can transform your space",
+    "items": {
+      "interiores": {
+        "name": "Interior Design",
+        "description": "Complete residential interior architecture project. From concept to execution, every detail is carefully designed to create a space that reflects your personality and your family's rhythm."
+      },
+      "consultoria": {
+        "name": "Personalized Consultation",
+        "description": "Consultative session for guidance on layout, materials, lighting, and solutions that enhance your space. Ideal for those seeking professional direction before starting a renovation."
+      },
+      "acompanhamento": {
+        "name": "Construction Supervision",
+        "description": "Technical supervision throughout the entire project execution, ensuring that every material, finish, and detail is implemented as planned, with no surprises."
+      }
+    }
+  },
+  "portfolio": {
+    "label": "Projects",
+    "title": "Every space tells a story",
+    "project": {
+      "name": "Costa Azul",
+      "location": "Apartment in Estreito, Florianopolis",
+      "year": "2025",
+      "description": "A dialogue between the sea and the interiors. The project combines noble materials such as MDF in Cacao tone and Calacata, with furniture by designers Ibanez Razzera and Ricardo Vidigal, creating a timeless environment that integrates living room, dining area, and kitchen with a view of the bay.",
+      "photographer": "Photography: Ivan Araujo",
+      "materials": "MDF Beige and Cacao (Arauco) | Ultracompact Calacata",
+      "furniture": "Marin Table | Laz Chairs | Costela Armchair"
+    }
+  },
+  "numbers": {
+    "years": "years of experience",
+    "projects": "residential projects",
+    "followers": "Instagram followers",
+    "ufsc": "graduated from UFSC"
+  },
+  "credentials": {
+    "label": "Credentials",
+    "title": "Trust built over two decades",
+    "items": {
+      "cau": {
+        "name": "CAU-SC",
+        "detail": "Registration A29242-7",
+        "description": "Architecture and Urban Planning Council of Santa Catarina"
+      },
+      "healthy": {
+        "name": "Healthy Building",
+        "detail": "Certified Professional",
+        "description": "Healthy building certification, focused on well-being and air quality"
+      },
+      "ufsc": {
+        "name": "UFSC",
+        "detail": "Architecture and Urban Planning",
+        "description": "Federal University of Santa Catarina, class of 1999"
+      },
+      "contti": {
+        "name": "Contti Design",
+        "detail": "Editorial Publication",
+        "description": "Costa Azul project featured in Contti Design magazine"
+      }
+    }
+  },
+  "cta_section": {
+    "title": "Let's talk about your space",
+    "subtitle": "Free consultation, no commitment. Tell me how you envision your home.",
+    "button": "Message me on WhatsApp"
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Get in touch",
+    "subtitle": "I am based in Florianopolis and ready to learn about your project.",
+    "phone": "+55 48 99923-5973",
+    "email": "arquitetaelainecastanheira@gmail.com",
+    "whatsapp_cta": "Send a message on WhatsApp",
+    "location": "Florianopolis, SC",
+    "form": {
+      "name": "Your name",
+      "email": "Your email",
+      "message": "Tell me about your project",
+      "submit": "Send message"
+    }
+  },
+  "footer": {
+    "copyright": "2026 Elaine Castanheira Arquitetura. All rights reserved.",
+    "cau": "CAU-SC A29242-7",
+    "instagram": "Instagram",
+    "pinterest": "Pinterest",
+    "developed": "Crafted with care"
+  },
+  "lang": {
+    "pt": "Portugues",
+    "en": "English"
+  },
+  "whatsapp": {
+    "tooltip": "Talk to me",
+    "message": "Hello Elaine, I would like to learn more about your interior architecture services."
+  }
+}

@@ -1,0 +1,266 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e88] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e93]
+        - link "Foto do perfil de _pipelinestudio" [ref=e99] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e104]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e105]
+      - generic [ref=e106]:
+        - link "Configurações" [ref=e109] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e114]
+        - link "Também da Meta" [ref=e117] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e122]
+    - generic [ref=e125]:
+      - main [ref=e126]:
+        - generic [ref=e127]:
+          - generic [ref=e129]:
+            - button [ref=e134]:
+              - group [ref=e144]:
+                - slider [ref=e146]:
+                  - button [ref=e150] [cursor=pointer]:
+                    - img [ref=e151]
+            - generic [ref=e154]:
+              - generic [ref=e156]:
+                - button "Foto do perfil de dra.fadadodente" [disabled] [ref=e161]:
+                  - link "Foto do perfil de dra.fadadodente" [disabled] [ref=e163] [cursor=pointer]:
+                    - img "Foto do perfil de dra.fadadodente" [ref=e164]
+                - generic [ref=e167]:
+                  - generic [ref=e168]:
+                    - generic [ref=e171]:
+                      - link "dra.fadadodente" [ref=e176] [cursor=pointer]:
+                        - /url: /dra.fadadodente/
+                        - generic [ref=e179]: dra.fadadodente
+                      - img "Verificado" [ref=e181]
+                    - link "Dih • Kids" [ref=e186] [cursor=pointer]:
+                      - /url: /reels/audio/631252069330188/
+                      - generic [ref=e189]:
+                        - text: Dih
+                        - generic [ref=e190]: •
+                        - text: Kids
+                  - button "Seguir" [ref=e192] [cursor=pointer]
+                - button "Mais opções" [ref=e195] [cursor=pointer]:
+                  - img "Mais opções" [ref=e198]
+              - separator [ref=e202]
+              - generic [ref=e204]:
+                - generic [ref=e206]:
+                  - link "Foto do perfil de dra.fadadodente" [ref=e211] [cursor=pointer]:
+                    - /url: /dra.fadadodente/
+                    - img "Foto do perfil de dra.fadadodente" [ref=e212]
+                  - generic [ref=e216]:
+                    - generic [ref=e217]:
+                      - link "dra.fadadodente Verificado" [ref=e221] [cursor=pointer]:
+                        - /url: /dra.fadadodente/
+                        - generic [ref=e223]:
+                          - generic [ref=e224]: dra.fadadodente
+                          - img "Verificado" [ref=e226]
+                      - time [ref=e229]: 38 sem
+                    - generic [ref=e230]:
+                      - text: Desenho da Dra. Fada do Dente 😍
+                      - link "#fadadodente" [ref=e231] [cursor=pointer]:
+                        - /url: /explore/tags/fadadodente/
+                - generic [ref=e234]:
+                  - heading "Ainda não há nenhum comentário." [level=2] [ref=e236]
+                  - generic [ref=e238]: Inicie a conversa.
+              - generic [ref=e239]:
+                - generic [ref=e240]:
+                  - generic [ref=e241]:
+                    - button "Curtir" [ref=e244] [cursor=pointer]:
+                      - img "Curtir" [ref=e247]
+                    - button "5" [ref=e249] [cursor=pointer]
+                    - button "Comentar" [ref=e251] [cursor=pointer]:
+                      - img "Comentar" [ref=e253]
+                    - button "1" [ref=e255] [cursor=pointer]
+                    - button "Compartilhar" [ref=e256] [cursor=pointer]:
+                      - img "Compartilhar" [ref=e257]
+                  - button "Salvar" [ref=e262] [cursor=pointer]:
+                    - button "Salvar" [ref=e263]:
+                      - img "Salvar" [ref=e265]
+                - link "10 de julho de 2025" [ref=e269] [cursor=pointer]:
+                  - /url: /dra.fadadodente/reel/DL7wTr-sAe-/
+                  - time [ref=e271]: 10 de julho de 2025
+              - generic [ref=e274]:
+                - link [ref=e275]
+                - generic [ref=e277]:
+                  - button "Emoji" [ref=e279] [cursor=pointer]:
+                    - img "Emoji" [ref=e281]
+                  - textbox "Adicione um comentário..." [ref=e283]
+          - separator [ref=e285]
+          - generic [ref=e286]:
+            - generic [ref=e288]:
+              - text: Mais posts de
+              - link "dra.fadadodente" [ref=e289] [cursor=pointer]:
+                - /url: /dra.fadadodente/
+            - generic [ref=e292]:
+              - generic [ref=e293]:
+                - link "Tirando o dentinho de leite sem traumas!!!! Marque um horário com a dra fada do dente (65)99959-3227✅❤️ Clipe" [ref=e295] [cursor=pointer]:
+                  - /url: /dra.fadadodente/reel/C61-hW-PXd3/
+                  - img "Tirando o dentinho de leite sem traumas!!!! Marque um horário com a dra fada do dente (65)99959-3227✅❤️" [ref=e298]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - 'link "Aqui, cada detalhe foi pensado para transformar a experiência de cuidar do sorriso em algo mágico e especial! Um verdadeiro castelo encantado onde medos dão lugar a sorrisos e alegria!🏰✨ 📲(65)99959-3227 #drafadadodente #dentistapediatrico #dentistainfantil Clipe" [ref=e301] [cursor=pointer]':
+                  - /url: /ocastelodafadadodente/reel/DDvKenlRIQi/
+                  - 'img "Aqui, cada detalhe foi pensado para transformar a experiência de cuidar do sorriso em algo mágico e especial! Um verdadeiro castelo encantado onde medos dão lugar a sorrisos e alegria!🏰✨ 📲(65)99959-3227 #drafadadodente #dentistapediatrico #dentistainfantil" [ref=e304]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - link "A matéria preferida dele é…. 😂 Esses pacientes da tia fada são os melhores 🥰♥️ @lucascerqueira610 Clipe" [ref=e307] [cursor=pointer]:
+                  - /url: /dra.fadadodente/reel/DWuKYmuCcq7/
+                  - img "A matéria preferida dele é…. 😂 Esses pacientes da tia fada são os melhores 🥰♥️ @lucascerqueira610" [ref=e310]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+              - generic [ref=e312]:
+                - link "Aqui no @ocastelodafadadodente o atendimento é sem traumas 💕 Com acolhimento, leveza e uma experiência que faz a criança se sentir segura e feliz. Vamos marcar uma consulta comigo, Doutora Fada do Dente? 🧚‍♀️ Seu filho pode ter dentinhos lindos, saudáveis e uma experiência positiva no dentista! ✨ Clipe" [ref=e314] [cursor=pointer]:
+                  - /url: /dra.fadadodente/reel/DWhvOsNCRzK/
+                  - img "Aqui no @ocastelodafadadodente o atendimento é sem traumas 💕 Com acolhimento, leveza e uma experiência que faz a criança se sentir segura e feliz. Vamos marcar uma consulta comigo, Doutora Fada do Dente? 🧚‍♀️ Seu filho pode ter dentinhos lindos, saudáveis e uma experiência positiva no dentista! ✨" [ref=e317]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - link "Selante é muito mais do que estética… é PREVENÇÃO 🦷✨ Sabe aqueles “risquinhos” escuros no fundo do dente? Na maioria das vezes, são sulquinhos profundos que acumulam restos de alimento e dificultam a higienização 😬 E é aí que entra o selante 💫 Ele funciona como uma capinha protetora, deixando o dentinho mais lisinho, facilitando a escovação e evitando o acúmulo de sujeira ou seja, prevenindo a cárie 🛡️🦷 ✨ Menos risco ✨ Mais proteção ✨ Mais tranquilidade para os pais Cuidar cedo é sempre o melhor caminho 🩷 Clipe" [ref=e320] [cursor=pointer]:
+                  - /url: /dra.fadadodente/reel/DWbXo5XDu-n/
+                  - img "Selante é muito mais do que estética… é PREVENÇÃO 🦷✨ Sabe aqueles “risquinhos” escuros no fundo do dente? Na maioria das vezes, são sulquinhos profundos que acumulam restos de alimento e dificultam a higienização 😬 E é aí que entra o selante 💫 Ele funciona como uma capinha protetora, deixando o dentinho mais lisinho, facilitando a escovação e evitando o acúmulo de sujeira ou seja, prevenindo a cárie 🛡️🦷 ✨ Menos risco ✨ Mais proteção ✨ Mais tranquilidade para os pais Cuidar cedo é sempre o melhor caminho 🩷" [ref=e323]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - link "Photo by Laura Witczak |Especialista Odontopediatra | Dentista Infantil in O Castelo da Fada do Dente. May be an image of child, smiling, toy, costume, toothbrush and text." [ref=e326] [cursor=pointer]:
+                  - /url: /dra.fadadodente/p/DWIFzcIiew0/
+                  - img "Photo by Laura Witczak |Especialista Odontopediatra | Dentista Infantil in O Castelo da Fada do Dente. May be an image of child, smiling, toy, costume, toothbrush and text." [ref=e329]
+      - contentinfo [ref=e331]:
+        - generic [ref=e332]:
+          - generic [ref=e334]:
+            - link "Meta" [ref=e336] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e337]: Meta
+            - link "Sobre" [ref=e339] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e340]: Sobre
+            - link "Blog" [ref=e342] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e343]: Blog
+            - link "Carreiras" [ref=e345] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e346]: Carreiras
+            - link "Ajuda" [ref=e348] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e349]: Ajuda
+            - link "API" [ref=e351] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e352]: API
+            - link "Privacidade" [ref=e354] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e355]: Privacidade
+            - link "Termos" [ref=e357] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e358]: Termos
+            - link "Localizações" [ref=e360] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e361]: Localizações
+            - link "Instagram Lite" [ref=e363] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e364]: Instagram Lite
+            - link "Meta AI" [ref=e366] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e367]: Meta AI
+            - link "Threads" [ref=e369] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e370]: Threads
+            - link "Upload de contatos e não usuários" [ref=e372] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e373]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e375] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e376]: Meta Verified
+          - generic [ref=e377]:
+            - generic [ref=e378] [cursor=pointer]:
+              - generic [ref=e379]:
+                - generic [ref=e380]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e383]
+              - combobox "Trocar idioma de exibição" [ref=e385]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e387]: © 2026 Instagram from Meta
+  - button "Mensagens Mensagens" [ref=e389] [cursor=pointer]:
+    - generic [ref=e391]:
+      - img "Mensagens" [ref=e393]
+      - generic [ref=e396]: Mensagens

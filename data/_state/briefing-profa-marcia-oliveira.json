@@ -1,0 +1,294 @@
+{
+  "input": {
+    "name": "Profa. Marcia Oliveira",
+    "city": "Blumenau",
+    "source": "instagram",
+    "niche": "odontopediatra",
+    "original_data": {
+      "instagram": "@maisquedentinhos",
+      "followers": 680,
+      "lead_db_id": 15
+    }
+  },
+  "data_points": [
+    {
+      "category": "presence",
+      "label": "Site oficial",
+      "value": "https://www.odontopedblumenau.com.br",
+      "detail": {
+        "platform": "Wix",
+        "title": "Odontologia para Criancas em Blumenau - Goedert e Oliveira - Odontoped - Dentista Infantil"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T12:19:54.264488+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Nome da clinica",
+      "value": "Clinica Goedert e Oliveira Odontologia Integrativa (Odontoped Blumenau)",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "WebFetch (odontopedblumenau.com.br)",
+      "fetched_at": "2026-04-07T12:19:54.264488+00:00"
+    },
+    {
+      "category": "contact",
+      "label": "Endereco",
+      "value": "Rua Hermann Huscher, 113, sala 405, Vila Formosa, Blumenau, SC 89023-010",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "WebFetch (odontopedblumenau.com.br)",
+      "fetched_at": "2026-04-07T12:19:54.264488+00:00"
+    },
+    {
+      "category": "contact",
+      "label": "Telefone/WhatsApp",
+      "value": "(47) 98866-1652",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "WebFetch (odontopedblumenau.com.br)",
+      "fetched_at": "2026-04-07T12:19:54.264488+00:00"
+    },
+    {
+      "category": "social",
+      "label": "Instagram",
+      "value": "@maisquedentinhos",
+      "detail": {
+        "followers": 680,
+        "source": "input"
+      },
+      "source_type": "briefing",
+      "source_name": "Input do usuario",
+      "fetched_at": "2026-04-07T12:19:54.264488+00:00"
+    },
+    {
+      "category": "history",
+      "label": "Formacao academica",
+      "value": "Graduacao Odontologia UNESP Araraquara (1995), Mestrado Odontopediatria UNESP (2000), Doutorado Odontopediatria UNESP (2004)",
+      "detail": {
+        "universidade": "UNESP Araraquara",
+        "anos": "1995-2004"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (Escavador)",
+      "fetched_at": "2026-04-07T12:19:54.264488+00:00"
+    },
+    {
+      "category": "history",
+      "label": "Carreira docente",
+      "value": "Professora na FURB - Departamento de Odontologia e Mestrado em Saude Coletiva",
+      "detail": {
+        "areas": [
+          "odontopediatria",
+          "diabetes e odontologia",
+          "saude coletiva"
+        ]
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch + WebFetch (furb.br)",
+      "fetched_at": "2026-04-07T12:19:54.264488+00:00"
+    },
+    {
+      "category": "history",
+      "label": "Experiencia clinica",
+      "value": "Dentista desde 1998, odontopediatra desde 2001 (25+ anos de experiencia)",
+      "detail": {
+        "anos_clinica": 28,
+        "anos_odontoped": 25
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T12:19:54.264488+00:00"
+    },
+    {
+      "category": "history",
+      "label": "Especializacoes adicionais",
+      "value": "Ortodontia preventiva e interceptiva, Invisalign Doctor",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T12:19:54.264488+00:00"
+    },
+    {
+      "category": "services",
+      "label": "Servicos oferecidos",
+      "value": "Odontopediatria (bebes a jovens adultos), Ortodontia (preventiva, interceptiva, Invisalign)",
+      "detail": {
+        "odontopediatria": "Atendimento de bebes, criancas, adolescentes e jovens adultos",
+        "ortodontia": "Ortodontia preventiva e interceptiva, Invisalign",
+        "integrativa": "Odontologia integrativa",
+        "pcd": "Ambiente adaptado para pessoas com deficiencia"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch + WebFetch",
+      "fetched_at": "2026-04-07T12:19:54.264488+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Projeto extensao FURB",
+      "value": "FURBmovel - educacao em saude bucal para criancas em escolas",
+      "detail": {
+        "tipo": "extensao universitaria"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T12:19:54.264488+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Publicacoes academicas",
+      "value": "Artigos em Arquivos Catarinenses de Medicina, Revista de Atencao a Saude, Extensao em Foco",
+      "detail": {
+        "temas": [
+          "cuidados odontologicos em diabeticos",
+          "indice de placa em criancas",
+          "extensao durante COVID-19"
+        ]
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T12:19:54.264488+00:00"
+    },
+    {
+      "category": "identity",
+      "label": "CNPJ",
+      "value": "Nao encontrado",
+      "detail": {
+        "nota": "CNPJs homonimos em Canoas/RS e Guarulhos/SP descartados. CNPJ ativo da clinica nao localizado."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch + BrasilAPI",
+      "fetched_at": "2026-04-07T12:19:54.264488+00:00"
+    },
+    {
+      "category": "professional_registry",
+      "label": "CRO-SC",
+      "value": "Nao encontrado via WebSearch",
+      "detail": {
+        "nota": "CRO nao localizado em buscas web. Confirmada como dentista pela UNESP e docente FURB."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T12:19:54.264488+00:00"
+    },
+    {
+      "category": "website",
+      "label": "Tech stack",
+      "value": "Wix (client-side rendering)",
+      "detail": {
+        "platform": "Wix",
+        "ssl": true,
+        "domain": "odontopedblumenau.com.br",
+        "problemas_seo": [
+          "conteudo JS-only",
+          "meta tags ausentes",
+          "sem email no HTML",
+          "sem links sociais no HTML"
+        ]
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch (odontopedblumenau.com.br)",
+      "fetched_at": "2026-04-07T12:19:54.264488+00:00"
+    },
+    {
+      "category": "website",
+      "label": "Paginas do site",
+      "value": "Home, Sobre Nos, Odontopediatria, Ortodontia",
+      "detail": {
+        "urls": [
+          "https://www.odontopedblumenau.com.br/",
+          "/sobre-nos",
+          "/odontopedriatria",
+          "/ortodontia"
+        ]
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch",
+      "fetched_at": "2026-04-07T12:19:54.264488+00:00"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Doctoralia",
+      "value": "Nao encontrado",
+      "detail": {
+        "oportunidade": "Criar perfil aumentaria captacao"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T12:19:54.264488+00:00"
+    },
+    {
+      "category": "sales_channels",
+      "label": "BoaConsulta",
+      "value": "Nao encontrado",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T12:19:54.264488+00:00"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Google Maps",
+      "value": "Nao confirmado",
+      "detail": {
+        "oportunidade": "Google Business Profile nao encontrado"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T12:19:54.264488+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Logo/og:image do site",
+      "value": "https://static.wixstatic.com/media/3aca2b_5e80d01165c5417693a7b831a9a35fbe~mv2.png",
+      "detail": {
+        "tipo": "logo",
+        "fonte": "og:image homepage",
+        "urls": [
+          "https://static.wixstatic.com/media/3aca2b_5e80d01165c5417693a7b831a9a35fbe~mv2.png"
+        ]
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch (odontopedblumenau.com.br)",
+      "fetched_at": "2026-04-07T12:19:54.264488+00:00"
+    },
+    {
+      "category": "brand",
+      "label": "Padroes da marca",
+      "value": "Odontopediatria integrativa, tom acolhedor e profissional, foco em criancas e familias",
+      "detail": {
+        "cores": [
+          "tons pastel",
+          "branco",
+          "azul claro"
+        ],
+        "tom": "Acolhedor e profissional - equilibrio entre autoridade academica e carinho com criancas",
+        "publico_alvo": "Pais de bebes, criancas e adolescentes em Blumenau, incluindo PcD",
+        "estilo_visual": "Clean e infantil - site Wix simples",
+        "slogan": "Nao identificado",
+        "diferencial": "Doutora pela UNESP, professora FURB, 25+ anos de experiencia, ambiente adaptado para PcD, odontologia integrativa"
+      },
+      "source_type": "briefing",
+      "source_name": "Analise de marca",
+      "fetched_at": "2026-04-07T12:19:54.264488+00:00"
+    },
+    {
+      "category": "competitors",
+      "label": "Concorrentes com site em Blumenau",
+      "value": "4 concorrentes com site profissional encontrados",
+      "detail": [
+        "Mordent Clinica Odontologica - https://mordent.com.br/especialidades/odontopediatria-em-blumenau/",
+        "Odontopediatria Afetiva - https://odontopediatriaafetiva.com.br/",
+        "OralBlu Centro Clinico - https://oralblu.com.br/",
+        "Carlos Gomes Odontologia - https://carlosgomesodontologia.com.br/odontopediatria/"
+      ],
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T12:19:54.264488+00:00"
+    }
+  ],
+  "summary": "Odontopediatra com Doutorado pela UNESP e professora na FURB, 25+ anos de experiencia clinica em Blumenau/SC. Site atual em Wix com problemas serios de SEO (conteudo JS-only, meta tags ausentes, sem links sociais). Ausente de Doctoralia, BoaConsulta e Google Business. Instagram @maisquedentinhos com apenas 680 seguidores. 4 concorrentes diretos ja tem site profissional. Excelente candidata para site novo com SEO otimizado, integracao Doctoralia e Google Business Profile.",
+  "sales_score": 7,
+  "generated_at": "2026-04-07T12:19:54.264488+00:00"
+}

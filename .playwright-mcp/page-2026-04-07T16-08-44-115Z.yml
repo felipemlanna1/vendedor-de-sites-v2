@@ -1,0 +1,197 @@
+- generic [ref=e2]:
+  - navigation [ref=e3]:
+    - generic [ref=e4]:
+      - button "MM Dra. Marcella Melro" [ref=e5]:
+        - generic [ref=e6]: MM
+        - generic [ref=e7]: Dra. Marcella Melro
+      - generic [ref=e8]:
+        - button "Switch to English" [ref=e9]: PT
+        - button "Início" [ref=e10]
+        - button "Sobre" [ref=e11]
+        - button "Serviços" [ref=e12]
+        - button "Diferenciais" [ref=e13]
+        - button "Instagram" [ref=e14]
+        - button "Contato" [ref=e15]
+        - link "Agende sua consulta" [ref=e16] [cursor=pointer]:
+          - /url: https://wa.me/5548999235973?text=Ol%C3%A1%2C%20Dra.%20Marcella!%20Gostaria%20de%20agendar%20uma%20consulta.
+  - main [ref=e17]:
+    - generic [ref=e18]:
+      - generic [ref=e20]:
+        - generic [ref=e21]:
+          - paragraph [ref=e22]: Odontologia Integrativa
+          - heading "Saúde bucal conectada ao todo" [level=1] [ref=e23]:
+            - generic [ref=e24]: Saúde
+            - generic [ref=e25]: bucal
+            - generic [ref=e26]: conectada
+            - generic [ref=e27]: ao
+            - generic [ref=e28]: todo
+          - paragraph [ref=e29]: Sua boca revela o que o corpo pede — e eu escuto.
+          - link "Agende sua consulta" [ref=e31] [cursor=pointer]:
+            - /url: https://wa.me/5548999235973?text=Ol%C3%A1%2C%20Dra.%20Marcella!%20Gostaria%20de%20agendar%20uma%20consulta.
+        - img "Dra. Marcella Melro, cirurgia-dentista integrativa em Blumenau" [ref=e35]
+      - generic [ref=e37]:
+        - generic [ref=e38]: Deslize para descobrir
+        - img [ref=e40]
+    - generic [ref=e44]:
+      - generic [ref=e46]: A filosofia
+      - heading "Sua boca revela o que o corpo está pedindo — e eu escuto." [level=2] [ref=e47]:
+        - generic [ref=e48]: Sua
+        - generic [ref=e49]: boca
+        - generic [ref=e50]: revela
+        - generic [ref=e51]: o
+        - generic [ref=e52]: que
+        - generic [ref=e53]: o
+        - generic [ref=e54]: corpo
+        - generic [ref=e55]: está
+        - generic [ref=e56]: pedindo
+        - generic [ref=e57]: —
+        - generic [ref=e58]: e
+        - generic [ref=e59]: eu
+        - generic [ref=e60]: escuto.
+      - paragraph [ref=e62]: Na odontologia integrativa, cada sintoma bucal é uma pista sobre a saúde do corpo inteiro. Não tratamos apenas dentes — investigamos causas, conectamos sinais e construímos um caminho de cuidado que respeita quem você é.
+      - link "Quero conhecer essa abordagem" [ref=e64] [cursor=pointer]:
+        - /url: https://wa.me/5548999235973?text=Ol%C3%A1%2C%20Dra.%20Marcella!%20Gostaria%20de%20agendar%20uma%20consulta.
+    - generic [ref=e67]:
+      - img "Dra. Marcella Melro, cirurgiã-dentista integrativa" [ref=e71]
+      - generic [ref=e73]:
+        - generic [ref=e75]: Quem escuta
+        - heading "Dra. Marcella Melro" [level=2] [ref=e77]
+        - paragraph [ref=e79]: Cirurgiã-dentista com formação pela UNESP e especialização em odontologia integrativa. Ao longo de mais de uma década de prática, desenvolvi uma abordagem que conecta a saúde bucal ao corpo todo — integrando odontologia, medicina, nutrição e psicologia.
+        - blockquote [ref=e81]:
+          - paragraph [ref=e82]: Eu não trato dentes. Eu escuto o que eles estão dizendo.
+        - generic [ref=e84]:
+          - img "Dra. Marcella Melro, retrato profissional" [ref=e85]
+          - generic [ref=e86]:
+            - paragraph [ref=e87]: Dra. Marcella Melro
+            - paragraph [ref=e88]: CRO-SC • UNESP • Membro da ABM Funcional Integrativa
+    - generic [ref=e90]:
+      - generic [ref=e91]:
+        - generic [ref=e93]: O cuidado
+        - heading "Cada serviço é um olhar integrativo sobre a sua saúde" [level=2] [ref=e95]
+      - generic [ref=e96]:
+        - generic [ref=e98]:
+          - img [ref=e100]
+          - heading "Avaliação Integrativa" [level=3] [ref=e104]
+          - paragraph [ref=e105]: Consulta completa onde escutamos o que sua boca está revelando sobre seu corpo. Anamnese detalhada conectando saúde bucal, metabolismo e hábitos de vida.
+        - generic [ref=e107]:
+          - img [ref=e109]
+          - heading "Radiografia Panorâmica Diagnóstica" [level=3] [ref=e114]
+          - paragraph [ref=e115]: A radiografia panorâmica vai muito além dos dentes. Permite enxergar o organismo como um todo, identificando sinais que outros exames não revelam.
+        - generic [ref=e117]:
+          - img [ref=e119]
+          - heading "Tratamento Periodontal Sistêmico" [level=3] [ref=e122]
+          - paragraph [ref=e123]: Gengiva saudável não sangra. Tratamos a doença periodontal investigando causas sistêmicas — inflamação, nutrição, metabolismo — não apenas os sintomas locais.
+        - generic [ref=e125]:
+          - img [ref=e127]
+          - heading "Harmonização Orofacial" [level=3] [ref=e129]
+          - paragraph [ref=e130]: Equilíbrio e naturalidade. Procedimentos que respeitam a harmonia do rosto, sem exageros, com olhar integrativo sobre a saúde como um todo.
+        - generic [ref=e132]:
+          - img [ref=e134]
+          - heading "Odontopediatria Integrativa" [level=3] [ref=e137]
+          - paragraph [ref=e138]: Cuidado acolhedor para os pequenos, desde o nascimento. Orientação para pais sobre alimentação, respiração e hábitos que constroem saúde bucal para a vida toda.
+        - generic [ref=e140]:
+          - img [ref=e142]
+          - heading "Acompanhamento Preventivo" [level=3] [ref=e145]
+          - paragraph [ref=e146]: Prevenção individualizada com foco em manter o equilíbrio do organismo. Limpezas periódicas, orientação nutricional e monitoramento contínuo.
+      - link "Descubra como posso ajudar você" [ref=e149] [cursor=pointer]:
+        - /url: https://wa.me/5548999235973?text=Ol%C3%A1%2C%20Dra.%20Marcella!%20Gostaria%20de%20agendar%20uma%20consulta.
+    - heading "O sorriso é a porta de entrada para a saúde do corpo inteiro" [level=2] [ref=e152]:
+      - generic [ref=e153]: O
+      - generic [ref=e154]: sorriso
+      - generic [ref=e155]: é
+      - generic [ref=e156]: a
+      - generic [ref=e157]: porta
+      - generic [ref=e158]: de
+      - generic [ref=e159]: entrada
+      - generic [ref=e160]: para
+      - generic [ref=e161]: a
+      - generic [ref=e162]: saúde
+      - generic [ref=e163]: do
+      - generic [ref=e164]: corpo
+      - generic [ref=e165]: inteiro
+    - generic [ref=e167]:
+      - generic [ref=e168]:
+        - generic [ref=e170]: Por que aqui
+        - heading "O que torna essa abordagem única" [level=2] [ref=e172]
+      - img "Dra. Marcella Melro no stand Philozon Ozoncare — congresso de odontologia integrativa" [ref=e176]
+      - generic [ref=e177]:
+        - generic [ref=e179]:
+          - generic [ref=e181]: 0+
+          - paragraph [ref=e182]: Anos de odontologia integrativa
+        - generic [ref=e184]:
+          - generic [ref=e185]: "0"
+          - paragraph [ref=e186]: Seguidores no Instagram
+        - generic [ref=e188]:
+          - generic [ref=e189]: "0"
+          - paragraph [ref=e190]: Especialidades integradas
+      - generic [ref=e192]:
+        - generic [ref=e193]: Abordagem integrativa
+        - generic [ref=e194]: Formação UNESP
+        - generic [ref=e195]: Membro ABM Funcional Integrativa
+        - generic [ref=e196]: Visão holística da saúde
+    - generic [ref=e198]:
+      - generic [ref=e199]:
+        - generic [ref=e201]: O dia a dia
+        - heading "Acompanhe o consultório e a abordagem integrativa no Instagram" [level=2] [ref=e203]
+      - generic [ref=e204]:
+        - link "Radiografia panorâmica — diagnóstico integrativo" [ref=e205] [cursor=pointer]:
+          - /url: https://www.instagram.com/dramarcellamelro/
+          - img "Radiografia panorâmica — diagnóstico integrativo" [ref=e206]
+          - img [ref=e208]
+        - link "Dra. Marcella no stand Philozon Ozoncare" [ref=e211] [cursor=pointer]:
+          - /url: https://www.instagram.com/dramarcellamelro/
+          - img "Dra. Marcella no stand Philozon Ozoncare" [ref=e212]
+          - img [ref=e214]
+        - link "Por que pedir exames laboratoriais na odontologia" [ref=e217] [cursor=pointer]:
+          - /url: https://www.instagram.com/dramarcellamelro/
+          - img "Por que pedir exames laboratoriais na odontologia" [ref=e218]
+          - img [ref=e220]
+        - link "O ciclo da gengivite — conteúdo educativo" [ref=e223] [cursor=pointer]:
+          - /url: https://www.instagram.com/dramarcellamelro/
+          - img "O ciclo da gengivite — conteúdo educativo" [ref=e224]
+          - img [ref=e226]
+      - link "Siga no Instagram @dramarcellamelro" [ref=e231] [cursor=pointer]:
+        - /url: https://www.instagram.com/dramarcellamelro/
+    - generic [ref=e234]:
+      - generic [ref=e235]:
+        - generic [ref=e237]: O convite
+        - heading "Pronta para começar sua jornada de saúde integrativa?" [level=2] [ref=e239]
+        - generic [ref=e241]:
+          - link "WhatsApp +55 48 99923-5973" [ref=e242] [cursor=pointer]:
+            - /url: https://wa.me/5548999235973?text=Ol%C3%A1%2C%20Dra.%20Marcella!%20Gostaria%20de%20agendar%20uma%20consulta.
+            - img [ref=e244]
+            - generic [ref=e246]:
+              - paragraph [ref=e247]: WhatsApp
+              - paragraph [ref=e248]: +55 48 99923-5973
+          - link "Instagram @dramarcellamelro" [ref=e249] [cursor=pointer]:
+            - /url: https://www.instagram.com/dramarcellamelro/
+            - img [ref=e251]
+            - generic [ref=e254]:
+              - paragraph [ref=e255]: Instagram
+              - paragraph [ref=e256]: "@dramarcellamelro"
+          - generic [ref=e257]:
+            - img [ref=e259]
+            - generic [ref=e262]:
+              - paragraph [ref=e263]: Localização
+              - paragraph [ref=e264]: Blumenau, SC
+          - generic [ref=e265]:
+            - img [ref=e267]
+            - generic [ref=e270]:
+              - paragraph [ref=e271]: Horário de atendimento
+              - paragraph [ref=e272]: Segunda a Sexta, 8h às 18h
+        - link "Vamos conversar?" [ref=e275] [cursor=pointer]:
+          - /url: https://wa.me/5548999235973?text=Ol%C3%A1%2C%20Dra.%20Marcella!%20Gostaria%20de%20agendar%20uma%20consulta.
+      - generic [ref=e276]:
+        - img "Dra. Marcella Melro, cirurgiã-dentista integrativa" [ref=e279]
+        - iframe [ref=e282]:
+          
+  - contentinfo [ref=e283]:
+    - generic [ref=e285]:
+      - generic [ref=e286]:
+        - generic [ref=e287]: MM
+        - paragraph [ref=e288]: © 2026 Dra. Marcella Melro. Todos os direitos reservados.
+      - generic [ref=e289]:
+        - generic [ref=e290]: Siga nas redes
+        - link "Instagram" [ref=e291] [cursor=pointer]:
+          - /url: https://www.instagram.com/dramarcellamelro/
+          - img [ref=e292]

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://afadadodente.pages.dev/sitemap.xml

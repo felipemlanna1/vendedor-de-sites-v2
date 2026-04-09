@@ -1,0 +1,266 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e88] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e93]
+        - link "Foto do perfil de _pipelinestudio" [ref=e99] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e104]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e105]
+      - generic [ref=e106]:
+        - link "Configurações" [ref=e109] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e114]
+        - link "Também da Meta" [ref=e117] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e122]
+    - generic [ref=e125]:
+      - main [ref=e126]:
+        - generic [ref=e127]:
+          - generic [ref=e129]:
+            - button [ref=e134]:
+              - generic [ref=e141]:
+                - list [ref=e143]:
+                  - listitem [ref=e144]
+                  - listitem [ref=e145]:
+                    - generic [ref=e150] [cursor=pointer]:
+                      - button [ref=e151]:
+                        - img [ref=e153]
+                      - button [ref=e156]:
+                        - img [ref=e158]
+                  - listitem [ref=e160]:
+                    - img [ref=e167]
+                - button [ref=e169] [cursor=pointer]
+            - generic [ref=e172]:
+              - generic [ref=e174]:
+                - generic [ref=e176]:
+                  - link "Foto do perfil de clinicadramilaserra" [ref=e177]:
+                    - img "Foto do perfil de clinicadramilaserra" [ref=e178]
+                  - link "Foto do perfil de dra.milaserra" [ref=e181]:
+                    - img "Foto do perfil de dra.milaserra" [ref=e182]
+                - generic [ref=e189]:
+                  - link "dra.milaserra" [ref=e193] [cursor=pointer]:
+                    - /url: /dra.milaserra/
+                    - generic [ref=e196]: dra.milaserra
+                  - text: e
+                  - link "clinicadramilaserra" [ref=e200] [cursor=pointer]:
+                    - /url: /clinicadramilaserra/
+                    - generic [ref=e203]: clinicadramilaserra
+                - button "Mais opções" [ref=e206] [cursor=pointer]:
+                  - img "Mais opções" [ref=e209]
+              - separator [ref=e213]
+              - generic [ref=e215]:
+                - generic [ref=e217]:
+                  - link "Foto do perfil de dra.milaserra" [ref=e222] [cursor=pointer]:
+                    - /url: /dra.milaserra/
+                    - img "Foto do perfil de dra.milaserra" [ref=e223]
+                  - generic [ref=e227]:
+                    - generic [ref=e228]:
+                      - link "dra.milaserra Verificado" [ref=e232] [cursor=pointer]:
+                        - /url: /dra.milaserra/
+                        - generic [ref=e234]:
+                          - generic [ref=e235]: dra.milaserra
+                          - img "Verificado" [ref=e237]
+                      - time [ref=e240]: 25 sem
+                    - generic [ref=e241]: Olhar renovado, autoestima em alta. 💉✨
+                - generic [ref=e244]:
+                  - heading "Ainda não há nenhum comentário." [level=2] [ref=e246]
+                  - generic [ref=e248]: Inicie a conversa.
+              - generic [ref=e249]:
+                - generic [ref=e250]:
+                  - generic [ref=e251]:
+                    - button "Curtir" [ref=e254] [cursor=pointer]:
+                      - img "Curtir" [ref=e257]
+                    - button "Comentar" [ref=e260] [cursor=pointer]:
+                      - img "Comentar" [ref=e262]
+                    - button "Compartilhar" [ref=e264] [cursor=pointer]:
+                      - img "Compartilhar" [ref=e265]
+                  - button "Salvar" [ref=e270] [cursor=pointer]:
+                    - button "Salvar" [ref=e271]:
+                      - img "Salvar" [ref=e273]
+                - link "13 de outubro de 2025" [ref=e277] [cursor=pointer]:
+                  - /url: /dra.milaserra/p/DPwqvDPjiHI/
+                  - time [ref=e279]: 13 de outubro de 2025
+              - generic [ref=e282]:
+                - link [ref=e283]
+                - generic [ref=e285]:
+                  - button "Emoji" [ref=e287] [cursor=pointer]:
+                    - img "Emoji" [ref=e289]
+                  - textbox "Adicione um comentário..." [ref=e291]
+          - separator [ref=e293]
+          - generic [ref=e294]:
+            - generic [ref=e296]:
+              - text: Mais posts de
+              - link "dra.milaserra" [ref=e297] [cursor=pointer]:
+                - /url: /dra.milaserra/
+            - generic [ref=e300]:
+              - generic [ref=e301]:
+                - 'link "Se você quiser desenrugar e levantar essa autoestima… 🤷🏼‍♀️ #meme #reels #viral #fy #estetica Clipe" [ref=e303] [cursor=pointer]':
+                  - /url: /dra.milaserra/reel/DWpH1BCkwTV/
+                  - 'img "Se você quiser desenrugar e levantar essa autoestima… 🤷🏼‍♀️ #meme #reels #viral #fy #estetica" [ref=e306]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - link "Photo shared by Dra. Mila Serra | Harmoni-MI on April 01, 2026 tagging @clinicadramilaserra. May be an image of text." [ref=e309] [cursor=pointer]:
+                  - /url: /dra.milaserra/p/DWmJA63DrVs/
+                  - img "Photo shared by Dra. Mila Serra | Harmoni-MI on April 01, 2026 tagging @clinicadramilaserra. May be an image of text." [ref=e312]
+                - 'link "Todo mundo conhece alguém que chegou aos 40 com a pele linda, viçosa e bem cuidada. E quase nunca é acaso. Aos 20, a pele responde bem mesmo com poucos cuidados. Mas a partir dos 30, quem mantém uma aparência saudável geralmente fez escolhas conscientes ao longo do tempo: tratou manchas, cuidou da flacidez, manteve a hidratação, preveniu rugas, protegeu do sol e não deixou tudo para depois. A maturidade não apaga a beleza, ela transforma. Só pede mais atenção, constância e escolhas inteligentes. Quando o cuidado acompanha cada fase da vida, a imagem continua refletindo quem você é: segura, confiante e confortável com o próprio espelho. Porque se sentir bem com a própria imagem não tem idade ✨ Carrossel" [ref=e315] [cursor=pointer]':
+                  - /url: /dra.milaserra/p/DWbYISVjhAt/
+                  - 'img "Todo mundo conhece alguém que chegou aos 40 com a pele linda, viçosa e bem cuidada. E quase nunca é acaso. Aos 20, a pele responde bem mesmo com poucos cuidados. Mas a partir dos 30, quem mantém uma aparência saudável geralmente fez escolhas conscientes ao longo do tempo: tratou manchas, cuidou da flacidez, manteve a hidratação, preveniu rugas, protegeu do sol e não deixou tudo para depois. A maturidade não apaga a beleza, ela transforma. Só pede mais atenção, constância e escolhas inteligentes. Quando o cuidado acompanha cada fase da vida, a imagem continua refletindo quem você é: segura, confiante e confortável com o próprio espelho. Porque se sentir bem com a própria imagem não tem idade ✨" [ref=e318]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+              - generic [ref=e320]:
+                - 'link "Quem mais já passou por isso? 🤭🤣🤣 Na estética, nem sempre o que o paciente deseja é o mais indicado para o seu caso. Por isso, um planejamento adequado e um protocolo de tratamento bem estruturado são fundamentais para alcançar resultados seguros e eficazes. O planejamento deve ser individual e não conseguido num “vídeo da internet”. Agende sua avaliação e descubra o protocolo ideal para você! ✨ #meme #viral #fy #estetica #reels Clipe" [ref=e322] [cursor=pointer]':
+                  - /url: /dra.milaserra/reel/DWQ2DANjnaK/
+                  - 'img "Quem mais já passou por isso? 🤭🤣🤣 Na estética, nem sempre o que o paciente deseja é o mais indicado para o seu caso. Por isso, um planejamento adequado e um protocolo de tratamento bem estruturado são fundamentais para alcançar resultados seguros e eficazes. O planejamento deve ser individual e não conseguido num “vídeo da internet”. Agende sua avaliação e descubra o protocolo ideal para você! ✨ #meme #viral #fy #estetica #reels" [ref=e325]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - 'link "Era só… o que faltava! 🤩 Novo contorno, nova confiança 💋✨ Mais do que lábios, é sobre se olhar e amar o que vê. Venha realizar sua transformação comigo! #fy #reel #labios #beleza #esteticafacial Clipe" [ref=e328] [cursor=pointer]':
+                  - /url: /dra.milaserra/reel/DWBlUX0Dpt8/
+                  - 'img "Era só… o que faltava! 🤩 Novo contorno, nova confiança 💋✨ Mais do que lábios, é sobre se olhar e amar o que vê. Venha realizar sua transformação comigo! #fy #reel #labios #beleza #esteticafacial" [ref=e331]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - link [ref=e334] [cursor=pointer]:
+                  - /url: /dra.milaserra/p/DV_nsieDlNs/
+                  - img [ref=e337]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+      - contentinfo [ref=e339]:
+        - generic [ref=e340]:
+          - generic [ref=e342]:
+            - link "Meta" [ref=e344] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e345]: Meta
+            - link "Sobre" [ref=e347] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e348]: Sobre
+            - link "Blog" [ref=e350] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e351]: Blog
+            - link "Carreiras" [ref=e353] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e354]: Carreiras
+            - link "Ajuda" [ref=e356] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e357]: Ajuda
+            - link "API" [ref=e359] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e360]: API
+            - link "Privacidade" [ref=e362] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e363]: Privacidade
+            - link "Termos" [ref=e365] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e366]: Termos
+            - link "Localizações" [ref=e368] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e369]: Localizações
+            - link "Instagram Lite" [ref=e371] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e372]: Instagram Lite
+            - link "Meta AI" [ref=e374] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e375]: Meta AI
+            - link "Threads" [ref=e377] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e378]: Threads
+            - link "Upload de contatos e não usuários" [ref=e380] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e381]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e383] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e384]: Meta Verified
+          - generic [ref=e385]:
+            - generic [ref=e386] [cursor=pointer]:
+              - generic [ref=e387]:
+                - generic [ref=e388]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e391]
+              - combobox "Trocar idioma de exibição" [ref=e393]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e395]: © 2026 Instagram from Meta
+  - button "Mensagens" [ref=e398] [cursor=pointer]:
+    - generic "Mensagens" [ref=e399]:
+      - generic [ref=e400]:
+        - img "Mensagens" [ref=e403]
+        - generic [ref=e406]: Mensagens

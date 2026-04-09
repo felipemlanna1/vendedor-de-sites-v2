@@ -4,124 +4,124 @@
     "menu": "Cardapio",
     "history": "Nossa Historia",
     "locations": "Unidades",
-    "cta": "Pedir Agora"
+    "order": "Pedir Agora"
   },
   "hero": {
-    "title": "Cada mordida tem proposito",
-    "subtitle": "Hamburgueres artesanais que transformam ingredientes nobres em experiencias com sabor e impacto social. Desde 2015, ja doamos mais de R$200 mil para causas socioambientais.",
+    "title": "Cada mordida tem proposito.",
+    "subtitle": "Hamburgueria artesanal em Florianopolis desde 2015. A cada hamburguer vendido, R$1 e doado para causas socioambientais.",
     "cta": "Pedir Agora",
-    "cta_menu": "Ver Cardapio"
+    "secondary_cta": "Ver Cardapio"
   },
-  "delivery": {
-    "title": "Peca seu hamburguer",
+  "deliveryBar": {
+    "label": "Peca pelo:",
     "ifood": "iFood",
     "rappi": "Rappi",
     "anotaai": "Anota Ai",
     "whatsapp": "WhatsApp"
   },
   "impact": {
-    "title": "Sabor com proposito",
-    "subtitle": "A cada hamburguer vendido, R$1 e doado para projetos socioambientais em parceria com o ICOM Floripa.",
-    "donated": "R$ doados para causas sociais",
-    "years": "anos transformando vidas",
-    "locations_count": "unidades em SC",
-    "reviews_count": "avaliacoes 5 estrelas"
+    "title": "Nosso Impacto",
+    "donated": "doados para causas socioambientais",
+    "years": "anos transformando ingredientes em proposito",
+    "units": "unidades em Santa Catarina",
+    "followers": "seguidores no Instagram",
+    "description": "Desde 2015, a cada hamburguer vendido, R$1 e direcionado para projetos sociais na Grande Florianopolis. Ja ultrapassamos R$200 mil em doacoes."
   },
-  "highlights": {
-    "title": "Nossos destaques",
-    "subtitle": "Hamburguer artesanal de verdade, com carne Black Angus, maioneses caseiras e paes feitos na hora.",
-    "cta": "Pedir este"
+  "menuHighlights": {
+    "title": "Nossos Hamburgueres",
+    "subtitle": "Black angus artesanal, paes especiais e maioneses caseiras.",
+    "viewAll": "Ver Cardapio Completo",
+    "from": "a partir de",
+    "badges": {
+      "vegan": "Vegano",
+      "vegetarian": "Vegetariano",
+      "petFriendly": "Pet Friendly",
+      "smash": "Smash"
+    }
   },
-  "reviews": {
+  "socialProof": {
     "title": "O que dizem sobre nos",
-    "subtitle": "Mais de 8.500 avaliacoes em 7 plataformas diferentes.",
-    "ifood_label": "iFood",
-    "tripadvisor_label": "TripAdvisor",
-    "foursquare_label": "Foursquare",
+    "ifoodLabel": "no iFood",
+    "tripadvisorLabel": "no TripAdvisor",
+    "totalReviews": "+8.500 avaliacoes em 8 plataformas",
     "ranking": "#22 de 2.490 restaurantes em Florianopolis",
-    "items": {
+    "testimonials": {
       "t1": {
         "text": "Nota mil! Pelo sabor, qualidade, ambiente e carinho. O hamburguer e impecavel, delicioso.",
-        "author": "Vivian B.",
-        "platform": "TripAdvisor"
+        "author": "Cliente TripAdvisor",
+        "date": "Dezembro 2025",
+        "rating": 5
       },
       "t2": {
-        "text": "Pegamos a indicacao pelo iFood e ficamos muito surpresos! Super atencioso, sabor impecavel e bem servido.",
-        "author": "Karolyna A.",
-        "platform": "TripAdvisor"
+        "text": "Fomos atendidos pelo Joao que foi super atencioso... que delicia! Sabor impecavel e bem servido!",
+        "author": "Cliente TripAdvisor",
+        "date": "Maio 2025",
+        "rating": 5
       },
       "t3": {
-        "text": "Hamburgueres incriveis, atendimento perfeito. O ambiente e acolhedor e a causa social torna tudo ainda melhor.",
-        "author": "Cliente iFood",
-        "platform": "iFood"
+        "text": "Do atendimento a qualidade dos hamburgueres, tudo superou minhas expectativas... da pra sentir o carinho em cada detalhe.",
+        "author": "Cliente TripAdvisor",
+        "date": "Maio 2025",
+        "rating": 5
       }
     }
   },
-  "locations": {
-    "title": "Nossas unidades",
-    "subtitle": "4 enderecos para voce matar a fome com proposito.",
-    "order_here": "Pedir nesta unidade",
-    "directions": "Como chegar",
-    "hours": "Diariamente das 17h30 as 00h",
-    "units": {
-      "trindade": {
-        "name": "Trindade",
-        "address": "R. Prof. Bento Aguido Vieira, 20 - Trindade, Florianopolis/SC",
-        "since": "Desde 2015"
-      },
-      "centro": {
-        "name": "Centro",
-        "address": "Av. Hercilio Luz, 633, Loja 05 - Centro, Florianopolis/SC",
-        "since": "Desde 2022"
-      },
-      "rio_tavares": {
-        "name": "Rio Tavares",
-        "address": "Rio Tavares, Florianopolis/SC",
-        "since": ""
-      },
-      "itapema": {
-        "name": "Itapema",
-        "address": "Pier o Porto, Itapema/SC",
-        "since": ""
-      }
-    }
-  },
-  "cta_final": {
-    "title": "Seu proximo hamburguer muda o mundo",
-    "subtitle": "Cada pedido contribui com R$1 para causas socioambientais. Ja sao mais de R$200 mil doados.",
-    "cta": "Pedir Agora"
-  },
-  "menu_page": {
-    "title": "Cardapio",
-    "subtitle": "Escolha seu favorito e peca pelo iFood, Rappi ou Anota Ai.",
-    "filter_all": "Todos",
-    "filter_combos": "Combos",
-    "filter_burgers": "Hamburgueres",
-    "filter_smash": "Smash",
-    "filter_veggie": "Vegano & Vegetariano",
-    "filter_sides": "Porcoes",
-    "filter_drinks": "Bebidas",
-    "filter_pet": "Pet Burguer",
-    "order": "Pedir"
-  },
-  "history_page": {
+  "historyPreview": {
     "title": "Nossa Historia",
-    "subtitle": "De 3 amigos apaixonados por hamburguer a 4 unidades e mais de R$200 mil doados.",
-    "origin_title": "Como tudo comecou",
-    "origin_text": "Em 2015, tres amigos cansados da combinacao trivial pao-carne-queijo-alface decidiram criar algo diferente. Nascia a Usina do Hamburguer, uma hamburgueria artesanal com proposito: a cada hamburguer vendido, R$1 seria doado para causas socioambientais.",
-    "growth_title": "Crescimento",
-    "growth_text": "Da primeira unidade na Trindade, ao lado da UFSC, a Usina cresceu para 4 unidades em Santa Catarina. Hoje sao 24 colaboradores e mais de 39 mil seguidores nas redes sociais.",
-    "impact_title": "Impacto social",
-    "impact_text": "Atraves do Fundo Usina do Hamburguer, em parceria com o ICOM Floripa, ja foram doados mais de R$200 mil para projetos de protecao animal, meio ambiente e inclusao social.",
-    "pet_title": "Pet Burguer",
-    "pet_text": "Porque nosso amor pelos animais vai alem das doacoes. Criamos o Pet Burguer: um hamburguer especial para o seu melhor amigo de 4 patas."
+    "text": "Em 2015, tres amigos cansados da combinacao basica pao-carne-queijo-alface decidiram criar algo diferente. Nasceu a Usina do Hamburguer: hamburgueres artesanais com ingredientes de qualidade e um proposito maior.",
+    "cta": "Conhecer Nossa Historia"
+  },
+  "historyPage": {
+    "title": "Nossa Historia",
+    "intro": "Fundada em 2015 na Trindade, em Florianopolis, a Usina do Hamburguer nasceu do sonho de tres amigos que queriam ir alem do hamburguer convencional.",
+    "timeline": {
+      "2015": "Abertura da primeira unidade na Trindade, ao lado da UFSC.",
+      "2018": "Marco de R$50 mil em doacoes para causas socioambientais.",
+      "2022": "Inauguracao da unidade Centro, na Av. Hercilio Luz.",
+      "2024": "Expansao para Rio Tavares e Itapema. Mais de R$200 mil doados.",
+      "2026": "4 unidades, 24 funcionarios, 39 mil seguidores e +8.500 avaliacoes."
+    },
+    "socialCause": {
+      "title": "R$1 por Hamburguer",
+      "description": "A cada hamburguer vendido, R$1 e doado para projetos sociais e ambientais na Grande Florianopolis. Ja ultrapassamos R$200 mil em doacoes, apoiando comunidades, educacao e meio ambiente."
+    },
+    "petBurguer": {
+      "title": "Pet Burguer",
+      "description": "Somos pet-friendly de verdade. Criamos o Pet Burguer: um hamburguer especial feito para seu melhor amigo de quatro patas."
+    }
+  },
+  "menuPage": {
+    "title": "Cardapio",
+    "subtitle": "Ingredientes frescos, black angus artesanal e muito sabor.",
+    "filters": {
+      "all": "Todos",
+      "burgers": "Hamburgueres",
+      "combos": "Combos",
+      "sides": "Porcoes",
+      "drinks": "Bebidas"
+    },
+    "orderNow": "Pedir Agora",
+    "orderVia": "Peca pelo"
+  },
+  "locationsPage": {
+    "title": "Nossas Unidades",
+    "subtitle": "4 enderecos em Santa Catarina para voce saborear.",
+    "hours": "Horario",
+    "address": "Endereco",
+    "howToGet": "Como Chegar",
+    "phone": "Telefone"
+  },
+  "ctaFinal": {
+    "title": "Fome de verdade merece hamburguer de verdade.",
+    "subtitle": "Peca agora pelo seu canal favorito e prove que sabor e proposito andam juntos.",
+    "cta": "Pedir Agora"
   },
   "footer": {
     "copyright": "2026 Usina do Hamburguer. Todos os direitos reservados.",
-    "social": "Siga a gente",
     "cnpj": "CNPJ: 23.003.410/0001-91",
-    "phone": "(48) 3371-8633",
-    "email": "contato@usinadohamburguer.com.br"
+    "social": "Siga nas redes",
+    "contact": "Contato",
+    "links": "Links Rapidos"
   },
   "lang": {
     "pt": "Portugues",

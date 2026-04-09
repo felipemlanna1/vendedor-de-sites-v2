@@ -1,0 +1,225 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e86] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e91]
+        - link "Foto do perfil de _pipelinestudio" [ref=e97] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e102]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e103]
+      - generic [ref=e104]:
+        - link "Configurações" [ref=e107] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e112]
+        - link "Também da Meta" [ref=e115] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e120]
+    - generic [ref=e123]:
+      - main [ref=e124]:
+        - generic [ref=e125]:
+          - generic [ref=e127]:
+            - button [ref=e132]:
+              - img [ref=e138]
+            - generic [ref=e141]:
+              - generic [ref=e143]:
+                - button "Foto do perfil de _afadadodente" [ref=e148] [cursor=pointer]:
+                  - link "Foto do perfil de _afadadodente" [ref=e150]:
+                    - img "Foto do perfil de _afadadodente" [ref=e151]
+                - generic [ref=e154]:
+                  - link "_afadadodente" [ref=e163] [cursor=pointer]:
+                    - /url: /_afadadodente/
+                    - generic [ref=e166]: _afadadodente
+                  - button "Seguir" [ref=e168] [cursor=pointer]
+                - button "Mais opções" [ref=e171] [cursor=pointer]:
+                  - img "Mais opções" [ref=e174]
+              - separator [ref=e178]
+              - generic [ref=e183]:
+                - heading "Ainda não há nenhum comentário." [level=2] [ref=e185]
+                - generic [ref=e187]: Inicie a conversa.
+              - generic [ref=e188]:
+                - generic [ref=e189]:
+                  - generic [ref=e190]:
+                    - button "Curtir" [ref=e193] [cursor=pointer]:
+                      - img "Curtir" [ref=e196]
+                    - button "2" [ref=e198] [cursor=pointer]
+                    - button "Comentar" [ref=e200] [cursor=pointer]:
+                      - img "Comentar" [ref=e202]
+                    - button "Compartilhar" [ref=e204] [cursor=pointer]:
+                      - img "Compartilhar" [ref=e205]
+                  - button "Salvar" [ref=e210] [cursor=pointer]:
+                    - button "Salvar" [ref=e211]:
+                      - img "Salvar" [ref=e213]
+                - link "19 de julho de 2022" [ref=e217] [cursor=pointer]:
+                  - /url: /_afadadodente/p/CgM1Hp1rTr1/
+                  - time [ref=e219]: 19 de julho de 2022
+              - generic [ref=e222]:
+                - link [ref=e223]
+                - generic [ref=e225]:
+                  - button "Emoji" [ref=e227] [cursor=pointer]:
+                    - img "Emoji" [ref=e229]
+                  - textbox "Adicione um comentário..." [ref=e231]
+          - separator [ref=e233]
+          - generic [ref=e234]:
+            - generic [ref=e236]:
+              - text: Mais posts de
+              - link "_afadadodente" [ref=e237] [cursor=pointer]:
+                - /url: /_afadadodente/
+            - generic [ref=e240]:
+              - generic [ref=e241]:
+                - link "Photo by Dra. Bianca R Samartin in Uberaba, Minas Gerais." [ref=e243] [cursor=pointer]:
+                  - /url: /_afadadodente/p/DSoL6UAjL1L/
+                  - img "Photo by Dra. Bianca R Samartin in Uberaba, Minas Gerais." [ref=e246]
+                - link "Aquele antes e depois de respeito! Com direito a nossa linda mini paciente escolher até o formato. Ao perguntar, tive a reposta “-Mais quadradinho, tia Bianca” e assim, foi feito ❤️ Carrossel" [ref=e249] [cursor=pointer]:
+                  - /url: /_afadadodente/p/DSTiGuzjKqd/
+                  - img "Aquele antes e depois de respeito! Com direito a nossa linda mini paciente escolher até o formato. Ao perguntar, tive a reposta “-Mais quadradinho, tia Bianca” e assim, foi feito ❤️" [ref=e252]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - link "Photo by Dra. Bianca R Samartin on December 14, 2025." [ref=e255] [cursor=pointer]:
+                  - /url: /_afadadodente/p/DSQsbCnASFH/
+                  - img "Photo by Dra. Bianca R Samartin on December 14, 2025." [ref=e258]
+              - generic [ref=e260]:
+                - link "João, como eu amo ir até a recepção te chamar e receber aquele abraço taaaaaaaao gostoso! Tia Bianca ama ❤️ Carrossel" [ref=e262] [cursor=pointer]:
+                  - /url: /_afadadodente/p/DQQCzmDgWRa/
+                  - img "João, como eu amo ir até a recepção te chamar e receber aquele abraço taaaaaaaao gostoso! Tia Bianca ama ❤️" [ref=e265]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - link "Photo by Dra. Bianca R Samartin in Uberaba, Minas Gerais." [ref=e268] [cursor=pointer]:
+                  - /url: /_afadadodente/p/DP884mFDcEy/
+                  - img "Photo by Dra. Bianca R Samartin in Uberaba, Minas Gerais." [ref=e271]
+                - link "Photo by Dra. Bianca R Samartin in Uberaba, Minas Gerais." [ref=e274] [cursor=pointer]:
+                  - /url: /_afadadodente/p/DKqHl1EsjGu/
+                  - img "Photo by Dra. Bianca R Samartin in Uberaba, Minas Gerais." [ref=e277]
+      - contentinfo [ref=e279]:
+        - generic [ref=e280]:
+          - generic [ref=e282]:
+            - link "Meta" [ref=e284] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e285]: Meta
+            - link "Sobre" [ref=e287] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e288]: Sobre
+            - link "Blog" [ref=e290] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e291]: Blog
+            - link "Carreiras" [ref=e293] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e294]: Carreiras
+            - link "Ajuda" [ref=e296] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e297]: Ajuda
+            - link "API" [ref=e299] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e300]: API
+            - link "Privacidade" [ref=e302] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e303]: Privacidade
+            - link "Termos" [ref=e305] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e306]: Termos
+            - link "Localizações" [ref=e308] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e309]: Localizações
+            - link "Instagram Lite" [ref=e311] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e312]: Instagram Lite
+            - link "Meta AI" [ref=e314] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e315]: Meta AI
+            - link "Threads" [ref=e317] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e318]: Threads
+            - link "Upload de contatos e não usuários" [ref=e320] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e321]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e323] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e324]: Meta Verified
+          - generic [ref=e325]:
+            - generic [ref=e326] [cursor=pointer]:
+              - generic [ref=e327]:
+                - generic [ref=e328]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e331]
+              - combobox "Trocar idioma de exibição" [ref=e333]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e335]: © 2026 Instagram from Meta
+  - button "Mensagens" [ref=e338] [cursor=pointer]:
+    - generic "Mensagens" [ref=e339]:
+      - generic [ref=e340]:
+        - img "Mensagens" [ref=e343]
+        - generic [ref=e346]: Mensagens

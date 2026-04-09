@@ -1,0 +1,102 @@
+- generic [ref=e2]:
+  - link "Pular para o conteúdo" [ref=e3] [cursor=pointer]:
+    - /url: "#main-content"
+  - banner [ref=e4]:
+    - navigation [ref=e5]:
+      - link "Dra. Milena Grossi Germiniani" [ref=e6] [cursor=pointer]:
+        - /url: "#"
+        - img "Monograma MG — Dra. Milena Grossi Germiniani — Odontologia Especializada e Harmonização Facial" [ref=e7]
+        - generic [ref=e8]: Dra. Milena
+      - generic [ref=e9]:
+        - link "Sobre" [ref=e10] [cursor=pointer]:
+          - /url: "#sobre"
+        - link "Tratamentos" [ref=e11] [cursor=pointer]:
+          - /url: "#tratamentos-hof"
+        - link "Resultados" [ref=e12] [cursor=pointer]:
+          - /url: "#resultados"
+        - link "Infantil" [ref=e13] [cursor=pointer]:
+          - /url: "#infantil"
+        - link "Localização" [ref=e14] [cursor=pointer]:
+          - /url: "#localizacao"
+        - link "Contato" [ref=e15] [cursor=pointer]:
+          - /url: "#contato"
+        - button "Trocar idioma" [ref=e16] [cursor=pointer]: EN
+        - link "Agende sua consulta" [ref=e17] [cursor=pointer]:
+          - /url: https://wa.me/5535997255631?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20consulta%20com%20a%20Dra.%20Milena.
+  - main [ref=e18]:
+    - generic [ref=e21]:
+      - generic [ref=e22]:
+        - paragraph [ref=e23]: CRO MG 26.171
+        - heading "A arte da naturalidade" [level=1] [ref=e24]:
+          - generic [ref=e25]: A
+          - generic [ref=e26]: arte
+          - generic [ref=e27]: da
+          - generic [ref=e28]: naturalidade
+        - paragraph [ref=e29]: Onde a ciência encontra a delicadeza — cada sorriso é uma obra de arte natural
+        - paragraph [ref=e30]: Harmonização Orofacial · Ortodontia · Invisalign
+        - link "Agende sua consulta" [ref=e32] [cursor=pointer]:
+          - /url: https://wa.me/5535997255631?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20consulta%20com%20a%20Dra.%20Milena.
+      - generic [ref=e33]:
+        - img "Monograma MG — Dra. Milena Grossi Germiniani — Odontologia Especializada e Harmonização Facial" [ref=e35]
+        - img "Dra. Milena Grossi Germiniani — Especialista em Harmonização Orofacial e Ortodontia" [ref=e37]
+        - generic [ref=e39]:
+          - paragraph [ref=e40]: Especialista
+          - paragraph [ref=e41]: HOF + Ortodontia
+    - heading "Quem cuida de você" [level=2] [ref=e48]:
+      - generic [ref=e49]: Quem
+      - generic [ref=e50]: cuida
+      - generic [ref=e51]: de
+      - generic [ref=e52]: você
+    - heading "A arte do natural" [level=2] [ref=e56]:
+      - generic [ref=e57]: A
+      - generic [ref=e58]: arte
+      - generic [ref=e59]: do
+      - generic [ref=e60]: natural
+    - generic [ref=e67]:
+      - heading "Ciência do sorriso" [level=2] [ref=e68]:
+        - generic [ref=e69]: Ciência
+        - generic [ref=e70]: do
+        - generic [ref=e71]: sorriso
+      - generic [ref=e72]:
+        - generic [ref=e73] [cursor=pointer]:
+          - img [ref=e75]
+          - heading "Ortodontia" [level=3] [ref=e78]
+        - generic [ref=e79] [cursor=pointer]:
+          - img [ref=e81]
+          - heading "Ortopedia Funcional dos Maxilares" [level=3] [ref=e84]
+        - generic [ref=e85] [cursor=pointer]:
+          - img [ref=e87]
+          - heading "Invisalign First" [level=3] [ref=e89]
+        - generic [ref=e90] [cursor=pointer]:
+          - img [ref=e92]
+          - heading "Clareamento Dental" [level=3] [ref=e98]
+        - generic [ref=e99] [cursor=pointer]:
+          - img [ref=e101]
+          - heading "Odontopediatria" [level=3] [ref=e103]
+        - generic [ref=e104] [cursor=pointer]:
+          - img [ref=e106]
+          - heading "Bruxismo e DTM" [level=3] [ref=e108]
+        - generic [ref=e109] [cursor=pointer]:
+          - img [ref=e111]
+          - heading "Megatriagem" [level=3] [ref=e114]
+    - heading "Sorrisos pequenos, cuidados grandes" [level=2] [ref=e118]:
+      - generic [ref=e119]: Sorrisos
+      - generic [ref=e120]: pequenos,
+      - generic [ref=e121]: cuidados
+      - generic [ref=e122]: grandes
+    - heading "Por que a Dra. Milena" [level=2] [ref=e126]:
+      - generic [ref=e127]: Por
+      - generic [ref=e128]: que
+      - generic [ref=e129]: a
+      - generic [ref=e130]: Dra.
+      - generic [ref=e131]: Milena
+    - heading "Encontre a Dra. Milena" [level=2] [ref=e135]:
+      - generic [ref=e136]: Encontre
+      - generic [ref=e137]: a
+      - generic [ref=e138]: Dra.
+      - generic [ref=e139]: Milena
+    - heading "Comece sua transformação" [level=2] [ref=e144]:
+      - generic [ref=e145]: Comece
+      - generic [ref=e146]: sua
+      - generic [ref=e147]: transformação
+  - contentinfo [ref=e148]

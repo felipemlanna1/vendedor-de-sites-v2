@@ -1,0 +1,138 @@
+{
+  "nav": {
+    "sobre": "Sobre",
+    "servicos": "Serviços",
+    "tecnologia": "Tecnologia",
+    "locais": "Locais",
+    "contato": "Contato",
+    "cta": "Agende sua Consulta"
+  },
+  "hero": {
+    "headline": "Precisão que alivia.",
+    "subtitle": "Ortopedia e Traumatologia com tecnologia guiada por ultrassom.",
+    "cta": "Agende sua consulta",
+    "badge": "CRM 68037/MG | RQE 44243"
+  },
+  "sobre": {
+    "sectionLabel": "Sobre o Médico",
+    "title": "Dr. David Amaral",
+    "description": "Ortopedista e traumatologista dedicado a devolver movimento e qualidade de vida aos seus pacientes. Com formação sólida e atualização constante, cada tratamento é planejado de forma individualizada, combinando tecnologia de ponta com cuidado genuíno.",
+    "credentials": "CRM 68037/MG | RQE 44243",
+    "specialty": "Ortopedia e Traumatologia",
+    "cta": "Converse com o Dr. David"
+  },
+  "contadores": {
+    "experiencia": {
+      "valor": 10,
+      "sufixo": "+",
+      "label": "Anos de experiência"
+    },
+    "procedimentos": {
+      "valor": 5000,
+      "sufixo": "+",
+      "label": "Procedimentos realizados"
+    },
+    "pacientes": {
+      "valor": 8000,
+      "sufixo": "+",
+      "label": "Pacientes atendidos"
+    }
+  },
+  "servicos": {
+    "sectionLabel": "Especialidades",
+    "title": "Serviços",
+    "subtitle": "Soluções precisas para cada caso",
+    "cta": "Saiba qual procedimento é ideal para você",
+    "items": {
+      "consulta": {
+        "nome": "Consulta Ortopédica",
+        "descricao": "Avaliação completa do sistema musculoesquelético com diagnóstico preciso e plano de tratamento personalizado."
+      },
+      "infiltracao": {
+        "nome": "Infiltrações Guiadas por Ultrassom",
+        "descricao": "Procedimento minimamente invasivo com precisão máxima, permitindo aplicação exata no local da dor."
+      },
+      "viscossuplementacao": {
+        "nome": "Viscossuplementação",
+        "descricao": "Tratamento para artrose que restaura a lubrificação articular, reduzindo dor e melhorando a mobilidade."
+      },
+      "artrocentese": {
+        "nome": "Artrocentese",
+        "descricao": "Punção articular para diagnóstico ou alívio de derrames articulares, realizada com segurança e precisão."
+      },
+      "densitometria": {
+        "nome": "Densitometria Óssea",
+        "descricao": "Exame para avaliação da saúde óssea e diagnóstico de osteoporose, essencial para prevenção de fraturas."
+      },
+      "cirurgia": {
+        "nome": "Cirurgia de Fraturas",
+        "descricao": "Tratamento cirúrgico especializado em fraturas de tornozelo e membros, com técnicas modernas de fixação."
+      }
+    }
+  },
+  "tecnologia": {
+    "sectionLabel": "Diferencial",
+    "title": "Guiado por Ultrassom",
+    "subtitle": "Mais precisão. Menos dor.",
+    "description": "Procedimentos guiados por ultrassonografia oferecem visualização em tempo real, garantindo maior precisão na aplicação, menor risco de complicações e recuperação mais rápida. Essa tecnologia permite que cada infiltração e viscossuplementação seja realizada com a exatidão que seu tratamento merece.",
+    "cta": "Agende seu procedimento guiado por ultrassom",
+    "vantagens": {
+      "precisao": {
+        "titulo": "Precisão milimétrica",
+        "descricao": "Visualização em tempo real do ponto exato de aplicação"
+      },
+      "seguranca": {
+        "titulo": "Maior segurança",
+        "descricao": "Menor risco de atingir estruturas adjacentes"
+      },
+      "recuperacao": {
+        "titulo": "Recuperação rápida",
+        "descricao": "Procedimento ambulatorial com retorno imediato às atividades"
+      }
+    }
+  },
+  "frase": {
+    "texto": "Cada movimento importa. Cada tratamento é único."
+  },
+  "locais": {
+    "sectionLabel": "Onde Atendemos",
+    "title": "Locais de Atendimento",
+    "subtitle": "Perto de você",
+    "cta": "Agende na unidade mais próxima",
+    "lagoa": {
+      "nome": "Lagoa da Prata",
+      "endereco": "Av. Getúlio Vargas, 997",
+      "cidade": "Lagoa da Prata — MG",
+      "tipo": "Centro Médico"
+    },
+    "arcos": {
+      "nome": "Arcos",
+      "endereco": "Cemear — Rua Arcos S/N, Centro",
+      "cidade": "Arcos — MG",
+      "tipo": "Clínica"
+    }
+  },
+  "contato": {
+    "sectionLabel": "Contato",
+    "title": "Vamos Cuidar de Você",
+    "subtitle": "Agende sua consulta e dê o primeiro passo para voltar a se movimentar sem dor.",
+    "cta": "Agende agora pelo WhatsApp",
+    "mensagem": "Olá Dr. David, gostaria de agendar uma consulta.",
+    "whatsapp": "WhatsApp",
+    "doctoralia": "Agende pela Doctoralia"
+  },
+  "footer": {
+    "nome": "Dr. David Amaral",
+    "especialidade": "Ortopedia e Traumatologia",
+    "crm": "CRM 68037/MG | RQE 44243",
+    "creditos": "Desenvolvido com cuidado",
+    "direitos": "© 2026 Dr. David Amaral. Todos os direitos reservados.",
+    "navegacao": "Navegação",
+    "plataformas": "Encontre-me em",
+    "atendimento": "Atendimento particular"
+  },
+  "lang": {
+    "pt": "Português",
+    "en": "English"
+  }
+}

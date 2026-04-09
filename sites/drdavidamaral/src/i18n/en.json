@@ -1,0 +1,138 @@
+{
+  "nav": {
+    "sobre": "About",
+    "servicos": "Services",
+    "tecnologia": "Technology",
+    "locais": "Locations",
+    "contato": "Contact",
+    "cta": "Book an Appointment"
+  },
+  "hero": {
+    "headline": "Precision that heals.",
+    "subtitle": "Orthopedics and Traumatology with ultrasound-guided technology.",
+    "cta": "Book your appointment",
+    "badge": "CRM 68037/MG | RQE 44243"
+  },
+  "sobre": {
+    "sectionLabel": "About the Doctor",
+    "title": "Dr. David Amaral",
+    "description": "An orthopedist and traumatologist dedicated to restoring movement and quality of life to his patients. With solid training and continuous education, each treatment is individually planned, combining cutting-edge technology with genuine care.",
+    "credentials": "CRM 68037/MG | RQE 44243",
+    "specialty": "Orthopedics and Traumatology",
+    "cta": "Talk to Dr. David"
+  },
+  "contadores": {
+    "experiencia": {
+      "valor": 10,
+      "sufixo": "+",
+      "label": "Years of experience"
+    },
+    "procedimentos": {
+      "valor": 5000,
+      "sufixo": "+",
+      "label": "Procedures performed"
+    },
+    "pacientes": {
+      "valor": 8000,
+      "sufixo": "+",
+      "label": "Patients treated"
+    }
+  },
+  "servicos": {
+    "sectionLabel": "Specialties",
+    "title": "Services",
+    "subtitle": "Precise solutions for every case",
+    "cta": "Find the right procedure for you",
+    "items": {
+      "consulta": {
+        "nome": "Orthopedic Consultation",
+        "descricao": "Comprehensive musculoskeletal evaluation with precise diagnosis and personalized treatment plan."
+      },
+      "infiltracao": {
+        "nome": "Ultrasound-Guided Injections",
+        "descricao": "Minimally invasive procedure with maximum precision, allowing exact application at the pain site."
+      },
+      "viscossuplementacao": {
+        "nome": "Viscosupplementation",
+        "descricao": "Osteoarthritis treatment that restores joint lubrication, reducing pain and improving mobility."
+      },
+      "artrocentese": {
+        "nome": "Arthrocentesis",
+        "descricao": "Joint aspiration for diagnosis or relief of joint effusions, performed safely and precisely."
+      },
+      "densitometria": {
+        "nome": "Bone Densitometry",
+        "descricao": "Bone health assessment and osteoporosis diagnosis, essential for fracture prevention."
+      },
+      "cirurgia": {
+        "nome": "Fracture Surgery",
+        "descricao": "Specialized surgical treatment for ankle and limb fractures with modern fixation techniques."
+      }
+    }
+  },
+  "tecnologia": {
+    "sectionLabel": "Differential",
+    "title": "Ultrasound-Guided",
+    "subtitle": "More precision. Less pain.",
+    "description": "Ultrasound-guided procedures offer real-time visualization, ensuring greater application precision, lower risk of complications, and faster recovery. This technology allows each injection and viscosupplementation to be performed with the exactness your treatment deserves.",
+    "cta": "Book your ultrasound-guided procedure",
+    "vantagens": {
+      "precisao": {
+        "titulo": "Millimetric precision",
+        "descricao": "Real-time visualization of the exact application point"
+      },
+      "seguranca": {
+        "titulo": "Greater safety",
+        "descricao": "Lower risk of affecting adjacent structures"
+      },
+      "recuperacao": {
+        "titulo": "Fast recovery",
+        "descricao": "Outpatient procedure with immediate return to activities"
+      }
+    }
+  },
+  "frase": {
+    "texto": "Every movement matters. Every treatment is unique."
+  },
+  "locais": {
+    "sectionLabel": "Where We Are",
+    "title": "Office Locations",
+    "subtitle": "Close to you",
+    "cta": "Book at the nearest location",
+    "lagoa": {
+      "nome": "Lagoa da Prata",
+      "endereco": "Av. Getúlio Vargas, 997",
+      "cidade": "Lagoa da Prata — MG",
+      "tipo": "Medical Center"
+    },
+    "arcos": {
+      "nome": "Arcos",
+      "endereco": "Cemear — Rua Arcos S/N, Centro",
+      "cidade": "Arcos — MG",
+      "tipo": "Clinic"
+    }
+  },
+  "contato": {
+    "sectionLabel": "Contact",
+    "title": "Let Us Take Care of You",
+    "subtitle": "Book your appointment and take the first step toward moving pain-free again.",
+    "cta": "Book now via WhatsApp",
+    "mensagem": "Hello Dr. David, I would like to book an appointment.",
+    "whatsapp": "WhatsApp",
+    "doctoralia": "Book via Doctoralia"
+  },
+  "footer": {
+    "nome": "Dr. David Amaral",
+    "especialidade": "Orthopedics and Traumatology",
+    "crm": "CRM 68037/MG | RQE 44243",
+    "creditos": "Crafted with care",
+    "direitos": "© 2026 Dr. David Amaral. All rights reserved.",
+    "navegacao": "Navigation",
+    "plataformas": "Find me on",
+    "atendimento": "Private practice"
+  },
+  "lang": {
+    "pt": "Português",
+    "en": "English"
+  }
+}

@@ -1,53 +1,66 @@
 {
-  "current_phase": 2,
-  "nicho": "fotografo",
-  "cidade": "Belo Horizonte",
+  "current_phase": 3,
+  "nicho": "advogado",
+  "cidade": "Florianópolis/SC",
   "limite": 5,
   "filtros": {
-    "max_idade_conta": 90,
     "sem_site": true,
-    "so_comercial": true
+    "max_posts": 300,
+    "excluir": [
+      "escritorio",
+      "associados",
+      "sociedade",
+      "empresa"
+    ]
   },
-  "search_stats": {
-    "queries_executed": 8,
-    "total_results": 42,
-    "unique_usernames": 29,
-    "from_cache": 0,
-    "new_to_validate": 29
-  },
+  "queries": [
+    "site:instagram.com \"advogada\" \"florianopolis\"",
+    "site:instagram.com \"advogada\" \"floripa\"",
+    "site:instagram.com \"advogado\" \"florianópolis\"",
+    "site:instagram.com \"OAB/SC\" \"florianopolis\"",
+    "site:instagram.com \"advocacia\" \"floripa\"",
+    "site:instagram.com \"direito\" \"advogada\" \"SC\"",
+    "site:instagram.com \"advogada\" \"santa catarina\"",
+    "site:instagram.com \"OAB\" \"florianopolis\" advogada"
+  ],
   "candidates": [
-    "8tharte",
-    "fotografiabelohorizonte",
-    "edmourao",
-    "goldenstudiobh",
-    "retratosempresariaisbyhx",
-    "nicoleemilyfoto",
-    "orlando_bh_",
-    "booksensualbh",
-    "fotoevideobrascolor",
-    "jorgelmenezesjr",
-    "gustavoandradeduarte",
-    "caroline.fiuza",
-    "lagesfotografias",
-    "todebeca",
-    "anaforapanefotografia",
-    "raquelgalanfotografia",
-    "marlonteixeirafotografia",
-    "brunohenriquefoto",
-    "alvaroalmeidaph",
-    "thalytafotografia",
-    "marinacolenfotografia",
-    "ceciliarenata_fotografia",
-    "paulacotafotografia",
-    "carolportophoto",
-    "dennislimafotografia",
-    "lucashfotografia",
-    "flaviakarinefotografa",
-    "boudoirbelohorizonte",
-    "vanessaguimaraesfotografia",
-    "filiphegomesfotografia",
-    "leoncio.costa.fotografias"
+    "aymmeoliver",
+    "vivianepacheco.advogada",
+    "cassiano789",
+    "advbeatrizmedeiros",
+    "isabellahubler",
+    "manuellamazzocco",
+    "claudia_prudencioo",
+    "franciele.caetano",
+    "raquel.rota.adv",
+    "karirezin",
+    "sofia_csg",
+    "thaliane.duarte",
+    "dricalvo",
+    "abigailccosta",
+    "paulafariasadvocacia",
+    "gabrielabrandao.adv",
+    "amarianasalum",
+    "alinemoreiraadvogada",
+    "danielaalbino.adv",
+    "leandrocanavarros"
   ],
   "validated": [],
-  "leads_found": 0
+  "leads_found": 0,
+  "api_calls": 0,
+  "csv_path": "",
+  "phases": {
+    "phase_1": {
+      "status": "complete",
+      "result": "8 queries geradas, 0 leads no cache, meta=5"
+    },
+    "phase_2": {
+      "status": "complete",
+      "result": "20 candidatos unicos apos dedup e exclusao de escritorios"
+    },
+    "phase_3": {
+      "status": "failed",
+      "result": "Playwright MCP nao disponivel nesta sessao"
+    }
+  }
 }

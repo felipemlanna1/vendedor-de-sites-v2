@@ -1,0 +1,407 @@
+- generic [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic [ref=e6]:
+          - generic [ref=e9]:
+            - link [ref=e14] [cursor=pointer]:
+              - /url: /
+              - img [ref=e19]
+            - generic [ref=e22]:
+              - link [ref=e27] [cursor=pointer]:
+                - /url: /
+                - img [ref=e32]
+              - link [ref=e37] [cursor=pointer]:
+                - /url: /reels/
+                - img [ref=e42]
+              - link [ref=e49] [cursor=pointer]:
+                - /url: /direct/inbox/
+                - img [ref=e54]
+              - link [ref=e60] [cursor=pointer]:
+                - /url: /explore/
+                - img [ref=e65]
+              - link [ref=e72] [cursor=pointer]:
+                - /url: "#"
+                - img [ref=e77]
+              - link [ref=e85] [cursor=pointer]:
+                - /url: "#"
+                - img [ref=e90]
+              - link [ref=e96] [cursor=pointer]:
+                - /url: /_pipelinestudio/
+                - link [ref=e101]:
+                  - img [ref=e102]
+            - generic [ref=e103]:
+              - link [ref=e106] [cursor=pointer]:
+                - /url: "#"
+                - img [ref=e111]
+              - link [ref=e114] [cursor=pointer]:
+                - /url: "#"
+                - img [ref=e119]
+          - generic [ref=e122]:
+            - main [ref=e123]:
+              - generic [ref=e124]:
+                - generic [ref=e126]:
+                  - list [ref=e133]:
+                    - listitem [ref=e134]
+                    - listitem [ref=e135]:
+                      - button [ref=e136] [cursor=pointer]:
+                        - link [ref=e141]:
+                          - img [ref=e142]
+                        - generic [ref=e145]: neymarjr
+                  - generic [ref=e147]:
+                    - generic [ref=e149]:
+                      - generic [ref=e151]:
+                        - generic [ref=e153]:
+                          - status [ref=e154]
+                          - generic [ref=e155]:
+                            - status [ref=e156]
+                            - status [ref=e157]
+                        - status [ref=e158]
+                      - article [ref=e159]:
+                        - generic [ref=e160]:
+                          - generic [ref=e162]:
+                            - button [ref=e167] [cursor=pointer]:
+                              - link [ref=e169]:
+                                - img [ref=e170]
+                            - generic [ref=e175]:
+                              - generic [ref=e177]:
+                                - link [ref=e183] [cursor=pointer]:
+                                  - /url: /neymarjr/
+                                  - generic [ref=e186]: neymarjr
+                                - img [ref=e188]
+                              - generic [ref=e190]:
+                                - generic [ref=e192]: •
+                                - link [ref=e194] [cursor=pointer]:
+                                  - /url: /p/DWpykCWl9yr/
+                                  - time [ref=e196]: 4 d
+                            - button [ref=e199] [cursor=pointer]:
+                              - img [ref=e202]
+                          - button [ref=e209]:
+                            - generic [ref=e216]:
+                              - list [ref=e218]:
+                                - listitem [ref=e219]
+                                - listitem [ref=e220]:
+                                  - img [ref=e227]
+                                - listitem [ref=e229]:
+                                  - img [ref=e236]
+                              - button [ref=e238] [cursor=pointer]
+                              - button [ref=e240] [cursor=pointer]
+                          - generic [ref=e244]:
+                            - generic [ref=e245]:
+                              - generic [ref=e246]:
+                                - button [ref=e249] [cursor=pointer]:
+                                  - img [ref=e252]
+                                - button [ref=e254] [cursor=pointer]: 4,2 mi
+                                - button [ref=e256] [cursor=pointer]:
+                                  - img [ref=e258]
+                                - button [ref=e260] [cursor=pointer]: "108"
+                                - button [ref=e261] [cursor=pointer]:
+                                  - img [ref=e262]
+                              - button [ref=e267] [cursor=pointer]:
+                                - button [ref=e268]:
+                                  - img [ref=e270]
+                            - generic [ref=e272]:
+                              - link [ref=e277] [cursor=pointer]:
+                                - /url: /neymarjr/
+                                - generic [ref=e279]:
+                                  - generic [ref=e280]: neymarjr
+                                  - img [ref=e282]
+                              - generic [ref=e284]:
+                                - generic [ref=e286]: 3 pontos importantes… parabéns equipe 🤍🖤 S
+                                - generic [ref=e287]:
+                                  - text: ...
+                                  - button [ref=e288] [cursor=pointer]:
+                                    - generic [ref=e289]: mais
+                      - article [ref=e290]:
+                        - generic [ref=e291]:
+                          - generic [ref=e293]:
+                            - button [ref=e298] [cursor=pointer]:
+                              - link [ref=e300]:
+                                - img [ref=e301]
+                            - generic [ref=e304]:
+                              - generic [ref=e305]:
+                                - generic [ref=e306]:
+                                  - link [ref=e314] [cursor=pointer]:
+                                    - /url: /heduardamayla/
+                                    - generic [ref=e317]: heduardamayla
+                                  - generic [ref=e318]:
+                                    - generic [ref=e320]: •
+                                    - link [ref=e322] [cursor=pointer]:
+                                      - /url: /p/DWcuXTSEbWg/
+                                      - time [ref=e324]: 1 sem
+                                - generic [ref=e328]: Sugestões para você
+                              - button [ref=e330] [cursor=pointer]: Seguir
+                            - button [ref=e333] [cursor=pointer]:
+                              - img [ref=e336]
+                          - button [ref=e343]:
+                            - generic [ref=e350]:
+                              - list [ref=e352]:
+                                - listitem [ref=e353]
+                                - listitem [ref=e354]:
+                                  - img [ref=e361]
+                                - listitem [ref=e363]:
+                                  - img [ref=e370]
+                              - button [ref=e372] [cursor=pointer]
+                          - generic [ref=e376]:
+                            - generic [ref=e377]:
+                              - generic [ref=e378]:
+                                - button [ref=e381] [cursor=pointer]:
+                                  - img [ref=e384]
+                                - button [ref=e386] [cursor=pointer]: "569"
+                                - button [ref=e388] [cursor=pointer]:
+                                  - img [ref=e390]
+                                - button [ref=e392] [cursor=pointer]: "18"
+                                - button [ref=e393] [cursor=pointer]:
+                                  - img [ref=e394]
+                              - button [ref=e399] [cursor=pointer]:
+                                - button [ref=e400]:
+                                  - img [ref=e402]
+                            - generic [ref=e404]:
+                              - link [ref=e409] [cursor=pointer]:
+                                - /url: /heduardamayla/
+                                - generic [ref=e412]: heduardamayla
+                              - generic [ref=e414]: ¿?
+                      - article [ref=e415]:
+                        - generic [ref=e416]:
+                          - generic [ref=e418]:
+                            - button [ref=e423] [cursor=pointer]:
+                              - link [ref=e425]:
+                                - img [ref=e426]
+                            - generic [ref=e429]:
+                              - generic [ref=e430]:
+                                - generic [ref=e431]:
+                                  - generic [ref=e433]:
+                                    - link [ref=e439] [cursor=pointer]:
+                                      - /url: /tntsportsbr/
+                                      - generic [ref=e442]: tntsportsbr
+                                    - img [ref=e444]
+                                  - generic [ref=e446]:
+                                    - generic [ref=e448]: •
+                                    - link [ref=e450] [cursor=pointer]:
+                                      - /url: /p/DW132abiUj6/
+                                      - time [ref=e452]: 5 h
+                                - generic [ref=e456]: Sugestões para você
+                              - button [ref=e458] [cursor=pointer]: Seguir
+                            - button [ref=e461] [cursor=pointer]:
+                              - img [ref=e464]
+                          - button [ref=e471]:
+                            - img [ref=e477]
+                          - generic [ref=e481]:
+                            - generic [ref=e482]:
+                              - generic [ref=e483]:
+                                - button [ref=e486] [cursor=pointer]:
+                                  - img [ref=e489]
+                                - button [ref=e491] [cursor=pointer]: 33,3 mil
+                                - button [ref=e493] [cursor=pointer]:
+                                  - img [ref=e495]
+                                - button [ref=e497] [cursor=pointer]: "107"
+                                - button [ref=e498] [cursor=pointer]:
+                                  - img [ref=e499]
+                              - button [ref=e504] [cursor=pointer]:
+                                - button [ref=e505]:
+                                  - img [ref=e507]
+                            - generic [ref=e509]:
+                              - link [ref=e514] [cursor=pointer]:
+                                - /url: /tntsportsbr/
+                                - generic [ref=e516]:
+                                  - generic [ref=e517]: tntsportsbr
+                                  - img [ref=e519]
+                              - generic [ref=e521]:
+                                - generic [ref=e522]: TEM TORCEDOR ESPECIAL NO SANTIAGO BERNABÉU! 🔥🇧🇷💎 Rodrygo é um dos mais de 80 mil torcedores que estão apoiando o Real
+                                - generic [ref=e523]:
+                                  - text: ...
+                                  - button [ref=e524] [cursor=pointer]:
+                                    - generic [ref=e525]: mais
+                    - progressbar [ref=e527]:
+                      - img [ref=e528]
+                - generic [ref=e542]:
+                  - generic [ref=e548]:
+                    - button [disabled] [ref=e551]:
+                      - link [disabled] [ref=e553] [cursor=pointer]:
+                        - /url: /_pipelinestudio/
+                        - img [ref=e554]
+                    - generic [ref=e557]:
+                      - link [ref=e559] [cursor=pointer]:
+                        - /url: /_pipelinestudio/
+                        - text: _pipelinestudio
+                      - generic [ref=e563]: Pipeline Studio
+                    - button [ref=e566] [cursor=pointer]: Mudar
+                  - generic [ref=e569]:
+                    - generic [ref=e570]:
+                      - generic [ref=e572]: Sugestões para você
+                      - link [ref=e573] [cursor=pointer]:
+                        - /url: /explore/people/
+                        - generic [ref=e574]: Ver tudo
+                    - generic [ref=e578]:
+                      - generic [ref=e582]:
+                        - link [ref=e589] [cursor=pointer]:
+                          - /url: /dinosaur.43223230/
+                          - img [ref=e590]
+                        - generic [ref=e593]:
+                          - link [ref=e598] [cursor=pointer]:
+                            - /url: /dinosaur.43223230/
+                            - generic [ref=e601]: dinosaur.43223230
+                          - generic [ref=e603]: Sugestões para você
+                        - button [ref=e606] [cursor=pointer]:
+                          - generic [ref=e608]: Seguir
+                      - generic [ref=e612]:
+                        - link [ref=e619] [cursor=pointer]:
+                          - /url: /wnstn._.lee/
+                          - img [ref=e620]
+                        - generic [ref=e623]:
+                          - link [ref=e628] [cursor=pointer]:
+                            - /url: /wnstn._.lee/
+                            - generic [ref=e631]: Ydde
+                          - generic [ref=e633]: Sugestões para você
+                        - button [ref=e636] [cursor=pointer]:
+                          - generic [ref=e638]: Seguir
+                      - generic [ref=e642]:
+                        - link [ref=e649] [cursor=pointer]:
+                          - /url: /triple.vicsconcrete/
+                          - img [ref=e650]
+                        - generic [ref=e653]:
+                          - link [ref=e658] [cursor=pointer]:
+                            - /url: /triple.vicsconcrete/
+                            - generic [ref=e661]: III Vic’s Concret...
+                          - generic [ref=e663]: Sugestões para você
+                        - button [ref=e666] [cursor=pointer]:
+                          - generic [ref=e668]: Seguir
+                      - generic [ref=e672]:
+                        - link [ref=e679] [cursor=pointer]:
+                          - /url: /wixked.43x/
+                          - img [ref=e680]
+                        - generic [ref=e683]:
+                          - link [ref=e688] [cursor=pointer]:
+                            - /url: /wixked.43x/
+                            - generic [ref=e691]: vampire 🦇
+                          - generic [ref=e693]: Sugestões para você
+                        - button [ref=e696] [cursor=pointer]:
+                          - generic [ref=e698]: Seguir
+                      - generic [ref=e702]:
+                        - link [ref=e709] [cursor=pointer]:
+                          - /url: /alexxramir3zz/
+                          - img [ref=e710]
+                        - generic [ref=e713]:
+                          - link [ref=e718] [cursor=pointer]:
+                            - /url: /alexxramir3zz/
+                            - generic [ref=e721]: 425alexx
+                          - generic [ref=e723]: Sugestões para você
+                        - button [ref=e726] [cursor=pointer]:
+                          - generic [ref=e728]: Seguir
+                  - generic [ref=e730]:
+                    - navigation [ref=e731]:
+                      - list [ref=e732]:
+                        - listitem [ref=e733]:
+                          - link [ref=e734] [cursor=pointer]:
+                            - /url: https://about.instagram.com/
+                            - generic [ref=e735]: Sobre
+                          - text: ·
+                        - listitem [ref=e736]:
+                          - link [ref=e737] [cursor=pointer]:
+                            - /url: https://help.instagram.com/
+                            - generic [ref=e738]: Ajuda
+                          - text: ·
+                        - listitem [ref=e739]:
+                          - link [ref=e740] [cursor=pointer]:
+                            - /url: https://about.instagram.com/blog/
+                            - generic [ref=e741]: Imprensa
+                          - text: ·
+                        - listitem [ref=e742]:
+                          - link [ref=e743] [cursor=pointer]:
+                            - /url: https://developers.facebook.com/docs/instagram
+                            - generic [ref=e744]: API
+                          - text: ·
+                        - listitem [ref=e745]:
+                          - link [ref=e746] [cursor=pointer]:
+                            - /url: https://about.instagram.com/about-us/careers
+                            - generic [ref=e747]: Carreiras
+                          - text: ·
+                        - listitem [ref=e748]:
+                          - link [ref=e749] [cursor=pointer]:
+                            - /url: /legal/privacy/
+                            - generic [ref=e750]: Privacidade
+                          - text: ·
+                        - listitem [ref=e751]:
+                          - link [ref=e752] [cursor=pointer]:
+                            - /url: /legal/terms/
+                            - generic [ref=e753]: Termos
+                          - text: ·
+                        - listitem [ref=e754]:
+                          - link [ref=e755] [cursor=pointer]:
+                            - /url: /explore/locations/
+                            - generic [ref=e756]: Localizações
+                          - text: ·
+                        - listitem [ref=e757]:
+                          - link [ref=e758] [cursor=pointer]:
+                            - /url: /language/preferences/
+                            - generic [ref=e759]: Idioma
+                          - text: ·
+                        - listitem [ref=e760]:
+                          - link [ref=e761] [cursor=pointer]:
+                            - /url: /accounts/meta_verified/?entrypoint=web_footer
+                            - generic [ref=e762]: Meta Verified
+                    - generic [ref=e764]: © 2026 Instagram from Meta
+            - contentinfo [ref=e765]:
+              - generic [ref=e766]:
+                - generic [ref=e768]:
+                  - link [ref=e770] [cursor=pointer]:
+                    - /url: https://about.meta.com/
+                    - generic [ref=e771]: Meta
+                  - link [ref=e773] [cursor=pointer]:
+                    - /url: https://about.instagram.com/
+                    - generic [ref=e774]: Sobre
+                  - link [ref=e776] [cursor=pointer]:
+                    - /url: https://about.instagram.com/blog/
+                    - generic [ref=e777]: Blog
+                  - link [ref=e779] [cursor=pointer]:
+                    - /url: https://about.instagram.com/about-us/careers
+                    - generic [ref=e780]: Carreiras
+                  - link [ref=e782] [cursor=pointer]:
+                    - /url: https://help.instagram.com/
+                    - generic [ref=e783]: Ajuda
+                  - link [ref=e785] [cursor=pointer]:
+                    - /url: https://developers.facebook.com/docs/instagram
+                    - generic [ref=e786]: API
+                  - link [ref=e788] [cursor=pointer]:
+                    - /url: /legal/privacy/
+                    - generic [ref=e789]: Privacidade
+                  - link [ref=e791] [cursor=pointer]:
+                    - /url: /legal/terms/
+                    - generic [ref=e792]: Termos
+                  - link [ref=e794] [cursor=pointer]:
+                    - /url: /explore/locations/
+                    - generic [ref=e795]: Localizações
+                  - link [ref=e797] [cursor=pointer]:
+                    - /url: /web/lite/
+                    - generic [ref=e798]: Instagram Lite
+                  - link [ref=e800] [cursor=pointer]:
+                    - /url: https://www.meta.ai/?utm_source=foa_web_footer
+                    - generic [ref=e801]: Meta AI
+                  - link [ref=e803] [cursor=pointer]:
+                    - /url: https://www.threads.com/
+                    - generic [ref=e804]: Threads
+                  - link [ref=e806] [cursor=pointer]:
+                    - /url: https://www.facebook.com/help/instagram/261704639352628
+                    - generic [ref=e807]: Upload de contatos e não usuários
+                  - link [ref=e809] [cursor=pointer]:
+                    - /url: /accounts/meta_verified/?entrypoint=web_footer
+                    - generic [ref=e810]: Meta Verified
+                - generic [ref=e811]:
+                  - generic [ref=e812] [cursor=pointer]:
+                    - generic [ref=e813]:
+                      - generic [ref=e814]: Português (Brasil)
+                      - img [ref=e817]
+                    - combobox [ref=e819]
+                  - generic [ref=e821]: © 2026 Instagram from Meta
+        - button "Mensagens Mensagens" [ref=e823] [cursor=pointer]:
+          - generic [ref=e825]:
+            - img "Mensagens" [ref=e827]
+            - generic [ref=e830]: Mensagens
+  - dialog [ref=e837]:
+    - generic [ref=e841]:
+      - generic [ref=e845]:
+        - heading "Ativar notificações" [active] [level=2] [ref=e846]
+        - generic [ref=e847]: Saiba na hora quando alguém seguir você ou curtir e comentar as suas fotos.
+      - generic [ref=e848]:
+        - button "Ativar" [ref=e849] [cursor=pointer]
+        - button "Agora não" [ref=e850] [cursor=pointer]

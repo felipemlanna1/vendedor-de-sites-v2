@@ -1,0 +1,271 @@
+- generic [ref=e2]:
+  - link "Pular para o conteúdo" [ref=e3] [cursor=pointer]:
+    - /url: "#main-content"
+  - banner [ref=e4]:
+    - navigation [ref=e5]:
+      - link "Dra. Milena Grossi Germiniani" [ref=e6] [cursor=pointer]:
+        - /url: "#"
+        - img "Monograma MG — Dra. Milena Grossi Germiniani — Odontologia Especializada e Harmonização Facial" [ref=e7]
+        - generic [ref=e8]: Dra. Milena
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - link "Sobre" [ref=e11] [cursor=pointer]:
+            - /url: "#sobre"
+          - link "Tratamentos" [ref=e12] [cursor=pointer]:
+            - /url: "#tratamentos-hof"
+          - link "Resultados" [ref=e13] [cursor=pointer]:
+            - /url: "#resultados"
+          - link "Infantil" [ref=e14] [cursor=pointer]:
+            - /url: "#infantil"
+          - link "Localização" [ref=e15] [cursor=pointer]:
+            - /url: "#localizacao"
+          - link "Contato" [ref=e16] [cursor=pointer]:
+            - /url: "#contato"
+        - button "Trocar idioma" [ref=e17] [cursor=pointer]: EN
+        - link "Agende sua consulta" [ref=e18] [cursor=pointer]:
+          - /url: https://wa.me/5535997255631?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20consulta%20com%20a%20Dra.%20Milena.
+  - main [ref=e19]:
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - paragraph [ref=e24]: CRO MG 26.171
+        - heading "A arte da naturalidade" [level=1] [ref=e25]:
+          - generic [ref=e26]: A
+          - generic [ref=e27]: arte
+          - generic [ref=e28]: da
+          - generic [ref=e29]: naturalidade
+        - paragraph [ref=e30]: Onde a ciência encontra a delicadeza — cada sorriso é uma obra de arte natural
+        - paragraph [ref=e31]: Harmonização Orofacial · Ortodontia · Invisalign
+        - link "Agende sua consulta" [ref=e33] [cursor=pointer]:
+          - /url: https://wa.me/5535997255631?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20consulta%20com%20a%20Dra.%20Milena.
+      - generic [ref=e34]:
+        - img "Monograma MG — Dra. Milena Grossi Germiniani — Odontologia Especializada e Harmonização Facial" [ref=e36]
+        - img "Dra. Milena Grossi Germiniani — Especialista em Harmonização Orofacial e Ortodontia" [ref=e38]
+        - generic [ref=e40]:
+          - paragraph [ref=e41]: Especialista
+          - paragraph [ref=e42]: HOF + Ortodontia
+    - generic [ref=e47]:
+      - generic [ref=e49]:
+        - img "Dra. Milena em atendimento clinico" [ref=e51]
+        - img "Dr. Ademir Grossi — legado familiar" [ref=e53]
+      - generic [ref=e54]:
+        - paragraph [ref=e56]: Sobre
+        - heading "Quem cuida de você" [level=2] [ref=e57]:
+          - generic [ref=e58]: Quem
+          - generic [ref=e59]: cuida
+          - generic [ref=e60]: de
+          - generic [ref=e61]: você
+        - paragraph [ref=e63]: A Dra. Milena Grossi Germiniani é herdeira de uma tradição familiar em odontologia que começou com seu pai, Dr. Ademir Grossi. Com dupla especialização em Harmonização Orofacial e Ortodontia, ela une ciência de ponta e sensibilidade artística para revelar a melhor versão de cada sorriso.
+        - paragraph [ref=e65]: Uma tradição familiar em odontologia — do consultório do pai ao protagonismo da filha, três décadas de cuidado com sorrisos em Ouro Fino.
+        - generic [ref=e66]:
+          - generic [ref=e68]:
+            - img [ref=e70]
+            - generic [ref=e73]: CRO MG 26.171
+          - generic [ref=e75]:
+            - img [ref=e77]
+            - generic [ref=e80]: Invisalign Doctor
+          - generic [ref=e82]:
+            - img [ref=e84]
+            - generic [ref=e87]: Ouro Fino, MG e São Paulo, SP (Itaim Bibi)
+    - generic [ref=e89]:
+      - paragraph [ref=e91]: Harmonização Orofacial
+      - heading "A arte do natural" [level=2] [ref=e92]:
+        - generic [ref=e93]: A
+        - generic [ref=e94]: arte
+        - generic [ref=e95]: do
+        - generic [ref=e96]: natural
+      - paragraph [ref=e98]: Procedimentos que realçam sua beleza sem perder a essência de quem você é
+      - generic [ref=e99]:
+        - generic [ref=e103] [cursor=pointer]:
+          - img [ref=e105]
+          - heading "Toxina Botulínica" [level=3] [ref=e107]
+          - paragraph [ref=e108]: Toque para saber mais
+        - generic [ref=e111] [cursor=pointer]:
+          - img [ref=e113]
+          - heading "Preenchimento Facial e Labial" [level=3] [ref=e115]
+          - paragraph [ref=e116]: Toque para saber mais
+        - generic [ref=e119] [cursor=pointer]:
+          - img [ref=e121]
+          - heading "Skinbooster" [level=3] [ref=e124]
+          - paragraph [ref=e125]: Toque para saber mais
+        - generic [ref=e129] [cursor=pointer]:
+          - img [ref=e131]
+          - heading "HIPRO Day" [level=3] [ref=e133]
+          - paragraph [ref=e134]: Toque para saber mais
+        - generic [ref=e137] [cursor=pointer]:
+          - img [ref=e139]
+          - heading "Ultrassom Microfocado" [level=3] [ref=e145]
+          - paragraph [ref=e146]: Toque para saber mais
+        - generic [ref=e149] [cursor=pointer]:
+          - img [ref=e151]
+          - heading "Bioestimuladores de Colágeno" [level=3] [ref=e154]
+          - paragraph [ref=e155]: Toque para saber mais
+        - generic [ref=e158] [cursor=pointer]:
+          - img [ref=e160]
+          - heading "Protocolo BIOreCONEXÃO" [level=3] [ref=e172]
+          - paragraph [ref=e173]: Toque para saber mais
+        - generic [ref=e176] [cursor=pointer]:
+          - img [ref=e178]
+          - heading "Cirurgia HOF" [level=3] [ref=e184]
+          - paragraph [ref=e185]: Toque para saber mais
+      - link "Descubra qual tratamento é ideal para você" [ref=e188] [cursor=pointer]:
+        - /url: https://wa.me/5535997255631?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20harmoniza%C3%A7%C3%A3o%20orofacial.
+    - generic [ref=e191]:
+      - paragraph [ref=e193]: "\"Seu sorriso merece ciência e delicadeza\""
+      - generic [ref=e195]:
+        - generic [ref=e196]:
+          - generic [ref=e197]: 0+
+          - paragraph [ref=e198]: procedimentos realizados
+        - generic [ref=e199]:
+          - generic [ref=e200]: 0+
+          - paragraph [ref=e201]: anos de legado
+    - generic [ref=e204]:
+      - paragraph [ref=e206]: Odontologia
+      - heading "Ciência do sorriso" [level=2] [ref=e207]:
+        - generic [ref=e208]: Ciência
+        - generic [ref=e209]: do
+        - generic [ref=e210]: sorriso
+      - paragraph [ref=e212]: Excelência em ortodontia e odontologia com tecnologia e cuidado humanizado
+      - generic [ref=e214]:
+        - img "Alinhador Invisalign — ortodontia invisivel da Dra. Milena" [ref=e216]
+        - generic [ref=e217]:
+          - heading "Invisalign" [level=3] [ref=e218]
+          - paragraph [ref=e219]: Alinhadores transparentes que corrigem o sorriso com discrição e conforto. Planejamento 3D com previsão do resultado final.
+      - generic [ref=e220]:
+        - generic [ref=e222] [cursor=pointer]:
+          - img [ref=e224]
+          - heading "Ortodontia" [level=3] [ref=e227]
+        - generic [ref=e229] [cursor=pointer]:
+          - img [ref=e231]
+          - heading "Ortopedia Funcional dos Maxilares" [level=3] [ref=e234]
+        - generic [ref=e236] [cursor=pointer]:
+          - img [ref=e238]
+          - heading "Invisalign First" [level=3] [ref=e240]
+        - generic [ref=e242] [cursor=pointer]:
+          - img [ref=e244]
+          - heading "Clareamento Dental" [level=3] [ref=e250]
+        - generic [ref=e252] [cursor=pointer]:
+          - img [ref=e254]
+          - heading "Odontopediatria" [level=3] [ref=e256]
+        - generic [ref=e258] [cursor=pointer]:
+          - img [ref=e260]
+          - heading "Bruxismo e DTM" [level=3] [ref=e262]
+        - generic [ref=e264] [cursor=pointer]:
+          - img [ref=e266]
+          - heading "Megatriagem" [level=3] [ref=e269]
+      - link "Converse com a Dra. Milena" [ref=e272] [cursor=pointer]:
+        - /url: https://wa.me/5535997255631?text=Ol%C3%A1%2C%20gostaria%20de%20conversar%20sobre%20tratamento%20odontol%C3%B3gico.
+    - generic [ref=e275]:
+      - generic [ref=e277]:
+        - img [ref=e278]
+        - img [ref=e280]
+        - img [ref=e282]
+      - paragraph [ref=e286]: Mundo Infantil
+      - heading "Sorrisos pequenos, cuidados grandes" [level=2] [ref=e287]:
+        - generic [ref=e288]: Sorrisos
+        - generic [ref=e289]: pequenos,
+        - generic [ref=e290]: cuidados
+        - generic [ref=e291]: grandes
+      - paragraph [ref=e293]: A Dra. Milena acredita que a relação com o dentista começa na infância. Com atendimento lúdico e gentil, cada consulta é pensada para que os pequenos se sintam acolhidos — construindo uma relação de confiança que dura a vida toda.
+      - generic [ref=e294]:
+        - generic [ref=e296]:
+          - img [ref=e298]
+          - paragraph [ref=e300]: Invisalign First
+          - paragraph [ref=e301]: Invisalign First — ortodontia invisível a partir dos 6 anos
+        - generic [ref=e303]:
+          - img [ref=e305]
+          - paragraph [ref=e307]: Odontopediatria
+          - paragraph [ref=e308]: Odontopediatria com abordagem acolhedora e lúdica
+      - link "Agendar consulta infantil" [ref=e310] [cursor=pointer]:
+        - /url: https://wa.me/5535997255631?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20consulta%20infantil.
+    - generic [ref=e312]:
+      - paragraph [ref=e314]: Diferenciais
+      - heading "Por que a Dra. Milena" [level=2] [ref=e315]:
+        - generic [ref=e316]: Por
+        - generic [ref=e317]: que
+        - generic [ref=e318]: a
+        - generic [ref=e319]: Dra.
+        - generic [ref=e320]: Milena
+      - generic [ref=e321]:
+        - generic [ref=e323]:
+          - img [ref=e325]
+          - generic [ref=e328]:
+            - heading "Dupla especialidade" [level=3] [ref=e329]
+            - paragraph [ref=e330]: "HOF + Ortodontia: visão integrada do rosto e do sorriso"
+        - generic [ref=e332]:
+          - img [ref=e334]
+          - generic [ref=e337]:
+            - heading "Invisalign Doctor" [level=3] [ref=e338]
+            - paragraph [ref=e339]: Certificação oficial para alinhadores invisíveis de última geração
+        - generic [ref=e341]:
+          - img [ref=e343]
+          - generic [ref=e346]:
+            - heading "Ouro Fino e São Paulo" [level=3] [ref=e347]
+            - paragraph [ref=e348]: Atendimento em Ouro Fino (OUROClin) e São Paulo (Itaim Bibi)
+        - generic [ref=e350]:
+          - img [ref=e352]
+          - generic [ref=e357]:
+            - heading "Legado familiar" [level=3] [ref=e358]
+            - paragraph [ref=e359]: Tradição odontológica herdada do pai, Dr. Ademir Grossi
+        - generic [ref=e361]:
+          - img [ref=e363]
+          - generic [ref=e375]:
+            - heading "Protocolo BIOreCONEXÃO" [level=3] [ref=e376]
+            - paragraph [ref=e377]: Método exclusivo que integra técnicas para resultado sinérgico
+        - generic [ref=e379]:
+          - img [ref=e381]
+          - generic [ref=e386]:
+            - heading "Abordagem natural" [level=3] [ref=e387]
+            - paragraph [ref=e388]: Resultados que realçam sua beleza sem exageros — a arte da naturalidade
+    - generic [ref=e390]:
+      - paragraph [ref=e392]: Localização
+      - heading "Encontre a Dra. Milena" [level=2] [ref=e393]:
+        - generic [ref=e394]: Encontre
+        - generic [ref=e395]: a
+        - generic [ref=e396]: Dra.
+        - generic [ref=e397]: Milena
+      - generic [ref=e398]:
+        - iframe [ref=e401]
+        - generic [ref=e403]:
+          - generic [ref=e405]:
+            - img [ref=e407]
+            - generic [ref=e410]:
+              - heading "OUROClin" [level=3] [ref=e411]
+              - paragraph [ref=e412]: Rua Prefeito José Serra, 228
+              - paragraph [ref=e413]: Ouro Fino, MG
+          - paragraph [ref=e415]: Também atende em São Paulo — Itaim Bibi
+          - link "Como chegar" [ref=e417] [cursor=pointer]:
+            - /url: https://www.google.com/maps/dir/?api=1&destination=Rua+Prefeito+Jose+Serra+228+Ouro+Fino+MG
+            - img [ref=e418]
+            - text: Como chegar
+    - generic [ref=e422]:
+      - paragraph [ref=e424]: Contato
+      - heading "Comece sua transformação" [level=2] [ref=e425]:
+        - generic [ref=e426]: Comece
+        - generic [ref=e427]: sua
+        - generic [ref=e428]: transformação
+      - paragraph [ref=e430]: Agende sua avaliação e descubra como a ciência e a delicadeza podem transformar seu sorriso
+      - link "Fale pelo WhatsApp" [ref=e432] [cursor=pointer]:
+        - /url: https://wa.me/5535997255631?text=Ol%C3%A1%2C%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es.
+        - img [ref=e433]
+        - text: Fale pelo WhatsApp
+      - generic [ref=e436]:
+        - link "(35) 9 9725-5631" [ref=e437] [cursor=pointer]:
+          - /url: tel:+5535997255631
+          - img [ref=e438]
+          - generic [ref=e440]: (35) 9 9725-5631
+        - link "@dramilenagrossigerminiani" [ref=e441] [cursor=pointer]:
+          - /url: https://www.instagram.com/dramilenagrossigerminiani/
+          - img [ref=e442]
+          - generic [ref=e445]: "@dramilenagrossigerminiani"
+  - contentinfo [ref=e446]:
+    - generic [ref=e447]:
+      - generic [ref=e449]:
+        - img "Monograma MG — Dra. Milena Grossi Germiniani — Odontologia Especializada e Harmonização Facial" [ref=e450]
+        - paragraph [ref=e451]: Dra. Milena Grossi Germiniani
+        - paragraph [ref=e452]: CRO MG 26.171 — Cirurgiã-Dentista
+      - link "Instagram da Dra. Milena" [ref=e455] [cursor=pointer]:
+        - /url: https://www.instagram.com/dramilenagrossigerminiani/
+        - img [ref=e456]
+      - generic [ref=e460]:
+        - paragraph [ref=e461]: As informações contidas neste site têm caráter informativo e não substituem a consulta presencial.
+        - paragraph [ref=e462]: © 2026 Dra. Milena Grossi Germiniani. Todos os direitos reservados.

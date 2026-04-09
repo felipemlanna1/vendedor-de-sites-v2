@@ -1,0 +1,260 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e86] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e91]
+        - link "Foto do perfil de _pipelinestudio" [ref=e97] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e102]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e103]
+      - generic [ref=e104]:
+        - link "Configurações" [ref=e107] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e112]
+        - link "Também da Meta" [ref=e115] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e120]
+    - generic [ref=e123]:
+      - main [ref=e124]:
+        - generic [ref=e125]:
+          - generic [ref=e127]:
+            - button [ref=e132]:
+              - img [ref=e138]
+            - generic [ref=e141]:
+              - generic [ref=e143]:
+                - button "Foto do perfil de dr.davidamaral" [disabled] [ref=e148]:
+                  - link "Foto do perfil de dr.davidamaral" [disabled] [ref=e150] [cursor=pointer]:
+                    - img "Foto do perfil de dr.davidamaral" [ref=e151]
+                - generic [ref=e154]:
+                  - generic [ref=e155]:
+                    - link "dr.davidamaral" [ref=e163] [cursor=pointer]:
+                      - /url: /dr.davidamaral/
+                      - generic [ref=e166]: dr.davidamaral
+                    - link "Lagoa da Prata" [ref=e170] [cursor=pointer]:
+                      - /url: /explore/locations/248204184/lagoa-da-prata/
+                  - button "Seguir" [ref=e172] [cursor=pointer]
+                - button "Mais opções" [ref=e175] [cursor=pointer]:
+                  - img "Mais opções" [ref=e178]
+              - separator [ref=e182]
+              - generic [ref=e184]:
+                - generic [ref=e186]:
+                  - link "Foto do perfil de dr.davidamaral" [ref=e191] [cursor=pointer]:
+                    - /url: /dr.davidamaral/
+                    - img "Foto do perfil de dr.davidamaral" [ref=e192]
+                  - generic [ref=e196]:
+                    - generic [ref=e197]:
+                      - link "dr.davidamaral" [ref=e201] [cursor=pointer]:
+                        - /url: /dr.davidamaral/
+                        - generic [ref=e204]: dr.davidamaral
+                      - time [ref=e206]: 52 sem
+                    - generic [ref=e207]:
+                      - text: Por trás de cada cirurgia, existe uma vida esperando voltar a viver sem dor. 🫀
+                      - text: Atrás de cada cirurgia existe uma história, um paciente que chegou com dor, medo, ansiedade…
+                      - text: Operar não é só executar um procedimento.
+                      - text: É entender que aquele momento pode mudar completamente a vida de alguém.
+                      - text: É ter responsabilidade sobre cada movimento, sobre cada decisão. 📌
+                      - text: "Essa imagem mostra o que muitos não veem: o silêncio, a concentração, o peso e a responsabilidade de cuidar do que alguém tem de mais precioso, o próprio corpo."
+                      - text: Se você está passando por isso ou conhece alguém que está… saiba que existe caminho, existe solução, e você não está sozinho.
+                      - text: Estou aqui pra cuidar de você com tecnologia, conhecimento e, principalmente, humanidade. 💙🩺
+                      - link "#cirurgia" [ref=e208] [cursor=pointer]:
+                        - /url: /explore/tags/cirurgia/
+                      - link "#orto" [ref=e209] [cursor=pointer]:
+                        - /url: /explore/tags/orto/
+                      - link "#ortopedista" [ref=e210] [cursor=pointer]:
+                        - /url: /explore/tags/ortopedista/
+                      - link "#lagoadaprata" [ref=e211] [cursor=pointer]:
+                        - /url: /explore/tags/lagoadaprata/
+                      - link "#minas" [ref=e212] [cursor=pointer]:
+                        - /url: /explore/tags/minas/
+                      - link "#minasgerais" [ref=e213] [cursor=pointer]:
+                        - /url: /explore/tags/minasgerais/
+                      - link "#mg" [ref=e214] [cursor=pointer]:
+                        - /url: /explore/tags/mg/
+                - generic [ref=e217]:
+                  - heading "Ainda não há nenhum comentário." [level=2] [ref=e219]
+                  - generic [ref=e221]: Inicie a conversa.
+              - generic [ref=e222]:
+                - generic [ref=e223]:
+                  - generic [ref=e224]:
+                    - button "Curtir" [ref=e227] [cursor=pointer]:
+                      - img "Curtir" [ref=e230]
+                    - button "Comentar" [ref=e233] [cursor=pointer]:
+                      - img "Comentar" [ref=e235]
+                    - button "Compartilhar" [ref=e237] [cursor=pointer]:
+                      - img "Compartilhar" [ref=e238]
+                  - button "Salvar" [ref=e243] [cursor=pointer]:
+                    - button "Salvar" [ref=e244]:
+                      - img "Salvar" [ref=e246]
+                - link "3 de abril de 2025" [ref=e250] [cursor=pointer]:
+                  - /url: /dr.davidamaral/p/DH-5jEaR3Aw/
+                  - time [ref=e252]: 3 de abril de 2025
+              - generic [ref=e255]:
+                - link [ref=e256]
+                - generic [ref=e258]:
+                  - button "Emoji" [ref=e260] [cursor=pointer]:
+                    - img "Emoji" [ref=e262]
+                  - textbox "Adicione um comentário..." [ref=e264]
+          - separator [ref=e266]
+          - generic [ref=e267]:
+            - generic [ref=e269]:
+              - text: Mais posts de
+              - link "dr.davidamaral" [ref=e270] [cursor=pointer]:
+                - /url: /dr.davidamaral/
+            - generic [ref=e273]:
+              - generic [ref=e274]:
+                - link "Photo by David Amaral in Lagoa da Prata, Minas Gerais, Brazil." [ref=e276] [cursor=pointer]:
+                  - /url: /dr.davidamaral/p/DJrGV_nxaam/
+                  - img "Photo by David Amaral in Lagoa da Prata, Minas Gerais, Brazil." [ref=e279]
+                - link "Photo by David Amaral in Lagoa da Prata MG - A Nossa Cidade." [ref=e282] [cursor=pointer]:
+                  - /url: /dr.davidamaral/p/DJgsYW0RCaa/
+                  - img "Photo by David Amaral in Lagoa da Prata MG - A Nossa Cidade." [ref=e285]
+                - 'link "Cada exame é uma oportunidade de cuidar com mais assertividade e segurança. 🩺 Com o auxílio da ultrassonografia, consigo diagnosticar com precisão e realizar procedimentos como infiltrações guiadas, tudo com mais eficácia e conforto para o paciente. Porque aqui, tecnologia e humanização caminham juntas. 📍 Agende seu atendimento e venha descobrir como a ortopedia moderna pode transformar sua qualidade de vida. #orto #ortopedista #lagoadaprata #minas #minasgerais #mg Carrossel" [ref=e288] [cursor=pointer]':
+                  - /url: /dr.davidamaral/p/DJZE2ghRbY8/
+                  - 'img "Cada exame é uma oportunidade de cuidar com mais assertividade e segurança. 🩺 Com o auxílio da ultrassonografia, consigo diagnosticar com precisão e realizar procedimentos como infiltrações guiadas, tudo com mais eficácia e conforto para o paciente. Porque aqui, tecnologia e humanização caminham juntas. 📍 Agende seu atendimento e venha descobrir como a ortopedia moderna pode transformar sua qualidade de vida. #orto #ortopedista #lagoadaprata #minas #minasgerais #mg" [ref=e291]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+              - generic [ref=e293]:
+                - link "Photo by David Amaral in Lagoa da Prata MG - A Nossa Cidade." [ref=e295] [cursor=pointer]:
+                  - /url: /dr.davidamaral/p/DJU5ErExfNw/
+                  - img "Photo by David Amaral in Lagoa da Prata MG - A Nossa Cidade." [ref=e298]
+                - link "Photo by David Amaral in Lagoa da Prata, Minas Gerais, Brazil." [ref=e301] [cursor=pointer]:
+                  - /url: /dr.davidamaral/p/DJHsalOxDK1/
+                  - img "Photo by David Amaral in Lagoa da Prata, Minas Gerais, Brazil." [ref=e304]
+                - 'link "A dor aparece na hora, principalmente no cotovelo e antebraço, e a criança evita mexer o braço, o que pode assustar bastante. 😢 Importante: não tente “colocar no lugar” em casa. ⚠️ Leve a criança a um ortopedista. O tratamento é rápido, seguro e a recuperação costuma ser tranquila. Para prevenir, evite puxar o braço da criança com força ou levantá-la segurando apenas pela mão. Pequenos cuidados fazem toda a diferença! 📌 Se isso acontecer com seu filho, me procure. Vamos cuidar com calma, segurança e muito carinho. 💙🩺 #PronacaoDolorosa #LesaoInfantil #CuidadosPrevencao #SaudeOrtopedica #orto #ortopedista #lagoadaprata #minas #minasgerais #mg Clipe" [ref=e307] [cursor=pointer]':
+                  - /url: /dr.davidamaral/reel/DI1BwCvx6gj/
+                  - 'img "A dor aparece na hora, principalmente no cotovelo e antebraço, e a criança evita mexer o braço, o que pode assustar bastante. 😢 Importante: não tente “colocar no lugar” em casa. ⚠️ Leve a criança a um ortopedista. O tratamento é rápido, seguro e a recuperação costuma ser tranquila. Para prevenir, evite puxar o braço da criança com força ou levantá-la segurando apenas pela mão. Pequenos cuidados fazem toda a diferença! 📌 Se isso acontecer com seu filho, me procure. Vamos cuidar com calma, segurança e muito carinho. 💙🩺 #PronacaoDolorosa #LesaoInfantil #CuidadosPrevencao #SaudeOrtopedica #orto #ortopedista #lagoadaprata #minas #minasgerais #mg" [ref=e310]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+      - contentinfo [ref=e312]:
+        - generic [ref=e313]:
+          - generic [ref=e315]:
+            - link "Meta" [ref=e317] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e318]: Meta
+            - link "Sobre" [ref=e320] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e321]: Sobre
+            - link "Blog" [ref=e323] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e324]: Blog
+            - link "Carreiras" [ref=e326] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e327]: Carreiras
+            - link "Ajuda" [ref=e329] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e330]: Ajuda
+            - link "API" [ref=e332] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e333]: API
+            - link "Privacidade" [ref=e335] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e336]: Privacidade
+            - link "Termos" [ref=e338] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e339]: Termos
+            - link "Localizações" [ref=e341] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e342]: Localizações
+            - link "Instagram Lite" [ref=e344] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e345]: Instagram Lite
+            - link "Meta AI" [ref=e347] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e348]: Meta AI
+            - link "Threads" [ref=e350] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e351]: Threads
+            - link "Upload de contatos e não usuários" [ref=e353] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e354]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e356] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e357]: Meta Verified
+          - generic [ref=e358]:
+            - generic [ref=e359] [cursor=pointer]:
+              - generic [ref=e360]:
+                - generic [ref=e361]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e364]
+              - combobox "Trocar idioma de exibição" [ref=e366]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e368]: © 2026 Instagram from Meta
+  - button "Mensagens Mensagens" [ref=e370] [cursor=pointer]:
+    - generic [ref=e372]:
+      - img "Mensagens" [ref=e374]
+      - generic [ref=e377]: Mensagens

@@ -1,0 +1,33 @@
+import { useRef, useState, useEffect } from 'react'
+
+/**
+ * Hook para detectar quando um elemento entra no viewport.
+ * @param {Object} options - IntersectionObserver options
+ * @param {boolean} once - Se true, para de observar apos primeira intersecao
+ */
+export default function useInView({ threshold = 0.1, rootMargin = '0px' } = {}, once = true) {
+  const ref = useRef(null)
+  const [isInView, setIsInView] = useState(false)
+
+  useEffect(() => {
+    const el = ref.current
+    if (!el) return
+
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          setIsInView(true)
+          if (once) observer.unobserve(el)
+        } else if (!once) {
+          setIsInView(false)
+        }
+      },
+      { threshold, rootMargin }
+    )
+
+    observer.observe(el)
+    return () => observer.disconnect()
+  }, [threshold, rootMargin, once])
+
+  return [ref, isInView]
+}

@@ -1,0 +1,257 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e88] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e93]
+        - link "Foto do perfil de _pipelinestudio" [ref=e99] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e104]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e105]
+      - generic [ref=e106]:
+        - link "Configurações" [ref=e109] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e114]
+        - link "Também da Meta" [ref=e117] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e122]
+    - generic [ref=e125]:
+      - main [ref=e126]:
+        - generic [ref=e127]:
+          - generic [ref=e129]:
+            - button [ref=e134]:
+              - generic [ref=e141]:
+                - list [ref=e143]:
+                  - listitem [ref=e144]
+                  - listitem [ref=e145]:
+                    - img [ref=e152]
+                  - listitem [ref=e154]:
+                    - img [ref=e161]
+                - button [ref=e163] [cursor=pointer]
+            - generic [ref=e166]:
+              - generic [ref=e168]:
+                - button "Foto do perfil de dramarcelabraz" [disabled] [ref=e173]:
+                  - link "Foto do perfil de dramarcelabraz" [disabled] [ref=e175] [cursor=pointer]:
+                    - img "Foto do perfil de dramarcelabraz" [ref=e176]
+                - generic [ref=e179]:
+                  - generic [ref=e180]:
+                    - link "dramarcelabraz" [ref=e188] [cursor=pointer]:
+                      - /url: /dramarcelabraz/
+                      - generic [ref=e191]: dramarcelabraz
+                    - link "Caxambu" [ref=e195] [cursor=pointer]:
+                      - /url: /explore/locations/29808/caxambu/
+                  - button "Seguir" [ref=e197] [cursor=pointer]
+                - button "Mais opções" [ref=e200] [cursor=pointer]:
+                  - img "Mais opções" [ref=e203]
+              - separator [ref=e207]
+              - generic [ref=e209]:
+                - generic [ref=e211]:
+                  - link "Foto do perfil de dramarcelabraz" [ref=e216] [cursor=pointer]:
+                    - /url: /dramarcelabraz/
+                    - img "Foto do perfil de dramarcelabraz" [ref=e217]
+                  - generic [ref=e221]:
+                    - generic [ref=e222]:
+                      - link "dramarcelabraz" [ref=e226] [cursor=pointer]:
+                        - /url: /dramarcelabraz/
+                        - generic [ref=e229]: dramarcelabraz
+                      - time [ref=e231]: 99 sem
+                    - generic [ref=e232]:
+                      - text: Sou imensamente grata a Deus por ser filha de uma grande mulher! 🙏🥰
+                      - text: Feliz dia das mães a todas as nossas pacientes e amigas mamães, que exercem esse lindo papel com tanta sabedoria e coragem!😊
+                      - text: Um ótimo domingo à todos nós! 🙏🥰
+                - generic [ref=e235]:
+                  - heading "Ainda não há nenhum comentário." [level=2] [ref=e237]
+                  - generic [ref=e239]: Inicie a conversa.
+              - generic [ref=e240]:
+                - generic [ref=e241]:
+                  - generic [ref=e242]:
+                    - button "Curtir" [ref=e245] [cursor=pointer]:
+                      - img "Curtir" [ref=e248]
+                    - button "Comentar" [ref=e251] [cursor=pointer]:
+                      - img "Comentar" [ref=e253]
+                    - button "Compartilhar" [ref=e255] [cursor=pointer]:
+                      - img "Compartilhar" [ref=e256]
+                  - button "Salvar" [ref=e261] [cursor=pointer]:
+                    - button "Salvar" [ref=e262]:
+                      - img "Salvar" [ref=e264]
+                - link "12 de maio de 2024" [ref=e268] [cursor=pointer]:
+                  - /url: /dramarcelabraz/p/C63mf7PuwMr/
+                  - time [ref=e270]: 12 de maio de 2024
+              - generic [ref=e273]:
+                - link [ref=e274]
+                - generic [ref=e276]:
+                  - button "Emoji" [ref=e278] [cursor=pointer]:
+                    - img "Emoji" [ref=e280]
+                  - textbox "Adicione um comentário..." [ref=e282]
+          - separator [ref=e284]
+          - generic [ref=e285]:
+            - generic [ref=e287]:
+              - text: Mais posts de
+              - link "dramarcelabraz" [ref=e288] [cursor=pointer]:
+                - /url: /dramarcelabraz/
+            - generic [ref=e291]:
+              - generic [ref=e292]:
+                - link "Photo shared by Marcela Braz | Dentista em Caxambu on December 06, 2024 tagging @anaflavia4815, @sc_naiara, and @draalinejunqueiraorto." [ref=e294] [cursor=pointer]:
+                  - /url: /dramarcelabraz/p/DDQqFo3t3r9/
+                  - img "Photo shared by Marcela Braz | Dentista em Caxambu on December 06, 2024 tagging @anaflavia4815, @sc_naiara, and @draalinejunqueiraorto." [ref=e297]
+                - 'link "25/10 - Dia do Dentista! É impossível olhar para trás sem lembrar da ansiedade, das madrugadas estudando, dos primeiros atendimentos e de como foi a experiência de sentir pela primeira vez, a melhor sensação do mudo: a de aliviar a dor de alguém! Ser dentista é uma das minhas versões, as vezes leve, as vezes árdua. Nem sempre fácil mas extremamente gratificante! 🙏 Obrigada a todos que fizeram parte dessa jornada, e a você, que continua escrevendo essa história comigo!♥️ Feliz Dia do Dentista a todos os colegas que compartilham essa missão!✨ Carrossel" [ref=e300] [cursor=pointer]':
+                  - /url: /dramarcelabraz/p/DBkEI4_vsKo/
+                  - 'img "25/10 - Dia do Dentista! É impossível olhar para trás sem lembrar da ansiedade, das madrugadas estudando, dos primeiros atendimentos e de como foi a experiência de sentir pela primeira vez, a melhor sensação do mudo: a de aliviar a dor de alguém! Ser dentista é uma das minhas versões, as vezes leve, as vezes árdua. Nem sempre fácil mas extremamente gratificante! 🙏 Obrigada a todos que fizeram parte dessa jornada, e a você, que continua escrevendo essa história comigo!♥️ Feliz Dia do Dentista a todos os colegas que compartilham essa missão!✨" [ref=e303]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - link "Mulher, como somos fortes! 💪 Somos feitas de sonhos, de força, amor e inspiração. Somos cheias de vida, dotadas de valor, retrato fiel do cuidado e da intuição! Somos mães, esposas. Somos resistentes como uma rocha, somos pilares de uma casa. Somos batalhadoras. Somos carinho e afeto! Que esse dia te lembre da sua força e da sua capacidade de ir além! Você pode tudo! Feliz dia da Mulher! Em especial para as grandes mulheres da minha vida @mariaritacbraz @camilacbraz 🥰 Carrossel" [ref=e306] [cursor=pointer]:
+                  - /url: /dramarcelabraz/p/C4QKcozO2TT/
+                  - img "Mulher, como somos fortes! 💪 Somos feitas de sonhos, de força, amor e inspiração. Somos cheias de vida, dotadas de valor, retrato fiel do cuidado e da intuição! Somos mães, esposas. Somos resistentes como uma rocha, somos pilares de uma casa. Somos batalhadoras. Somos carinho e afeto! Que esse dia te lembre da sua força e da sua capacidade de ir além! Você pode tudo! Feliz dia da Mulher! Em especial para as grandes mulheres da minha vida @mariaritacbraz @camilacbraz 🥰" [ref=e309]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+              - generic [ref=e311]:
+                - link "“Tia eu sou uma mocinha, nem choro mais!” 😍🥰 Laurinha fechou o tratamento com chave de ouro!! Sua evolução foi notada a cada consulta e hoje para a nossa imensa alegria fechou o tratamento com nota 1000!! 🫶🏻 Estamos muito orgulhosos de você Laurinha! Nossa gatinha manhosa! 😘🥰 @re_paula_bae @sc_naiara Carrossel" [ref=e313] [cursor=pointer]:
+                  - /url: /dramarcelabraz/p/C3sW_uGuc1C/
+                  - img "“Tia eu sou uma mocinha, nem choro mais!” 😍🥰 Laurinha fechou o tratamento com chave de ouro!! Sua evolução foi notada a cada consulta e hoje para a nossa imensa alegria fechou o tratamento com nota 1000!! 🫶🏻 Estamos muito orgulhosos de você Laurinha! Nossa gatinha manhosa! 😘🥰 @re_paula_bae @sc_naiara" [ref=e316]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - link "Photo by Marcela Braz | Dentista em Caxambu in Caxambu - Sul De Minas Gerais." [ref=e319] [cursor=pointer]:
+                  - /url: /dramarcelabraz/p/C2Pa63dO2mP/
+                  - img "Photo by Marcela Braz | Dentista em Caxambu in Caxambu - Sul De Minas Gerais." [ref=e322]
+                - link "Última semana de atendimentos do ano e tudo preparado com muito carinho para receber nossos pacientes!!🥰😍 Por aqui amamos o Natal ainda mais com cheirinho de férias no ar!! 😍😍🥰 Clipe" [ref=e325] [cursor=pointer]:
+                  - /url: /dramarcelabraz/reel/C0wa8nIOfAp/
+                  - img "Última semana de atendimentos do ano e tudo preparado com muito carinho para receber nossos pacientes!!🥰😍 Por aqui amamos o Natal ainda mais com cheirinho de férias no ar!! 😍😍🥰" [ref=e328]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+      - contentinfo [ref=e330]:
+        - generic [ref=e331]:
+          - generic [ref=e333]:
+            - link "Meta" [ref=e335] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e336]: Meta
+            - link "Sobre" [ref=e338] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e339]: Sobre
+            - link "Blog" [ref=e341] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e342]: Blog
+            - link "Carreiras" [ref=e344] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e345]: Carreiras
+            - link "Ajuda" [ref=e347] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e348]: Ajuda
+            - link "API" [ref=e350] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e351]: API
+            - link "Privacidade" [ref=e353] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e354]: Privacidade
+            - link "Termos" [ref=e356] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e357]: Termos
+            - link "Localizações" [ref=e359] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e360]: Localizações
+            - link "Instagram Lite" [ref=e362] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e363]: Instagram Lite
+            - link "Meta AI" [ref=e365] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e366]: Meta AI
+            - link "Threads" [ref=e368] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e369]: Threads
+            - link "Upload de contatos e não usuários" [ref=e371] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e372]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e374] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e375]: Meta Verified
+          - generic [ref=e376]:
+            - generic [ref=e377] [cursor=pointer]:
+              - generic [ref=e378]:
+                - generic [ref=e379]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e382]
+              - combobox "Trocar idioma de exibição" [ref=e384]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e386]: © 2026 Instagram from Meta
+  - button "Mensagens" [ref=e389] [cursor=pointer]:
+    - generic "Mensagens" [ref=e390]:
+      - generic [ref=e391]:
+        - img "Mensagens" [ref=e394]
+        - generic [ref=e397]: Mensagens

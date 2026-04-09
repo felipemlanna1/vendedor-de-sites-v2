@@ -1,0 +1,282 @@
+- main [ref=e4]:
+  - generic [ref=e8]:
+    - generic [ref=e15]:
+      - generic [ref=e28]:
+        - generic [ref=e34]:
+          - img
+        - paragraph [ref=e41]: Una
+        - paragraph [ref=e48]: Dermatologia e imagem
+      - generic [ref=e57]:
+        - generic [ref=e60]:
+          - img
+        - paragraph [ref=e68]:
+          - link "SOBRE A CLÍNICA" [ref=e69] [cursor=pointer]:
+            - /url: "#page-0"
+      - generic [ref=e71]:
+        - generic [ref=e74]:
+          - img
+        - paragraph [ref=e82]: EQUIPE
+      - generic [ref=e85]:
+        - img
+      - generic [ref=e88]:
+        - generic [ref=e91]:
+          - img
+        - paragraph [ref=e99]:
+          - link "AGENDAR CONSULTA" [ref=e100] [cursor=pointer]:
+            - /url: tel:48988092205
+      - paragraph [ref=e107]: ATENDIMENTOS
+    - generic [ref=e114]:
+      - generic [ref=e122]:
+        - img
+      - paragraph [ref=e132]: Sobre a Clínica
+      - generic [ref=e140]:
+        - paragraph [ref=e141]: "Missão: Cuidar da saúde da pele de forma integral, oferecendo tratamentos clínicos, cirúrgicos e estéticos baseados nas melhores evidências científicas."
+        - paragraph [ref=e143]: "Visão: Ser referência em dermatologia moderna e humanizada em Santa Catarina, unindo ciência, inovação e excelência no cuidado ao paciente."
+        - paragraph [ref=e145]: "Valores: Atuar com ética, segurança, humanização e rigor científico, valorizando a individualidade do paciente e a prática médica continuamente atualizada."
+      - generic [ref=e167]:
+        - generic [ref=e173]:
+          - img
+        - paragraph [ref=e180]: Una
+        - paragraph [ref=e187]: Dermatologia e imagem
+      - generic [ref=e194]:
+        - img
+    - generic [ref=e204]:
+      - generic [ref=e222]:
+        - img
+      - generic [ref=e226]:
+        - img
+      - generic [ref=e232]:
+        - img
+      - generic [ref=e244]:
+        - generic [ref=e247]:
+          - img
+        - paragraph [ref=e255]:
+          - link "ABRIR ROTAS NO GOOGLE MAPS" [ref=e256] [cursor=pointer]:
+            - /url: https://www.google.com/maps/dir/Estacionamento+-+P%C3%A1tio+Milano,+R.+%C3%82ngelo+La+Porta,+53+-+Centro,+Florian%C3%B3polis+-+SC,+88020-600/''/@-27.5959864,-48.5561341,15z/data=!4m13!4m12!1m5!1m1!1s0x952739f14d1f389b:0x3d9587d3dad9f90e!2m2!1d-48.5425315!2d-27.588235!1m5!1m1!1s0x952739f14d1f389b:0x3d9587d3dad9f90e!2m2!1d-48.5425315!2d-27.588235?entry=ttu
+      - paragraph [ref=e269]: Um lugar acolhedor e elegante, no coração de Florianópolis. Nosso espaço está localizado na Estação Milano, ao lado do Pátio Milano.
+      - paragraph [ref=e276]: Localização
+      - generic [ref=e282]:
+        - paragraph [ref=e284]: Ed. Estação Milano. R. Ângelo La Porta, 53 - sala 904
+        - paragraph [ref=e285]: (48) 30850247 | (48) 988092205
+    - generic [ref=e288]:
+      - paragraph
+      - paragraph [ref=e289]: "Do agendamento aos cuidados pós atendimento: nossa equipe trabalha em conjunto para fornecer o melhor atendimento. Focamos na qualidade do atendimento e na segurança dos procedimentos. Atualização contínua e cuidado multidisciplinar são pilares da nossa clínica."
+      - paragraph [ref=e290]: Una
+      - paragraph [ref=e291]: Dermatologia e imagem
+      - paragraph [ref=e292]: Nossa Equipe
+    - generic [ref=e296]:
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph [ref=e297]: AGENDAR CONSULTA
+      - paragraph [ref=e298]: CURRÍCULO
+      - paragraph [ref=e299]: Ariel Córdova
+      - paragraph
+      - paragraph [ref=e300]: AGENDAR AVALIAÇÃO
+      - paragraph [ref=e301]: CURRÍCULO
+      - paragraph
+      - paragraph [ref=e302]: AGENDAR AVALIAÇÃO
+      - paragraph [ref=e303]: CURRÍCULO
+      - paragraph [ref=e304]: Guilherme Thomé Garcia
+      - paragraph [ref=e305]: "Médico Radiologista CRM SC: 23386. RQE: 18982"
+      - paragraph [ref=e306]: "Médica Dermatologista CRM SC: 23372. RQE: 18753"
+      - paragraph [ref=e307]: Daniela Debiasi
+      - paragraph [ref=e308]: "Enfermeira COREN SC: 856.109"
+    - generic [ref=e312]:
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph [ref=e313]: AGENDAR CONSULTA
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph [ref=e314]: "Médica Dermatologista CRM SC: 23372 RQE: 18753 Responsável Técnica (RT)"
+      - paragraph [ref=e315]: Ariel Córdova
+      - paragraph [ref=e316]: Preceptora da Residência de Dermatologia da UFSC.
+      - paragraph [ref=e317]: Membro da Sociedade Brasileira de Dermatologia (SBD).
+      - paragraph [ref=e318]: Residência Médica em Dermatologia pela UFSC.
+      - paragraph [ref=e319]: Membro da Sociedade Brasileira de Cirurgia Dermatológica (SBCD)
+      - paragraph [ref=e320]: Diretoria da SBD Regional de Santa Catarina (SBD/SC)
+      - paragraph [ref=e321]: Doutoranda em Ciências Médicas UFSC
+      - paragraph [ref=e322]: Membro da European Academy of Dermatology and Venereology (EADV)
+      - paragraph [ref=e323]: Membro da American Academy of Dermatology (AAD)
+      - paragraph [ref=e324]: Graduada pela Universidade Federal de Santa Catarina (UFSC).
+    - generic [ref=e328]:
+      - paragraph
+      - paragraph
+      - paragraph [ref=e329]: AGENDAR AVALIAÇÃO
+      - paragraph
+      - paragraph [ref=e330]: "Enfermeira COREN SC: 856.109"
+      - paragraph [ref=e331]: Daniela Debiasi
+      - paragraph [ref=e332]: Técnica em Enfermagem COREN SC 1513379 (Faculdade Estácio de Sá)
+      - paragraph
+      - paragraph [ref=e333]: Enfermeira COREN SC 856.109 (Faculdade Estácio de Sá)
+      - paragraph
+      - paragraph [ref=e334]: Membro do British Dermatological Nursing Group - BDNG (Grupo Britânico de Enfermagem Dermatológica)
+    - generic [ref=e338]:
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph [ref=e339]: AGENDAR EXAME
+      - paragraph
+      - paragraph [ref=e340]: "Médico Radiologista CRM/SC: 23.386 RQE: 18.982"
+      - paragraph [ref=e341]: Guilherme Thomé Garcia
+      - paragraph [ref=e342]: Graduado pela Universidade Federal de Santa Catarina (UFSC)
+      - paragraph [ref=e343]: Residência Médica em Radiologia e Diagnostico por Imagem pela UFSC
+      - paragraph [ref=e344]: Fellowship (R4) em Radiologia Musculoesquelética pelo Hospital do Coração (HCor) em São Paulo
+      - paragraph
+      - paragraph
+      - paragraph [ref=e345]: Membro do Colégio Brasileiro de Radiologia
+      - paragraph
+      - paragraph [ref=e346]: Mestre em Radiologia Clínica pela Universidade Federal de São Paulo (Unifesp)
+      - paragraph [ref=e347]: Pós-graduação em Ultrassonografia em Reumatologia pelo Cetrus
+    - generic [ref=e351]:
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph [ref=e352]: ATENDIMENTOS
+      - paragraph [ref=e353]: Atendimento individualizado para cada queixa. Psoríase, Dermatite Atópica, Hidradenite Supurativa, Lupus, urticária e outras doenças.
+      - paragraph [ref=e354]: Consultas Médicas
+      - paragraph [ref=e355]: Biópsias de lesões de pele, retirada de nevos/pintas e de câncer de pele (Melanoma e não Melanoma)
+      - paragraph [ref=e356]: Cirurgia Dermatológica
+      - paragraph [ref=e357]: Toxina botulínica, preenchedores e bioestimuladores, respeitando a individualidade de cada paciente e com segurança.
+      - paragraph [ref=e358]: Procedimentos Estéticos
+    - generic [ref=e362]:
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph [ref=e363]: Avaliação de lesões de pele, mapeamento facial de procedimentos estéticos e procedimentos guiados por ultrassonografia.
+      - paragraph
+      - paragraph [ref=e364]: ATENDIMENTOS
+      - paragraph [ref=e365]: Diagnóstico das principais doenças que acometem cabelos e unhas, com tratamentos direcionados.
+      - paragraph [ref=e366]: Diagnóstico preciso das substâncias relacionadas a diferentes alergias de pele.
+      - paragraph [ref=e367]: Testes Contato Alérgico
+      - paragraph [ref=e368]: Cabelos e Unhas
+      - paragraph [ref=e369]: USG Dermatológico
+      - paragraph [ref=e370]: ATENDIMENTOS
+    - generic [ref=e374]:
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph [ref=e375]: Desde a avaliação abdominal até exames da tireóide e procedimento/ biópsias guiadas por ultrassonografia.
+      - paragraph [ref=e376]: Aplicação da enzima hialuornidase guiada por ultrassonografia, para remoção de focos de Ácido Hialurônico.
+      - paragraph
+      - paragraph [ref=e377]: ATENDIMENTOS
+      - paragraph [ref=e378]: Avaliação de articulações, músculos e tendões. Diagnóstico de artrite psoriásica, lesões ortopédicas, dentre outros.
+      - paragraph [ref=e379]: USG Reumatológico
+      - paragraph [ref=e380]: USG Geral
+      - paragraph [ref=e381]: Hialuronidase Guiada
+      - paragraph [ref=e382]: ATENDIMENTOS
+    - generic [ref=e386]:
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph [ref=e387]: Para renovação da pele, tratamento de manchas e melhora da aparência dos poros e imperfeições .
+      - paragraph [ref=e388]: Avaliação clínica, diagnóstico e terapêutica, com acompanhamento com equipe multiprofissional e manejo de curativos.
+      - paragraph
+      - paragraph [ref=e389]: ATENDIMENTOS
+      - paragraph [ref=e390]: Realizada por enfermeira com experiência no procedimento e nas doenças cutâneas que podem estar associadas.
+      - paragraph [ref=e391]: Limpeza de Pele
+      - paragraph [ref=e392]: Peeling
+      - paragraph [ref=e393]: Cuidados com Feridas
+      - paragraph [ref=e394]: ATENDIMENTOS
+    - generic [ref=e398]:
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph
+      - paragraph [ref=e399]: ATENDIMENTOS
+      - paragraph [ref=e400]: Do diagnóstico ao tratamento com medicações imunobiológicas, com acesso aos medicamentos e aplicações.
+      - paragraph [ref=e401]: Imunobiológicos
+      - paragraph [ref=e402]: Infância - Terceira Idade
+      - paragraph [ref=e403]: Clipping Ungueal
+      - paragraph [ref=e404]: Procedimento para o diagnóstico de psoríase acometendo as unhas das mãos e dos pés
+      - paragraph [ref=e405]: Atendemos pacientes de todas as faixas etárias (do atendimento pediátrico ao geriátrico)
+    - generic [ref=e409]:
+      - paragraph
+      - paragraph
+      - paragraph [ref=e410]: PSORÍASE
+      - paragraph [ref=e411]: "Esta é uma das doenças mais frequentes na dermatologia. Geralmente se apresenta como lesões de pele vermelhas que descamam, podendo ter coceira associada. O diagnóstico, na maioria das vezes, é clínico, ou seja: com a avaliação de um médico dermatologista. Em alguns casos é necessário realizar biópsia para confirmar o diagnóstico. Hoje existem diversos tipos de tratamento disponiveis, desde medicaçoes para aplicar na pele até medicações em comprimido e injetáveis. E sim: é possível ficar sem lesões de pele. Mas é muito importante reforçar que o diagnóstico de psoríase deve ser feito por especialista, pois existem outras doenças de pele que podem imitar e confundir o diagnóstico."
+    - generic [ref=e415]:
+      - paragraph
+      - paragraph
+      - paragraph [ref=e416]: DERMATITE ATÓPICA
+      - paragraph
+      - paragraph [ref=e417]: Apesar de ser mais comum na infância, a dermatite atópica pode acometer paciente de todas as idades. Existem algumas localizações típicas, como a região anterior dos braços e a região posterior das pernas, mas qualquer área do corpo pode ser acometida. O grande achado desta doença é a coceira, que tende a ser intensa e pode trapalhar muito a qualidade de vida do paciente. O diagnóstico é clínico, feito pelo médico especialista (dermatologista ou alergista), mas alguns exames complementares podem ser necessários. Existem orientações gerais que são úteis em todos os casos, como cuidar com a duração e com a temperatura da água do banho além de hidratação adequada e diária da pele. Mas hoje temos várias opções de tratamento, com medicações tanto em comprimido quanto injetáveis, que auxiliam no controle da doença e na coceira!
+    - generic [ref=e421]:
+      - paragraph
+      - paragraph
+      - paragraph [ref=e422]: ACNE
+      - paragraph [ref=e423]: "A maioria das pessoas tem quadro de acne durante a adolescência. Isso tem relação com as diversas alterações hormonais pelas quais o corpo humano passa na puberdade. Porém, apesar de comum, existem quadros que necessitam de tratamento específico. Infelzimente muitas pessoas demoram para procurar auxílio por considerar que o quadro é normal. O problema é que o mais difícil de tratar na acne não é a doença em si, mas as cicatrizes que ficam! Além disso, apesar de ser mais comum na adolescência, pode acontecer em diversas faixas etárias, inclsuive na vida adulta. E sim: a acne pode estar relacionada a outros problemas de saúde, como a síndrome dos ovários policísticos. Independente da causa e da gravidade, acne tem tratamento e este deve ser iniciado de maneira precoce!"
+    - generic [ref=e427]:
+      - paragraph
+      - paragraph
+      - paragraph [ref=e428]: HIDRADENITE SUPURATIVA
+      - paragraph [ref=e429]: Infelizmente esta é uma doença que ainda recebe muitos diagnósticos incorretos até chegar ao diagnóstico certo. E o grande problema são as cicatrizes que a doença vai deixando, além dos quadros de inflamação de repetição, que prejudicam muito a qualidade de vida dos pacientes. É mais comum no sexo feminino (apesar de poder afetar qualquer sexo), que cursa com a formação de lesões que parecem furúnculos (principalmente nas axilas, virilha, mamas e região perianal). Após a melhora da lesão inflamatória, podem ficar cicatrizes. E o quadro tende a se repetir outras vezes (nas mesmas localizações e em novas localizações). O diagnóstico deve ser feito por especialista e o exame de ultrassonografia é muito útil para avaliar a extensão da doença e inclusive diagnosticar lesões que não conseguimos ver ao exame físico. E, assim como as outras doenças anteriormente citadas, a hidradenite supurativa tem tratamento! E é possível, sim, manter a doença controlada e melhorar a qualidade de vida dos pacientes!
+      - paragraph
+    - generic [ref=e433]:
+      - paragraph
+      - paragraph
+      - paragraph [ref=e434]: LUPÚS ERITEMATOSO
+      - paragraph [ref=e435]: O lupus é uma doença que pode acometer apenas a pele ou acometer a pele e outros órgãos e sistemas. Neste segundo caso, chamamos de lupus eritematoso sistêmico e o tratamento necessita ser feito com médico reumatologista. E mesmo quando apenas a pele é acometida, existe o risco de em algum momento a doença evoluir para um quadro sistêmico, por isso o acompanhamento com reumatologista é fundamental. Mas as lesões de pele também tem tratamento e o médico dermatologista com experiência em colagenoses pode contribuir na melhora do aspecto das lesões! Inclusive existem tratamentos estéticos que podem ser feitos, se a doença estiver controlada. Além de uma rotina de cuidados adequada, para melhorar o aspecto da pele.
+    - generic [ref=e439]:
+      - paragraph
+      - paragraph
+      - paragraph [ref=e440]: URTICÁRIA
+      - paragraph [ref=e441]: A urticária é uma doença relativamente comum, mas que atrapalha (e muito) a qualidade de vida dos paciente. São lesões vermelhas com muita coceira, que aparecem em qualquer região do corpo e tendem a ir mudando de localização durante a crise. A lesão em si dura menos de 24 horas no mesmo local, mas outras lesões vão surgindo em locais diferentes, Existem as urticárias que chamamos de agudas, cujo quadro tem duração menor do que 6 semanas. Nestes casos, muitas vezes conseguimos descobrir o fator causal, como uma infecção ou uso de medicações. Porém, quando o quadro dura mais do que 6 semanas, estamos diante de uma urticária crônica, que numa parcela significativa dos pacientes não tem um agente causal específico identificado. Nestes casos, chamamos de urticária crônica espontânea. Mas, independente do tipo de urticária, hoje temos opções de tratamento eficazes, que permitem o controle da doença a longo prazo.
+      - paragraph
+    - generic [ref=e445]:
+      - paragraph
+      - paragraph
+      - paragraph [ref=e446]: QUEDA DE CABELO
+      - paragraph [ref=e447]: O nome científico é alopécia, quando acontece a queda e rarefação dos fios. Aqui é importante salientar que existem diversos tipos de alopécia, com diferentes causas e diferentes tratamentos. Há casos em que acontece uma inflamação em um local específico da raíz do fio, que leva a uma incapacidade do fio voltar a crescer (pois irá se formar uma cicatriz no local). São as alopécias cicatriciais, que necessitam de tratamento precoce justamente para evitar a perda dos fios. Porém, o mais comum são as alopécias não cicatriciais, ou seja, que não formam cicatrizes. A maioria destas não envovle processo inflamatório e o exemplo clássico é o eflúvio telógeno. Mas, independente do tipo de alopecia, o diagnóstico correto e tratamento eficaz são fundamentais!
+    - generic [ref=e451]:
+      - paragraph
+      - paragraph [ref=e452]: Feridas e úlceras crônicas são lesões que não cicatrizam no tempo esperado, geralmente associadas a doenças de base como insuficiência venosa, diabetes ou problemas arteriais. Elas representam um desafio clínico, pois além da dor e do risco de infecção, impactam a qualidade de vida do paciente. O manejo adequado começa com o diagnóstico correto da causa, já que tratar apenas a ferida sem abordar o fator de base impede a cicatrização. A escolha dos curativos deve ser individualizada, respeitando as características da lesão (presença de exsudato, tecido com necrose, sinais de infecção, profundidade e localização). Outro ponto essencial é o acompanhamento regular pela equipe de enfermagem, que garante a avaliação contínua da evolução da ferida, troca correta dos curativos, prevenção de complicações e orientação ao paciente e familiares. Assim, o tratamento eficaz das úlceras crônicas exige integração entre diagnóstico clínico, escolha racional dos curativos e acompanhamento profissional especializado, visando não apenas a cicatrização, mas também a melhora global do bem-estar do paciente.
+      - paragraph
+      - paragraph [ref=e453]: FERIDAS CRÔNICAS
+    - generic [ref=e457]:
+      - paragraph
+      - paragraph
+      - paragraph [ref=e458]: ULTRASSONOGRAFIA
+      - paragraph [ref=e459]: A ultrassonografia dermatológica é um exame de imagem não invasivo que utiliza altas frequências (geralmente acima de 15 MHz) para avaliar a pele com grande precisão. Permite identificar a espessura da epiderme e derme, presença de inflamação, tumores cutâneos, depósito de produtos (como preenchedores) e até acompanhar a evolução de tratamentos. É uma ferramenta cada vez mais utilizada na dermatologia moderna, pois auxilia no diagnóstico, no planejamento terapêutico e no seguimento de doenças inflamatórias (como a Hidradenite Supurativa) e tumorais (lipomas, câncer de pele, dentre outros), trazendo mais segurança e precisão para o cuidado do paciente. Além disso, é possível com este exame avaliar complicações de procedimentos estéticos (como nódulos e edema), realizar procedimentos guiados (como a aplicação de ácido hialurônico guiada em áreas de risco da face) e aplicação de hialuronidase guiada por ultrassonografia (para remoção de focos de Ácido Hialurônico)
+    - generic [ref=e463]:
+      - paragraph
+      - paragraph [ref=e464]: Segunda à Sexta 10h - 20h
+      - paragraph [ref=e465]: HORÁRIOS
+      - paragraph
+      - paragraph
+      - paragraph [ref=e466]: Instagram
+      - paragraph [ref=e467]: Acompanhe nas redes!
+      - paragraph
+      - paragraph [ref=e468]: CLÍNICA UNA
+      - paragraph [ref=e469]: Rua Ângelo La Porta,número 53, Sala 904 - Estação Milano
+      - paragraph [ref=e470]: 55 48 8809-2205 55 48 3085-0247
+      - paragraph [ref=e471]: unadermatologiarecepcao@gmail.com
+      - paragraph [ref=e472]: VENHA NOS CONHECER
+      - paragraph [ref=e473]: Una
+      - paragraph [ref=e474]: Dermatologia
+      - paragraph [ref=e475]: una.dermatologia

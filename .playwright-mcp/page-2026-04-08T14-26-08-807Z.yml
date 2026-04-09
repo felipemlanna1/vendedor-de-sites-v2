@@ -1,0 +1,356 @@
+- generic [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic [ref=e18]:
+          - generic [ref=e21]:
+            - link [ref=e474] [cursor=pointer]:
+              - /url: /
+              - img [ref=e475]
+            - generic [ref=e34]:
+              - link [ref=e476] [cursor=pointer]:
+                - /url: /
+                - img [ref=e477]
+              - link [ref=e478] [cursor=pointer]:
+                - /url: /reels/
+                - img [ref=e479]
+              - link [ref=e480] [cursor=pointer]:
+                - /url: /direct/inbox/
+                - img [ref=e481]
+              - link [ref=e482] [cursor=pointer]:
+                - /url: /explore/
+                - img [ref=e483]
+              - link [ref=e484] [cursor=pointer]:
+                - /url: "#"
+                - img [ref=e485]
+              - link [ref=e486] [cursor=pointer]:
+                - /url: "#"
+                - img [ref=e487]
+              - link [ref=e488] [cursor=pointer]:
+                - /url: /_pipelinestudio/
+                - link [ref=e489]:
+                  - img [ref=e490]
+            - generic [ref=e113]:
+              - link [ref=e491] [cursor=pointer]:
+                - /url: "#"
+                - img [ref=e492]
+              - link [ref=e493] [cursor=pointer]:
+                - /url: "#"
+                - img [ref=e494]
+          - generic [ref=e132]:
+            - main [ref=e133]:
+              - generic [ref=e135]:
+                - generic [ref=e136]:
+                  - generic [ref=e137]:
+                    - link [ref=e495] [cursor=pointer]:
+                      - /url: /dr.davidamaral/
+                      - img [ref=e496]
+                    - generic [ref=e145]:
+                      - generic [ref=e146]:
+                        - generic [ref=e147]:
+                          - link [ref=e497] [cursor=pointer]:
+                            - /url: "#"
+                            - heading [level=2] [ref=e498]:
+                              - generic [ref=e151]: dr.davidamaral
+                          - button [ref=e499] [cursor=pointer]:
+                            - img [ref=e500]
+                        - generic [ref=e160]: David Amaral
+                        - generic [ref=e161]:
+                          - generic [ref=e163]:
+                            - generic [ref=e164]: "69"
+                            - text: posts
+                          - link [ref=e501] [cursor=pointer]:
+                            - /url: /dr.davidamaral/followers/
+                            - generic [ref=e167]:
+                              - generic [ref=e502]: "1.321"
+                              - text: seguidores
+                          - link [ref=e503] [cursor=pointer]:
+                            - /url: /dr.davidamaral/following/
+                            - generic [ref=e171]:
+                              - generic [ref=e172]: "18"
+                              - text: seguindo
+                      - generic [ref=e174]:
+                        - button [ref=e504] [cursor=pointer]:
+                          - generic [ref=e177]: Ortopedista e Traumatologia | CRM MG 68037 / RQE 44243 Infiltração guiadas por ultrassom. Agende sua consulta.⬇️
+                        - heading [level=1] [ref=e505]: Avenida Getúlio Vargas 997, Lagoa da Prata, Minas Gerais, Brazil
+                        - generic [ref=e180]:
+                          - img [ref=e506]
+                          - link [ref=e507] [cursor=pointer]:
+                            - /url: https://l.instagram.com/?u=https%3A%2F%2Fwa.me%2Fmessage%2FJRYVYA4DDXJPF1%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnzKdG0ZyKbz-gdWwODZhcgpG48zZusBoIJ0wponwWBwB0ktNNFB-KwOA9Vyg_aem_IjFVQ5eYEWtClaUG69g-Bw&e=AT6c5uDag6L8m8I6_3jAkOESAzABWuRT9NZbKpZC8bEKubL5FtnNTNfuJlr1BshwKe-yGarrhRPDcYL2hs0eGxtUGFFG-ci6Ak-n1jaXANt7JkDEMcBuQ0se8w
+                            - generic [ref=e187]: wa.me/message/JRYVYA4DDXJPF1
+                  - generic [ref=e192]:
+                    - button [ref=e508] [cursor=pointer]:
+                      - generic [ref=e196]: Seguir
+                    - button [ref=e509] [cursor=pointer]: Enviar mensagem
+                    - button [ref=e510] [cursor=pointer]:
+                      - img [ref=e511]
+                  - menu [ref=e206]:
+                    - generic [ref=e208]:
+                      - list [ref=e210]:
+                        - listitem [ref=e211]
+                        - listitem [ref=e212]
+                        - listitem [ref=e213]:
+                          - link [ref=e512] [cursor=pointer]:
+                            - /url: /stories/highlights/17934766486561035/
+                            - button [ref=e513]:
+                              - button [ref=e514]:
+                                - img [ref=e515]
+                              - generic [ref=e224]: LOCAIS
+                        - listitem [ref=e225]:
+                          - link [ref=e516] [cursor=pointer]:
+                            - /url: /stories/highlights/18017409434350619/
+                            - button [ref=e517]:
+                              - button [ref=e518]:
+                                - img [ref=e519]
+                              - generic [ref=e236]: SOBRE MIM
+                        - listitem [ref=e237]:
+                          - link [ref=e520] [cursor=pointer]:
+                            - /url: /stories/highlights/17991800654732765/
+                            - button [ref=e521]:
+                              - button [ref=e522]:
+                                - img [ref=e523]
+                              - generic [ref=e248]: INFO
+                        - listitem [ref=e249]:
+                          - link [ref=e524] [cursor=pointer]:
+                            - /url: /stories/highlights/18340412848177574/
+                            - button [ref=e525]:
+                              - button [ref=e526]:
+                                - img [ref=e527]
+                              - generic [ref=e260]: INFILTRAÇÃO
+                        - listitem [ref=e261]:
+                          - link [ref=e528] [cursor=pointer]:
+                            - /url: /stories/highlights/17907048444060707/
+                            - button [ref=e529]:
+                              - button [ref=e530]:
+                                - img [ref=e531]
+                              - generic [ref=e272]: ORTOPEDIA
+                        - listitem [ref=e273]:
+                          - link [ref=e532] [cursor=pointer]:
+                            - /url: /stories/highlights/18047515826292351/
+                            - button [ref=e533]:
+                              - button [ref=e534]:
+                                - img [ref=e535]
+                              - generic [ref=e284]: TRAUMA
+                        - listitem [ref=e285]:
+                          - link [ref=e536] [cursor=pointer]:
+                            - /url: /stories/highlights/17885950591605038/
+                            - button [ref=e537]:
+                              - button [ref=e538]:
+                                - img [ref=e539]
+                              - generic [ref=e296]: HOSPITAL
+                      - button [ref=e540] [cursor=pointer]
+                - tablist [ref=e300]:
+                  - link [ref=e541] [cursor=pointer]:
+                    - /url: /dr.davidamaral/
+                    - img [ref=e542]
+                  - link [ref=e543] [cursor=pointer]:
+                    - /url: /dr.davidamaral/reels/
+                    - img [ref=e544]
+                  - link [ref=e545] [cursor=pointer]:
+                    - /url: /dr.davidamaral/tagged/
+                    - img [ref=e546]
+                - generic [ref=e329]:
+                  - generic [ref=e330]:
+                    - link [ref=e547] [cursor=pointer]:
+                      - /url: /dr.davidamaral/p/DJrGV_nxaam/
+                      - img [ref=e548]
+                    - link [ref=e549] [cursor=pointer]:
+                      - /url: /dr.davidamaral/p/DJgsYW0RCaa/
+                      - img [ref=e550]
+                    - link [ref=e551] [cursor=pointer]:
+                      - /url: /dr.davidamaral/p/DJZE2ghRbY8/
+                      - img [ref=e552]
+                      - generic:
+                        - generic:
+                          - img
+                  - generic [ref=e349]:
+                    - link [ref=e553] [cursor=pointer]:
+                      - /url: /dr.davidamaral/p/DJU5ErExfNw/
+                      - img [ref=e554]
+                    - link [ref=e555] [cursor=pointer]:
+                      - /url: /dr.davidamaral/p/DJHsalOxDK1/
+                      - img [ref=e556]
+                    - link [ref=e557] [cursor=pointer]:
+                      - /url: /dr.davidamaral/reel/DI1BwCvx6gj/
+                      - img [ref=e558]
+                      - generic:
+                        - generic:
+                          - img
+                  - generic [ref=e368]:
+                    - link [ref=e559] [cursor=pointer]:
+                      - /url: /dr.davidamaral/p/DIwybIHRNPd/
+                      - img [ref=e560]
+                      - generic:
+                        - generic:
+                          - img
+                    - link [ref=e561] [cursor=pointer]:
+                      - /url: /dr.davidamaral/reel/DIjAIX6xg76/
+                      - img [ref=e562]
+                      - generic:
+                        - generic:
+                          - img
+                    - link [ref=e563] [cursor=pointer]:
+                      - /url: /dr.davidamaral/reel/DIetfnKxPPH/
+                      - img [ref=e564]
+                      - generic:
+                        - generic:
+                          - img
+                  - generic [ref=e387]:
+                    - link [ref=e565] [cursor=pointer]:
+                      - /url: /dr.davidamaral/reel/DIQ-m4ixje0/
+                      - img [ref=e566]
+                      - generic:
+                        - generic:
+                          - img
+                    - link [ref=e567] [cursor=pointer]:
+                      - /url: /dr.davidamaral/reel/DIKHJd9x1ZL/
+                      - img [ref=e568]
+                      - generic:
+                        - generic:
+                          - img
+                    - link [ref=e569] [cursor=pointer]:
+                      - /url: /dr.davidamaral/p/DH-5jEaR3Aw/
+                      - img [ref=e570]
+            - contentinfo [ref=e406]:
+              - generic [ref=e407]:
+                - generic [ref=e409]:
+                  - link [ref=e571] [cursor=pointer]:
+                    - /url: https://about.meta.com/
+                    - generic [ref=e412]: Meta
+                  - link [ref=e572] [cursor=pointer]:
+                    - /url: https://about.instagram.com/
+                    - generic [ref=e415]: Sobre
+                  - link [ref=e573] [cursor=pointer]:
+                    - /url: https://about.instagram.com/blog/
+                    - generic [ref=e418]: Blog
+                  - link [ref=e574] [cursor=pointer]:
+                    - /url: https://about.instagram.com/about-us/careers
+                    - generic [ref=e421]: Carreiras
+                  - link [ref=e575] [cursor=pointer]:
+                    - /url: https://help.instagram.com/
+                    - generic [ref=e424]: Ajuda
+                  - link [ref=e576] [cursor=pointer]:
+                    - /url: https://developers.facebook.com/docs/instagram
+                    - generic [ref=e427]: API
+                  - link [ref=e577] [cursor=pointer]:
+                    - /url: /legal/privacy/
+                    - generic [ref=e430]: Privacidade
+                  - link [ref=e578] [cursor=pointer]:
+                    - /url: /legal/terms/
+                    - generic [ref=e433]: Termos
+                  - link [ref=e579] [cursor=pointer]:
+                    - /url: /explore/locations/
+                    - generic [ref=e436]: Localizações
+                  - link [ref=e580] [cursor=pointer]:
+                    - /url: /web/lite/
+                    - generic [ref=e439]: Instagram Lite
+                  - link [ref=e581] [cursor=pointer]:
+                    - /url: https://www.meta.ai/?utm_source=foa_web_footer
+                    - generic [ref=e442]: Meta AI
+                  - link [ref=e582] [cursor=pointer]:
+                    - /url: https://www.threads.com/
+                    - generic [ref=e445]: Threads
+                  - link [ref=e583] [cursor=pointer]:
+                    - /url: https://www.facebook.com/help/instagram/261704639352628
+                    - generic [ref=e448]: Upload de contatos e não usuários
+                  - link [ref=e584] [cursor=pointer]:
+                    - /url: /accounts/meta_verified/?entrypoint=web_footer
+                    - generic [ref=e451]: Meta Verified
+                - generic [ref=e452]:
+                  - generic [ref=e453] [cursor=pointer]:
+                    - generic [ref=e454]:
+                      - generic [ref=e455]: Português (Brasil)
+                      - img [ref=e585]
+                    - combobox [ref=e586]
+                  - generic [ref=e462]: © 2026 Instagram from Meta
+        - button "Mensagens" [ref=e465] [cursor=pointer]:
+          - generic "Mensagens" [ref=e466]:
+            - generic [ref=e467]:
+              - img "Mensagens" [ref=e470]
+              - generic [ref=e473]: Mensagens
+  - generic [ref=e589]:
+    - button "Fechar" [ref=e592] [cursor=pointer]:
+      - img "Fechar" [ref=e594]
+    - generic [ref=e598]:
+      - generic:
+        - dialog:
+          - generic:
+            - button "Avançar" [ref=e600] [cursor=pointer]:
+              - img "Avançar" [ref=e603]
+            - generic:
+              - generic:
+                - article:
+                  - generic:
+                    - button "Photo by David Amaral in Lagoa da Prata, Minas Gerais, Brazil." [ref=e607]:
+                      - img "Photo by David Amaral in Lagoa da Prata, Minas Gerais, Brazil." [ref=e611]
+                    - generic [ref=e613]:
+                      - generic [ref=e615]:
+                        - banner [ref=e616]:
+                          - button "Foto do perfil de dr.davidamaral" [disabled] [ref=e621]:
+                            - link "Foto do perfil de dr.davidamaral" [disabled] [ref=e623] [cursor=pointer]:
+                              - /url: /dr.davidamaral/
+                              - img "Foto do perfil de dr.davidamaral" [ref=e624]
+                          - generic [ref=e625]:
+                            - generic [ref=e626]:
+                              - link "dr.davidamaral" [ref=e635] [cursor=pointer]:
+                                - /url: /dr.davidamaral/
+                                - generic [ref=e637]: dr.davidamaral
+                              - generic [ref=e638]:
+                                - generic [ref=e641]: •
+                                - button "Seguir" [ref=e642] [cursor=pointer]:
+                                  - generic [ref=e644]: Seguir
+                            - link "Lagoa da Prata" [ref=e651] [cursor=pointer]:
+                              - /url: /explore/locations/248204184/lagoa-da-prata/
+                        - button "Mais opções" [ref=e654] [cursor=pointer]:
+                          - img "Mais opções" [ref=e657]
+                      - generic [ref=e661]:
+                        - generic [ref=e662]:
+                          - button "Curtir" [ref=e665] [cursor=pointer]:
+                            - img "Curtir" [ref=e668]
+                          - button "Comentar" [ref=e671] [cursor=pointer]:
+                            - img "Comentar" [ref=e673]
+                          - button "Compartilhar post" [ref=e676] [cursor=pointer]:
+                            - img "Compartilhar post" [ref=e678]
+                          - button "Salvar" [ref=e683] [cursor=pointer]:
+                            - button "Salvar" [ref=e684]:
+                              - img "Salvar" [ref=e686]
+                        - list [ref=e689]:
+                          - 'button "Foto do perfil de dr.davidamaral dr.davidamaral A dor que você sente hoje, por menor que pareça é o sinal mais claro de que algo precisa de atenção. ⚠️ Ignorar o desconforto, adiar o cuidado ou se acostumar com a limitação pode transformar algo simples em um problema muito maior. Seja no joelho, na coluna, no ombro ou nas articulações… seu corpo está tentando te dizer algo. E quanto antes você agir, melhor será sua recuperação. 🩺 📍 Agende sua consulta agora mesmo e comece uma nova fase: com mais mobilidade, menos dor e mais qualidade de vida! #orto #ortopedista #lagoadaprata #minas #minasgerais #mg 46 sem" [ref=e690]':
+                            - listitem [ref=e691]:
+                              - generic [ref=e693]:
+                                - button "Foto do perfil de dr.davidamaral" [disabled] [ref=e697]:
+                                  - link "Foto do perfil de dr.davidamaral" [disabled] [ref=e699] [cursor=pointer]:
+                                    - /url: /dr.davidamaral/
+                                    - img "Foto do perfil de dr.davidamaral" [ref=e700]
+                                - generic [ref=e701]:
+                                  - heading "dr.davidamaral" [active] [level=2] [ref=e702]:
+                                    - link "dr.davidamaral" [ref=e707] [cursor=pointer]:
+                                      - /url: /dr.davidamaral/
+                                  - 'heading "A dor que você sente hoje, por menor que pareça é o sinal mais claro de que algo precisa de atenção. ⚠️ Ignorar o desconforto, adiar o cuidado ou se acostumar com a limitação pode transformar algo simples em um problema muito maior. Seja no joelho, na coluna, no ombro ou nas articulações… seu corpo está tentando te dizer algo. E quanto antes você agir, melhor será sua recuperação. 🩺 📍 Agende sua consulta agora mesmo e comece uma nova fase: com mais mobilidade, menos dor e mais qualidade de vida! #orto #ortopedista #lagoadaprata #minas #minasgerais #mg" [level=1] [ref=e709]':
+                                    - text: A dor que você sente hoje, por menor que pareça é o sinal mais claro de que algo precisa de atenção. ⚠️
+                                    - text: Ignorar o desconforto, adiar o cuidado ou se acostumar com a limitação pode transformar algo simples em um problema muito maior.
+                                    - text: Seja no joelho, na coluna, no ombro ou nas articulações… seu corpo está tentando te dizer algo.
+                                    - text: E quanto antes você agir, melhor será sua recuperação. 🩺
+                                    - text: "📍 Agende sua consulta agora mesmo e comece uma nova fase: com mais mobilidade, menos dor e mais qualidade de vida!"
+                                    - link "#orto" [ref=e710] [cursor=pointer]:
+                                      - /url: /explore/tags/orto/
+                                    - link "#ortopedista" [ref=e711] [cursor=pointer]:
+                                      - /url: /explore/tags/ortopedista/
+                                    - link "#lagoadaprata" [ref=e712] [cursor=pointer]:
+                                      - /url: /explore/tags/lagoadaprata/
+                                    - link "#minas" [ref=e713] [cursor=pointer]:
+                                      - /url: /explore/tags/minas/
+                                    - link "#minasgerais" [ref=e714] [cursor=pointer]:
+                                      - /url: /explore/tags/minasgerais/
+                                    - link "#mg" [ref=e715] [cursor=pointer]:
+                                      - /url: /explore/tags/mg/
+                                  - time [ref=e718]: 46 sem
+                        - link "15 de maio de 2025" [ref=e722] [cursor=pointer]:
+                          - /url: /dr.davidamaral/p/DJrGV_nxaam/
+                          - time [ref=e724]: 15 de maio de 2025
+                        - generic [ref=e728]:
+                          - button "Emoji" [ref=e730] [cursor=pointer]:
+                            - img "Emoji" [ref=e732]
+                          - textbox "Adicione um comentário..." [ref=e734]
+                          - generic [ref=e735]:
+                            - button "Postar" [disabled]

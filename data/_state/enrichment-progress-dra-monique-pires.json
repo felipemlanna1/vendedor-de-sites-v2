@@ -1,0 +1,301 @@
+{
+  "current_phase": 7,
+  "lead_id": "dra-monique-pires",
+  "nome": "Monique Pires",
+  "cidade": "Divino",
+  "nicho": "dentista",
+  "strategy": "dental",
+  "source": "instagram",
+  "discovered_urls": {
+    "site_url": "",
+    "instagram_username": "dra.moniquepires",
+    "facebook_url": "",
+    "google_maps_url": "",
+    "platform_urls": {}
+  },
+  "data_points": [
+    {
+      "category": "presence",
+      "label": "Instagram confirmado",
+      "value": "@dra.moniquepires",
+      "detail": {
+        "followers": 1925,
+        "posts": 258,
+        "bio": "Dentista em Divino - MG, CRO MG 40012, WhatsApp na bio"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (instagram.com)",
+      "fetched_at": "2026-04-07T21:17:48.231584"
+    },
+    {
+      "category": "presence",
+      "label": "Sem site oficial",
+      "value": "Nenhum site encontrado",
+      "detail": {
+        "buscas": 8,
+        "resultado": "nenhum dominio proprio"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:17:48.231584"
+    },
+    {
+      "category": "presence",
+      "label": "Sem Facebook pessoal",
+      "value": "Nao encontrado",
+      "detail": {
+        "nota": "Facebook pessoal nao localizado, apenas clinicas da regiao"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:17:48.231584"
+    },
+    {
+      "category": "presence",
+      "label": "Localizacao",
+      "value": "Rua Presidente Vargas, Centro, Divino MG",
+      "detail": {
+        "cidade": "Divino",
+        "estado": "MG",
+        "populacao_aprox": 20000
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (google maps/instagram location)",
+      "fetched_at": "2026-04-07T21:17:48.231584"
+    },
+    {
+      "category": "presence",
+      "label": "CRO confirmado",
+      "value": "CRO MG 40012",
+      "detail": {
+        "conselho": "CRO-MG",
+        "numero": "40012"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:17:48.231584"
+    },
+    {
+      "category": "presence",
+      "label": "Concorrentes Divino",
+      "value": "Clinica Odontomedica, Odontologia Especializada, Dra Mariana, Dra Thayane Poubel",
+      "detail": {
+        "clinica_odontomedica": "facebook.com/clinicaodontomedicabr",
+        "odonto_especializada": "facebook.com/odontologiaespecializadaDivino",
+        "dra_mariana": "facebook.com/people/Dra-Mariana-Dentista/100077687503134",
+        "dra_thayane": "facebook.com/drathp"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:17:48.231584"
+    },
+    {
+      "category": "reviews",
+      "label": "Avaliacoes online",
+      "value": "Nao encontrado",
+      "detail": {
+        "nota": "Sem avaliacoes publicas em Doctoralia, Google ou Yelp"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:17:48.231584"
+    },
+    {
+      "category": "history",
+      "label": "Historia do negocio",
+      "value": "Nao encontrado",
+      "detail": {
+        "nota": "Sem informacoes publicas sobre fundacao ou historia"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:17:48.231584"
+    },
+    {
+      "category": "identity",
+      "label": "CNPJ",
+      "value": "Nao encontrado",
+      "detail": {
+        "nota": "Buscas em casadosdados, cnpj.biz, BrasilAPI e WebSearch nao retornaram CNPJ para Monique Pires dentista em Divino MG. Provavel atendimento como pessoa fisica ou vinculo a clinica de terceiros."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch + BrasilAPI",
+      "fetched_at": "2026-04-07T21:19:43.052724"
+    },
+    {
+      "category": "professional_registry",
+      "label": "CRO-MG",
+      "value": "CRO MG 40012",
+      "detail": {
+        "conselho": "CRO-MG",
+        "numero": "40012",
+        "profissao": "Cirurgia-Dentista",
+        "situacao": "Ativa (confirmado via Instagram bio)",
+        "consulta_online": "https://cro-mg.implanta.net.br/servicosonline/Publico/ConsultaInscritos"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch + Instagram bio",
+      "fetched_at": "2026-04-07T21:19:43.052724"
+    },
+    {
+      "category": "website",
+      "label": "Website",
+      "value": "Nao possui site",
+      "detail": {
+        "status": "sem_site"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-07T21:20:04.012398"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Doctoralia",
+      "value": "Nao encontrado",
+      "detail": {
+        "plataforma": "doctoralia.com.br",
+        "status": "sem_perfil"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:20:57.154094"
+    },
+    {
+      "category": "sales_channels",
+      "label": "BoaConsulta",
+      "value": "Nao encontrado",
+      "detail": {
+        "plataforma": "boaconsulta.com",
+        "status": "sem_perfil"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:20:57.154094"
+    },
+    {
+      "category": "sales_channels",
+      "label": "ReclameAqui",
+      "value": "Nao encontrado",
+      "detail": {
+        "plataforma": "reclameaqui.com.br",
+        "status": "sem_perfil"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:20:57.154094"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Presenca digital geral",
+      "value": "Apenas Instagram",
+      "detail": {
+        "canais_ativos": [
+          "Instagram @dra.moniquepires"
+        ],
+        "canais_ausentes": [
+          "site",
+          "Doctoralia",
+          "BoaConsulta",
+          "Facebook",
+          "ReclameAqui"
+        ],
+        "oportunidade": "Lead com presenca digital minima - alto potencial de venda"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-07T21:20:57.154094"
+    },
+    {
+      "category": "images",
+      "label": "Perfil Instagram (referencia)",
+      "value": "https://www.instagram.com/dra.moniquepires/",
+      "detail": {
+        "urls": [
+          "https://www.instagram.com/dra.moniquepires/"
+        ],
+        "tipo": "profile_pic",
+        "fonte": "WebSearch (Instagram profile link)",
+        "nota": "Playwright MCP indisponivel - URL de referencia para captura futura. Perfil confirmado com 1925 seguidores, 258 posts."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:22:23.175764"
+    },
+    {
+      "category": "images",
+      "label": "Bio Instagram",
+      "value": "Sorrir muda tudo, e eu mudo o seu sorriso",
+      "detail": {
+        "tipo": "bio_text",
+        "fonte": "WebSearch snippet",
+        "cro": "CRO MG 40012",
+        "seguidores": 1925,
+        "posts": 258
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:22:23.175764"
+    },
+    {
+      "category": "brand",
+      "label": "Padroes da marca",
+      "value": "Dentista autonoma com comunicacao acolhedora e profissional",
+      "detail": {
+        "cores": [
+          "nao identificado - sem site/logo capturado"
+        ],
+        "tom": "acolhedor, profissional, feminino",
+        "publico_alvo": "Moradores de Divino e regiao, familias, adultos buscando tratamento dentario",
+        "estilo_visual": "Presenca apenas via Instagram, sem identidade visual digital estabelecida",
+        "slogan": "Sorrir muda tudo, e eu mudo o seu sorriso"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-07T21:23:22.042981"
+    },
+    {
+      "category": "competitors",
+      "label": "Concorrentes com site",
+      "value": "2 encontrados",
+      "detail": [
+        "Clinica Odontomedica (Dr. Adecan) - clinicaodontomedica.com.br/manhuacu/",
+        "OralDents Divino - odontologia.net.br/sobre/oraldents-divino-divino-mg-22574494"
+      ],
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:23:22.042981"
+    }
+  ],
+  "phases": {
+    "phase_1": {
+      "status": "complete"
+    },
+    "phase_2": {
+      "status": "complete",
+      "result": "0 URLs de site, 1 Instagram confirmado, 8 data_points"
+    },
+    "phase_3": {
+      "status": "complete",
+      "result": "CNPJ nao encontrado, CRO MG 40012 confirmado"
+    },
+    "phase_4": {
+      "status": "complete",
+      "result": "Sem site - registrado ausencia"
+    },
+    "phase_5": {
+      "status": "complete",
+      "result": "Nenhum canal de venda encontrado. Apenas Instagram ativo."
+    },
+    "phase_6": {
+      "status": "complete",
+      "result": "Playwright MCP indisponivel (browser closed). 2 data_points de referencia salvos via WebSearch. Imagens reais dependem de sessao Playwright futura.",
+      "playwright_unavailable": true
+    },
+    "phase_7": {
+      "status": "complete",
+      "result": "Briefing salvo no vendedor.db"
+    }
+  },
+  "started_at": "2026-04-07T21:16:17.507207",
+  "completed_at": "2026-04-07T21:23:22.042981"
+}

@@ -1,0 +1,150 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "specialty": "Especialidade",
+    "treatments": "Tratamentos",
+    "numbers": "Resultados",
+    "faq": "Dúvidas",
+    "contact": "Contato",
+    "cta": "Agende sua consulta"
+  },
+  "hero": {
+    "title": "Trato sua dor e devolvo saúde",
+    "subtitle": "+1000 pacientes sem dor em Santa Rita do Sapucaí",
+    "cta": "Agende sua consulta",
+    "cta_secondary": "Conheça meu trabalho"
+  },
+  "about": {
+    "label": "Sobre a Dra. Patrícia",
+    "title": "Dedicação que transforma medo em confiança",
+    "description": "Sou a Dra. Patrícia Ribeiro, endodontista especializada em tratamento de canal sem dor. Escolhi a endodontia porque acredito que ninguém deveria sofrer com dor de dente. Em Santa Rita do Sapucaí, sou a única especialista focada exclusivamente em salvar dentes — e já ajudei mais de 1000 pacientes a sorrir sem medo.",
+    "credentials": "CRO 56979/MG",
+    "credential_label": "Registro Profissional",
+    "location": "Santa Rita do Sapucaí, MG",
+    "location_label": "Atendimento"
+  },
+  "specialty": {
+    "label": "Especialidade",
+    "title": "O que é endodontia?",
+    "description": "Endodontia é a especialidade que trata o interior do dente — a polpa e as raízes. Quando você sente aquela dor forte, pulsante, geralmente é porque a raiz do dente precisa de cuidado. O tratamento de canal moderno é indolor, rápido e salva o dente natural.",
+    "steps": {
+      "diagnosis": {
+        "title": "Diagnóstico preciso",
+        "description": "Exames detalhados para identificar exatamente a origem da dor e planejar o melhor tratamento."
+      },
+      "treatment": {
+        "title": "Tratamento sem dor",
+        "description": "Com técnicas modernas e anestesia eficiente, o procedimento é confortável do início ao fim."
+      },
+      "recovery": {
+        "title": "Recuperação rápida",
+        "description": "Na maioria dos casos, você volta à rotina normal no dia seguinte, sem dor e com o dente preservado."
+      }
+    }
+  },
+  "treatments": {
+    "label": "Tratamentos",
+    "title": "Como posso ajudar você",
+    "cta_intermediate": "Tem dúvida sobre seu caso? Fale comigo",
+    "items": {
+      "canal": {
+        "name": "Tratamento de canal",
+        "description": "Remoção da polpa inflamada ou infectada, limpeza e selamento dos canais radiculares. Procedimento indolor com técnicas atualizadas."
+      },
+      "retratamento": {
+        "name": "Retratamento endodôntico",
+        "description": "Quando um canal anterior não cicatrizou adequadamente, o retratamento resolve a infecção persistente e salva o dente."
+      },
+      "cirurgia": {
+        "name": "Cirurgia endodôntica",
+        "description": "Apicectomia e outros procedimentos cirúrgicos para tratar lesões na ponta da raiz quando o tratamento convencional não é suficiente."
+      },
+      "urgencia": {
+        "name": "Urgências dentárias",
+        "description": "Atendimento prioritário para dor aguda, abscessos e traumas dentários. Alívio imediato quando você mais precisa."
+      },
+      "restauracao": {
+        "name": "Restauração pós-canal",
+        "description": "Reconstrução do dente após o tratamento de canal, devolvendo função e estética ao seu sorriso."
+      }
+    }
+  },
+  "numbers": {
+    "label": "Resultados",
+    "title": "A prova está nos números",
+    "patients": {
+      "value": "1000",
+      "label": "Pacientes atendidos sem dor"
+    },
+    "experience": {
+      "value": "10",
+      "label": "Anos de dedicação à endodontia"
+    },
+    "cro": {
+      "value": "56979",
+      "label": "CRO/MG — Registro ativo"
+    },
+    "city": {
+      "value": "1",
+      "label": "Única endodontista exclusiva da cidade"
+    },
+    "impact_phrase": "Cada número representa uma pessoa que chegou com medo e saiu sorrindo."
+  },
+  "faq": {
+    "label": "Dúvidas frequentes",
+    "title": "Suas dúvidas, respondidas",
+    "items": {
+      "q1": {
+        "question": "Tratamento de canal dói?",
+        "answer": "Não. Com as técnicas modernas e anestesia adequada, o tratamento de canal é indolor. A maioria dos pacientes relata que é mais confortável do que imaginavam. A dor que você sente ANTES do tratamento é justamente o que vamos resolver."
+      },
+      "q2": {
+        "question": "Quanto tempo dura o tratamento?",
+        "answer": "A maioria dos tratamentos de canal é concluída em uma única sessão de 40 a 90 minutos. Casos mais complexos podem precisar de duas sessões. Você volta à rotina normal no dia seguinte."
+      },
+      "q3": {
+        "question": "Quando sei que preciso de um canal?",
+        "answer": "Os sinais mais comuns são: dor pulsante ou constante, sensibilidade prolongada ao quente ou frio, dor ao mastigar, inchaço na gengiva e escurecimento do dente. Se sentir qualquer um desses sintomas, procure atendimento."
+      },
+      "q4": {
+        "question": "É melhor fazer canal ou arrancar o dente?",
+        "answer": "Sempre que possível, salvar o dente natural é a melhor opção. Um dente tratado com canal pode durar a vida toda com os cuidados adequados. Implantes e próteses são boas alternativas, mas nada substitui seu dente natural."
+      },
+      "q5": {
+        "question": "A Dra. Patrícia atende urgências?",
+        "answer": "Sim. Entendo que dor de dente não espera. Entre em contato pelo WhatsApp e faremos o possível para atender você o mais rápido possível, priorizando casos de dor aguda e infecções."
+      },
+      "q6": {
+        "question": "Onde fica o consultório?",
+        "answer": "Atendo em Santa Rita do Sapucaí, MG. Para o endereço exato e agendamento, entre em contato pelo WhatsApp. Terei prazer em orientar você."
+      }
+    }
+  },
+  "contact": {
+    "label": "Contato",
+    "title": "Estou pronta pra te atender",
+    "description": "Agende sua consulta pelo WhatsApp. Atendimento humanizado e sem pressa — cada paciente recebe atenção individual.",
+    "whatsapp_cta": "Fale pelo WhatsApp",
+    "location": "Santa Rita do Sapucaí, MG",
+    "location_label": "Localização",
+    "cro": "CRO 56979/MG",
+    "cro_label": "Registro profissional",
+    "instagram": "@dra.patricia.ribeiro",
+    "instagram_label": "Instagram"
+  },
+  "footer": {
+    "copyright": "2026 Dra. Patrícia Ribeiro. Todos os direitos reservados.",
+    "cro": "CRO 56979/MG — Endodontista",
+    "instagram": "Instagram",
+    "privacy": "Responsável técnica: Dra. Patrícia Ribeiro — CRO-MG 56979"
+  },
+  "lang": {
+    "pt": "Português",
+    "en": "English"
+  },
+  "whatsapp_float": {
+    "label": "Agende pelo WhatsApp",
+    "aria": "Abrir WhatsApp para agendar consulta"
+  }
+}

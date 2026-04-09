@@ -1,0 +1,313 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e88] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e93]
+        - link "Foto do perfil de _pipelinestudio" [ref=e99] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e104]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e105]
+      - generic [ref=e106]:
+        - link "Configurações" [ref=e109] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e114]
+        - link "Também da Meta" [ref=e117] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e122]
+    - generic [ref=e125]:
+      - main [ref=e126]:
+        - generic [ref=e127]:
+          - generic [ref=e129]:
+            - button [ref=e134]:
+              - generic [ref=e141]:
+                - list [ref=e143]:
+                  - listitem [ref=e144]
+                  - listitem [ref=e145]:
+                    - img [ref=e152]
+                  - listitem [ref=e154]:
+                    - img [ref=e161]
+                - button [ref=e163] [cursor=pointer]
+            - generic [ref=e166]:
+              - generic [ref=e168]:
+                - button "Foto do perfil de drajuliamaximo" [ref=e173] [cursor=pointer]:
+                  - link "Foto do perfil de drajuliamaximo" [ref=e175]:
+                    - img "Foto do perfil de drajuliamaximo" [ref=e176]
+                - generic [ref=e179]:
+                  - link "drajuliamaximo" [ref=e188] [cursor=pointer]:
+                    - /url: /drajuliamaximo/
+                    - generic [ref=e191]: drajuliamaximo
+                  - button "Seguir" [ref=e193] [cursor=pointer]
+                - button "Mais opções" [ref=e196] [cursor=pointer]:
+                  - img "Mais opções" [ref=e199]
+              - separator [ref=e203]
+              - generic [ref=e205]:
+                - generic [ref=e207]:
+                  - link "Foto do perfil de drajuliamaximo" [ref=e212] [cursor=pointer]:
+                    - /url: /drajuliamaximo/
+                    - img "Foto do perfil de drajuliamaximo" [ref=e213]
+                  - generic [ref=e217]:
+                    - generic [ref=e218]:
+                      - link "drajuliamaximo" [ref=e222] [cursor=pointer]:
+                        - /url: /drajuliamaximo/
+                        - generic [ref=e225]: drajuliamaximo
+                      - time [ref=e227]: 3 sem
+                    - generic [ref=e228]:
+                      - text: Muitas pessoas chegam até mim pedindo um procedimento específico.
+                      - text: Mas a verdade é que o tratamento não começa no procedimento.
+                      - text: Ele começa na escuta.
+                      - text: Durante a consulta personalizada, eu avalio muito mais do que apenas a estética.
+                      - text: "Analiso com atenção:"
+                      - text: • Sua estrutura facial e dinâmica muscular
+                      - text: • Seu histórico e experiências anteriores
+                      - text: • Seus desejos — e, principalmente, suas reais necessidades
+                      - text: É nesse momento que definimos o que é prioridade e o que pode esperar. Porque técnica sem critério não gera naturalidade.
+                      - text: Meu compromisso é com a sua segurança, com equilíbrio e com um planejamento que faça sentido para você.
+                      - text: Resultados verdadeiramente naturais não são fruto do acaso. Eles nascem de um planejamento sério e criterioso.
+                      - text: Se você valoriza naturalidade e planejamento, agende sua consulta de avaliação.
+                      - link "#litoralnortesp" [ref=e229] [cursor=pointer]:
+                        - /url: /explore/tags/litoralnortesp/
+                      - link "#caraguatatuba" [ref=e230] [cursor=pointer]:
+                        - /url: /explore/tags/caraguatatuba/
+                      - link "#estéticaesaúde" [ref=e231] [cursor=pointer]:
+                        - /url: /explore/tags/est%C3%A9ticaesa%C3%BAde/
+                      - link "#harmonizaçãofacial" [ref=e232] [cursor=pointer]:
+                        - /url: /explore/tags/harmoniza%C3%A7%C3%A3ofacial/
+                      - link "#dentista" [ref=e233] [cursor=pointer]:
+                        - /url: /explore/tags/dentista/
+                - generic [ref=e234]:
+                  - generic [ref=e237]:
+                    - link "Foto do perfil de silvialopes681" [ref=e243] [cursor=pointer]:
+                      - /url: /silvialopes681/
+                      - img "Foto do perfil de silvialopes681" [ref=e244]
+                    - generic [ref=e245]:
+                      - generic [ref=e246]:
+                        - generic [ref=e248]:
+                          - generic [ref=e249]:
+                            - link "silvialopes681" [ref=e254] [cursor=pointer]:
+                              - /url: /silvialopes681/
+                              - generic [ref=e257]: silvialopes681
+                            - link "3 sem" [ref=e259] [cursor=pointer]:
+                              - /url: /p/DV1GByZDZgY/c/18242859937307058/
+                              - time [ref=e260]: 3 sem
+                          - generic [ref=e262]: 👏🙌maravilhosa 👏😍❤️
+                        - button "Responder" [ref=e264] [cursor=pointer]:
+                          - generic [ref=e266]: Responder
+                      - button "Curtir" [ref=e271] [cursor=pointer]:
+                        - img "Curtir" [ref=e274]
+                  - generic [ref=e278]:
+                    - link "Foto do perfil de draligiadayrell" [ref=e284] [cursor=pointer]:
+                      - /url: /draligiadayrell/
+                      - img "Foto do perfil de draligiadayrell" [ref=e285]
+                    - generic [ref=e286]:
+                      - generic [ref=e287]:
+                        - generic [ref=e289]:
+                          - generic [ref=e290]:
+                            - link "draligiadayrell" [ref=e295] [cursor=pointer]:
+                              - /url: /draligiadayrell/
+                              - generic [ref=e298]: draligiadayrell
+                            - link "3 sem" [ref=e300] [cursor=pointer]:
+                              - /url: /p/DV1GByZDZgY/c/18069077123649672/
+                              - time [ref=e301]: 3 sem
+                          - generic [ref=e303]: Amoooo 😍
+                        - button "Responder" [ref=e305] [cursor=pointer]:
+                          - generic [ref=e307]: Responder
+                      - button "Curtir" [ref=e312] [cursor=pointer]:
+                        - img "Curtir" [ref=e315]
+              - generic [ref=e317]:
+                - generic [ref=e318]:
+                  - generic [ref=e319]:
+                    - button "Curtir" [ref=e322] [cursor=pointer]:
+                      - img "Curtir" [ref=e325]
+                    - button "Comentar" [ref=e328] [cursor=pointer]:
+                      - img "Comentar" [ref=e330]
+                    - button "2" [ref=e332] [cursor=pointer]
+                    - button "Compartilhar" [ref=e333] [cursor=pointer]:
+                      - img "Compartilhar" [ref=e334]
+                  - button "Salvar" [ref=e339] [cursor=pointer]:
+                    - button "Salvar" [ref=e340]:
+                      - img "Salvar" [ref=e342]
+                - link "13 de março" [ref=e346] [cursor=pointer]:
+                  - /url: /drajuliamaximo/p/DV1GByZDZgY/
+                  - time [ref=e348]: 13 de março
+              - generic [ref=e351]:
+                - link [ref=e352]
+                - generic [ref=e354]:
+                  - button "Emoji" [ref=e356] [cursor=pointer]:
+                    - img "Emoji" [ref=e358]
+                  - textbox "Adicione um comentário..." [ref=e360]
+          - separator [ref=e362]
+          - generic [ref=e363]:
+            - generic [ref=e365]:
+              - text: Mais posts de
+              - link "drajuliamaximo" [ref=e366] [cursor=pointer]:
+                - /url: /drajuliamaximo/
+            - generic [ref=e369]:
+              - generic [ref=e370]:
+                - 'link "A toxina botulínica não é só sobre rugas. Na verdade, ela nunca foi apenas sobre rugas. Ela é sobre controle muscular. Sobre equilibrar forças. Sobre suavizar movimentos que marcam a pele sem tirar sua expressão. Quando bem indicada, a toxina não muda seu rosto. Ela muda a forma como seus músculos se comportam, e isso muda tudo. Agende sua avaliação e entenda o que a toxina pode fazer pelo seu rosto — além das rugas. 📍 Caraguatatuba-SP #botox #caraguatatuba #naturalidade #harmonizaçãofacial #toxinabotulínica Carrossel" [ref=e372] [cursor=pointer]':
+                  - /url: /drajuliamaximo/p/DWhal1elGiw/
+                  - 'img "A toxina botulínica não é só sobre rugas. Na verdade, ela nunca foi apenas sobre rugas. Ela é sobre controle muscular. Sobre equilibrar forças. Sobre suavizar movimentos que marcam a pele sem tirar sua expressão. Quando bem indicada, a toxina não muda seu rosto. Ela muda a forma como seus músculos se comportam, e isso muda tudo. Agende sua avaliação e entenda o que a toxina pode fazer pelo seu rosto — além das rugas. 📍 Caraguatatuba-SP #botox #caraguatatuba #naturalidade #harmonizaçãofacial #toxinabotulínica" [ref=e375]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - link "“Eu nem discuti… porque quem vai ficar com as rugas depois é ele, não sou eu” 💉🤭 Clipe" [ref=e378] [cursor=pointer]:
+                  - /url: /drajuliamaximo/reel/DWUO_VzDmGA/
+                  - img "“Eu nem discuti… porque quem vai ficar com as rugas depois é ele, não sou eu” 💉🤭" [ref=e381]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - link "Photo by Dra. Júlia Máximo | Odontologia & Harmonização Orofacial on March 16, 2026. May be an image of one or more people, lipstick, eyeliner and text that says 'DRA DRAJÚLIA JÚLIAN MÁXIMO DRAJULIAMÁXIMO 0 CIRURGIA CIRURGIADENTISTA DENTISTA VOLUME NATURAL É POSSIVEL? Sim, é possível realçar seus lábios Gim, εB. mantendo leveza e naturalidade. O preenchimento labial com ácido hialurônico escolha perfeita para quem deseja lábios mais volumosos e definidos sem abrir mão da naturalidade.'." [ref=e384] [cursor=pointer]:
+                  - /url: /drajuliamaximo/p/DV8zcSQDemJ/
+                  - img "Photo by Dra. Júlia Máximo | Odontologia & Harmonização Orofacial on March 16, 2026. May be an image of one or more people, lipstick, eyeliner and text that says 'DRA DRAJÚLIA JÚLIAN MÁXIMO DRAJULIAMÁXIMO 0 CIRURGIA CIRURGIADENTISTA DENTISTA VOLUME NATURAL É POSSIVEL? Sim, é possível realçar seus lábios Gim, εB. mantendo leveza e naturalidade. O preenchimento labial com ácido hialurônico escolha perfeita para quem deseja lábios mais volumosos e definidos sem abrir mão da naturalidade.'." [ref=e387]
+              - generic [ref=e389]:
+                - 'link "Muitas vezes a queixa começa assim: “Dra, meu lábio está fino, sem contorno e parece mais murcho… tem como melhorar?” E sim, tem. Mas o objetivo nunca é apenas aumentar. É restaurar estrutura, devolver contorno e trazer hidratação, respeitando a anatomia e a identidade da paciente. Neste caso, o preenchimento labial foi realizado com delicadeza e estratégia, promovendo rejuvenescimento e devolvendo harmonia ao sorriso, sem exageros, apenas valorizando o que já era bonito. Porque lábios bem tratados não chamam atenção pelo volume… chamam atenção pela naturalidade. Se você também sente que seus lábios perderam contorno ou viço com o tempo, uma avaliação personalizada pode indicar o melhor caminho para restaurar essa harmonia com naturalidade. 📍 Caraguatatuba-SP 📲 Agende sua avaliação #caraguatatuba #preenchimentolábial #naturalidade #esteticafacial #harmonizaçãofacial Carrossel" [ref=e391] [cursor=pointer]':
+                  - /url: /drajuliamaximo/p/DV3S6wkjb57/
+                  - 'img "Muitas vezes a queixa começa assim: “Dra, meu lábio está fino, sem contorno e parece mais murcho… tem como melhorar?” E sim, tem. Mas o objetivo nunca é apenas aumentar. É restaurar estrutura, devolver contorno e trazer hidratação, respeitando a anatomia e a identidade da paciente. Neste caso, o preenchimento labial foi realizado com delicadeza e estratégia, promovendo rejuvenescimento e devolvendo harmonia ao sorriso, sem exageros, apenas valorizando o que já era bonito. Porque lábios bem tratados não chamam atenção pelo volume… chamam atenção pela naturalidade. Se você também sente que seus lábios perderam contorno ou viço com o tempo, uma avaliação personalizada pode indicar o melhor caminho para restaurar essa harmonia com naturalidade. 📍 Caraguatatuba-SP 📲 Agende sua avaliação #caraguatatuba #preenchimentolábial #naturalidade #esteticafacial #harmonizaçãofacial" [ref=e394]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - 'link "Ele conviveu com isso por mais de 60 anos. Não era sobre idade. Era sobre algo que sempre incomodou… mas que foi sendo adiado. A otomodelação é um procedimento minimamente invasivo, realizado em consultório, com resultado imediato e recuperação rápida. Harmonia não tem idade. Autoestima também não. Se algo te incomoda há anos, talvez esteja na hora de resolver — com planejamento e segurança. 📲 Agende sua consulta. #otomodelaçãodefinitiva #orelhadeabano #autoestima #harmonia #naturalidade Clipe" [ref=e397] [cursor=pointer]':
+                  - /url: /drajuliamaximo/reel/DVRyH0ojpg8/
+                  - 'img "Ele conviveu com isso por mais de 60 anos. Não era sobre idade. Era sobre algo que sempre incomodou… mas que foi sendo adiado. A otomodelação é um procedimento minimamente invasivo, realizado em consultório, com resultado imediato e recuperação rápida. Harmonia não tem idade. Autoestima também não. Se algo te incomoda há anos, talvez esteja na hora de resolver — com planejamento e segurança. 📲 Agende sua consulta. #otomodelaçãodefinitiva #orelhadeabano #autoestima #harmonia #naturalidade" [ref=e400]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - 'link "Só quem já fez entende. Naturalidade não é acaso. É planejamento. Botox não é exagero. É estratégia. 📲Agende sua avaliação 📍Caraguatatuba-SP #litoralnortesp #botox #planejamento #esteticafacial #naturalidade Carrossel" [ref=e403] [cursor=pointer]':
+                  - /url: /drajuliamaximo/p/DU6KtJkjsIF/
+                  - 'img "Só quem já fez entende. Naturalidade não é acaso. É planejamento. Botox não é exagero. É estratégia. 📲Agende sua avaliação 📍Caraguatatuba-SP #litoralnortesp #botox #planejamento #esteticafacial #naturalidade" [ref=e406]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+      - contentinfo [ref=e408]:
+        - generic [ref=e409]:
+          - generic [ref=e411]:
+            - link "Meta" [ref=e413] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e414]: Meta
+            - link "Sobre" [ref=e416] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e417]: Sobre
+            - link "Blog" [ref=e419] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e420]: Blog
+            - link "Carreiras" [ref=e422] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e423]: Carreiras
+            - link "Ajuda" [ref=e425] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e426]: Ajuda
+            - link "API" [ref=e428] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e429]: API
+            - link "Privacidade" [ref=e431] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e432]: Privacidade
+            - link "Termos" [ref=e434] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e435]: Termos
+            - link "Localizações" [ref=e437] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e438]: Localizações
+            - link "Instagram Lite" [ref=e440] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e441]: Instagram Lite
+            - link "Meta AI" [ref=e443] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e444]: Meta AI
+            - link "Threads" [ref=e446] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e447]: Threads
+            - link "Upload de contatos e não usuários" [ref=e449] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e450]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e452] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e453]: Meta Verified
+          - generic [ref=e454]:
+            - generic [ref=e455] [cursor=pointer]:
+              - generic [ref=e456]:
+                - generic [ref=e457]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e460]
+              - combobox "Trocar idioma de exibição" [ref=e462]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e464]: © 2026 Instagram from Meta
+  - button "Mensagens Mensagens" [ref=e466] [cursor=pointer]:
+    - generic [ref=e468]:
+      - img "Mensagens" [ref=e470]
+      - generic [ref=e473]: Mensagens

@@ -1,0 +1,521 @@
+{
+  "current_phase": 7,
+  "lead_id": "dra-giovanna-lima",
+  "nome": "Giovanna Lima",
+  "cidade": "Ouro Fino",
+  "nicho": "dentista",
+  "strategy": "dental",
+  "source": "instagram",
+  "discovered_urls": {
+    "site_url": "",
+    "instagram_username": "dra_giovannalima",
+    "facebook_url": "",
+    "google_maps_url": "",
+    "platform_urls": {},
+    "linkedin_url": "https://www.linkedin.com/in/giovanna-lima-312165259/"
+  },
+  "data_points": [
+    {
+      "category": "presence",
+      "label": "Instagram confirmado",
+      "value": "@dra_giovannalima",
+      "detail": {
+        "followers": 11500,
+        "posts": 146,
+        "bio": "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas",
+        "platform": "instagram",
+        "linked_account": "limaclinicadeespecialidades"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:56:04.971817+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "LinkedIn",
+      "value": "https://www.linkedin.com/in/giovanna-lima-312165259/",
+      "detail": {
+        "cargo": "Cirurgiao-dentista",
+        "empresa": "Dra.Giovana lima"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:56:04.971817+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Site oficial",
+      "value": "Nao encontrado",
+      "detail": {
+        "nota": "Nenhum site proprio identificado em buscas. Presenca digital concentrada no Instagram."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:56:04.971817+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Google Maps/Business",
+      "value": "Nao confirmado",
+      "detail": {
+        "nota": "Sem perfil Google Maps encontrado nas buscas. Pode existir mas nao apareceu nos resultados."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:56:04.971817+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Facebook",
+      "value": "Nao encontrado",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:56:04.971817+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Doctoralia",
+      "value": "Nao cadastrada",
+      "detail": {
+        "nota": "Buscas na Doctoralia Ouro Fino e Centro nao retornaram perfil de Giovanna Lima. Dentistas listados: Raquel Cyrillo, Julia Coutinho, Geraldo Destefani, Adilson Tamura."
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch (Doctoralia)",
+      "fetched_at": "2026-04-08T00:56:04.971817+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Nome da clinica",
+      "value": "Lima Clinica de Especialidades",
+      "detail": {
+        "nota": "Referenciado no Instagram como limaclinicadeespecialidades. Sem site proprio."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:56:04.971817+00:00"
+    },
+    {
+      "category": "history",
+      "label": "Formacao academica",
+      "value": "INAPOS (2015-2019) + ABO Pouso Alegre (2021-2023)",
+      "detail": {
+        "graduacao": "Odontologia - INAPOS Instituto Nacional de Ensino Superior e Pos-Graduacao Padre Gervasio (2015-2019)",
+        "especializacao_implanto": "Implantodontia - ABO Regional de Pouso Alegre (2021-2023)",
+        "curso_protese": "Protese Dentaria - ABO (2021)",
+        "curso_harmonizacao": "Harmonizacao Facial - Instituto Ortopress (2020)",
+        "especializacao_cirurgia": "Cirurgia Bucomaxilofacial (maior e menor)"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (LinkedIn)",
+      "fetched_at": "2026-04-08T00:56:04.971817+00:00"
+    },
+    {
+      "category": "history",
+      "label": "Especialidades",
+      "value": "Implante, Facetas, Harmonizacao Facial, Cirurgia BMF, Protese",
+      "detail": {
+        "servicos": [
+          "Implantodontia",
+          "Facetas/Lentes de contato dental",
+          "Harmonizacao facial",
+          "Cirurgia bucomaxilofacial (maior e menor)",
+          "Protese dentaria",
+          "Estetica dental"
+        ]
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:56:04.971817+00:00"
+    },
+    {
+      "category": "reviews",
+      "label": "Avaliacoes publicas",
+      "value": "Nao encontrado",
+      "detail": {
+        "nota": "Sem avaliacoes encontradas em Google, Doctoralia ou plataformas de review. Oportunidade para construir reputacao online."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:56:04.971817+00:00"
+    },
+    {
+      "category": "history",
+      "label": "Contexto da cidade",
+      "value": "Ouro Fino/MG - ~34k habitantes",
+      "detail": {
+        "populacao": "~34.000",
+        "concorrentes_doctoralia": 4,
+        "concorrentes_nomes": "Raquel Cyrillo, Julia Coutinho, Geraldo Destefani, Adilson Tamura",
+        "nota": "Cidade pequena no sul de MG. Poucos dentistas listados online. Mercado local com baixa competicao digital."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:56:04.971817+00:00"
+    },
+    {
+      "category": "identity",
+      "label": "CNPJ",
+      "value": "Nao encontrado",
+      "detail": {
+        "nota": "Buscas em Casa dos Dados, CNPJ.biz e Google nao retornaram CNPJ associado a Giovanna Lima em Ouro Fino/MG. Barsi & Lima Odontologia (34.088.386/0001-57) existe em Ouro Fino mas socios sao Isabella Barsi e Joao Guilherme, nao Giovanna. Pode atuar como autonoma ou CLT.",
+        "clinica_descartada": {
+          "razao_social": "BARSI & LIMA ODONTOLOGIA LTDA",
+          "cnpj": "34.088.386/0001-57",
+          "socios": [
+            "Isabella Barsi Colombo Paula Lima",
+            "Joao Guilherme Alves de Paula Lima"
+          ],
+          "motivo_descarte": "Socios diferentes, nao e a clinica da Giovanna"
+        }
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch + BrasilAPI",
+      "fetched_at": "2026-04-08T00:58:09.241887+00:00"
+    },
+    {
+      "category": "professional_registry",
+      "label": "Registro CRO",
+      "value": "Nao encontrado via busca web",
+      "detail": {
+        "conselho": "CRO - Conselho Regional de Odontologia",
+        "estado": "MG",
+        "nota": "Buscas por CRO MG Giovanna Lima nao retornaram numero de registro. O portal consultacro.com.br requer consulta interativa. Formacao confirmada via LinkedIn (INAPOS 2015-2019 + ABO Pouso Alegre 2021-2023)."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:58:09.241887+00:00"
+    },
+    {
+      "category": "website",
+      "label": "Website",
+      "value": "Nao possui site",
+      "detail": {
+        "status": "sem_site"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-08T00:58:36.929923+00:00"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Doctoralia",
+      "value": "Nao cadastrada",
+      "detail": {
+        "plataforma": "doctoralia.com.br",
+        "nota": "Busca por Giovanna Lima em Ouro Fino na Doctoralia nao retornou perfil. Dentistas listados: Raquel Cyrillo, Julia Coutinho, Geraldo Destefani, Adilson Tamura."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:59:27.851423+00:00"
+    },
+    {
+      "category": "sales_channels",
+      "label": "BoaConsulta",
+      "value": "Nao cadastrada",
+      "detail": {
+        "plataforma": "boaconsulta.com",
+        "nota": "Sem perfil no BoaConsulta"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:59:27.851423+00:00"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Reclame Aqui",
+      "value": "Nao encontrado",
+      "detail": {
+        "plataforma": "reclameaqui.com.br",
+        "nota": "Giovanna Goncalves Lima (CNPJ 35.481.375) encontrada mas e outra pessoa, nao a dentista de Ouro Fino. Sem reclamacoes associadas."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:59:27.851423+00:00"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Facebook",
+      "value": "Nao encontrado (pagina profissional)",
+      "detail": {
+        "plataforma": "facebook.com",
+        "nota": "Perfil pessoal encontrado (giovanna.lima.503) mas sem pagina profissional dedicada. Odontologia Medina e Clinica Aradias existem em Ouro Fino mas nao sao de Giovanna."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:59:27.851423+00:00"
+    },
+    {
+      "category": "sales_channels",
+      "label": "YouTube",
+      "value": "Nao encontrado",
+      "detail": {
+        "plataforma": "youtube.com",
+        "nota": "Sem canal no YouTube"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:59:27.851423+00:00"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Resumo canais",
+      "value": "Presenca digital concentrada exclusivamente no Instagram e LinkedIn",
+      "detail": {
+        "plataformas_pesquisadas": [
+          "Doctoralia",
+          "BoaConsulta",
+          "Reclame Aqui",
+          "Facebook",
+          "YouTube"
+        ],
+        "plataformas_encontradas": 0,
+        "nota": "Nenhum canal de venda ou plataforma profissional identificado. Lead depende 100% do Instagram para presenca online. Oportunidade clara para site profissional + presenca em Doctoralia."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:59:27.851423+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Post - Rejuvenescimento facial (GL Clinic)",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/651181706_18076287023616891_411804439436647298_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post)",
+        "post_url": "https://www.instagram.com/p/DV1aPvJjsvp/",
+        "has_text": true,
+        "descricao": "Rejuvenescer sem perder a naturalidade e possivel. Protocolo de rejuvenescimento facial completo.",
+        "nome_clinica": "GL Clinic - Dra. Giovanna Lima",
+        "servico": "Harmonizacao Facial"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T01:07:28.402096+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Post - Antes/depois harmonizacao 1",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/590405242_18064728413616891_3730144548916741432_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post)",
+        "post_url": "https://www.instagram.com/p/DV1aPvJjsvp/",
+        "descricao": "Antes e depois - linhas de expressao marcadas, protocolo de rejuvenescimento"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T01:07:28.402096+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Post - Foto no SBT",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/590403269_18064990697616891_8821387504526773520_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=110",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post)",
+        "post_url": "https://www.instagram.com/p/DV1aPvJjsvp/",
+        "descricao": "Foto no SBT - Sistema Brasileiro de Televisao"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T01:07:28.402096+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Post - Resultado harmonizacao",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/657333706_18079001456616891_3154036901167729316_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post)",
+        "post_url": "https://www.instagram.com/p/DV1aPvJjsvp/",
+        "has_text": true,
+        "descricao": "Objetivo nunca foi mudar, valorizar, suavizar sinais do tempo, devolver vico e realcar beleza natural"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T01:07:28.402096+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Post - Protocolo implante (antes/depois)",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t39.30808-6/468788843_18044184002141314_6029824322463024854_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post)",
+        "post_url": "https://www.instagram.com/p/DDvH__9vDR4/",
+        "has_text": true,
+        "descricao": "Antes e depois imediato, sessao unica! Facetas de resina, pino de fibra de vidro + coroa de resina composta.",
+        "servicos": [
+          "Facetas de resina",
+          "Pino de fibra de vidro",
+          "Coroa de resina composta"
+        ]
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T01:07:28.402096+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Post - Implante + facetas porcelana",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.71878-15/503835141_10028502643898218_8919887884222489555_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post)",
+        "post_url": "https://www.instagram.com/p/DDvH__9vDR4/",
+        "has_text": true,
+        "descricao": "Implante dentario associado a facetas de porcelana. Abandone sua dentadura, perca seu medo de sorrir.",
+        "servicos": [
+          "Implante dentario",
+          "Facetas de porcelana"
+        ]
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T01:07:28.402096+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Post - Facetas de resina (antes/depois)",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.71878-15/499884332_2674116656112302_5847044995502055194_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post)",
+        "post_url": "https://www.instagram.com/p/DDvH__9vDR4/",
+        "has_text": true,
+        "descricao": "O poder da transformacao das facetas de resina",
+        "servicos": [
+          "Facetas de resina",
+          "Lentes de resina"
+        ]
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T01:07:28.402096+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Reel - Passo a passo implante dentario",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.71878-15/496992450_1855143295342644_6675119757064695965_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=100",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram reel)",
+        "post_url": "https://www.instagram.com/reel/CoN3gG0jGrr/",
+        "has_text": true,
+        "descricao": "Passo a passo de um implante dentario. #implantesdentarios #implantedentario #implante",
+        "likes": 39
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T01:07:28.402096+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Reel - Dente quebrado solucao",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.71878-15/503354612_1470501080863630_764525484599181898_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=102",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram reel)",
+        "post_url": "https://www.instagram.com/reel/Cbnoal8DAga/",
+        "has_text": true,
+        "descricao": "Quebrou seu dente? Eu tenho a solucao! #ourofino #dentista",
+        "likes": 18
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T01:07:28.402096+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Descoberta - Nome da clinica GL Clinic",
+      "value": "GL Clinic - Dra. Giovanna Lima",
+      "detail": {
+        "tipo": "discovery",
+        "nota": "Nome da clinica descoberto via alt text das imagens do Instagram: GL Clinic - Dra. Giovanna Lima. Tambem mencionado como Harmonizacao Facial no titulo.",
+        "servicos_confirmados": [
+          "Harmonizacao Facial",
+          "Rejuvenescimento Facial",
+          "Implante Dentario",
+          "Facetas de Resina",
+          "Facetas de Porcelana",
+          "Coroa de Resina",
+          "Pino de Fibra de Vidro"
+        ]
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T01:07:28.402096+00:00"
+    },
+    {
+      "category": "brand",
+      "label": "Padroes da marca",
+      "value": "Profissional feminina, estetica dental e facial, tons elegantes",
+      "detail": {
+        "cores": [
+          "dourado",
+          "branco",
+          "preto"
+        ],
+        "tom": "profissional e acolhedor",
+        "publico_alvo": "Mulheres 25-55 anos, classe media/alta, buscando estetica dental e rejuvenescimento facial",
+        "estilo_visual": "Profissional e elegante, antes/depois de procedimentos, conteudo educativo",
+        "slogan": "Nao encontrado",
+        "nome_clinica": "GL Clinic - Dra. Giovanna Lima",
+        "nome_instagram": "Lima Clinica de Especialidades"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-08T01:08:43.991106+00:00"
+    },
+    {
+      "category": "competitors",
+      "label": "Concorrentes com site em Ouro Fino",
+      "value": "Nenhum concorrente direto com site encontrado",
+      "detail": {
+        "concorrentes_doctoralia": [
+          "Raquel Cyrillo de Siqueira",
+          "Julia Coutinho De Siqueira (Implantodontia)",
+          "Geraldo Destefani Filho",
+          "Adilson Teruo Tamura"
+        ],
+        "concorrentes_com_site": [],
+        "nota": "Nenhum dentista em Ouro Fino tem site profissional encontrado. Sorria Ouro Fino (@sorriaourofino) e Odontologia Medina existem no Instagram/Facebook mas sem site."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T01:08:43.991106+00:00"
+    }
+  ],
+  "phases": {
+    "phase_1": {
+      "status": "complete"
+    },
+    "phase_2": {
+      "status": "complete",
+      "result": "2 URLs descobertas (Instagram, LinkedIn), 11 data_points. Sem site, sem Doctoralia, sem Google Maps."
+    },
+    "phase_3": {
+      "status": "complete",
+      "result": "CNPJ nao encontrado. CRO nao encontrado via web. Formacao confirmada: INAPOS + ABO. 2 data_points adicionados."
+    },
+    "phase_4": {
+      "status": "complete",
+      "result": "Lead sem site - ausencia registrada. Nenhuma analise de website necessaria."
+    },
+    "phase_5": {
+      "status": "complete",
+      "result": "5 plataformas pesquisadas (Doctoralia, BoaConsulta, Reclame Aqui, Facebook, YouTube). Nenhum canal encontrado. Presenca 100% Instagram + LinkedIn. 6 data_points adicionados."
+    },
+    "phase_6": {
+      "status": "complete",
+      "result": "9 imagens capturadas via Playwright MCP de 4 posts/reels confirmados da @dra_giovannalima. Descoberta: nome clinica GL Clinic. Servicos: harmonizacao, implante, facetas, rejuvenescimento. 10 data_points adicionados."
+    },
+    "phase_7": {
+      "status": "complete",
+      "result": "Briefing compilado e salvo no vendedor.db. Sales score: 7/10. 32 data_points, 9 imagens."
+    }
+  },
+  "started_at": "2026-04-07T21:52:35.710303",
+  "completed_at": "2026-04-07T22:08:43.993923"
+}

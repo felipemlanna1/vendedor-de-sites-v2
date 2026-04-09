@@ -1,0 +1,228 @@
+- generic [ref=e2]:
+  - navigation [ref=e3]:
+    - generic [ref=e4]:
+      - link "Clinica Goedert e Oliveira Odontologia Integrativa" [ref=e5] [cursor=pointer]:
+        - /url: "#"
+        - img "Clinica Goedert e Oliveira Odontologia Integrativa" [ref=e6]
+      - generic [ref=e7]:
+        - generic [ref=e8]:
+          - link "Sobre" [ref=e9] [cursor=pointer]:
+            - /url: "#about"
+          - link "Especialidades" [ref=e10] [cursor=pointer]:
+            - /url: "#services"
+          - link "Credenciais" [ref=e11] [cursor=pointer]:
+            - /url: "#credentials"
+          - link "Contato" [ref=e12] [cursor=pointer]:
+            - /url: "#contact"
+        - button "Toggle language" [ref=e13] [cursor=pointer]:
+          - generic [ref=e14]: PT
+          - generic [ref=e17]: EN
+        - link "Agendar Consulta" [ref=e19] [cursor=pointer]:
+          - /url: https://wa.me/5547988661652?text=Ol%C3%A1!%20Gostaria%20de%20agendar%20uma%20consulta%20com%20a%20Profa.%20Dra.%20M%C3%A1rcia.
+  - main [ref=e20]:
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - generic [ref=e24]:
+          - generic [ref=e25]: Doutora UNESP
+          - generic [ref=e26]: Professora FURB
+          - generic [ref=e27]: 25+ anos
+        - heading "Quem ensina os dentistas do futuro cuida do sorriso do seu filho hoje" [level=1] [ref=e28]:
+          - generic [ref=e29]: Quem
+          - generic [ref=e30]: ensina
+          - generic [ref=e31]: os
+          - generic [ref=e32]: dentistas
+          - generic [ref=e33]: do
+          - generic [ref=e34]: futuro
+          - generic [ref=e35]: cuida
+          - generic [ref=e36]: do
+          - generic [ref=e37]: sorriso
+          - generic [ref=e38]: do
+          - generic [ref=e39]: seu
+          - generic [ref=e40]: filho
+          - generic [ref=e41]: hoje
+        - paragraph [ref=e42]: Odontopediatria com ciencia, carinho e 25+ anos de dedicacao
+        - link "Agendar primeira consulta" [ref=e44] [cursor=pointer]:
+          - /url: https://wa.me/5547988661652?text=Ol%C3%A1!%20Gostaria%20de%20agendar%20uma%20consulta%20com%20a%20Profa.%20Dra.%20M%C3%A1rcia.
+          - img [ref=e45]
+          - text: Agendar primeira consulta
+      - img "Profa. Dra. Marcia Oliveira - Odontopediatra" [ref=e50]
+    - generic [ref=e53]:
+      - generic [ref=e54]:
+        - generic [ref=e56]: 0+
+        - paragraph [ref=e57]: anos de experiencia
+      - generic [ref=e58]:
+        - generic [ref=e60]: 0+
+        - paragraph [ref=e61]: alunos formados
+      - generic [ref=e62]:
+        - generic [ref=e63]: "0"
+        - paragraph [ref=e64]: projeto social ativo
+    - generic [ref=e67]:
+      - generic [ref=e70]:
+        - img "Crianca sorrindo no consultorio odontologico" [ref=e72]
+        - img "Atendimento odontopediatrico" [ref=e74]
+      - generic [ref=e76]:
+        - paragraph [ref=e78]: Quem cuida de quem cuida
+        - heading "Profa. Dra. Marcia Goedert de Oliveira" [level=2] [ref=e79]:
+          - generic [ref=e80]: Profa.
+          - generic [ref=e81]: Dra.
+          - generic [ref=e82]: Marcia
+          - generic [ref=e83]: Goedert
+          - generic [ref=e84]: de
+          - generic [ref=e85]: Oliveira
+        - paragraph [ref=e87]: "Ha mais de 25 anos, a Profa. Dra. Marcia dedica sua carreira a dois propositos que se complementam: cuidar dos sorrisos das criancas de Blumenau e formar os dentistas que cuidarao das proximas geracoes."
+        - paragraph [ref=e89]: Doutora em Odontopediatria pela UNESP de Araraquara — uma das mais respeitadas do pais — ela traz para cada consulta a mesma precisao cientifica que leva para a sala de aula na FURB, onde e professora no Departamento de Odontologia e no Mestrado em Saude Coletiva.
+        - paragraph [ref=e91]: "Sua abordagem integrativa enxerga cada crianca como unica: alem do tratamento dentario, considera alimentacao, habitos, respiracao e desenvolvimento emocional. E por isso que familias confiam nela de geracao em geracao."
+        - link "Converse com a Profa. Marcia" [ref=e94] [cursor=pointer]:
+          - /url: https://wa.me/5547988661652?text=Ol%C3%A1!%20Gostaria%20de%20agendar%20uma%20consulta%20com%20a%20Profa.%20Dra.%20M%C3%A1rcia.
+          - img [ref=e95]
+          - text: Converse com a Profa. Marcia
+    - generic [ref=e98]:
+      - generic [ref=e99]:
+        - paragraph [ref=e101]: Especialidades
+        - heading "Cuidado completo do primeiro dente ao sorriso adulto" [level=2] [ref=e102]:
+          - generic [ref=e103]: Cuidado
+          - generic [ref=e104]: completo
+          - generic [ref=e105]: do
+          - generic [ref=e106]: primeiro
+          - generic [ref=e107]: dente
+          - generic [ref=e108]: ao
+          - generic [ref=e109]: sorriso
+          - generic [ref=e110]: adulto
+      - img "Atendimento odontopediatrico especializado" [ref=e113]
+      - generic [ref=e114]:
+        - generic [ref=e116]:
+          - img [ref=e118]
+          - heading "Odontopediatria" [level=3] [ref=e121]
+          - paragraph [ref=e122]: Atendimento especializado de bebes a jovens adultos, com abordagem ludica e acolhedora que transforma a ida ao dentista em experiencia positiva.
+          - paragraph [ref=e123]: "\"Cada crianca tem seu ritmo. A gente respeita isso.\""
+        - generic [ref=e125]:
+          - img [ref=e127]
+          - heading "Ortodontia Preventiva" [level=3] [ref=e133]
+          - paragraph [ref=e134]: Intervencao precoce para guiar o crescimento dos ossos e dentes, prevenindo problemas maiores no futuro. Ortodontia interceptiva para criancas e adolescentes.
+          - paragraph [ref=e135]: "\"Prevenir e mais simples — e mais gentil — do que corrigir.\""
+        - generic [ref=e137]:
+          - img [ref=e139]
+          - heading "Invisalign" [level=3] [ref=e141]
+          - paragraph [ref=e142]: Alinhadores transparentes para adolescentes e adultos. Tratamento discreto, confortavel e com resultados previsiveis. Dra. Marcia e Invisalign Doctor certificada.
+          - paragraph [ref=e143]: "\"Tecnologia invisivel, resultado visivel.\""
+        - generic [ref=e145]:
+          - img [ref=e147]
+          - heading "Odontologia Integrativa" [level=3] [ref=e149]
+          - paragraph [ref=e150]: "Visao ampla da saude bucal que considera o paciente por inteiro: alimentacao, respiracao, habitos orais e desenvolvimento emocional, alem do tratamento dentario."
+          - paragraph [ref=e151]: "\"A boca fala muito sobre a saude inteira.\""
+        - generic [ref=e153]:
+          - img [ref=e155]
+          - heading "Atendimento PcD" [level=3] [ref=e161]
+          - paragraph [ref=e162]: Atendimento humanizado e adaptado para pacientes com deficiencia. Equipe preparada, ambiente acolhedor e protocolos especificos para cada necessidade.
+          - paragraph [ref=e163]: "\"Todo sorriso merece atencao especializada.\""
+    - paragraph [ref=e168]: Cada sorriso merece ciencia e carinho
+    - generic [ref=e171]:
+      - generic [ref=e172]:
+        - paragraph [ref=e174]: Uma historia de dedicacao
+        - heading "Da universidade ao consultorio, cada passo construiu a profissional que cuida do seu filho" [level=2] [ref=e175]:
+          - generic [ref=e176]: Da
+          - generic [ref=e177]: universidade
+          - generic [ref=e178]: ao
+          - generic [ref=e179]: consultorio,
+          - generic [ref=e180]: cada
+          - generic [ref=e181]: passo
+          - generic [ref=e182]: construiu
+          - generic [ref=e183]: a
+          - generic [ref=e184]: profissional
+          - generic [ref=e185]: que
+          - generic [ref=e186]: cuida
+          - generic [ref=e187]: do
+          - generic [ref=e188]: seu
+          - generic [ref=e189]: filho
+      - generic [ref=e190]:
+        - generic [ref=e195]:
+          - generic [ref=e196]: "1995"
+          - heading "Graduacao em Odontologia" [level=3] [ref=e197]
+          - paragraph [ref=e198]: UNESP Araraquara — uma das melhores faculdades de odontologia do Brasil
+        - generic [ref=e203]:
+          - generic [ref=e204]: "2000"
+          - heading "Mestrado em Odontopediatria" [level=3] [ref=e205]
+          - paragraph [ref=e206]: UNESP Araraquara — especializacao no cuidado com criancas
+        - generic [ref=e211]:
+          - generic [ref=e212]: "2004"
+          - heading "Doutorado em Odontopediatria" [level=3] [ref=e213]
+          - paragraph [ref=e214]: UNESP Araraquara — o mais alto titulo academico na area
+        - generic [ref=e219]:
+          - generic [ref=e220]: "2005"
+          - heading "Professora na FURB" [level=3] [ref=e221]
+          - paragraph [ref=e222]: Departamento de Odontologia e Mestrado em Saude Coletiva — formando a proxima geracao
+        - generic [ref=e227]:
+          - generic [ref=e228]: "2010"
+          - heading "Projeto FURBmovel" [level=3] [ref=e229]
+          - paragraph [ref=e230]: Extensao universitaria levando educacao em saude bucal para criancas em escolas publicas de Blumenau
+        - generic [ref=e234]:
+          - generic [ref=e235]: Hoje
+          - heading "25+ anos de experiencia" [level=3] [ref=e236]
+          - paragraph [ref=e237]: Atendendo familias em Blumenau com a mesma paixao do primeiro dia
+    - generic [ref=e239]:
+      - heading "Formacao e reconhecimento" [level=2] [ref=e241]
+      - generic [ref=e242]:
+        - generic [ref=e244]:
+          - generic [ref=e245]: UNESP
+          - paragraph [ref=e246]: Doutora pela UNESP Araraquara
+        - generic [ref=e248]:
+          - generic [ref=e249]: FURB
+          - paragraph [ref=e250]: Professora FURB
+        - generic [ref=e252]:
+          - generic [ref=e253]: INV
+          - paragraph [ref=e254]: Invisalign Doctor
+    - generic [ref=e257]:
+      - generic [ref=e258]:
+        - paragraph [ref=e260]: Estamos na Vila Formosa, Blumenau
+        - heading "Agende uma consulta" [level=2] [ref=e261]:
+          - generic [ref=e262]: Agende
+          - generic [ref=e263]: uma
+          - generic [ref=e264]: consulta
+        - generic [ref=e265]:
+          - generic [ref=e267]:
+            - img [ref=e269]
+            - generic [ref=e272]:
+              - paragraph [ref=e273]: Rua Hermann Huscher, 113, sala 405, Vila Formosa, Blumenau, SC
+              - paragraph [ref=e274]: 89023-010
+          - generic [ref=e276]:
+            - img [ref=e278]
+            - paragraph [ref=e281]: (47) 98866-1652
+          - generic [ref=e283]:
+            - img [ref=e285]
+            - link "@maisquedentinhos" [ref=e289] [cursor=pointer]:
+              - /url: https://instagram.com/maisquedentinhos
+        - generic [ref=e291]:
+          - link "Falar pelo WhatsApp" [ref=e292] [cursor=pointer]:
+            - /url: https://wa.me/5547988661652?text=Ol%C3%A1!%20Gostaria%20de%20agendar%20uma%20consulta%20com%20a%20Profa.%20Dra.%20M%C3%A1rcia.
+            - img [ref=e293]
+            - text: Falar pelo WhatsApp
+          - link "Ver no Google Maps" [ref=e295] [cursor=pointer]:
+            - /url: https://www.google.com/maps/search/?api=1&query=Rua+Hermann+Huscher+113+sala+405+Vila+Formosa+Blumenau+SC
+            - img [ref=e296]
+            - text: Ver no Google Maps
+        - paragraph [ref=e300]: Leve seu filho para quem ensina os dentistas
+      - iframe [ref=e303]:
+        
+  - contentinfo [ref=e304]:
+    - generic [ref=e305]:
+      - generic [ref=e306]:
+        - generic [ref=e307]:
+          - img "Clinica Goedert e Oliveira Odontologia Integrativa" [ref=e308]
+          - paragraph [ref=e309]: Odontologia Integrativa
+        - generic [ref=e310]:
+          - heading "Agende uma consulta" [level=4] [ref=e311]
+          - paragraph [ref=e312]:
+            - text: Rua Hermann Huscher, 113, sala 405
+            - text: Vila Formosa, Blumenau - SC
+            - text: 89023-010
+          - paragraph [ref=e313]: (47) 98866-1652
+        - generic [ref=e314]:
+          - heading "2026 Clinica Goedert e Oliveira" [level=4] [ref=e315]
+          - generic [ref=e316]:
+            - link "Instagram" [ref=e317] [cursor=pointer]:
+              - /url: https://instagram.com/maisquedentinhos
+              - img [ref=e318]
+            - link "WhatsApp" [ref=e321] [cursor=pointer]:
+              - /url: https://wa.me/5547988661652?text=Ol%C3%A1!%20Gostaria%20de%20agendar%20uma%20consulta%20com%20a%20Profa.%20Dra.%20M%C3%A1rcia.
+              - img [ref=e322]
+      - generic [ref=e324]: 2026 Clinica Goedert e Oliveira. Todos os direitos reservados.

@@ -1,76 +1,85 @@
-import { Helmet } from 'react-helmet-async'
-import { siteData, faqs } from '../../data/content'
+import { business, social, locations, ratings } from '../../data/content'
 
 export default function JsonLd() {
-  const restaurant = {
+  const schema = {
     '@context': 'https://schema.org',
     '@type': 'Restaurant',
-    name: siteData.name,
-    description: siteData.description,
-    image: siteData.image,
-    url: siteData.url,
-    telephone: siteData.phone,
-    email: siteData.email,
-    priceRange: siteData.priceRange,
-    servesCuisine: siteData.servesCuisine,
+    name: business.name,
+    description: business.description,
+    image: 'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/5f/90/f5/australiano.jpg',
+    url: business.url,
+    telephone: business.phone,
+    email: business.email,
+    servesCuisine: ['Hamburgueres', 'Hamburguer Artesanal', 'Smash Burger', 'Comida Vegana'],
+    priceRange: '$$',
+    currenciesAccepted: 'BRL',
+    paymentAccepted: 'Dinheiro, Cartao de Credito, Cartao de Debito, PIX',
     address: {
       '@type': 'PostalAddress',
-      streetAddress: siteData.address.street,
-      addressLocality: siteData.address.city,
-      addressRegion: siteData.address.state,
-      postalCode: siteData.address.zip,
+      streetAddress: 'R. Prof. Bento Aguido Vieira, 20',
+      addressLocality: 'Florianopolis',
+      addressRegion: 'SC',
+      postalCode: '88036-410',
       addressCountry: 'BR',
     },
     geo: {
       '@type': 'GeoCoordinates',
-      latitude: siteData.coordinates.lat,
-      longitude: siteData.coordinates.lng,
+      latitude: -27.589725,
+      longitude: -48.521947,
     },
     openingHoursSpecification: {
       '@type': 'OpeningHoursSpecification',
-      dayOfWeek: siteData.hours.days,
-      opens: siteData.hours.opens,
-      closes: siteData.hours.closes,
+      dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
+      opens: '17:30',
+      closes: '00:00',
     },
     aggregateRating: {
       '@type': 'AggregateRating',
-      ratingValue: siteData.rating.value,
-      reviewCount: siteData.rating.count,
+      ratingValue: ratings.ifood.score,
+      reviewCount: ratings.ifood.reviews + ratings.tripadvisor.reviews,
       bestRating: 5,
     },
-    sameAs: siteData.socialLinks,
+    sameAs: [
+      social.instagram,
+      social.facebook,
+      social.tiktok,
+      social.linkedin,
+      social.tripadvisor,
+    ],
     foundingDate: '2015-08-05',
-    numberOfEmployees: { '@type': 'QuantitativeValue', value: 24 },
-    areaServed: [
-      { '@type': 'City', name: 'Florianopolis' },
-      { '@type': 'City', name: 'Itapema' },
+    numberOfEmployees: {
+      '@type': 'QuantitativeValue',
+      value: business.employees,
+    },
+    knowsAbout: [
+      'Hamburgueres artesanais',
+      'Black Angus',
+      'Smash Burger',
+      'Hamburgueres veganos',
+      'Pet Burguer',
+      'Empreendedorismo social',
     ],
     hasMenu: {
       '@type': 'Menu',
-      url: 'https://usinadohamburguer.com.br/cardapio',
+      url: business.url + '/cardapio',
     },
-    acceptsReservations: false,
-    paymentAccepted: 'Cash, Credit Card, Debit Card, PIX',
-    currenciesAccepted: 'BRL',
-  }
-
-  const faqSchema = {
-    '@context': 'https://schema.org',
-    '@type': 'FAQPage',
-    mainEntity: faqs.map(faq => ({
-      '@type': 'Question',
-      name: faq.question,
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: faq.answer,
+    department: locations.map(loc => ({
+      '@type': 'Restaurant',
+      name: `Usina do Hamburguer - ${loc.name}`,
+      address: {
+        '@type': 'PostalAddress',
+        streetAddress: loc.address,
+        addressLocality: loc.city,
+        addressCountry: 'BR',
       },
+      telephone: loc.phone,
     })),
   }
 
   return (
-    <Helmet>
-      <script type="application/ld+json">{JSON.stringify(restaurant)}</script>
-      <script type="application/ld+json">{JSON.stringify(faqSchema)}</script>
-    </Helmet>
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
   )
 }

@@ -1,0 +1,439 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e86] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e91]
+        - link "Foto do perfil de _pipelinestudio" [ref=e97] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e102]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e103]
+      - generic [ref=e104]:
+        - link "Configurações" [ref=e107] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e112]
+        - link "Também da Meta" [ref=e115] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e120]
+    - generic [ref=e123]:
+      - main [ref=e124]:
+        - generic [ref=e125]:
+          - generic [ref=e127]:
+            - button [ref=e132]:
+              - group [ref=e142]:
+                - slider [ref=e144]:
+                  - button [ref=e148] [cursor=pointer]:
+                    - img [ref=e149]
+            - generic [ref=e152]:
+              - generic [ref=e154]:
+                - button "Foto do perfil de dra.rafaellalibano" [ref=e159] [cursor=pointer]:
+                  - link "Foto do perfil de dra.rafaellalibano" [ref=e161]:
+                    - img "Foto do perfil de dra.rafaellalibano" [ref=e162]
+                - generic [ref=e165]:
+                  - generic [ref=e166]:
+                    - link "dra.rafaellalibano" [ref=e174] [cursor=pointer]:
+                      - /url: /dra.rafaellalibano/
+                      - generic [ref=e177]: dra.rafaellalibano
+                    - link "Áudio original" [ref=e181] [cursor=pointer]:
+                      - /url: /reels/audio/673713008990159/
+                      - generic [ref=e184]: Áudio original
+                  - button "Seguir" [ref=e186] [cursor=pointer]
+                - button "Mais opções" [ref=e189] [cursor=pointer]:
+                  - img "Mais opções" [ref=e192]
+              - separator [ref=e196]
+              - generic [ref=e198]:
+                - generic [ref=e200]:
+                  - link "Foto do perfil de dra.rafaellalibano" [ref=e205] [cursor=pointer]:
+                    - /url: /dra.rafaellalibano/
+                    - img "Foto do perfil de dra.rafaellalibano" [ref=e206]
+                  - generic [ref=e210]:
+                    - generic [ref=e211]:
+                      - link "dra.rafaellalibano" [ref=e215] [cursor=pointer]:
+                        - /url: /dra.rafaellalibano/
+                        - generic [ref=e218]: dra.rafaellalibano
+                      - time [ref=e220]: 43 sem
+                    - generic [ref=e221]:
+                      - text: Como funciona a minha consulta? 🩺✨
+                      - text: Aqui, o foco é cuidar de você por inteiro! 💙
+                      - text: "Na minha consulta, não olho apenas um exame ou um hormônio isolado… Faço uma avaliação completa, buscando entender de verdade o que está por trás dos seus sintomas:"
+                      - text: ✅ Como estão seus hábitos alimentares?
+                      - text: ✅ Você está dormindo bem?
+                      - text: ✅ Está se hidratando?
+                      - text: ✅ Como está sua composição corporal — peso, gordura, massa muscular?
+                      - text: "✅ E claro: investigo com exames as vitaminas, os hormônios e outros marcadores importantes!"
+                      - text: Se você anda se sentindo cansado, desanimado ou quer fazer um check-up completo, agende uma consulta comigo!
+                      - text: "📅 Agendamentos:"
+                      - text: 📲 (35) 8856-5956 (Ampplo)
+                      - text: 📞 (35) 3831-1144 (Hospital São Lucas)
+                      - text: ☎️ (35)92002-0125 (Candeias - Clínica Renova)
+                      - text: 👩‍⚕️ Dra. Rafaella Libano Oliveira Dohanik
+                      - text: Endocrinologia e Metabologia — CRM 80454
+                      - link "#Endocrinologia" [ref=e222] [cursor=pointer]:
+                        - /url: /explore/tags/endocrinologia/
+                      - link "#ConsultaEndocrino" [ref=e223] [cursor=pointer]:
+                        - /url: /explore/tags/consultaendocrino/
+                      - link "#CheckUp" [ref=e224] [cursor=pointer]:
+                        - /url: /explore/tags/checkup/
+                      - link "#CuidadoIndividualizado" [ref=e225] [cursor=pointer]:
+                        - /url: /explore/tags/cuidadoindividualizado/
+                      - link "#Cansaço" [ref=e226] [cursor=pointer]:
+                        - /url: /explore/tags/cansa%C3%A7o/
+                      - link "#CuideDeVocê" [ref=e227] [cursor=pointer]:
+                        - /url: /explore/tags/cuidedevoc%C3%AA/
+                - generic [ref=e228]:
+                  - generic [ref=e231]:
+                    - link "Foto do perfil de rebekahayashi" [ref=e237] [cursor=pointer]:
+                      - /url: /rebekahayashi/
+                      - img "Foto do perfil de rebekahayashi" [ref=e238]
+                    - generic [ref=e239]:
+                      - generic [ref=e240]:
+                        - generic [ref=e242]:
+                          - generic [ref=e243]:
+                            - link "rebekahayashi" [ref=e248] [cursor=pointer]:
+                              - /url: /rebekahayashi/
+                              - generic [ref=e251]: rebekahayashi
+                            - link "43 sem" [ref=e253] [cursor=pointer]:
+                              - /url: /p/DKhj5wKuA2v/c/18330176032202064/
+                              - time [ref=e254]: 43 sem
+                          - generic [ref=e256]: 👏👏👏👏
+                        - generic [ref=e257]:
+                          - button "1 curtida" [ref=e258] [cursor=pointer]:
+                            - generic [ref=e260]: 1 curtida
+                          - button "Responder" [ref=e261] [cursor=pointer]:
+                            - generic [ref=e263]: Responder
+                      - button "Curtir" [ref=e268] [cursor=pointer]:
+                        - img "Curtir" [ref=e271]
+                  - generic [ref=e275]:
+                    - link "Foto do perfil de mariaa.apareecida" [ref=e281] [cursor=pointer]:
+                      - /url: /mariaa.apareecida/
+                      - img "Foto do perfil de mariaa.apareecida" [ref=e282]
+                    - generic [ref=e283]:
+                      - generic [ref=e284]:
+                        - generic [ref=e286]:
+                          - generic [ref=e287]:
+                            - link "mariaa.apareecida" [ref=e292] [cursor=pointer]:
+                              - /url: /mariaa.apareecida/
+                              - generic [ref=e295]: mariaa.apareecida
+                            - link "43 sem" [ref=e297] [cursor=pointer]:
+                              - /url: /p/DKhj5wKuA2v/c/18040674170291641/
+                              - time [ref=e298]: 43 sem
+                          - generic [ref=e300]: 👏👏👏👏
+                        - generic [ref=e301]:
+                          - button "1 curtida" [ref=e302] [cursor=pointer]:
+                            - generic [ref=e304]: 1 curtida
+                          - button "Responder" [ref=e305] [cursor=pointer]:
+                            - generic [ref=e307]: Responder
+                      - button "Curtir" [ref=e312] [cursor=pointer]:
+                        - img "Curtir" [ref=e315]
+                  - generic [ref=e319]:
+                    - link "Foto do perfil de emersonalvesmaia" [ref=e325] [cursor=pointer]:
+                      - /url: /emersonalvesmaia/
+                      - img "Foto do perfil de emersonalvesmaia" [ref=e326]
+                    - generic [ref=e327]:
+                      - generic [ref=e328]:
+                        - generic [ref=e330]:
+                          - generic [ref=e331]:
+                            - link "emersonalvesmaia" [ref=e336] [cursor=pointer]:
+                              - /url: /emersonalvesmaia/
+                              - generic [ref=e339]: emersonalvesmaia
+                            - link "43 sem" [ref=e341] [cursor=pointer]:
+                              - /url: /p/DKhj5wKuA2v/c/18082948891616262/
+                              - time [ref=e342]: 43 sem
+                          - generic [ref=e344]: Excelente médica!!
+                        - generic [ref=e345]:
+                          - button "1 curtida" [ref=e346] [cursor=pointer]:
+                            - generic [ref=e348]: 1 curtida
+                          - button "Responder" [ref=e349] [cursor=pointer]:
+                            - generic [ref=e351]: Responder
+                      - button "Curtir" [ref=e356] [cursor=pointer]:
+                        - img "Curtir" [ref=e359]
+                  - generic [ref=e363]:
+                    - link "Foto do perfil de emersonalvesmaia" [ref=e369] [cursor=pointer]:
+                      - /url: /emersonalvesmaia/
+                      - img "Foto do perfil de emersonalvesmaia" [ref=e370]
+                    - generic [ref=e371]:
+                      - generic [ref=e372]:
+                        - generic [ref=e374]:
+                          - generic [ref=e375]:
+                            - link "emersonalvesmaia" [ref=e380] [cursor=pointer]:
+                              - /url: /emersonalvesmaia/
+                              - generic [ref=e383]: emersonalvesmaia
+                            - link "43 sem" [ref=e385] [cursor=pointer]:
+                              - /url: /p/DKhj5wKuA2v/c/18082948891616262/
+                              - time [ref=e386]: 43 sem
+                          - generic [ref=e388]: Excelente médica!!
+                        - generic [ref=e389]:
+                          - button "1 curtida" [ref=e390] [cursor=pointer]:
+                            - generic [ref=e392]: 1 curtida
+                          - button "Responder" [ref=e393] [cursor=pointer]:
+                            - generic [ref=e395]: Responder
+                      - button "Curtir" [ref=e400] [cursor=pointer]:
+                        - img "Curtir" [ref=e403]
+                  - generic [ref=e407]:
+                    - link "Foto do perfil de maira.almeida.9021987" [ref=e413] [cursor=pointer]:
+                      - /url: /maira.almeida.9021987/
+                      - img "Foto do perfil de maira.almeida.9021987" [ref=e414]
+                    - generic [ref=e415]:
+                      - generic [ref=e416]:
+                        - generic [ref=e418]:
+                          - generic [ref=e419]:
+                            - link "maira.almeida.9021987" [ref=e424] [cursor=pointer]:
+                              - /url: /maira.almeida.9021987/
+                              - generic [ref=e427]: maira.almeida.9021987
+                            - link "43 sem" [ref=e429] [cursor=pointer]:
+                              - /url: /p/DKhj5wKuA2v/c/18030274718442428/
+                              - time [ref=e430]: 43 sem
+                          - generic [ref=e432]: Ótima médica
+                        - generic [ref=e433]:
+                          - button "2 curtidas" [ref=e434] [cursor=pointer]:
+                            - generic [ref=e436]: 2 curtidas
+                          - button "Responder" [ref=e437] [cursor=pointer]:
+                            - generic [ref=e439]: Responder
+                      - button "Curtir" [ref=e444] [cursor=pointer]:
+                        - img "Curtir" [ref=e447]
+                  - generic [ref=e451]:
+                    - link "Foto do perfil de rebekahayashi" [ref=e457] [cursor=pointer]:
+                      - /url: /rebekahayashi/
+                      - img "Foto do perfil de rebekahayashi" [ref=e458]
+                    - generic [ref=e459]:
+                      - generic [ref=e460]:
+                        - generic [ref=e462]:
+                          - generic [ref=e463]:
+                            - link "rebekahayashi" [ref=e468] [cursor=pointer]:
+                              - /url: /rebekahayashi/
+                              - generic [ref=e471]: rebekahayashi
+                            - link "43 sem" [ref=e473] [cursor=pointer]:
+                              - /url: /p/DKhj5wKuA2v/c/18330176032202064/
+                              - time [ref=e474]: 43 sem
+                          - generic [ref=e476]: 👏👏👏👏
+                        - generic [ref=e477]:
+                          - button "1 curtida" [ref=e478] [cursor=pointer]:
+                            - generic [ref=e480]: 1 curtida
+                          - button "Responder" [ref=e481] [cursor=pointer]:
+                            - generic [ref=e483]: Responder
+                      - button "Curtir" [ref=e488] [cursor=pointer]:
+                        - img "Curtir" [ref=e491]
+                  - generic [ref=e495]:
+                    - link "Foto do perfil de mariaa.apareecida" [ref=e501] [cursor=pointer]:
+                      - /url: /mariaa.apareecida/
+                      - img "Foto do perfil de mariaa.apareecida" [ref=e502]
+                    - generic [ref=e503]:
+                      - generic [ref=e504]:
+                        - generic [ref=e506]:
+                          - generic [ref=e507]:
+                            - link "mariaa.apareecida" [ref=e512] [cursor=pointer]:
+                              - /url: /mariaa.apareecida/
+                              - generic [ref=e515]: mariaa.apareecida
+                            - link "43 sem" [ref=e517] [cursor=pointer]:
+                              - /url: /p/DKhj5wKuA2v/c/18040674170291641/
+                              - time [ref=e518]: 43 sem
+                          - generic [ref=e520]: 👏👏👏👏
+                        - generic [ref=e521]:
+                          - button "1 curtida" [ref=e522] [cursor=pointer]:
+                            - generic [ref=e524]: 1 curtida
+                          - button "Responder" [ref=e525] [cursor=pointer]:
+                            - generic [ref=e527]: Responder
+                      - button "Curtir" [ref=e532] [cursor=pointer]:
+                        - img "Curtir" [ref=e535]
+              - generic [ref=e537]:
+                - generic [ref=e538]:
+                  - generic [ref=e539]:
+                    - button "Curtir" [ref=e542] [cursor=pointer]:
+                      - img "Curtir" [ref=e545]
+                    - button "215" [ref=e547] [cursor=pointer]
+                    - button "Comentar" [ref=e549] [cursor=pointer]:
+                      - img "Comentar" [ref=e551]
+                    - button "4" [ref=e553] [cursor=pointer]
+                    - button "Compartilhar" [ref=e554] [cursor=pointer]:
+                      - img "Compartilhar" [ref=e555]
+                  - button "Salvar" [ref=e560] [cursor=pointer]:
+                    - button "Salvar" [ref=e561]:
+                      - img "Salvar" [ref=e563]
+                - link "5 de junho de 2025" [ref=e567] [cursor=pointer]:
+                  - /url: /dra.rafaellalibano/reel/DKhj5wKuA2v/
+                  - time [ref=e569]: 5 de junho de 2025
+              - generic [ref=e572]:
+                - link [ref=e573]
+                - generic [ref=e575]:
+                  - button "Emoji" [ref=e577] [cursor=pointer]:
+                    - img "Emoji" [ref=e579]
+                  - textbox "Adicione um comentário..." [ref=e581]
+          - separator [ref=e583]
+          - generic [ref=e584]:
+            - generic [ref=e586]:
+              - text: Mais posts de
+              - link "dra.rafaellalibano" [ref=e587] [cursor=pointer]:
+                - /url: /dra.rafaellalibano/
+            - generic [ref=e590]:
+              - generic [ref=e591]:
+                - link [ref=e593] [cursor=pointer]:
+                  - /url: /dra.rafaellalibano/reel/DL-FtWXuxV9/
+                  - img [ref=e596]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - 'link "Ranking dos antidiabéticos para DM2 👇 Considerei 3 pontos principais: potência no controle glicêmico, comodidade de uso e impacto no peso. Porque no fim… não é só sobre baixar a glicose, é sobre tratar o paciente como um todo. E você: concorda com esse ranking ou mudaria alguma posição? 👀 #diabetes #diabetestipo2 #endocrinologia #controleglicemico #emagrecimento medicina saude Clipe" [ref=e599] [cursor=pointer]':
+                  - /url: /dra.rafaellalibano/reel/DWzginlBbK-/
+                  - 'img "Ranking dos antidiabéticos para DM2 👇 Considerei 3 pontos principais: potência no controle glicêmico, comodidade de uso e impacto no peso. Porque no fim… não é só sobre baixar a glicose, é sobre tratar o paciente como um todo. E você: concorda com esse ranking ou mudaria alguma posição? 👀 #diabetes #diabetestipo2 #endocrinologia #controleglicemico #emagrecimento medicina saude" [ref=e602]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - link "Dump do feriado 🖼️📷 Carrossel" [ref=e605] [cursor=pointer]:
+                  - /url: /rafaella.libano/p/DWxFhzBlXDhWXD-_KS1nY0TYLY9a-0318fOslI0/
+                  - img "Dump do feriado 🖼️📷" [ref=e608]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+              - generic [ref=e610]:
+                - 'link "Proteína virou maquiagem de alimento ruim. A indústria percebeu que ‘high protein’ vende — e agora qualquer ultraprocessado ganha esse rótulo como se fosse saudável. Mas não é. Na maioria das vezes, você está consumindo proteína junto com: – calorias desnecessárias – baixa qualidade nutricional – e um combo que não ajuda em nada no emagrecimento Proteína importa. Mas colocar proteína em tudo não resolve uma alimentação ruim. Se a base for ruim, esses produtos não salvam. Se a base for boa, você nem precisa deles. #dieta #endocrinologia #emagrecimento Clipe" [ref=e612] [cursor=pointer]':
+                  - /url: /dra.rafaellalibano/reel/DWrKLUQl75x/
+                  - 'img "Proteína virou maquiagem de alimento ruim. A indústria percebeu que ‘high protein’ vende — e agora qualquer ultraprocessado ganha esse rótulo como se fosse saudável. Mas não é. Na maioria das vezes, você está consumindo proteína junto com: – calorias desnecessárias – baixa qualidade nutricional – e um combo que não ajuda em nada no emagrecimento Proteína importa. Mas colocar proteína em tudo não resolve uma alimentação ruim. Se a base for ruim, esses produtos não salvam. Se a base for boa, você nem precisa deles. #dieta #endocrinologia #emagrecimento" [ref=e615]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - 'link "Entrei na trend. Não é por que mudaram o nome… que mudou o efeito. Mas a pergunta é: você quer resultado a qualquer custo? Ou saúde de verdade? — #endocrinologia #hormonios #chipdabeleza #anabolizantes #emagrecimento Clipe" [ref=e618] [cursor=pointer]':
+                  - /url: /dra.rafaellalibano/reel/DWj-e9Tj2WU/
+                  - 'img "Entrei na trend. Não é por que mudaram o nome… que mudou o efeito. Mas a pergunta é: você quer resultado a qualquer custo? Ou saúde de verdade? — #endocrinologia #hormonios #chipdabeleza #anabolizantes #emagrecimento" [ref=e621]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - 'link "Quando o marketing fica por conta do meu filho. Quando o marketing não é estratégia… é carisma natural 😂💙 Meu pequeno entrou em ação hoje e eu já acho que tenho um novo social media em casa 🥹 Dá aquela força para o Luiz Antônio: curte esse vídeo e deixa um recado, porque ele vai amar ver 💬✨ Clipe" [ref=e624] [cursor=pointer]':
+                  - /url: /dra.rafaellalibano/reel/DWhoiWOj1z_/
+                  - 'img "Quando o marketing fica por conta do meu filho. Quando o marketing não é estratégia… é carisma natural 😂💙 Meu pequeno entrou em ação hoje e eu já acho que tenho um novo social media em casa 🥹 Dá aquela força para o Luiz Antônio: curte esse vídeo e deixa um recado, porque ele vai amar ver 💬✨" [ref=e627]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+      - contentinfo [ref=e629]:
+        - generic [ref=e630]:
+          - generic [ref=e632]:
+            - link "Meta" [ref=e634] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e635]: Meta
+            - link "Sobre" [ref=e637] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e638]: Sobre
+            - link "Blog" [ref=e640] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e641]: Blog
+            - link "Carreiras" [ref=e643] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e644]: Carreiras
+            - link "Ajuda" [ref=e646] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e647]: Ajuda
+            - link "API" [ref=e649] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e650]: API
+            - link "Privacidade" [ref=e652] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e653]: Privacidade
+            - link "Termos" [ref=e655] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e656]: Termos
+            - link "Localizações" [ref=e658] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e659]: Localizações
+            - link "Instagram Lite" [ref=e661] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e662]: Instagram Lite
+            - link "Meta AI" [ref=e664] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e665]: Meta AI
+            - link "Threads" [ref=e667] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e668]: Threads
+            - link "Upload de contatos e não usuários" [ref=e670] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e671]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e673] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e674]: Meta Verified
+          - generic [ref=e675]:
+            - generic [ref=e676] [cursor=pointer]:
+              - generic [ref=e677]:
+                - generic [ref=e678]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e681]
+              - combobox "Trocar idioma de exibição" [ref=e683]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e685]: © 2026 Instagram from Meta
+  - button "Mensagens Mensagens" [ref=e687] [cursor=pointer]:
+    - generic [ref=e689]:
+      - img "Mensagens" [ref=e691]
+      - generic [ref=e694]: Mensagens

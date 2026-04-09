@@ -1,0 +1,794 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: V
+            - generic: i
+            - generic: e
+            - generic: w
+          - generic:
+            - generic: S
+            - generic: i
+            - generic: t
+            - generic: e
+  - link "Tore S. Bentsen" [ref=e2] [cursor=pointer]:
+    - /url: /
+    - generic [ref=e3]: Tore S. Bentsen
+  - generic [ref=e4]:
+    - link "W o r k 9 W o r k 9" [ref=e5] [cursor=pointer]:
+      - /url: "#work"
+      - generic [ref=e6]:
+        - generic [ref=e7]:
+          - generic [ref=e8]: W
+          - generic [ref=e9]: o
+          - generic [ref=e10]: r
+          - generic [ref=e11]: k
+        - generic [ref=e14]: "9"
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - generic: W
+          - generic: o
+          - generic: r
+          - generic: k
+        - generic [ref=e18]:
+          - generic: "9"
+    - link "R e c o g n i t i o n s R e c o g n i t i o n s" [ref=e19] [cursor=pointer]:
+      - /url: "#recognitions"
+      - generic [ref=e21]:
+        - generic [ref=e22]: R
+        - generic [ref=e23]: e
+        - generic [ref=e24]: c
+        - generic [ref=e25]: o
+        - generic [ref=e26]: g
+        - generic [ref=e27]: "n"
+        - generic [ref=e28]: i
+        - generic [ref=e29]: t
+        - generic [ref=e30]: i
+        - generic [ref=e31]: o
+        - generic [ref=e32]: "n"
+        - generic [ref=e33]: s
+      - generic [ref=e35]:
+        - generic: R
+        - generic: e
+        - generic: c
+        - generic: o
+        - generic: g
+        - generic: "n"
+        - generic: i
+        - generic: t
+        - generic: i
+        - generic: o
+        - generic: "n"
+        - generic: s
+    - link "C o n t a c t C o n t a c t" [ref=e36] [cursor=pointer]:
+      - /url: "#contact"
+      - generic [ref=e38]:
+        - generic [ref=e39]: C
+        - generic [ref=e40]: o
+        - generic [ref=e41]: "n"
+        - generic [ref=e42]: t
+        - generic [ref=e43]: a
+        - generic [ref=e44]: c
+        - generic [ref=e45]: t
+      - generic [ref=e47]:
+        - generic: C
+        - generic: o
+        - generic: "n"
+        - generic: t
+        - generic: a
+        - generic: c
+        - generic: t
+  - generic [ref=e49]:
+    - generic [ref=e51]:
+      - generic [ref=e52]: Tore S. Bentsen
+      - generic [ref=e53]:
+        - generic [ref=e54]:
+          - generic [ref=e55]: C
+          - generic [ref=e56]: r
+          - generic [ref=e57]: e
+          - generic [ref=e58]: a
+          - generic [ref=e59]: t
+          - generic [ref=e60]: i
+          - generic [ref=e61]: "n"
+          - generic [ref=e62]: g
+        - generic [ref=e63]:
+          - generic [ref=e64]: U
+          - generic [ref=e65]: "n"
+          - generic [ref=e66]: i
+          - generic [ref=e67]: q
+          - generic [ref=e68]: u
+          - generic [ref=e69]: e
+        - generic [ref=e70]:
+          - generic [ref=e71]: W
+          - generic [ref=e72]: e
+          - generic [ref=e73]: b
+          - generic [ref=e74]: s
+          - generic [ref=e75]: i
+          - generic [ref=e76]: t
+          - generic [ref=e77]: e
+        - generic [ref=e78]:
+          - generic [ref=e79]: E
+          - generic [ref=e80]: x
+          - generic [ref=e81]: p
+          - generic [ref=e82]: e
+          - generic [ref=e83]: r
+          - generic [ref=e84]: i
+          - generic [ref=e85]: e
+          - generic [ref=e86]: "n"
+          - generic [ref=e87]: c
+          - generic [ref=e88]: e
+          - generic [ref=e89]: s
+    - generic [ref=e90]:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - heading "BENTSEN" [level=1]
+            - generic:
+              - heading "BENTSEN" [level=1]
+            - generic:
+              - heading "BENTSEN" [level=1]
+            - generic:
+              - heading "BENTSEN" [level=1]
+            - generic:
+              - heading "BENTSEN" [level=1]
+            - generic:
+              - heading "BENTSEN" [level=1]
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - heading "Tore S." [level=1]
+            - generic:
+              - heading "Tore S." [level=1]
+            - generic:
+              - heading "Tore S." [level=1]
+            - generic:
+              - heading "Tore S." [level=1]
+            - generic:
+              - heading "Tore S." [level=1]
+            - generic:
+              - heading "Tore S." [level=1]
+      - generic [ref=e96]: CREATIVE DIRECTOR
+      - generic [ref=e98]: CPH, Denmark
+    - generic [ref=e99]:
+      - list [ref=e101]:
+        - listitem [ref=e102]:
+          - generic [ref=e103]:
+            - link "Website eSports Production CHEW Production CHEW Production" [ref=e104] [cursor=pointer]:
+              - /url: https://www.chew.productions/
+              - generic [ref=e105]:
+                - generic [ref=e108]: Website
+                - generic [ref=e111]: eSports Production
+                - generic [ref=e112]:
+                  - generic: CHEW Production
+                  - generic: CHEW Production
+            - generic [ref=e113]:
+              - generic [ref=e114]:
+                - generic [ref=e115]: Agency
+                - generic [ref=e116]: BASEBORN
+              - generic [ref=e117]:
+                - generic [ref=e118]: Role
+                - generic [ref=e119]: Lead Designer / Developer
+              - generic [ref=e120]:
+                - generic [ref=e121]: Client
+                - generic [ref=e122]: CHEW
+              - generic [ref=e123]:
+                - generic [ref=e124]: Year
+                - generic [ref=e125]: "2025"
+        - listitem [ref=e126]:
+          - generic [ref=e127]:
+            - link "Website Talent Agency One Of Ones One Of Ones" [ref=e128] [cursor=pointer]:
+              - /url: https://oneofones.com
+              - generic [ref=e129]:
+                - generic [ref=e132]: Website
+                - generic [ref=e135]: Talent Agency
+                - generic [ref=e136]:
+                  - generic: One Of Ones
+                  - generic: One Of Ones
+            - generic [ref=e137]:
+              - generic [ref=e138]:
+                - generic [ref=e139]: Agency
+                - generic [ref=e140]: BASEBORN
+              - generic [ref=e141]:
+                - generic [ref=e142]: Role
+                - generic [ref=e143]: Lead Designer / Developer
+              - generic [ref=e144]:
+                - generic [ref=e145]: Client
+                - generic [ref=e146]: One Of Ones
+              - generic [ref=e147]:
+                - generic [ref=e148]: Year
+                - generic [ref=e149]: "2025"
+        - listitem [ref=e150]:
+          - generic [ref=e151]:
+            - link "Website Production Company CURB Copenhagen CURB Copenhagen" [ref=e152] [cursor=pointer]:
+              - /url: https://www.curbcph.tv/
+              - generic [ref=e153]:
+                - generic [ref=e156]: Website
+                - generic [ref=e159]: Production Company
+                - generic [ref=e160]:
+                  - generic: CURB Copenhagen
+                  - generic: CURB Copenhagen
+            - generic [ref=e161]:
+              - generic [ref=e162]:
+                - generic [ref=e163]: Agency
+                - generic [ref=e164]: BASEBORN
+              - generic [ref=e165]:
+                - generic [ref=e166]: Role
+                - generic [ref=e167]: Lead Designer / Developer
+              - generic [ref=e168]:
+                - generic [ref=e169]: Client
+                - generic [ref=e170]: CURB Copenhagen
+              - generic [ref=e171]:
+                - generic [ref=e172]: Year
+                - generic [ref=e173]: "2024"
+        - listitem [ref=e174]:
+          - generic [ref=e175]:
+            - link "Website BLOG Pirate Wires Pirate Wires" [ref=e176] [cursor=pointer]:
+              - /url: https://www.piratewires.com/
+              - generic [ref=e177]:
+                - generic [ref=e180]: Website
+                - generic [ref=e183]: BLOG
+                - generic [ref=e184]:
+                  - generic: Pirate Wires
+                  - generic: Pirate Wires
+            - generic [ref=e185]:
+              - generic [ref=e186]:
+                - generic [ref=e187]: Agency
+                - generic [ref=e188]: BASEBORN
+              - generic [ref=e189]:
+                - generic [ref=e190]: Role
+                - generic [ref=e191]: Lead Designer
+              - generic [ref=e192]:
+                - generic [ref=e193]: Client
+                - generic [ref=e194]: Pirate Wires
+              - generic [ref=e195]:
+                - generic [ref=e196]: Year
+                - generic [ref=e197]: "2023"
+        - listitem [ref=e198]:
+          - generic [ref=e199]:
+            - link "Website Portfolio Søren Rose Studio Søren Rose Studio" [ref=e200] [cursor=pointer]:
+              - /url: https://www.sorenrose.com/
+              - generic [ref=e201]:
+                - generic [ref=e204]: Website
+                - generic [ref=e207]: Portfolio
+                - generic [ref=e208]:
+                  - generic: Søren Rose Studio
+                  - generic: Søren Rose Studio
+            - generic [ref=e209]:
+              - generic [ref=e210]:
+                - generic [ref=e211]: Agency
+                - generic [ref=e212]: Spring/Summer
+              - generic [ref=e213]:
+                - generic [ref=e214]: Role
+                - generic [ref=e215]: Lead Designer / Developer
+              - generic [ref=e216]:
+                - generic [ref=e217]: Client
+                - generic [ref=e218]: Søren Rose Studio
+              - generic [ref=e219]:
+                - generic [ref=e220]: Year
+                - generic [ref=e221]: "2023"
+        - listitem [ref=e222]:
+          - generic [ref=e223]:
+            - link "Website Voting Awwwards Annual Awwwards Annual" [ref=e224] [cursor=pointer]:
+              - /url: https://awwwards-annual.webflow.io/
+              - generic [ref=e225]:
+                - generic [ref=e228]: Website
+                - generic [ref=e231]: Voting
+                - generic [ref=e232]:
+                  - generic: Awwwards Annual
+                  - generic: Awwwards Annual
+            - generic [ref=e233]:
+              - generic [ref=e234]:
+                - generic [ref=e235]: Agency
+                - generic [ref=e236]: Granyon
+              - generic [ref=e237]:
+                - generic [ref=e238]: Role
+                - generic [ref=e239]: Lead Designer & Front-end
+              - generic [ref=e240]:
+                - generic [ref=e241]: Client
+                - generic [ref=e242]: Awwwards
+              - generic [ref=e243]:
+                - generic [ref=e244]: Year
+                - generic [ref=e245]: "2022"
+        - listitem [ref=e246]:
+          - generic [ref=e247]:
+            - link "Website Portfolio Aurélia Studio Aurélia Studio" [ref=e248] [cursor=pointer]:
+              - /url: https://www.aurelia-studio.com/
+              - generic [ref=e249]:
+                - generic [ref=e252]: Website
+                - generic [ref=e255]: Portfolio
+                - generic [ref=e256]:
+                  - generic: Aurélia Studio
+                  - generic: Aurélia Studio
+            - generic [ref=e257]:
+              - generic [ref=e258]:
+                - generic [ref=e259]: Agency
+                - generic [ref=e260]: Granyon
+              - generic [ref=e261]:
+                - generic [ref=e262]: Role
+                - generic [ref=e263]: Lead Designer/Developer
+              - generic [ref=e264]:
+                - generic [ref=e265]: Client
+                - generic [ref=e266]: Aurélia Durand
+              - generic [ref=e267]:
+                - generic [ref=e268]: Year
+                - generic [ref=e269]: "2021"
+        - listitem [ref=e270]:
+          - generic [ref=e271]:
+            - link "Website Experience Take A Ride With Me Take A Ride With Me" [ref=e272] [cursor=pointer]:
+              - /url: https://www.takearidewith.me/
+              - generic [ref=e273]:
+                - generic [ref=e276]: Website
+                - generic [ref=e279]: Experience
+                - generic [ref=e280]:
+                  - generic: Take A Ride With Me
+                  - generic: Take A Ride With Me
+            - generic [ref=e281]:
+              - generic [ref=e282]:
+                - generic [ref=e283]: Agency
+                - generic [ref=e284]: Freelance
+              - generic [ref=e285]:
+                - generic [ref=e286]: Role
+                - generic [ref=e287]: Lead Designer/Developer
+              - generic [ref=e288]:
+                - generic [ref=e289]: Client
+                - generic [ref=e290]: Nikolaj Juhlsen
+              - generic [ref=e291]:
+                - generic [ref=e292]: Year
+                - generic [ref=e293]: "2021"
+        - listitem [ref=e294]:
+          - generic [ref=e295]:
+            - link "Website Portfolio Hvass & Hannibal Hvass & Hannibal" [ref=e296] [cursor=pointer]:
+              - /url: https://www.hvasshannibal.dk/
+              - generic [ref=e297]:
+                - generic [ref=e300]: Website
+                - generic [ref=e303]: Portfolio
+                - generic [ref=e304]:
+                  - generic: Hvass & Hannibal
+                  - generic: Hvass & Hannibal
+            - generic [ref=e305]:
+              - generic [ref=e306]:
+                - generic [ref=e307]: Agency
+                - generic [ref=e308]: Granyon
+              - generic [ref=e309]:
+                - generic [ref=e310]: Role
+                - generic [ref=e311]: Lead Designer/Developer
+              - generic [ref=e312]:
+                - generic [ref=e313]: Client
+                - generic [ref=e314]: Hvass & Hannibal
+              - generic [ref=e315]:
+                - generic [ref=e316]: Year
+                - generic [ref=e317]: "2020"
+        - listitem [ref=e318]:
+          - generic [ref=e319]:
+            - link "Website Portfolio Mysta Electric Mysta Electric" [ref=e320] [cursor=pointer]:
+              - /url: https://mysta.webflow.io
+              - generic [ref=e321]:
+                - generic [ref=e324]: Website
+                - generic [ref=e327]: Portfolio
+                - generic [ref=e328]:
+                  - generic: Mysta Electric
+                  - generic: Mysta Electric
+            - generic [ref=e329]:
+              - generic [ref=e330]:
+                - generic [ref=e331]: Agency
+                - generic [ref=e332]: Freelance
+              - generic [ref=e333]:
+                - generic [ref=e334]: Role
+                - generic [ref=e335]: Lead Designer/Developer
+              - generic [ref=e336]:
+                - generic [ref=e337]: Client
+                - generic [ref=e338]: Mysta Electric
+              - generic [ref=e339]:
+                - generic [ref=e340]: Year
+                - generic [ref=e341]: "2020"
+        - listitem [ref=e342]:
+          - generic [ref=e343]:
+            - link "Website Ecommerce Kibun Textiles Kibun Textiles" [ref=e344] [cursor=pointer]:
+              - /url: https://www.kibun.dk/
+              - generic [ref=e345]:
+                - generic [ref=e348]: Website
+                - generic [ref=e351]: Ecommerce
+                - generic [ref=e352]:
+                  - generic: Kibun Textiles
+                  - generic: Kibun Textiles
+            - generic [ref=e353]:
+              - generic [ref=e354]:
+                - generic [ref=e355]: Agency
+                - generic [ref=e356]: Freelance
+              - generic [ref=e357]:
+                - generic [ref=e358]: Role
+                - generic [ref=e359]: Lead Designer/Developer
+              - generic [ref=e360]:
+                - generic [ref=e361]: Client
+                - generic [ref=e362]: Hvass & Hannibal
+              - generic [ref=e363]:
+                - generic [ref=e364]: Year
+                - generic [ref=e365]: "2020"
+        - listitem [ref=e366]:
+          - generic [ref=e367]:
+            - link "Website Campaign Third Strike Campaign Third Strike Campaign" [ref=e368] [cursor=pointer]:
+              - /url: https://www.thirdstrikecampaign.com/
+              - generic [ref=e369]:
+                - generic [ref=e372]: Website
+                - generic [ref=e375]: Campaign
+                - generic [ref=e376]:
+                  - generic: Third Strike Campaign
+                  - generic: Third Strike Campaign
+            - generic [ref=e377]:
+              - generic [ref=e378]:
+                - generic [ref=e379]: Agency
+                - generic [ref=e380]: Granyon
+              - generic [ref=e381]:
+                - generic [ref=e382]: Role
+                - generic [ref=e383]: Lead Designer/Developer
+              - generic [ref=e384]:
+                - generic [ref=e385]: Client
+                - generic [ref=e386]: The Decarceration Collective
+              - generic [ref=e387]:
+                - generic [ref=e388]: Year
+                - generic [ref=e389]: "2019"
+      - list [ref=e392]:
+        - listitem [ref=e393]:
+          - generic [ref=e394]:
+            - generic [ref=e396]: CHEW Productions
+            - generic [ref=e398]: Awwwards
+            - generic [ref=e400]: Site Of The Day
+            - generic [ref=e402]: "2025"
+        - listitem [ref=e403]:
+          - generic [ref=e404]:
+            - generic [ref=e406]: CHEW Productions
+            - generic [ref=e408]: FWA
+            - generic [ref=e410]: FWA Of The Day
+            - generic [ref=e412]: "2025"
+        - listitem [ref=e413]:
+          - generic [ref=e414]:
+            - generic [ref=e416]: CURB CPH
+            - generic [ref=e418]: Creative Circle
+            - generic [ref=e420]: Gold — Craft / Website Design
+            - generic [ref=e422]: "2025"
+        - listitem [ref=e423]:
+          - generic [ref=e424]:
+            - generic [ref=e426]: CURB CPH
+            - generic [ref=e428]: Creative Circle
+            - generic [ref=e430]: Gold — Company Websites / Small Corp.
+            - generic [ref=e432]: "2025"
+        - listitem [ref=e433]:
+          - generic [ref=e434]:
+            - generic [ref=e436]: CURB CPH
+            - generic [ref=e438]: The Lovie Awards
+            - generic [ref=e440]: Gold — Best Web Design (Aesthetic)
+            - generic [ref=e442]: "2025"
+        - listitem [ref=e443]:
+          - generic [ref=e444]:
+            - generic [ref=e446]: BASEBORN
+            - generic [ref=e448]: Awwwards
+            - generic [ref=e450]: Site Of The Day
+            - generic [ref=e452]: "2024"
+        - listitem [ref=e453]:
+          - generic [ref=e454]:
+            - generic [ref=e456]: BASEBORN
+            - generic [ref=e458]: Awwwards
+            - generic [ref=e460]: Developer Award
+            - generic [ref=e462]: "2024"
+        - listitem [ref=e463]:
+          - generic [ref=e464]:
+            - generic [ref=e466]: CURB CPH
+            - generic [ref=e468]: Awwwards
+            - generic [ref=e470]: Site Of The Day
+            - generic [ref=e472]: "2024"
+        - listitem [ref=e473]:
+          - generic [ref=e474]:
+            - generic [ref=e476]: DIKO
+            - generic [ref=e478]: Awwwards
+            - generic [ref=e480]: Site Of The Day
+            - generic [ref=e482]: "2023"
+        - listitem [ref=e483]:
+          - generic [ref=e484]:
+            - generic [ref=e486]: Søren Rose Studio
+            - generic [ref=e488]: Awwwards
+            - generic [ref=e490]: Site Of The Day
+            - generic [ref=e492]: "2023"
+        - listitem [ref=e493]:
+          - generic [ref=e494]:
+            - generic [ref=e496]: Søren Rose Studio
+            - generic [ref=e498]: Awwwards
+            - generic [ref=e500]: Developer Award
+            - generic [ref=e502]: "2023"
+        - listitem [ref=e503]:
+          - generic [ref=e504]:
+            - generic [ref=e506]: Søren Rose Studio
+            - generic [ref=e508]: Creative Circle
+            - generic [ref=e510]: Silver — Company Websites / Small Corp.
+            - generic [ref=e512]: "2023"
+        - listitem [ref=e513]:
+          - generic [ref=e514]:
+            - generic [ref=e516]: Søren Rose Studio
+            - generic [ref=e518]: Creative Circle
+            - generic [ref=e520]: Silver — Craft / Website Design
+            - generic [ref=e522]: "2023"
+        - listitem [ref=e523]:
+          - generic [ref=e524]:
+            - generic [ref=e526]: Aurélia Studio
+            - generic [ref=e528]: Communication Arts
+            - generic [ref=e530]: Interactive Annual — Winner
+            - generic [ref=e532]: "2022"
+        - listitem [ref=e533]:
+          - generic [ref=e534]:
+            - generic [ref=e536]: Awwwards Annual 2021
+            - generic [ref=e538]: Creative Circle
+            - generic [ref=e540]: Shortlist
+            - generic [ref=e542]: "2022"
+        - listitem [ref=e543]:
+          - generic [ref=e544]:
+            - generic [ref=e546]: Canairi® — A Fresh Air Monitor™
+            - generic [ref=e548]: Awwwards
+            - generic [ref=e550]: Site Of The Day
+            - generic [ref=e552]: "2022"
+        - listitem [ref=e553]:
+          - generic [ref=e554]:
+            - generic [ref=e556]: Canairi® — A Fresh Air Monitor™
+            - generic [ref=e558]: Awwwards
+            - generic [ref=e560]: Developer Award
+            - generic [ref=e562]: "2022"
+        - listitem [ref=e563]:
+          - generic [ref=e564]:
+            - generic [ref=e566]: Canairi® — A Fresh Air Monitor™
+            - generic [ref=e568]: FWA
+            - generic [ref=e570]: FWA Of The Day
+            - generic [ref=e572]: "2022"
+        - listitem [ref=e573]:
+          - generic [ref=e574]:
+            - generic [ref=e576]: Aurélia Durand
+            - generic [ref=e578]: Creative Circle
+            - generic [ref=e580]: Shortlist — Company Sites & Apps
+            - generic [ref=e582]: "2021"
+        - listitem [ref=e583]:
+          - generic [ref=e584]:
+            - generic [ref=e586]: Aurélia Studio
+            - generic [ref=e588]: Awwwards
+            - generic [ref=e590]: Developer Award
+            - generic [ref=e592]: "2021"
+        - listitem [ref=e593]:
+          - generic [ref=e594]:
+            - generic [ref=e596]: Aurélia Studio
+            - generic [ref=e598]: Awwwards
+            - generic [ref=e600]: Site Of The Day
+            - generic [ref=e602]: "2021"
+        - listitem [ref=e603]:
+          - generic [ref=e604]:
+            - generic [ref=e606]: Aurélia Studio
+            - generic [ref=e608]: The Lovie Awards
+            - generic [ref=e610]: People's Lovie — Best Homepage
+            - generic [ref=e612]: "2021"
+        - listitem [ref=e613]:
+          - generic [ref=e614]:
+            - generic [ref=e616]: Aurélia Studio
+            - generic [ref=e618]: The Lovie Awards
+            - generic [ref=e620]: Gold — Best Homepage
+            - generic [ref=e622]: "2021"
+        - listitem [ref=e623]:
+          - generic [ref=e624]:
+            - generic [ref=e626]: Aurélia Studio
+            - generic [ref=e628]: The Webby Awards
+            - generic [ref=e630]: Webby Nominee — Best Homepage
+            - generic [ref=e632]: "2021"
+        - listitem [ref=e633]:
+          - generic [ref=e634]:
+            - generic [ref=e636]: TRWM
+            - generic [ref=e638]: Awwwards
+            - generic [ref=e640]: Mobile Excelence
+            - generic [ref=e642]: "2021"
+        - listitem [ref=e643]:
+          - generic [ref=e644]:
+            - generic [ref=e646]: TRWM
+            - generic [ref=e648]: Awwwards
+            - generic [ref=e650]: Developer Award
+            - generic [ref=e652]: "2021"
+        - listitem [ref=e653]:
+          - generic [ref=e654]:
+            - generic [ref=e656]: TRWM
+            - generic [ref=e658]: Awwwards
+            - generic [ref=e660]: Site Of The Day
+            - generic [ref=e662]: "2021"
+        - listitem [ref=e663]:
+          - generic [ref=e664]:
+            - generic [ref=e666]: TRWM
+            - generic [ref=e668]: CSSDA
+            - generic [ref=e670]: Website of the Day
+            - generic [ref=e672]: "2021"
+        - listitem [ref=e673]:
+          - generic [ref=e674]:
+            - generic [ref=e676]: TRWM
+            - generic [ref=e678]: FWA
+            - generic [ref=e680]: FWA Of The Day
+            - generic [ref=e682]: "2021"
+        - listitem [ref=e683]:
+          - generic [ref=e684]:
+            - generic [ref=e686]: Mysta Electric
+            - generic [ref=e688]: Awwwards
+            - generic [ref=e690]: Mobile Excelence
+            - generic [ref=e692]: "2020"
+        - listitem [ref=e693]:
+          - generic [ref=e694]:
+            - generic [ref=e696]: Mysta Electric
+            - generic [ref=e698]: Awwwards
+            - generic [ref=e700]: Site of the Day
+            - generic [ref=e702]: "2020"
+        - listitem [ref=e703]:
+          - generic [ref=e704]:
+            - generic [ref=e706]: Mysta Electric
+            - generic [ref=e708]: CSSDA
+            - generic [ref=e710]: Website Of The Day
+            - generic [ref=e712]: "2020"
+        - listitem [ref=e713]:
+          - generic [ref=e714]:
+            - generic [ref=e716]: Mysta Electric
+            - generic [ref=e718]: FWA
+            - generic [ref=e720]: FWA Of The Day
+            - generic [ref=e722]: "2020"
+        - listitem [ref=e723]:
+          - generic [ref=e724]:
+            - generic [ref=e726]: Third Strike Campaign
+            - generic [ref=e728]: Creative Circle
+            - generic [ref=e730]: Silver — Campaign Sites & Apps
+            - generic [ref=e732]: "2020"
+        - listitem [ref=e733]:
+          - generic [ref=e734]:
+            - generic [ref=e736]: Third Strike Campaign
+            - generic [ref=e738]: The Webby Awards
+            - generic [ref=e740]: Webby Winner — Best Homepage
+            - generic [ref=e742]: "2020"
+        - listitem [ref=e743]:
+          - generic [ref=e744]:
+            - generic [ref=e746]: Third Strike Campaign
+            - generic [ref=e748]: The Webby Awards
+            - generic [ref=e750]: Webby Winner — Activism
+            - generic [ref=e752]: "2020"
+        - listitem [ref=e753]:
+          - generic [ref=e754]:
+            - generic [ref=e756]: Third Strike Campaign
+            - generic [ref=e758]: Awwwards
+            - generic [ref=e760]: Developer Award
+            - generic [ref=e762]: "2019"
+        - listitem [ref=e763]:
+          - generic [ref=e764]:
+            - generic [ref=e766]: Third Strike Campaign
+            - generic [ref=e768]: Awwwards
+            - generic [ref=e770]: Site Of The Day
+            - generic [ref=e772]: "2019"
+      - generic [ref=e773]:
+        - generic [ref=e774]:
+          - generic [ref=e775]:
+            - text: Tore is a Senior Interactive Designer at
+            - link "Granyon" [ref=e776] [cursor=pointer]:
+              - /url: https://granyon.com
+            - text: . Specializing in combining Webflow & branding to create award-winning websites. Living in Copenhagen, Denmark – Tore enjoys long walks on the beach & creating cool stuff for the internet.
+          - generic [ref=e777]: ( OFFICIAL AWWWARDS JURY MEMBER ✺ 2020-2026 )
+        - generic [ref=e778]:
+          - generic [ref=e779]:
+            - generic [ref=e781]: Let's do some awesome work
+            - link "c o n t a c t @ t o r e b e n t s e n . c o m c o n t a c t @ t o r e b e n t s e n . c o m" [ref=e782] [cursor=pointer]:
+              - /url: mailto:contact@torebentsen.com
+              - generic [ref=e784]:
+                - generic [ref=e785]: c
+                - generic [ref=e786]: o
+                - generic [ref=e787]: "n"
+                - generic [ref=e788]: t
+                - generic [ref=e789]: a
+                - generic [ref=e790]: c
+                - generic [ref=e791]: t
+                - generic [ref=e792]: "@"
+                - generic [ref=e793]: t
+                - generic [ref=e794]: o
+                - generic [ref=e795]: r
+                - generic [ref=e796]: e
+                - generic [ref=e797]: b
+                - generic [ref=e798]: e
+                - generic [ref=e799]: "n"
+                - generic [ref=e800]: t
+                - generic [ref=e801]: s
+                - generic [ref=e802]: e
+                - generic [ref=e803]: "n"
+                - generic [ref=e804]: .
+                - generic [ref=e805]: c
+                - generic [ref=e806]: o
+                - generic [ref=e807]: m
+              - generic [ref=e809]:
+                - generic: c
+                - generic: o
+                - generic: "n"
+                - generic: t
+                - generic: a
+                - generic: c
+                - generic: t
+                - generic: "@"
+                - generic: t
+                - generic: o
+                - generic: r
+                - generic: e
+                - generic: b
+                - generic: e
+                - generic: "n"
+                - generic: t
+                - generic: s
+                - generic: e
+                - generic: "n"
+                - generic: .
+                - generic: c
+                - generic: o
+                - generic: m
+          - generic [ref=e810]:
+            - generic [ref=e812]: Socials
+            - link "L i n k e d I n L i n k e d I n" [ref=e813] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/torebentsen/
+              - generic [ref=e815]:
+                - generic [ref=e816]: L
+                - generic [ref=e817]: i
+                - generic [ref=e818]: "n"
+                - generic [ref=e819]: k
+                - generic [ref=e820]: e
+                - generic [ref=e821]: d
+                - generic [ref=e822]: I
+                - generic [ref=e823]: "n"
+              - generic [ref=e825]:
+                - generic: L
+                - generic: i
+                - generic: "n"
+                - generic: k
+                - generic: e
+                - generic: d
+                - generic: I
+                - generic: "n"
+            - link "I n s t a g r a m I n s t a g r a m" [ref=e826] [cursor=pointer]:
+              - /url: https://www.instagram.com/toresbent/
+              - generic [ref=e828]:
+                - generic [ref=e829]: I
+                - generic [ref=e830]: "n"
+                - generic [ref=e831]: s
+                - generic [ref=e832]: t
+                - generic [ref=e833]: a
+                - generic [ref=e834]: g
+                - generic [ref=e835]: r
+                - generic [ref=e836]: a
+                - generic [ref=e837]: m
+              - generic [ref=e839]:
+                - generic: I
+                - generic: "n"
+                - generic: s
+                - generic: t
+                - generic: a
+                - generic: g
+                - generic: r
+                - generic: a
+                - generic: m
+            - link "A w w w a r d s A w w w a r d s" [ref=e840] [cursor=pointer]:
+              - /url: https://www.awwwards.com/torebentsen/
+              - generic [ref=e842]:
+                - generic [ref=e843]: A
+                - generic [ref=e844]: w
+                - generic [ref=e845]: w
+                - generic [ref=e846]: w
+                - generic [ref=e847]: a
+                - generic [ref=e848]: r
+                - generic [ref=e849]: d
+                - generic [ref=e850]: s
+              - generic [ref=e852]:
+                - generic: A
+                - generic: w
+                - generic: w
+                - generic: w
+                - generic: a
+                - generic: r
+                - generic: d
+                - generic: s
+    - generic [ref=e854]:
+      - generic [ref=e857]: ©
+      - generic [ref=e860]: ―
+      - generic [ref=e863]: "2"
+      - generic [ref=e866]: "0"
+      - generic [ref=e869]: "2"
+      - generic [ref=e872]: "6"

@@ -1,0 +1,452 @@
+{
+  "current_phase": 7,
+  "lead_id": "poliana-andrade",
+  "nome": "Poliana Andrade",
+  "cidade": "SC",
+  "nicho": "advogada",
+  "strategy": "legal",
+  "source": "instagram",
+  "discovered_urls": {
+    "site_url": "",
+    "instagram_username": "adv_polianaandrade",
+    "facebook_url": "",
+    "google_maps_url": "",
+    "platform_urls": {
+      "escritorio_site": "https://lp.andradeebispo.com.br/",
+      "escritorio_instagram": "@andradeebispo_",
+      "ibdfam": "https://ibdfam.org.br/"
+    }
+  },
+  "data_points": [
+    {
+      "category": "presence",
+      "label": "Instagram confirmado",
+      "value": "@adv_polianaandrade",
+      "detail": {
+        "followers": 4220,
+        "posts": 128,
+        "bio": "Poliana Andrade | advogada - Especialista em Direito de Família e Sucessões - Sócia @andradeebispo_ - Membra do Tribunal de Ética e Disciplina OAB",
+        "has_link_in_bio": false,
+        "platform": "instagram"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T11:12:37.604258+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Escritório Andrade & Bispo",
+      "value": "https://lp.andradeebispo.com.br/",
+      "detail": {
+        "nome": "Andrade e Bispo - Advogados Associados",
+        "endereco": "Connect Towers QS 1 Bloco D Sala 1025, Águas Claras, Brasília - DF, 71950-550",
+        "socias": [
+          "Dra. Poliana Andrade",
+          "Dra. Lalesca Bispo"
+        ],
+        "areas": [
+          "Direito das Famílias",
+          "Direito Cível",
+          "Direito Empresarial",
+          "Direito das Sucessões",
+          "Direito Empresarial Trabalhista"
+        ],
+        "tipo": "landing_page"
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch (https://lp.andradeebispo.com.br/)",
+      "fetched_at": "2026-04-08T11:12:37.604258+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Membra IBDFAM",
+      "value": "Instituto Brasileiro de Direito de Família",
+      "detail": {
+        "organizacao": "IBDFAM",
+        "comissao_oab": "Comissão de Direito das Famílias e Sucessões da OAB/DF",
+        "tribunal_etica": true
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T11:12:37.604258+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Sem site pessoal",
+      "value": "Não possui website próprio",
+      "detail": {
+        "escritorio_tem_lp": true,
+        "lp_url": "https://lp.andradeebispo.com.br/",
+        "lp_tipo": "Landing page básica do escritório, sem site completo"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T11:12:37.604258+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Localização real",
+      "value": "Águas Claras, Brasília - DF",
+      "detail": {
+        "endereco_completo": "Connect Towers QS 1 Bloco D Sala 1025, Águas Claras, Brasília - DF, 71950-550",
+        "nota": "Escritório em DF, não em SC como indicado inicialmente. Pode atuar em SC remotamente ou ter origem de lá."
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch (https://lp.andradeebispo.com.br/)",
+      "fetched_at": "2026-04-08T11:12:37.604258+00:00"
+    },
+    {
+      "category": "social",
+      "label": "Perfil 100% profissional",
+      "value": "Conteúdo jurídico educacional",
+      "detail": {
+        "temas": [
+          "herdeiros",
+          "divórcio",
+          "abandono afetivo",
+          "podcast jurídico",
+          "inventário"
+        ],
+        "estilo": "Educacional/informativo",
+        "engajamento": "Ativo com posts regulares"
+      },
+      "source_type": "briefing",
+      "source_name": "briefing do usuário",
+      "fetched_at": "2026-04-08T11:12:37.604258+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Sócia do escritório",
+      "value": "Andrade e Bispo - Advogados Associados",
+      "detail": {
+        "experiencia": "6+ anos",
+        "socia_com": "Dra. Lalesca Bispo (7 anos, Direito Empresarial)",
+        "especializacao_poliana": "Direito de Família e Sucessões"
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch (https://lp.andradeebispo.com.br/)",
+      "fetched_at": "2026-04-08T11:12:37.604258+00:00"
+    },
+    {
+      "category": "reviews",
+      "label": "Sem avaliações públicas",
+      "value": "Nenhuma avaliação encontrada",
+      "detail": {
+        "google_reviews": "Não encontrado",
+        "jusbrasil": "Múltiplas Poliana Andrade no JusBrasil, difícil confirmar qual",
+        "nota": "Sem reviews no Google, sem depoimentos na LP do escritório"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T11:12:37.604258+00:00"
+    },
+    {
+      "category": "identity",
+      "label": "CNPJ",
+      "value": "Não encontrado via WebSearch",
+      "detail": {
+        "escritorio": "Andrade e Bispo - Advogados Associados",
+        "nota": "CNPJ não encontrado nas buscas públicas. Escritório em Águas Claras/DF. Pode ser consultado via Receita Federal ou CNA/OAB.",
+        "tentativas": [
+          "WebSearch CNPJ Poliana Andrade",
+          "WebSearch CNPJ Andrade e Bispo",
+          "casadosdados (403)",
+          "cnpj.biz"
+        ]
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T11:14:38.880453+00:00"
+    },
+    {
+      "category": "professional_registry",
+      "label": "OAB/DF - Membra do TED",
+      "value": "OAB/DF (número não localizado)",
+      "detail": {
+        "seccional": "DF",
+        "tipo": "Advogada",
+        "tribunal_etica": true,
+        "comissao": "Comissão de Direito das Famílias e Sucessões da OAB/DF",
+        "ibdfam": true,
+        "nota": "Confirmado via Instagram e WebSearch que é membra do TED OAB/DF e IBDFAM. Número OAB não localizado em buscas públicas (CNA requer formulário)."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch + WebFetch (oabdf.org.br)",
+      "fetched_at": "2026-04-08T11:14:38.880453+00:00"
+    },
+    {
+      "category": "professional_registry",
+      "label": "Experiência profissional",
+      "value": "6+ anos de advocacia",
+      "detail": {
+        "especializacao": "Direito de Família e Sucessões",
+        "areas": [
+          "inventário",
+          "divórcio",
+          "abandono afetivo",
+          "herdeiros",
+          "planejamento sucessório"
+        ],
+        "socia": true,
+        "escritorio": "Andrade e Bispo - Advogados Associados"
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch (https://lp.andradeebispo.com.br/)",
+      "fetched_at": "2026-04-08T11:14:38.880453+00:00"
+    },
+    {
+      "category": "website",
+      "label": "Website",
+      "value": "Não possui site",
+      "detail": {
+        "status": "sem_site",
+        "escritorio_lp": "https://lp.andradeebispo.com.br/",
+        "nota": "Apenas LP básica do escritório. Sem site pessoal da advogada."
+      },
+      "source_type": "briefing",
+      "source_name": "análise",
+      "fetched_at": "2026-04-08T11:15:14.652327+00:00"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Plataformas jurídicas",
+      "value": "Sem perfil em plataformas",
+      "detail": {
+        "jusbrasil": "Homônimas encontradas, não confirmado perfil específico desta Poliana",
+        "escavador": "Não encontrado perfil específico",
+        "reclame_aqui": "Sem reclamações (escritório não cadastrado)",
+        "doctoralia": "N/A (nicho legal)",
+        "linkedin": "Não encontrado perfil específico desta Poliana Andrade advogada DF",
+        "youtube": "Sem canal",
+        "tiktok": "@poliana..andrade encontrado mas pode ser homônima",
+        "podcast": "Mencionado no briefing mas não encontrado online"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T11:16:26.641600+00:00"
+    },
+    {
+      "category": "social",
+      "label": "Presença digital concentrada",
+      "value": "Instagram como canal principal",
+      "detail": {
+        "instagram_pessoal": "@adv_polianaandrade (4220 seguidores, 128 posts)",
+        "instagram_escritorio": "@andradeebispo_",
+        "lp_escritorio": "https://lp.andradeebispo.com.br/",
+        "outras_plataformas": "Nenhuma confirmada",
+        "nota": "Presença concentrada no Instagram. Sem diversificação para LinkedIn, YouTube, TikTok profissional ou plataformas jurídicas. Oportunidade: site pessoal + SEO para captar clientes fora do Instagram."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T11:16:26.641600+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Foto de perfil Instagram",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-19/570727881_18534248626002623_7745305740851561986_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=111&ccb=7-5&_nc_sid=bf7eb4",
+      "detail": {
+        "tipo": "profile_pic",
+        "fonte": "Playwright (Instagram perfil)",
+        "instagram_username": "adv_polianaandrade",
+        "nota": "Foto de perfil - resolução s100x100 (thumbnail do perfil)"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T11:21:50.606764+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Post - Dia das Mães (pessoal)",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/635194747_18529587070069474_4839988183863616854_n.jpg?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post)",
+        "post_url": "https://www.instagram.com/p/CsOxIgyLXrh/",
+        "caption": "Ser a sua mãe é o maior de todos os prazeres da minha vida. #felizdiadasmaes",
+        "date": "2023-05-14",
+        "has_text": false
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T11:21:50.606764+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Post - Honra ao Mérito Advocacia",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/656508455_18186757219375579_2920582383348448788_n.jpg?stp=c238.0.715.715a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post)",
+        "post_url": "https://www.instagram.com/p/DDe6iGTuoWz/",
+        "caption": "Agradecimento pela honra ao mérito concedida em reconhecimento ao trabalho na advocacia",
+        "date": "2024-12-12",
+        "has_text": true
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T11:21:50.606764+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Post - Penhora bens madrasta (conteúdo jurídico)",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/534989873_18413429089106988_2970606639201073310_n.jpg?stp=c270.0.810.810a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post)",
+        "post_url": "https://www.instagram.com/p/DNhYDWlOKX5/",
+        "caption": "Bens da madrasta podem ser penhorados por dívida de pensão do pai! STJ decidiu...",
+        "date": "2025-08-18",
+        "has_text": true
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T11:21:50.606764+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Post - Dia do Advogado",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/530812566_18412474831106988_4239782543320168713_n.jpg?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post)",
+        "post_url": "https://www.instagram.com/p/DNOfbOkOHhQ/",
+        "caption": "11 de Agosto – Dia do Advogado. Celebramos a advocacia combativa, ética e indispensável.",
+        "date": "2025-08-11",
+        "has_text": true
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T11:21:50.606764+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Reel - Divórcio sair de casa",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.71878-15/534595722_32083866207879105_4890902077866404172_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram reel)",
+        "post_url": "https://www.instagram.com/reel/DNk5oOaOktT/",
+        "caption": "Se eu sair de casa antes do divórcio, perco meus direitos? NÃO!",
+        "date": "2025-08-20",
+        "has_text": true
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T11:21:50.606764+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Reel - Herança de veículo",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/527589137_18411524062106988_1690413816737393157_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram reel)",
+        "post_url": "https://www.instagram.com/reel/DM8McY2uX1b/",
+        "caption": "HERANÇA DE UM ÚNICO VEÍCULO: É NECESSÁRIO ABRIR INVENTÁRIO? Sim, obrigatória abertura.",
+        "date": "2025-08-04",
+        "has_text": true
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T11:21:50.606764+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Reel - Depoimento cliente (Leilian)",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.71878-15/503046888_711218271396855_5950184175328288865_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram reel - menção de cliente)",
+        "post_url": "https://www.instagram.com/reel/C1AZYGMpdzV/",
+        "caption": "Leilian Oliveira: @adv_polianaandrade entende tudo de direito de família!",
+        "date": "2023-12-18",
+        "has_text": false,
+        "is_testimonial": true
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T11:21:50.606764+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Banner LP Andrade & Bispo",
+      "value": "https://pages.greatpages.com.br/lp.andradeebispo.com.br/1750887754/imagens/desktop/43328-30918a43ce1508884b14b1e5dbf2e29e.jpg",
+      "detail": {
+        "tipo": "banner",
+        "fonte": "WebFetch (LP escritório)",
+        "url_origem": "https://lp.andradeebispo.com.br/",
+        "nota": "Banner hero da landing page do escritório Andrade & Bispo"
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch",
+      "fetched_at": "2026-04-08T11:21:50.606764+00:00"
+    },
+    {
+      "category": "brand",
+      "label": "Padrões da marca",
+      "value": "Advogada familiarista com tom profissional-acolhedor, foco em conteúdo educacional jurídico",
+      "detail": {
+        "cores": [
+          "tons neutros",
+          "bege/dourado",
+          "branco",
+          "preto"
+        ],
+        "tom": "profissional com toque humanizado",
+        "publico_alvo": "Pessoas enfrentando questões familiares (divórcio, inventário, herança, pensão) em Brasília/DF",
+        "estilo_visual": "Clean e profissional, posts com design informativo/educacional",
+        "slogan": "Advogada de inventários (título do perfil Instagram)",
+        "posicionamento": "Especialista em Família e Sucessões com credenciais OAB (TED + IBDFAM)"
+      },
+      "source_type": "briefing",
+      "source_name": "análise",
+      "fetched_at": "2026-04-08T11:23:12.966663+00:00"
+    },
+    {
+      "category": "competitors",
+      "label": "Concorrentes com site",
+      "value": "5 encontrados",
+      "detail": [
+        "Galvão & Silva Advocacia - https://www.galvaoesilva.com/areas-de-atuacao/advogado-de-familia/",
+        "Teixeira Advogados - https://teixeiraadvocacia.com/direito-de-familia/advogado-de-familia-em-brasilia-df/",
+        "Ferreira Advocacia - https://edmilsonferreira.adv.br/cidade/advogado-direito-de-familia-aguas-claras/",
+        "Tauge Advocacia - https://taugeadvogados.com.br/",
+        "Veiga Meneses Advogados - https://veigameneses.adv.br/advogados/direito-de-familia/"
+      ],
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T11:23:12.966663+00:00"
+    }
+  ],
+  "phases": {
+    "phase_1": {
+      "status": "complete"
+    },
+    "phase_2": {
+      "status": "complete",
+      "result": "8 data_points coletados, escritório LP encontrada, sem site pessoal, localização real DF"
+    },
+    "phase_3": {
+      "status": "complete",
+      "result": "3 data_points. CNPJ não encontrado. OAB/DF confirmada (TED + IBDFAM). 6+ anos experiência."
+    },
+    "phase_4": {
+      "status": "complete",
+      "result": "Sem site pessoal. LP do escritório já catalogada na fase 2."
+    },
+    "phase_5": {
+      "status": "complete",
+      "result": "2 data_points. Sem plataformas jurídicas. Presença concentrada no Instagram."
+    },
+    "phase_6": {
+      "status": "complete",
+      "result": "9 imagens capturadas. Instagram (Playwright): 7 posts/reels + 1 perfil. WebFetch: 1 banner LP."
+    },
+    "phase_7": {
+      "status": "complete",
+      "result": "Briefing salvo no vendedor.db"
+    }
+  },
+  "started_at": "2026-04-08T08:10:37.571230",
+  "completed_at": "2026-04-08T08:23:12.974869"
+}

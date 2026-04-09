@@ -1,0 +1,181 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "treatments": "Tratamentos",
+    "results": "Resultados",
+    "kids": "Infantil",
+    "location": "Localização",
+    "contact": "Contato",
+    "cta": "Agende sua consulta"
+  },
+  "hero": {
+    "title": "A arte da naturalidade",
+    "subtitle": "Onde a ciência encontra a delicadeza — cada sorriso é uma obra de arte natural",
+    "cta": "Agende sua consulta",
+    "credentials": "CRO MG 26.171",
+    "specialties": "Harmonização Orofacial · Ortodontia · Invisalign"
+  },
+  "about": {
+    "sectionLabel": "Sobre",
+    "title": "Quem cuida de você",
+    "description": "A Dra. Milena Grossi Germiniani é herdeira de uma tradição familiar em odontologia que começou com seu pai, Dr. Ademir Grossi. Com dupla especialização em Harmonização Orofacial e Ortodontia, ela une ciência de ponta e sensibilidade artística para revelar a melhor versão de cada sorriso.",
+    "legacy": "Uma tradição familiar em odontologia — do consultório do pai ao protagonismo da filha, três décadas de cuidado com sorrisos em Ouro Fino.",
+    "credentials": "CRO MG 26.171",
+    "invisalignDoctor": "Invisalign Doctor",
+    "dualSpecialist": "Dupla especialista: HOF + Ortodontia",
+    "locations": "Ouro Fino, MG e São Paulo, SP (Itaim Bibi)"
+  },
+  "treatmentsHof": {
+    "sectionLabel": "Harmonização Orofacial",
+    "title": "A arte do natural",
+    "subtitle": "Procedimentos que realçam sua beleza sem perder a essência de quem você é",
+    "items": {
+      "toxina": {
+        "name": "Toxina Botulínica",
+        "description": "Suaviza linhas de expressão com resultado natural e discreto. Aplicação precisa para um rosto descansado e harmonioso."
+      },
+      "preenchimento": {
+        "name": "Preenchimento Facial e Labial",
+        "description": "Restaura volumes e contornos com ácido hialurônico de alta qualidade. Lábios, mandíbula, malar — cada região tratada com precisão anatômica."
+      },
+      "skinbooster": {
+        "name": "Skinbooster",
+        "description": "Hidratação profunda da pele com ácido hialurônico injetável. Melhora textura, luminosidade e viço de dentro para fora."
+      },
+      "hipro": {
+        "name": "HIPRO Day",
+        "description": "Protocolo avançado de rejuvenescimento facial com ultrassom microfocado de alta intensidade. Resultado progressivo e duradouro."
+      },
+      "ultrassom": {
+        "name": "Ultrassom Microfocado",
+        "description": "Estimula colágeno nas camadas profundas da pele sem cirurgia. Firmeza e sustentação com tecnologia de ponta."
+      },
+      "bioestimuladores": {
+        "name": "Bioestimuladores de Colágeno",
+        "description": "Estimulam a produção natural de colágeno pelo organismo. Rejuvenescimento gradual com aspecto cada vez mais natural."
+      },
+      "bioreconexao": {
+        "name": "Protocolo BIOreCONEXÃO",
+        "description": "Protocolo exclusivo desenvolvido pela Dra. Milena que integra diferentes técnicas de harmonização para resultado sinérgico e personalizado."
+      },
+      "cirurgia": {
+        "name": "Cirurgia HOF",
+        "description": "Procedimentos cirúrgicos minimamente invasivos em harmonização orofacial. Para casos que demandam intervenção além dos procedimentos injetáveis."
+      }
+    },
+    "cta": "Descubra qual tratamento é ideal para você"
+  },
+  "transition": {
+    "phrase": "Seu sorriso merece ciência e delicadeza",
+    "counter": "procedimentos realizados",
+    "counterValue": 2500
+  },
+  "treatmentsOdonto": {
+    "sectionLabel": "Odontologia",
+    "title": "Ciência do sorriso",
+    "subtitle": "Excelência em ortodontia e odontologia com tecnologia e cuidado humanizado",
+    "items": {
+      "ortodontia": {
+        "name": "Ortodontia",
+        "description": "Alinhamento dentário com planejamento digital e aparelhos de última geração. Cada caso é único — cada tratamento também."
+      },
+      "ortopedia": {
+        "name": "Ortopedia Funcional dos Maxilares",
+        "description": "Tratamento que direciona o crescimento ósseo facial em crianças e adolescentes, prevenindo problemas futuros."
+      },
+      "invisalign": {
+        "name": "Invisalign",
+        "description": "Alinhadores transparentes que corrigem o sorriso com discrição e conforto. Planejamento 3D com previsão do resultado final."
+      },
+      "invisalignFirst": {
+        "name": "Invisalign First",
+        "description": "Versão do Invisalign desenvolvida especialmente para crianças a partir de 6 anos. Tratamento precoce com tecnologia gentil."
+      },
+      "clareamento": {
+        "name": "Clareamento Dental",
+        "description": "Dentes mais brancos com segurança e sem sensibilidade. Protocolos personalizados para resultado natural e duradouro."
+      },
+      "odontopediatria": {
+        "name": "Odontopediatria",
+        "description": "Atendimento infantil acolhedor e lúdico. Cada consulta é uma experiência positiva que constrói uma relação saudável com o dentista."
+      },
+      "bruxismo": {
+        "name": "Bruxismo e DTM",
+        "description": "Diagnóstico e tratamento de bruxismo e disfunções temporomandibulares. Alívio da dor e proteção dos dentes."
+      },
+      "megatriagem": {
+        "name": "Megatriagem",
+        "description": "Avaliação completa e detalhada da saúde bucal. Diagnóstico integrado que considera a face, o sorriso e a função."
+      }
+    },
+    "cta": "Converse com a Dra. Milena"
+  },
+  "kids": {
+    "sectionLabel": "Mundo Infantil",
+    "title": "Sorrisos pequenos, cuidados grandes",
+    "subtitle": "Um espaço acolhedor onde cada criança se sente segura para sorrir",
+    "description": "A Dra. Milena acredita que a relação com o dentista começa na infância. Com atendimento lúdico e gentil, cada consulta é pensada para que os pequenos se sintam acolhidos — construindo uma relação de confiança que dura a vida toda.",
+    "invisalignFirst": "Invisalign First — ortodontia invisível a partir dos 6 anos",
+    "odontopediatria": "Odontopediatria com abordagem acolhedora e lúdica"
+  },
+  "differentials": {
+    "sectionLabel": "Diferenciais",
+    "title": "Por que a Dra. Milena",
+    "items": {
+      "dualSpecialty": {
+        "title": "Dupla especialidade",
+        "description": "HOF + Ortodontia: visão integrada do rosto e do sorriso"
+      },
+      "invisalignDoctor": {
+        "title": "Invisalign Doctor",
+        "description": "Certificação oficial para alinhadores invisíveis de última geração"
+      },
+      "twoLocations": {
+        "title": "Ouro Fino e São Paulo",
+        "description": "Atendimento em Ouro Fino (OUROClin) e São Paulo (Itaim Bibi)"
+      },
+      "familyLegacy": {
+        "title": "Legado familiar",
+        "description": "Tradição odontológica herdada do pai, Dr. Ademir Grossi"
+      },
+      "exclusiveProtocol": {
+        "title": "Protocolo BIOreCONEXÃO",
+        "description": "Método exclusivo que integra técnicas para resultado sinérgico"
+      },
+      "naturalApproach": {
+        "title": "Abordagem natural",
+        "description": "Resultados que realçam sua beleza sem exageros — a arte da naturalidade"
+      }
+    }
+  },
+  "location": {
+    "sectionLabel": "Localização",
+    "title": "Encontre a Dra. Milena",
+    "clinic": "OUROClin",
+    "address": "Rua Prefeito José Serra, 228",
+    "city": "Ouro Fino, MG",
+    "spNote": "Também atende em São Paulo — Itaim Bibi",
+    "cta": "Como chegar"
+  },
+  "contact": {
+    "sectionLabel": "Contato",
+    "title": "Comece sua transformação",
+    "subtitle": "Agende sua avaliação e descubra como a ciência e a delicadeza podem transformar seu sorriso",
+    "whatsappCta": "Fale pelo WhatsApp",
+    "phone": "(35) 9 9725-5631",
+    "instagram": "@dramilenagrossigerminiani",
+    "instagramUrl": "https://www.instagram.com/dramilenagrossigerminiani/"
+  },
+  "footer": {
+    "copyright": "2026 Dra. Milena Grossi Germiniani. Todos os direitos reservados.",
+    "cro": "CRO MG 26.171 — Cirurgiã-Dentista",
+    "social": "Siga nas redes",
+    "disclaimer": "As informações contidas neste site têm caráter informativo e não substituem a consulta presencial."
+  },
+  "accessibility": {
+    "skipToContent": "Pular para o conteúdo",
+    "openMenu": "Abrir menu",
+    "closeMenu": "Fechar menu"
+  }
+}

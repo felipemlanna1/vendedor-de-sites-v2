@@ -1,0 +1,388 @@
+{
+  "current_phase": 7,
+  "lead_id": "beatriz-medeiros",
+  "nome": "Beatriz Medeiros",
+  "cidade": "SC",
+  "nicho": "advogada",
+  "strategy": "legal",
+  "source": "instagram",
+  "discovered_urls": {
+    "site_url": "",
+    "instagram_username": "advbeatrizmedeiros",
+    "facebook_url": "",
+    "google_maps_url": "",
+    "platform_urls": {
+      "jusbrasil": "https://www.jusbrasil.com.br/processos/nome/49310594/beatriz-medeiros",
+      "tiktok_discover": "https://www.tiktok.com/discover/beatriz-medeiros-advogada"
+    }
+  },
+  "data_points": [
+    {
+      "category": "presence",
+      "label": "Instagram confirmado",
+      "value": "@advbeatrizmedeiros",
+      "detail": {
+        "followers": 3484,
+        "posts": 221,
+        "bio_link": false,
+        "profile_type": "100% profissional juridico"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (Google)",
+      "fetched_at": "2026-04-08T08:12:11.443097"
+    },
+    {
+      "category": "presence",
+      "label": "Sem site oficial",
+      "value": "Nenhum website encontrado",
+      "detail": {
+        "searches_done": 5,
+        "result": "Nenhum dominio proprio identificado"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:12:11.443097"
+    },
+    {
+      "category": "presence",
+      "label": "Especialidades",
+      "value": "Direito Processual Penal, Direito Medico",
+      "detail": {
+        "primary": "Direito Processual Penal",
+        "secondary": "Direito Medico",
+        "content_type": "juridico educativo"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (Instagram meta)",
+      "fetched_at": "2026-04-08T08:12:11.443097"
+    },
+    {
+      "category": "presence",
+      "label": "JusBrasil - processos",
+      "value": "57 processos encontrados com nome Beatriz Medeiros",
+      "detail": {
+        "tribunais": [
+          "TJSP",
+          "TJPR",
+          "TJSC"
+        ],
+        "note": "Nome comum, pode incluir homonimos"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (JusBrasil)",
+      "fetched_at": "2026-04-08T08:12:11.443097"
+    },
+    {
+      "category": "presence",
+      "label": "TikTok presenca",
+      "value": "Pagina discover existe, perfil @biamedeirox possivel",
+      "detail": {
+        "confirmed": false,
+        "url": "https://www.tiktok.com/discover/beatriz-medeiros-advogada"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (TikTok)",
+      "fetched_at": "2026-04-08T08:12:11.443097"
+    },
+    {
+      "category": "presence",
+      "label": "LinkedIn possivel",
+      "value": "Beatriz Medeiros - Befly S.A (Jaragua do Sul SC)",
+      "detail": {
+        "url": "https://www.linkedin.com/in/beatriz-medeiros-2a864b179/",
+        "note": "Pode ser homonima - area corporativa, nao penal"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (LinkedIn)",
+      "fetched_at": "2026-04-08T08:12:11.443097"
+    },
+    {
+      "category": "social",
+      "label": "Conteudo Instagram",
+      "value": "Perfil 100% profissional com conteudo juridico",
+      "detail": {
+        "tipo": "educativo",
+        "temas": [
+          "leis",
+          "dicas juridicas",
+          "casos",
+          "direito penal",
+          "direito medico"
+        ]
+      },
+      "source_type": "briefing",
+      "source_name": "Input do usuario",
+      "fetched_at": "2026-04-08T08:12:11.443097"
+    },
+    {
+      "category": "identity",
+      "label": "CNPJ",
+      "value": "Nao encontrado para SC",
+      "detail": {
+        "homonima_cnpj": "33.874.960/0001-30",
+        "homonima_razao": "BEATRIZ MEDEIROS SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+        "homonima_local": "Campo Grande/MS",
+        "homonima_socia": "Beatriz Rodrigues Medeiros",
+        "note": "CNPJ encontrado e de homonima em MS, nao corresponde a lead de SC"
+      },
+      "source_type": "briefing",
+      "source_name": "BrasilAPI + WebSearch",
+      "fetched_at": "2026-04-08T08:13:41.334989"
+    },
+    {
+      "category": "professional_registry",
+      "label": "OAB",
+      "value": "Nao confirmado via web search",
+      "detail": {
+        "seccional_provavel": "OAB/SC",
+        "especialidades": [
+          "Direito Processual Penal",
+          "Direito Medico"
+        ],
+        "cna_consultado": true,
+        "comissao_penal_oabsc": "Pagina nao acessivel (404)",
+        "note": "Numero OAB nao encontrado publicamente. CNA OAB nao tem API publica."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (OAB)",
+      "fetched_at": "2026-04-08T08:13:41.334989"
+    },
+    {
+      "category": "website",
+      "label": "Website",
+      "value": "Nao possui site",
+      "detail": {
+        "status": "sem_site"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-08T08:14:07.383714"
+    },
+    {
+      "category": "sales_channels",
+      "label": "JusBrasil - processos",
+      "value": "57 processos com nome Beatriz Medeiros",
+      "detail": {
+        "url": "https://www.jusbrasil.com.br/processos/nome/49310594/beatriz-medeiros",
+        "tribunais_principais": [
+          "TJSP",
+          "TJPR"
+        ],
+        "note": "Nome comum - pode incluir homonimos. Nao e possivel confirmar quais sao da lead sem OAB"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (JusBrasil)",
+      "fetched_at": "2026-04-08T08:14:53.731128"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Reclame Aqui",
+      "value": "Nao encontrado",
+      "detail": {
+        "status": "sem_perfil",
+        "note": "Nenhum perfil especifico no Reclame Aqui"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (ReclameAqui)",
+      "fetched_at": "2026-04-08T08:14:53.731128"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Escavador",
+      "value": "Nao encontrado perfil especifico",
+      "detail": {
+        "status": "homonimos_encontrados",
+        "note": "Nenhum perfil exato no Escavador"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (Escavador)",
+      "fetched_at": "2026-04-08T08:14:53.731128"
+    },
+    {
+      "category": "images",
+      "label": "Foto de perfil Instagram (Google cache)",
+      "value": "Perfil @advbeatrizmedeiros confirmado no Google Images",
+      "detail": {
+        "tipo": "profile_pic",
+        "fonte": "Google Images",
+        "instagram_username": "advbeatrizmedeiros",
+        "note": "og:image do Instagram nao acessivel via Playwright (sessao redireciona). Foto visivel no Google Images."
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP (Google Images)",
+      "fetched_at": "2026-04-08T08:19:07.502465"
+    },
+    {
+      "category": "images",
+      "label": "Post Instagram - Dia da Mulher",
+      "value": "https://www.instagram.com/p/DVoRdkujlmv/",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Instagram via Google Images",
+        "caption": "Varias versoes. Qualidades unicas. Foi criada para ser fonte, suporte, forca, edificar o lar.",
+        "has_text": true
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP (Google Images)",
+      "fetched_at": "2026-04-08T08:19:07.502465"
+    },
+    {
+      "category": "images",
+      "label": "Post Instagram - Auxilio Moradia Medico Residente",
+      "value": "https://www.instagram.com/reel/DIPMJhNRPQC/",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Instagram via Google Images",
+        "caption": "Auxilio moradia e um direito do medico residente, assim sendo, deve-se reivindica-lo.",
+        "has_text": true,
+        "content_type": "juridico_educativo"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP (Google Images)",
+      "fetched_at": "2026-04-08T08:19:07.502465"
+    },
+    {
+      "category": "images",
+      "label": "Post Instagram - Congresso Direito Medico",
+      "value": "https://www.instagram.com/p/DOqj9Z5jtXT/",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Instagram via Google Images",
+        "caption": "Mais um congresso e o primeiro de direito medico.",
+        "has_text": false,
+        "content_type": "evento_profissional"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP (Google Images)",
+      "fetched_at": "2026-04-08T08:19:07.502465"
+    },
+    {
+      "category": "images",
+      "label": "Posts Instagram - Links coletados do perfil",
+      "value": "30 links de posts coletados",
+      "detail": {
+        "tipo": "post_links",
+        "fonte": "Playwright MCP (perfil logado)",
+        "post_links": [
+          "https://www.instagram.com/reel/DL-FtWXuxV9/",
+          "https://www.instagram.com/p/C7MD4Lmue6R/",
+          "https://www.instagram.com/p/DKhj5wKuA2v/",
+          "https://www.instagram.com/p/DM1ApilymFP/",
+          "https://www.instagram.com/reel/DLa5kcOSzYJ/",
+          "https://www.instagram.com/p/DKsknitv4oJ/",
+          "https://www.instagram.com/p/DVJ1fRDkWB9/",
+          "https://www.instagram.com/reel/C8wnrnZxMdC/",
+          "https://www.instagram.com/p/C9LUPQ4v40G/",
+          "https://www.instagram.com/p/DJFbswnRx20/"
+        ],
+        "total_links": 30,
+        "note": "og:image individual nao extraivel pois Instagram redireciona posts para feed quando logado"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP (Instagram profile)",
+      "fetched_at": "2026-04-08T08:19:07.502465"
+    },
+    {
+      "category": "images",
+      "label": "Post Instagram - Reel motivacional",
+      "value": "https://www.instagram.com/reel/DVjqvDEkTia/",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Instagram via Google Images",
+        "caption": "Ninguem volta para te buscar.",
+        "has_text": true,
+        "content_type": "motivacional"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP (Google Images)",
+      "fetched_at": "2026-04-08T08:19:07.502465"
+    },
+    {
+      "category": "images",
+      "label": "Post Instagram - Reel treino/lifestyle",
+      "value": "https://www.instagram.com/reel/DWfEq2Qj19J/",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Instagram via Google Images",
+        "caption": "Seja forte e continue. Videomaker: @_naiaram",
+        "has_text": false,
+        "content_type": "lifestyle"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP (Google Images)",
+      "fetched_at": "2026-04-08T08:19:07.502465"
+    },
+    {
+      "category": "brand",
+      "label": "Padroes da marca",
+      "value": "Perfil juridico profissional, conteudo educativo sobre direito penal e medico, tom formal-acessivel",
+      "detail": {
+        "cores": [
+          "tons escuros",
+          "preto",
+          "branco",
+          "dourado"
+        ],
+        "tom": "formal-acessivel",
+        "publico_alvo": "Pessoas que precisam de defesa criminal, profissionais de saude (direito medico), publico geral interessado em direitos",
+        "estilo_visual": "profissional, limpo, tipografia serif, posts com texto educativo",
+        "slogan": "Nao identificado"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-08T08:20:16.796785"
+    },
+    {
+      "category": "competitors",
+      "label": "Concorrentes com site",
+      "value": "5 encontrados em SC",
+      "detail": [
+        "Priscilla Franco Advocacia Criminal - https://priscillafrancoadv.com/",
+        "Especialista Criminal 24h (Florianopolis) - https://especialistacriminal24h.com.br/",
+        "Janine Fritzen Criminalista (Criciuma) - https://janinefritzencriminalista.com/",
+        "Nathalia Poeta Advocacia Criminal (Sao Jose) - https://nathaliapoeta.com.br/",
+        "Advogada Alessandra Chede (Florianopolis) - https://advchede.com.br/"
+      ],
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:20:16.796785"
+    }
+  ],
+  "phases": {
+    "phase_1": {
+      "status": "complete",
+      "completed_at": "2026-04-08T08:10:24.597703"
+    },
+    "phase_2": {
+      "status": "complete",
+      "completed_at": "2026-04-08T08:12:11.443097",
+      "result": "0 URLs de site, 1 Instagram confirmado, 7 data_points"
+    },
+    "phase_3": {
+      "status": "complete",
+      "completed_at": "2026-04-08T08:13:41.334989",
+      "result": "CNPJ nao encontrado para SC (homonima em MS). OAB nao confirmado via web."
+    },
+    "phase_4": {
+      "status": "complete",
+      "completed_at": "2026-04-08T08:14:07.383714",
+      "result": "Sem site - nenhuma analise de website necessaria"
+    },
+    "phase_5": {
+      "status": "complete",
+      "completed_at": "2026-04-08T08:14:53.731128",
+      "result": "JusBrasil com processos (homonimos possiveis). Sem ReclameAqui/Escavador. 3 data_points."
+    },
+    "phase_6": {
+      "status": "complete",
+      "completed_at": "2026-04-08T08:19:07.502465",
+      "result": "7 data_points de imagem. Google Images confirmou perfil. Playwright coletou 30 post_links. og:image individual nao acessivel (Instagram redireciona)."
+    },
+    "phase_7": {
+      "status": "complete",
+      "result": "Briefing salvo no vendedor.db. Sales score: 7/10"
+    }
+  },
+  "started_at": "2026-04-08T08:10:24.597699",
+  "completed_at": "2026-04-08T08:20:16.796785"
+}

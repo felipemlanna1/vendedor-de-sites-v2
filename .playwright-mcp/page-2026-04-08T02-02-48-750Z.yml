@@ -1,0 +1,277 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e88] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e93]
+        - link "Foto do perfil de _pipelinestudio" [ref=e99] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e104]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e105]
+      - generic [ref=e106]:
+        - link "Configurações" [ref=e109] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e114]
+        - link "Também da Meta" [ref=e117] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e122]
+    - generic [ref=e125]:
+      - main [ref=e126]:
+        - generic [ref=e127]:
+          - generic [ref=e129]:
+            - button [ref=e134]:
+              - generic [ref=e138] [cursor=pointer]:
+                - button [ref=e139]:
+                  - img [ref=e141]
+                - button [ref=e144]:
+                  - img [ref=e146]
+            - generic [ref=e149]:
+              - generic [ref=e151]:
+                - generic [ref=e153]:
+                  - link "Foto do perfil de admedic_eventos" [ref=e154]:
+                    - img "Foto do perfil de admedic_eventos" [ref=e155]
+                  - link "Foto do perfil de jnpatientcare" [ref=e158]:
+                    - img "Foto do perfil de jnpatientcare" [ref=e159]
+                - generic [ref=e163]:
+                  - generic [ref=e166]:
+                    - link "jnpatientcare" [ref=e170] [cursor=pointer]:
+                      - /url: /jnpatientcare/
+                      - generic [ref=e173]: jnpatientcare
+                    - text: e
+                    - link "admedic_eventos" [ref=e177] [cursor=pointer]:
+                      - /url: /admedic_eventos/
+                      - generic [ref=e180]: admedic_eventos
+                  - link "Centro de Congressos do Estoril" [ref=e184] [cursor=pointer]:
+                    - /url: /explore/locations/2662842/centro-de-congressos-do-estoril/
+                - button "Mais opções" [ref=e187] [cursor=pointer]:
+                  - img "Mais opções" [ref=e190]
+              - separator [ref=e194]
+              - generic [ref=e196]:
+                - generic [ref=e198]:
+                  - link "Foto do perfil de jnpatientcare" [ref=e203] [cursor=pointer]:
+                    - /url: /jnpatientcare/
+                    - img "Foto do perfil de jnpatientcare" [ref=e204]
+                  - generic [ref=e208]:
+                    - generic [ref=e209]:
+                      - link "jnpatientcare" [ref=e213] [cursor=pointer]:
+                        - /url: /jnpatientcare/
+                        - generic [ref=e216]: jnpatientcare
+                      - time [ref=e218]: 9 sem
+                    - generic [ref=e219]:
+                      - text: 📘 𝐂𝐮𝐫𝐬𝐨 𝐏𝐫𝐞́-𝐉𝐨𝐫𝐧𝐚𝐝𝐚𝐬 𝐉𝐍𝐏𝐂 𝟐𝟎𝟐𝟔
+                      - text: "👩‍🏫 Formadora: 𝐃𝐫𝐚. 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚 𝐑𝐢𝐛𝐞𝐢𝐫𝐨 𝐀𝐥𝐯𝐞𝐬"
+                      - text: "📌 Curso 1: 𝙍𝙚𝙩𝙝𝙞𝙣𝙠𝙞𝙣𝙜 𝙊𝙗𝙚𝙨𝙞𝙩𝙮: 𝙀𝙢𝙥𝙤𝙬𝙚𝙧𝙞𝙣𝙜 𝙁𝙖𝙢𝙞𝙡𝙮 𝘿𝙤𝙘𝙩𝙤𝙧𝙨 𝙛𝙤𝙧 𝙍𝙚𝙖𝙡 𝘾𝙝𝙖𝙣𝙜𝙚"
+                      - text: 🗓️ 𝟮𝟱 𝗱𝗲 𝗳𝗲𝘃𝗲𝗿𝗲𝗶𝗿𝗼 𝗱𝗲 𝟮𝟬𝟮𝟲
+                      - text: 🕒 𝟭𝟬:𝟬𝟬 – 𝟭𝟴:𝟯𝟬𝗵
+                      - text: "👉 Garanta já a sua inscrição em: 𝙬𝙬𝙬.𝙖𝙙𝙢𝙚𝙙𝙞𝙘.𝙥𝙩"
+                      - text: ℹ️ A 𝐃𝐫𝐚. 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚 𝐑𝐢𝐛𝐞𝐢𝐫𝐨 𝐀𝐥𝐯𝐞𝐬 desempenha funções como 𝗠𝗲́𝗱𝗶𝗰𝗮 𝗱𝗲 𝗠𝗲𝗱𝗶𝗰𝗶𝗻𝗮 𝗚𝗲𝗿𝗮𝗹 𝗲 𝗙𝗮𝗺𝗶𝗹𝗶𝗮𝗿 no 𝐇𝐨𝐬𝐩𝐢𝐭𝐚𝐥 𝐋𝐮𝐬𝐢𝐚𝐝𝐚𝐬 𝐁𝐫𝐚𝐠𝐚, com 𝗳𝗼𝗿𝗺𝗮𝗰̧𝗮̃𝗼 𝗮𝘃𝗮𝗻𝗰̧𝗮𝗱𝗮 𝗲𝗺 𝗢𝗯𝗲𝘀𝗶𝗱𝗮𝗱𝗲. Possui uma abordagem estruturada e baseada na evidência na Consulta de MGF, reconhecendo a 𝗢𝗯𝗲𝘀𝗶𝗱𝗮𝗱𝗲 𝗰𝗼𝗺𝗼 𝗗𝗼𝗲𝗻𝗰̧𝗮 𝗖𝗿𝗼́𝗻𝗶𝗰𝗮.
+                      - link "#Admedic" [ref=e220] [cursor=pointer]:
+                        - /url: /explore/tags/admedic/
+                      - link "#JNPC" [ref=e221] [cursor=pointer]:
+                        - /url: /explore/tags/jnpc/
+                      - link "#medicinageralefamiliar" [ref=e222] [cursor=pointer]:
+                        - /url: /explore/tags/medicinageralefamiliar/
+                      - link "#cursosmedicos" [ref=e223] [cursor=pointer]:
+                        - /url: /explore/tags/cursosmedicos/
+                      - link "#formadores" [ref=e224] [cursor=pointer]:
+                        - /url: /explore/tags/formadores/
+                - generic [ref=e227]:
+                  - heading "Ainda não há nenhum comentário." [level=2] [ref=e229]
+                  - generic [ref=e231]: Inicie a conversa.
+              - generic [ref=e232]:
+                - generic [ref=e233]:
+                  - generic [ref=e234]:
+                    - button "Curtir" [ref=e237] [cursor=pointer]:
+                      - img "Curtir" [ref=e240]
+                    - button "7" [ref=e242] [cursor=pointer]
+                    - button "Comentar" [ref=e244] [cursor=pointer]:
+                      - img "Comentar" [ref=e246]
+                    - button "Compartilhar" [ref=e248] [cursor=pointer]:
+                      - img "Compartilhar" [ref=e249]
+                  - button "Salvar" [ref=e254] [cursor=pointer]:
+                    - button "Salvar" [ref=e255]:
+                      - img "Salvar" [ref=e257]
+                - link "3 de fevereiro" [ref=e261] [cursor=pointer]:
+                  - /url: /jnpatientcare/p/DUS4TIpCPqS/
+                  - time [ref=e263]: 3 de fevereiro
+              - generic [ref=e266]:
+                - link [ref=e267]
+                - generic [ref=e269]:
+                  - button "Emoji" [ref=e271] [cursor=pointer]:
+                    - img "Emoji" [ref=e273]
+                  - textbox "Adicione um comentário..." [ref=e275]
+          - separator [ref=e277]
+          - generic [ref=e278]:
+            - generic [ref=e280]:
+              - text: Mais posts de
+              - link "jnpatientcare" [ref=e281] [cursor=pointer]:
+                - /url: /jnpatientcare/
+            - generic [ref=e284]:
+              - generic [ref=e285]:
+                - 'link "𝐄𝐧𝐭𝐫𝐞𝐯𝐢𝐬𝐭𝐚 | 𝐃𝐚 𝐋𝐨𝐧𝐠𝐞𝐯𝐢𝐝𝐚𝐝𝐞 𝐝𝐚𝐬 𝐉𝐍𝐏𝐂 𝐚𝐨 𝐅𝐮𝐭𝐮𝐫𝐨 𝐝𝐨 𝐏𝐚𝐩𝐞𝐥 𝐝𝐨 𝐌𝐞́𝐝𝐢𝐜𝐨 O 𝗝𝗼𝗿𝗻𝗮𝗹 𝗠𝗲́𝗱𝗶𝗰𝗼 entrevistou o 𝐃𝐫. 𝐉𝐨𝐬𝐞́ 𝐂𝐚𝐧𝐚𝐬 𝐝𝐚 𝐒𝐢𝐥𝐯𝐚 a propósito da 𝟑𝟎.ª 𝐄𝐝𝐢𝐜̧𝐚̃𝐨 𝐝𝐚𝐬 𝐉𝐨𝐫𝐧𝐚𝐝𝐚𝐬 𝐍𝐚𝐜𝐢𝐨𝐧𝐚𝐢𝐬 𝐏𝐚𝐭𝐢𝐞𝐧𝐭 𝐂𝐚𝐫𝐞, que decorreram nos dias 26 e 27 de fevereiro de 2026 no Centro de Congressos do Estoril. Nesta conversa, o Presidente do evento reflete sobre as três décadas de rigor científico e o impacto das novas tecnologias, como a 𝙄𝙣𝙩𝙚𝙡𝙞𝙜𝙚̂𝙣𝙘𝙞𝙖 𝘼𝙧𝙩𝙞𝙛𝙞𝙘𝙞𝙖𝙡, na evolução da prática clínica em Portugal. 👉 Deslize para ler os principais destaques da entrevista. #JNPC #Admedic #jornalmedico #praticaclinica #saúde Carrossel" [ref=e287] [cursor=pointer]':
+                  - /url: /jnpatientcare/p/DV_i7mCiHNh/
+                  - 'img "𝐄𝐧𝐭𝐫𝐞𝐯𝐢𝐬𝐭𝐚 | 𝐃𝐚 𝐋𝐨𝐧𝐠𝐞𝐯𝐢𝐝𝐚𝐝𝐞 𝐝𝐚𝐬 𝐉𝐍𝐏𝐂 𝐚𝐨 𝐅𝐮𝐭𝐮𝐫𝐨 𝐝𝐨 𝐏𝐚𝐩𝐞𝐥 𝐝𝐨 𝐌𝐞́𝐝𝐢𝐜𝐨 O 𝗝𝗼𝗿𝗻𝗮𝗹 𝗠𝗲́𝗱𝗶𝗰𝗼 entrevistou o 𝐃𝐫. 𝐉𝐨𝐬𝐞́ 𝐂𝐚𝐧𝐚𝐬 𝐝𝐚 𝐒𝐢𝐥𝐯𝐚 a propósito da 𝟑𝟎.ª 𝐄𝐝𝐢𝐜̧𝐚̃𝐨 𝐝𝐚𝐬 𝐉𝐨𝐫𝐧𝐚𝐝𝐚𝐬 𝐍𝐚𝐜𝐢𝐨𝐧𝐚𝐢𝐬 𝐏𝐚𝐭𝐢𝐞𝐧𝐭 𝐂𝐚𝐫𝐞, que decorreram nos dias 26 e 27 de fevereiro de 2026 no Centro de Congressos do Estoril. Nesta conversa, o Presidente do evento reflete sobre as três décadas de rigor científico e o impacto das novas tecnologias, como a 𝙄𝙣𝙩𝙚𝙡𝙞𝙜𝙚̂𝙣𝙘𝙞𝙖 𝘼𝙧𝙩𝙞𝙛𝙞𝙘𝙞𝙖𝙡, na evolução da prática clínica em Portugal. 👉 Deslize para ler os principais destaques da entrevista. #JNPC #Admedic #jornalmedico #praticaclinica #saúde" [ref=e290]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - 'link "𝐁𝐞𝐬𝐭 𝐎𝐟 | 𝐃𝐢𝐚 𝟐 O segundo dia das 𝟑𝟎ª𝐬 𝐉𝐨𝐫𝐧𝐚𝐝𝐚𝐬 𝐍𝐚𝐜𝐢𝐨𝐧𝐚𝐢𝐬 𝐏𝐚𝐭𝐢𝐞𝐧𝐭 𝐂𝐚𝐫𝐞 (𝐉𝐍𝐏𝐂) superou todas as expectativas! No dia 𝟮𝟳 𝗱𝗲 𝗳𝗲𝘃𝗲𝗿𝗲𝗶𝗿𝗼, o 𝗖𝗲𝗻𝘁𝗿𝗼 𝗱𝗲 𝗖𝗼𝗻𝗴𝗿𝗲𝘀𝘀𝗼𝘀 𝗱𝗼 𝗘𝘀𝘁𝗼𝗿𝗶𝗹 encheu-se de uma energia renovada, onde a tradição de três décadas se cruzou com a visão do futuro! Um enorme obrigado aos nossos 𝙥𝙖𝙧𝙩𝙞𝙘𝙞𝙥𝙖𝙣𝙩𝙚𝙨, 𝙤𝙧𝙖𝙙𝙤𝙧𝙚𝙨 e 𝙥𝙖𝙩𝙧𝙤𝙘𝙞𝙣𝙖𝙙𝙤𝙧𝙚𝙨, o vosso contributo foi vital para manter o nível de excelência que define esta edição comemorativa. Seguimos com o foco total na 𝗺𝗶𝘀𝘀𝗮̃𝗼 de inovar o cuidado ao doente em Portugal. 🩺🧡 #Admedic #JNPC #medicinageralefamiliar #atualizaçãomédica #bestof Carrossel" [ref=e293] [cursor=pointer]':
+                  - /url: /jnpatientcare/p/DVgiADQCCgd/
+                  - 'img "𝐁𝐞𝐬𝐭 𝐎𝐟 | 𝐃𝐢𝐚 𝟐 O segundo dia das 𝟑𝟎ª𝐬 𝐉𝐨𝐫𝐧𝐚𝐝𝐚𝐬 𝐍𝐚𝐜𝐢𝐨𝐧𝐚𝐢𝐬 𝐏𝐚𝐭𝐢𝐞𝐧𝐭 𝐂𝐚𝐫𝐞 (𝐉𝐍𝐏𝐂) superou todas as expectativas! No dia 𝟮𝟳 𝗱𝗲 𝗳𝗲𝘃𝗲𝗿𝗲𝗶𝗿𝗼, o 𝗖𝗲𝗻𝘁𝗿𝗼 𝗱𝗲 𝗖𝗼𝗻𝗴𝗿𝗲𝘀𝘀𝗼𝘀 𝗱𝗼 𝗘𝘀𝘁𝗼𝗿𝗶𝗹 encheu-se de uma energia renovada, onde a tradição de três décadas se cruzou com a visão do futuro! Um enorme obrigado aos nossos 𝙥𝙖𝙧𝙩𝙞𝙘𝙞𝙥𝙖𝙣𝙩𝙚𝙨, 𝙤𝙧𝙖𝙙𝙤𝙧𝙚𝙨 e 𝙥𝙖𝙩𝙧𝙤𝙘𝙞𝙣𝙖𝙙𝙤𝙧𝙚𝙨, o vosso contributo foi vital para manter o nível de excelência que define esta edição comemorativa. Seguimos com o foco total na 𝗺𝗶𝘀𝘀𝗮̃𝗼 de inovar o cuidado ao doente em Portugal. 🩺🧡 #Admedic #JNPC #medicinageralefamiliar #atualizaçãomédica #bestof" [ref=e296]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - link [ref=e299] [cursor=pointer]:
+                  - /url: /jnpatientcare/p/DVblWyVCNoU/
+                  - img [ref=e302]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+              - generic [ref=e304]:
+                - 'link "Chegamos ao fim de 𝗱𝗼𝗶𝘀 𝗱𝗶𝗮𝘀 𝗶𝗻𝘁𝗲𝗻𝘀𝗼𝘀 𝗱𝗲 𝗽𝗮𝗿𝘁𝗶𝗹𝗵𝗮, 𝗮𝗽𝗿𝗲𝗻𝗱𝗶𝘇𝗮𝗴𝗲𝗺 e 𝗰𝗲𝗹𝗲𝗯𝗿𝗮𝗰̧𝗮̃𝗼 𝗱𝗲 𝘁𝗿𝗲̂𝘀 𝗱𝗲́𝗰𝗮𝗱𝗮𝘀 ao serviço da 𝗠𝗲𝗱𝗶𝗰𝗶𝗻𝗮 𝗚𝗲𝗿𝗮𝗹 𝗲 𝗙𝗮𝗺𝗶𝗹𝗶𝗮𝗿. Neste 𝙨𝙚𝙜𝙪𝙣𝙙𝙤 𝙙𝙞𝙖, reforçámos o compromisso com a excelência clínica e a atualização constante, pilares fundamentais para o médico atual. Contemplar o 𝗮𝘂𝗱𝗶𝘁𝗼́𝗿𝗶𝗼 𝗰𝗵𝗲𝗶𝗼 é o reflexo do empenho que a 𝐀𝐝 𝐌𝐞́𝐝𝐢𝐜+ coloca no sucesso de cada evento que organiza e o mesmo com que fornece todos os seus serviços. 𝐑𝐢𝐠𝐨𝐫 𝐞 𝐜𝐨𝐧𝐟𝐢𝐚𝐧𝐜̧𝐚 𝐩𝐚𝐫𝐚 𝐚𝐥𝐜𝐚𝐧𝐜̧𝐚𝐫 + 𝐄𝐯𝐞𝐧𝐭𝐨𝐬 𝐝𝐞 𝐄𝐱𝐜𝐞𝐥𝐞̂𝐧𝐜𝐢𝐚. 𝗔𝗴𝗿𝗮𝗱𝗲𝗰𝗲𝗺𝗼𝘀 𝗮 𝘁𝗼𝗱𝗼𝘀 os que se juntaram a nós nesta edição histórica! #Admedic #JNPC #medicinageralefamiliar #patientcare #jornadasmedicas Carrossel" [ref=e306] [cursor=pointer]':
+                  - /url: /jnpatientcare/p/DVRTn3HCEte/
+                  - 'img "Chegamos ao fim de 𝗱𝗼𝗶𝘀 𝗱𝗶𝗮𝘀 𝗶𝗻𝘁𝗲𝗻𝘀𝗼𝘀 𝗱𝗲 𝗽𝗮𝗿𝘁𝗶𝗹𝗵𝗮, 𝗮𝗽𝗿𝗲𝗻𝗱𝗶𝘇𝗮𝗴𝗲𝗺 e 𝗰𝗲𝗹𝗲𝗯𝗿𝗮𝗰̧𝗮̃𝗼 𝗱𝗲 𝘁𝗿𝗲̂𝘀 𝗱𝗲́𝗰𝗮𝗱𝗮𝘀 ao serviço da 𝗠𝗲𝗱𝗶𝗰𝗶𝗻𝗮 𝗚𝗲𝗿𝗮𝗹 𝗲 𝗙𝗮𝗺𝗶𝗹𝗶𝗮𝗿. Neste 𝙨𝙚𝙜𝙪𝙣𝙙𝙤 𝙙𝙞𝙖, reforçámos o compromisso com a excelência clínica e a atualização constante, pilares fundamentais para o médico atual. Contemplar o 𝗮𝘂𝗱𝗶𝘁𝗼́𝗿𝗶𝗼 𝗰𝗵𝗲𝗶𝗼 é o reflexo do empenho que a 𝐀𝐝 𝐌𝐞́𝐝𝐢𝐜+ coloca no sucesso de cada evento que organiza e o mesmo com que fornece todos os seus serviços. 𝐑𝐢𝐠𝐨𝐫 𝐞 𝐜𝐨𝐧𝐟𝐢𝐚𝐧𝐜̧𝐚 𝐩𝐚𝐫𝐚 𝐚𝐥𝐜𝐚𝐧𝐜̧𝐚𝐫 + 𝐄𝐯𝐞𝐧𝐭𝐨𝐬 𝐝𝐞 𝐄𝐱𝐜𝐞𝐥𝐞̂𝐧𝐜𝐢𝐚. 𝗔𝗴𝗿𝗮𝗱𝗲𝗰𝗲𝗺𝗼𝘀 𝗮 𝘁𝗼𝗱𝗼𝘀 os que se juntaram a nós nesta edição histórica! #Admedic #JNPC #medicinageralefamiliar #patientcare #jornadasmedicas" [ref=e309]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - 'link "Arrancou hoje o 𝙥𝙧𝙞𝙢𝙚𝙞𝙧𝙤 𝙙𝙞𝙖 das 𝟑𝟎ª𝐬 𝐉𝐨𝐫𝐧𝐚𝐝𝐚𝐬 𝐍𝐚𝐜𝐢𝐨𝐧𝐚𝐢𝐬 𝐏𝐚𝐭𝐢𝐞𝐧𝐭 𝐂𝐚𝐫𝐞! 🩺 𝗧𝗿𝗲̂𝘀 𝗱𝗲́𝗰𝗮𝗱𝗮𝘀 𝗱𝗲 𝗰𝗼𝗺𝗽𝗿𝗼𝗺𝗶𝘀𝘀𝗼 com a atualização médica e a excelência clínica. O empenho que a 𝐀𝐝 𝐌𝐞́𝐝𝐢𝐜+ coloca no sucesso de cada evento que organiza é o mesmo com que fornece todos os seus serviços. 𝐑𝐢𝐠𝐨𝐫 𝐞 𝐜𝐨𝐧𝐟𝐢𝐚𝐧𝐜̧𝐚 𝐩𝐚𝐫𝐚 𝐚𝐥𝐜𝐚𝐧𝐜̧𝐚𝐫 + 𝐄𝐯𝐞𝐧𝐭𝐨𝐬 𝐝𝐞 𝐄𝐱𝐜𝐞𝐥𝐞̂𝐧𝐜𝐢𝐚. Acompanhe-nos e esteja por dentro de tudo o que está a acontecer na vanguarda da 𝗠𝗲𝗱𝗶𝗰𝗶𝗻𝗮 𝗚𝗲𝗿𝗮𝗹 𝗲 𝗙𝗮𝗺𝗶𝗹𝗶𝗮𝗿! #Admedic #JNPC #medicinageralefamiliar #patientcare #jornadasmédicas Carrossel" [ref=e312] [cursor=pointer]':
+                  - /url: /jnpatientcare/p/DVOp7RFiB2K/
+                  - 'img "Arrancou hoje o 𝙥𝙧𝙞𝙢𝙚𝙞𝙧𝙤 𝙙𝙞𝙖 das 𝟑𝟎ª𝐬 𝐉𝐨𝐫𝐧𝐚𝐝𝐚𝐬 𝐍𝐚𝐜𝐢𝐨𝐧𝐚𝐢𝐬 𝐏𝐚𝐭𝐢𝐞𝐧𝐭 𝐂𝐚𝐫𝐞! 🩺 𝗧𝗿𝗲̂𝘀 𝗱𝗲́𝗰𝗮𝗱𝗮𝘀 𝗱𝗲 𝗰𝗼𝗺𝗽𝗿𝗼𝗺𝗶𝘀𝘀𝗼 com a atualização médica e a excelência clínica. O empenho que a 𝐀𝐝 𝐌𝐞́𝐝𝐢𝐜+ coloca no sucesso de cada evento que organiza é o mesmo com que fornece todos os seus serviços. 𝐑𝐢𝐠𝐨𝐫 𝐞 𝐜𝐨𝐧𝐟𝐢𝐚𝐧𝐜̧𝐚 𝐩𝐚𝐫𝐚 𝐚𝐥𝐜𝐚𝐧𝐜̧𝐚𝐫 + 𝐄𝐯𝐞𝐧𝐭𝐨𝐬 𝐝𝐞 𝐄𝐱𝐜𝐞𝐥𝐞̂𝐧𝐜𝐢𝐚. Acompanhe-nos e esteja por dentro de tudo o que está a acontecer na vanguarda da 𝗠𝗲𝗱𝗶𝗰𝗶𝗻𝗮 𝗚𝗲𝗿𝗮𝗹 𝗲 𝗙𝗮𝗺𝗶𝗹𝗶𝗮𝗿! #Admedic #JNPC #medicinageralefamiliar #patientcare #jornadasmédicas" [ref=e315]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - link "Photo by Jornadas Nacionais Patient Care | JNPC in Centro de Congressos do Estoril with @admedic_eventos. May be a graphic of ‎magazine, poster, calendar, banner and ‎text that says '‎30 ANOS JNPC Jornadas Nacionais Patient Care A melhor prática clinica para médico atual MAJORSPONSORS MAJOR SPONSORS BAYER FAES FARMA Landbeck SPONSORS TECNIMEDE InnovativePharma Innovative Pharma A. MENARINI PORTUGAL ageas AMGEN f ferrer FRESENIUS KABI astellas GEDEON RICHTER humanize CotatoseeSue Pa בנ ้าส้า nethor H humanova® GRUNENTHAL PiLeje CRERUNENE LISINA SERVIER* moved you phytoderm. APOIO Unilabs URSAPHARM LIDEL admédic ad‎'‎‎." [ref=e318] [cursor=pointer]:
+                  - /url: /jnpatientcare/p/DVMFF3_iDec/
+                  - img "Photo by Jornadas Nacionais Patient Care | JNPC in Centro de Congressos do Estoril with @admedic_eventos. May be a graphic of ‎magazine, poster, calendar, banner and ‎text that says '‎30 ANOS JNPC Jornadas Nacionais Patient Care A melhor prática clinica para médico atual MAJORSPONSORS MAJOR SPONSORS BAYER FAES FARMA Landbeck SPONSORS TECNIMEDE InnovativePharma Innovative Pharma A. MENARINI PORTUGAL ageas AMGEN f ferrer FRESENIUS KABI astellas GEDEON RICHTER humanize CotatoseeSue Pa בנ ้าส้า nethor H humanova® GRUNENTHAL PiLeje CRERUNENE LISINA SERVIER* moved you phytoderm. APOIO Unilabs URSAPHARM LIDEL admédic ad‎'‎‎." [ref=e321]
+      - contentinfo [ref=e323]:
+        - generic [ref=e324]:
+          - generic [ref=e326]:
+            - link "Meta" [ref=e328] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e329]: Meta
+            - link "Sobre" [ref=e331] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e332]: Sobre
+            - link "Blog" [ref=e334] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e335]: Blog
+            - link "Carreiras" [ref=e337] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e338]: Carreiras
+            - link "Ajuda" [ref=e340] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e341]: Ajuda
+            - link "API" [ref=e343] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e344]: API
+            - link "Privacidade" [ref=e346] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e347]: Privacidade
+            - link "Termos" [ref=e349] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e350]: Termos
+            - link "Localizações" [ref=e352] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e353]: Localizações
+            - link "Instagram Lite" [ref=e355] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e356]: Instagram Lite
+            - link "Meta AI" [ref=e358] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e359]: Meta AI
+            - link "Threads" [ref=e361] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e362]: Threads
+            - link "Upload de contatos e não usuários" [ref=e364] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e365]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e367] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e368]: Meta Verified
+          - generic [ref=e369]:
+            - generic [ref=e370] [cursor=pointer]:
+              - generic [ref=e371]:
+                - generic [ref=e372]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e375]
+              - combobox "Trocar idioma de exibição" [ref=e377]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e379]: © 2026 Instagram from Meta
+  - button "Mensagens Mensagens" [ref=e381] [cursor=pointer]:
+    - generic [ref=e383]:
+      - img "Mensagens" [ref=e385]
+      - generic [ref=e388]: Mensagens

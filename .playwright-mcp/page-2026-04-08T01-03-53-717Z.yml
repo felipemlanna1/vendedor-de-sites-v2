@@ -1,0 +1,320 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e88] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e93]
+        - link "Foto do perfil de _pipelinestudio" [ref=e99] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e104]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e105]
+      - generic [ref=e106]:
+        - link "Configurações" [ref=e109] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e114]
+        - link "Também da Meta" [ref=e117] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e122]
+    - generic [ref=e125]:
+      - main [ref=e126]:
+        - generic [ref=e127]:
+          - generic [ref=e129]:
+            - button [ref=e134]:
+              - img [ref=e140]
+            - generic [ref=e143]:
+              - generic [ref=e145]:
+                - button "Foto do perfil de playbiane" [ref=e150] [cursor=pointer]:
+                  - link "Foto do perfil de playbiane" [ref=e152]:
+                    - img "Foto do perfil de playbiane" [ref=e153]
+                - generic [ref=e156]:
+                  - generic [ref=e160]:
+                    - link "playbiane" [ref=e165] [cursor=pointer]:
+                      - /url: /playbiane/
+                      - generic [ref=e168]: playbiane
+                    - img "Verificado" [ref=e170]
+                  - button "Seguir" [ref=e173] [cursor=pointer]
+                - button "Mais opções" [ref=e176] [cursor=pointer]:
+                  - img "Mais opções" [ref=e179]
+              - separator [ref=e183]
+              - generic [ref=e185]:
+                - generic [ref=e187]:
+                  - link "Foto do perfil de playbiane" [ref=e192] [cursor=pointer]:
+                    - /url: /playbiane/
+                    - img "Foto do perfil de playbiane" [ref=e193]
+                  - generic [ref=e197]:
+                    - generic [ref=e198]:
+                      - link "playbiane Verificado" [ref=e202] [cursor=pointer]:
+                        - /url: /playbiane/
+                        - generic [ref=e204]:
+                          - generic [ref=e205]: playbiane
+                          - img "Verificado" [ref=e207]
+                      - time [ref=e210]: 2 sem
+                    - generic [ref=e211]:
+                      - text: O rejuvenescimento facial vai muito além da estética.
+                      - text: É sobre devolver autoestima, confiança e leveza ✨
+                      - text: Cada paciente é única, e por isso criamos protocolos personalizados, respeitando a beleza natural de cada rosto.
+                      - text: 💉 Resultados naturais
+                      - text: 💖 Mais confiança
+                      - text: ✨ Mais você
+                      - text: 📲 Me chama no direct e agende sua avaliação
+                - generic [ref=e212]:
+                  - generic [ref=e215]:
+                    - link "Foto do perfil de gabriela__neres" [ref=e221] [cursor=pointer]:
+                      - /url: /gabriela__neres/
+                      - img "Foto do perfil de gabriela__neres" [ref=e222]
+                    - generic [ref=e223]:
+                      - generic [ref=e224]:
+                        - generic [ref=e226]:
+                          - generic [ref=e227]:
+                            - link "gabriela__neres" [ref=e232] [cursor=pointer]:
+                              - /url: /gabriela__neres/
+                              - generic [ref=e235]: gabriela__neres
+                            - link "2 sem" [ref=e237] [cursor=pointer]:
+                              - /url: /p/DWR7qxjgND9/c/18038928593570084/
+                              - time [ref=e238]: 2 sem
+                          - generic [ref=e240]: 👏👏
+                        - generic [ref=e241]:
+                          - button "1 curtida" [ref=e242] [cursor=pointer]:
+                            - generic [ref=e244]: 1 curtida
+                          - button "Responder" [ref=e245] [cursor=pointer]:
+                            - generic [ref=e247]: Responder
+                      - button "Curtir" [ref=e252] [cursor=pointer]:
+                        - img "Curtir" [ref=e255]
+                  - generic [ref=e259]:
+                    - link "Foto do perfil de sabrinaandraden" [ref=e265] [cursor=pointer]:
+                      - /url: /sabrinaandraden/
+                      - img "Foto do perfil de sabrinaandraden" [ref=e266]
+                    - generic [ref=e267]:
+                      - generic [ref=e268]:
+                        - generic [ref=e270]:
+                          - generic [ref=e271]:
+                            - link "sabrinaandraden" [ref=e276] [cursor=pointer]:
+                              - /url: /sabrinaandraden/
+                              - generic [ref=e279]: sabrinaandraden
+                            - link "2 sem" [ref=e281] [cursor=pointer]:
+                              - /url: /p/DWR7qxjgND9/c/18094572536015501/
+                              - time [ref=e282]: 2 sem
+                          - generic [ref=e284]: ❤️❤️❤️❤️
+                        - generic [ref=e285]:
+                          - button "1 curtida" [ref=e286] [cursor=pointer]:
+                            - generic [ref=e288]: 1 curtida
+                          - button "Responder" [ref=e289] [cursor=pointer]:
+                            - generic [ref=e291]: Responder
+                      - button "Curtir" [ref=e296] [cursor=pointer]:
+                        - img "Curtir" [ref=e299]
+                  - generic [ref=e303]:
+                    - link "Foto do perfil de fernandasoual" [ref=e309] [cursor=pointer]:
+                      - /url: /fernandasoual/
+                      - img "Foto do perfil de fernandasoual" [ref=e310]
+                    - generic [ref=e311]:
+                      - generic [ref=e312]:
+                        - generic [ref=e314]:
+                          - generic [ref=e315]:
+                            - link "fernandasoual" [ref=e320] [cursor=pointer]:
+                              - /url: /fernandasoual/
+                              - generic [ref=e323]: fernandasoual
+                            - link "2 sem" [ref=e325] [cursor=pointer]:
+                              - /url: /p/DWR7qxjgND9/c/18338551120301326/
+                              - time [ref=e326]: 2 sem
+                          - generic [ref=e328]: 👏👏👏👏👏
+                        - generic [ref=e329]:
+                          - button "1 curtida" [ref=e330] [cursor=pointer]:
+                            - generic [ref=e332]: 1 curtida
+                          - button "Responder" [ref=e333] [cursor=pointer]:
+                            - generic [ref=e335]: Responder
+                      - button "Curtir" [ref=e340] [cursor=pointer]:
+                        - img "Curtir" [ref=e343]
+              - generic [ref=e345]:
+                - generic [ref=e346]:
+                  - generic [ref=e347]:
+                    - button "Curtir" [ref=e350] [cursor=pointer]:
+                      - img "Curtir" [ref=e353]
+                    - button "10" [ref=e355] [cursor=pointer]
+                    - button "Comentar" [ref=e357] [cursor=pointer]:
+                      - img "Comentar" [ref=e359]
+                    - button "3" [ref=e361] [cursor=pointer]
+                    - button "Compartilhar" [ref=e362] [cursor=pointer]:
+                      - img "Compartilhar" [ref=e363]
+                  - button "Salvar" [ref=e368] [cursor=pointer]:
+                    - button "Salvar" [ref=e369]:
+                      - img "Salvar" [ref=e371]
+                - link "24 de março" [ref=e375] [cursor=pointer]:
+                  - /url: /playbiane/p/DWR7qxjgND9/
+                  - time [ref=e377]: 24 de março
+              - generic [ref=e380]:
+                - link [ref=e381]
+                - generic [ref=e383]:
+                  - button "Emoji" [ref=e385] [cursor=pointer]:
+                    - img "Emoji" [ref=e387]
+                  - textbox "Adicione um comentário..." [ref=e389]
+          - separator [ref=e391]
+          - generic [ref=e392]:
+            - generic [ref=e394]:
+              - text: Mais posts de
+              - link "playbiane" [ref=e395] [cursor=pointer]:
+                - /url: /playbiane/
+            - generic [ref=e398]:
+              - generic [ref=e399]:
+                - 'link "Imagina não precisar de filtro pra se sentir bonita? Com a harmonização, você conquista mais do que um rosto harmônico — conquista autoconfiança pra se olhar no espelho e amar o que vê todos os dias. #HarmonizaçãoFacial #RostoDefinido #ContornoFacial #BelezaComPropósito #AutoestimaElevada #harmonizacaofacial #botox #perfiloplastia #antesedepois #acidohialuronico Carrossel" [ref=e401] [cursor=pointer]':
+                  - /url: /playbiane/p/DQmYxhyDc2i/
+                  - 'img "Imagina não precisar de filtro pra se sentir bonita? Com a harmonização, você conquista mais do que um rosto harmônico — conquista autoconfiança pra se olhar no espelho e amar o que vê todos os dias. #HarmonizaçãoFacial #RostoDefinido #ContornoFacial #BelezaComPropósito #AutoestimaElevada #harmonizacaofacial #botox #perfiloplastia #antesedepois #acidohialuronico" [ref=e404]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - 'link "Resultados naturais começam com escolhas certas. Agende uma avaliação. #harmonizaçaofacial #draplaybiane #harmonizaçãominimalista Clipe" [ref=e407] [cursor=pointer]':
+                  - /url: /playbiane/reel/DUDxo7-jQwX/
+                  - 'img "Resultados naturais começam com escolhas certas. Agende uma avaliação. #harmonizaçaofacial #draplaybiane #harmonizaçãominimalista" [ref=e410]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - link "Photo by Dra. Playbiane Rodrigues/ Harmonização facial on February 12, 2026. May be an image of one or more people, eyeliner and text that says 'PLAYBIANERODRIGUES HARMONIZAÇÃO FACIAL PLAYBIANE RODRIGUES'." [ref=e413] [cursor=pointer]:
+                  - /url: /playbiane/p/DUrXqPDDU-w/
+                  - img "Photo by Dra. Playbiane Rodrigues/ Harmonização facial on February 12, 2026. May be an image of one or more people, eyeliner and text that says 'PLAYBIANERODRIGUES HARMONIZAÇÃO FACIAL PLAYBIANE RODRIGUES'." [ref=e416]
+              - generic [ref=e418]:
+                - link "Um pouquinho de cada dia, porque a vida acontece nos detalhes 🤍. Carrossel" [ref=e420] [cursor=pointer]:
+                  - /url: /playbiane/p/DW2ddtJlqmo/
+                  - img "Um pouquinho de cada dia, porque a vida acontece nos detalhes 🤍." [ref=e423]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - link "Photo by Dra. Playbiane Rodrigues/ Harmonização facial on March 22, 2026. May be an image of ‎one or more people, lipstick, eyeliner and ‎text that says '‎PLAYBIANE RODRIGUES TRRM ،مدی 14 40 PLAYBIANERODRIGUES ou‎'‎‎." [ref=e426] [cursor=pointer]:
+                  - /url: /playbiane/p/DWM-TZ_gPv0/
+                  - img "Photo by Dra. Playbiane Rodrigues/ Harmonização facial on March 22, 2026. May be an image of ‎one or more people, lipstick, eyeliner and ‎text that says '‎PLAYBIANE RODRIGUES TRRM ،مدی 14 40 PLAYBIANERODRIGUES ou‎'‎‎." [ref=e429]
+                - 'link "Se você está cansada ou cansado de lidar com a flacidez nas pálpebras, não precisa apelar para dicas milagrosas. Nós podemos tratar essa região de forma eficiente com dois procedimentos avançados: Ultrassom Microfocado: Utiliza ondas de ultrassom para estimular a produção de colágeno nas camadas mais profundas da pele, proporcionando um efeito lifting natural e sem a necessidade de cirurgia. Jato de Plasma: Esse tratamento age diretamente na pele, criando micro lesões controladas que promovem a retração imediata do tecido, melhorando a firmeza e reduzindo a flacidez de forma rápida e eficaz. Chega de se incomodar com a flacidez nas pálpebras! Agende sua consulta e descubra qual tratamento é o ideal para você. 👁️✨ Carrossel" [ref=e432] [cursor=pointer]':
+                  - /url: /playbiane/p/DWL9aHkjv3E/
+                  - 'img "Se você está cansada ou cansado de lidar com a flacidez nas pálpebras, não precisa apelar para dicas milagrosas. Nós podemos tratar essa região de forma eficiente com dois procedimentos avançados: Ultrassom Microfocado: Utiliza ondas de ultrassom para estimular a produção de colágeno nas camadas mais profundas da pele, proporcionando um efeito lifting natural e sem a necessidade de cirurgia. Jato de Plasma: Esse tratamento age diretamente na pele, criando micro lesões controladas que promovem a retração imediata do tecido, melhorando a firmeza e reduzindo a flacidez de forma rápida e eficaz. Chega de se incomodar com a flacidez nas pálpebras! Agende sua consulta e descubra qual tratamento é o ideal para você. 👁️✨" [ref=e435]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+      - contentinfo [ref=e437]:
+        - generic [ref=e438]:
+          - generic [ref=e440]:
+            - link "Meta" [ref=e442] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e443]: Meta
+            - link "Sobre" [ref=e445] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e446]: Sobre
+            - link "Blog" [ref=e448] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e449]: Blog
+            - link "Carreiras" [ref=e451] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e452]: Carreiras
+            - link "Ajuda" [ref=e454] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e455]: Ajuda
+            - link "API" [ref=e457] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e458]: API
+            - link "Privacidade" [ref=e460] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e461]: Privacidade
+            - link "Termos" [ref=e463] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e464]: Termos
+            - link "Localizações" [ref=e466] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e467]: Localizações
+            - link "Instagram Lite" [ref=e469] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e470]: Instagram Lite
+            - link "Meta AI" [ref=e472] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e473]: Meta AI
+            - link "Threads" [ref=e475] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e476]: Threads
+            - link "Upload de contatos e não usuários" [ref=e478] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e479]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e481] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e482]: Meta Verified
+          - generic [ref=e483]:
+            - generic [ref=e484] [cursor=pointer]:
+              - generic [ref=e485]:
+                - generic [ref=e486]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e489]
+              - combobox "Trocar idioma de exibição" [ref=e491]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e493]: © 2026 Instagram from Meta
+  - button "Mensagens Mensagens" [ref=e495] [cursor=pointer]:
+    - generic [ref=e497]:
+      - img "Mensagens" [ref=e499]
+      - generic [ref=e502]: Mensagens

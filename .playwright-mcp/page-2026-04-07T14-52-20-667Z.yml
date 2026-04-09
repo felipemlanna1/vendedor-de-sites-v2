@@ -1,0 +1,688 @@
+- generic [active]:
+  - img
+  - banner:
+    - generic:
+      - generic:
+        - generic:
+          - link "Phamily":
+            - /url: https://phamilypharma.com
+            - img
+          - generic:
+            - navigation:
+              - link "Phamily":
+                - /url: https://phamilypharma.com
+              - list:
+                - listitem:
+                  - link "Acheter":
+                    - /url: https://phamilypharma.com/acheter-sa-pharmacie
+                - listitem:
+                  - link "Vendre":
+                    - /url: https://phamilypharma.com/vendre-sa-pharmacie
+                - listitem:
+                  - link "Ressources":
+                    - /url: https://phamilypharma.com/ressources
+                - listitem:
+                  - link "À propos":
+                    - /url: https://phamilypharma.com/a-propos
+                - listitem:
+                  - link "Concept":
+                    - /url: https://phamilypharma.com/concept
+                - listitem:
+                  - link "Contact":
+                    - /url: https://phamilypharma.com/contact
+  - main:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - paragraph: Se lancer en toute confiance
+              - heading "L'Achat et Vente de Pharmacies sans les maux de tête" [level=1]:
+                - generic: L'Achat et Vente
+                - generic: de Pharmacies
+                - generic:
+                  - strong: sans les maux de tête
+              - generic:
+                - paragraph: "Phamily fait plus que vous aider à trouver LA bonne pharmacie. On vous accompagne aussi à vous lancer en toute autonomie : conseils, formations, outils digitaux, suivi..."
+            - generic:
+              - link "Je suis acheteur":
+                - /url: https://phamilypharma.com/acheter-sa-pharmacie
+                - generic: Je suis acheteur
+              - link "Je suis vendeur":
+                - /url: https://phamilypharma.com/vendre-sa-pharmacie
+                - generic: Je suis vendeur
+        - figure
+        - figure
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - paragraph: Votre pharmacie l'esprit tranquille
+                - 'heading "Au-delà de la simple transaction d’officine : notre mission" [level=2]':
+                  - generic: Au-delà de la simple
+                  - generic: "transaction d’officine :"
+                  - generic:
+                    - strong: notre mission
+          - generic:
+            - generic:
+              - list:
+                - listitem:
+                  - generic:
+                    - figure
+                    - generic:
+                      - heading "Un achat serein" [level=3]
+                      - generic:
+                        - paragraph: Une transparence totale, les bonnes infos pour tout comprendre et des formations pour se sentir prêt à officier.
+                - listitem:
+                  - generic:
+                    - figure
+                    - generic:
+                      - heading "Des démarches allégées" [level=3]
+                      - generic:
+                        - paragraph: Avec des outils en ligne et un parcours repensé pour les entrepreneurs d’aujourd’hui.
+                - listitem:
+                  - generic:
+                    - figure
+                    - generic:
+                      - heading "Une proximité sans faille" [level=3]
+                      - generic:
+                        - paragraph: "Chez Phamily, nos valeurs vont au-delà de la simple transaction officinale : nos conseillers sont à 100 % avec vous, disponibles, et bien sûr, en phase avec votre projet."
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - paragraph: Vos Besoin, Notre solution
+                - heading "Un parcours de battant. Pas du combattant" [level=2]:
+                  - generic: Un
+                  - generic: parcours
+                  - generic: de battant.
+                  - generic:
+                    - strong: Pas du combattant
+                - link "Découvrir le concept":
+                  - /url: https://phamilypharma.com/concept
+                  - generic: Découvrir le concept
+              - figure
+          - generic:
+            - generic:
+              - list:
+                - listitem:
+                  - generic:
+                    - generic: "01"
+                    - generic:
+                      - heading "Un accompagnement personnalisé pour un projet solide" [level=3]
+                      - generic:
+                        - paragraph:
+                          - text: Acheter et
+                          - link "vendre":
+                            - /url: https://phamilypharma.com/vendre-sa-pharmacie
+                          - text: une pharmacie peut donner le tournis. Phamily vous donne les clefs pour être en maîtrise, avec des rendez-vous dédiés réguliers, des analyses de votre projet, et bien plus encore.
+                - listitem:
+                  - generic:
+                    - generic: "02"
+                    - generic:
+                      - heading "Acheter et vendre votre pharmacie sans tracas" [level=3]
+                      - generic:
+                        - paragraph:
+                          - text: Avec Phamily, nous sommes présents à chaque étape et vérifions scrupuleusement que tout est en ordre. Que ce soit pour
+                          - link "acheter une officine":
+                            - /url: https://phamilypharma.com/acheter-sa-pharmacie
+                          - text: "ou la céder : pas de mauvaise surprise."
+                - listitem:
+                  - generic:
+                    - generic: "03"
+                    - generic:
+                      - heading "Besoin d’une estimation ?" [level=3]
+                      - generic:
+                        - paragraph: Dans le cas d’une vente ou d’une négociation, un projet solide commence par une estimation juste. Nos équipes, fortes de leur expérience, sont à vos côtés pour réaliser l’estimation du prix de votre pharmacie
+                - listitem:
+                  - generic:
+                    - generic: "04"
+                    - generic:
+                      - heading "Du coaching pour être à l’aise dès le jour 1" [level=3]
+                      - generic:
+                        - paragraph: Gérer une équipe, sera votre quotidien. Autant arriver préparé. Phamily vous forme avec des professionnels pour être bien dans vos baskets de pharmacien.
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - paragraph:
+                  - generic: Et vous ?
+          - generic:
+            - list:
+              - listitem:
+                - figure
+                - generic:
+                  - paragraph: Vendre sa pharmacie
+                  - heading "Besoin de changer d’air ?" [level=2]
+                  - link "En savoir plus":
+                    - /url: https://phamilypharma.com/vendre-sa-pharmacie
+                    - generic: En savoir plus
+              - listitem:
+                - figure
+                - generic:
+                  - paragraph: Acheter sa pharmacie
+                  - heading "Prêt à devenir proprio ?" [level=2]
+                  - link "En savoir plus":
+                    - /url: https://phamilypharma.com/acheter-sa-pharmacie
+                    - generic: En savoir plus
+      - generic:
+        - generic:
+          - paragraph: Acheter - Nos pharmacies à la vente.
+          - paragraph:
+            - generic:
+              - text: Nos
+              - strong: coups de coeur
+            - generic: du moment
+        - generic:
+          - generic:
+            - list:
+              - generic:
+                - article:
+                  - generic:
+                    - paragraph: Ref. 01192334
+                  - heading "Pharmacie de centre ville sur le secteur de l'Ain" [level=3]:
+                    - link "Pharmacie de centre ville sur le secteur de l'Ain":
+                      - /url: https://phamilypharma.com/recherche-annonces/pharmacie-de-centre-ville-sur-le-secteur-de-l-ain
+                  - list:
+                    - listitem: Ville
+                    - listitem: Ain (01)
+                  - generic: Voir l'annonce
+              - generic:
+                - article:
+                  - generic:
+                    - list:
+                      - listitem: Exclusivité
+                    - paragraph: Ref. 06950453
+                  - heading "BASSIN CANNOIS EN EXPENSION" [level=3]:
+                    - link "BASSIN CANNOIS EN EXPENSION":
+                      - /url: https://phamilypharma.com/recherche-annonces/bassin-cannois-en-expension
+                  - list:
+                    - listitem: Quartier
+                    - listitem: Alpes-Maritimes (06)
+                  - generic: Voir l'annonce
+              - generic:
+                - article:
+                  - generic:
+                    - list:
+                      - listitem: Exclusivité
+                    - paragraph: Ref. 06054003
+                  - heading "CANNES AUTHENTIQUE" [level=3]:
+                    - link "CANNES AUTHENTIQUE":
+                      - /url: https://phamilypharma.com/recherche-annonces/cannes-authentique
+                  - list:
+                    - listitem: Quartier
+                    - listitem: Alpes-Maritimes (06)
+                  - generic: Voir l'annonce
+              - generic:
+                - article:
+                  - generic:
+                    - list:
+                      - listitem: Clés en main
+                    - paragraph: Ref. 71013169
+                  - heading "Pharmacie seule au village au sein de la bourgogne" [level=3]:
+                    - link "Pharmacie seule au village au sein de la bourgogne":
+                      - /url: https://phamilypharma.com/recherche-annonces/pharmacie-seule-au-village-au-sein-de-la-bourgogne
+                  - list:
+                    - listitem: Rural
+                    - listitem: Saône-et-Loire (71)
+                  - generic: Voir l'annonce
+          - generic:
+            - button:
+              - img
+            - link "Découvrir nos pharmacies à la vente":
+              - /url: https://phamilypharma.com/annonces
+              - generic: Découvrir nos pharmacies à la vente
+            - button:
+              - img
+      - generic:
+        - generic:
+          - heading "Vous recherchez ?" [level=2]
+          - generic:
+            - generic: Région
+            - combobox "Région":
+              - option "Sélectionner" [selected]
+              - option "Auvergne-Rhône-Alpes"
+              - option "Occitanie"
+              - option "Provence-Alpes-Côte d'Azur"
+              - option "Corse"
+              - option "Bourgogne-Franche-Comté"
+          - generic:
+            - generic: Département
+            - combobox "Département":
+              - option "Sélectionner" [selected]
+              - option "Ain (01)"
+              - option "Allier (03)"
+              - option "Alpes-de-Haute-Provence (04)"
+              - option "Hautes-Alpes (05)"
+              - option "Alpes-Maritimes (06)"
+              - option "Ardèche (07)"
+              - option "Aude (11)"
+              - option "Aveyron (12)"
+              - option "Bouches-du-Rhône (13)"
+              - option "Corse-du-Sud (2A)"
+              - option "Haute-Corse (2B)"
+              - option "Côte-d'Or (21)"
+              - option "Drôme (26)"
+              - option "Gard (30)"
+              - option "Haute-Garonne (31)"
+              - option "Hérault (34)"
+              - option "Isère (38)"
+              - option "Loire (42)"
+              - option "Haute-Loire (43)"
+              - option "Lozère (48)"
+              - option "Puy-de-Dôme (63)"
+              - option "Pyrénées-Orientales (66)"
+              - option "Rhône (69)"
+              - option "Saône-et-Loire (71)"
+              - option "Savoie (73)"
+              - option "Haute-Savoie (74)"
+              - option "Tarn (81)"
+              - option "Var (83)"
+              - option "Vaucluse (84)"
+          - generic:
+            - paragraph: CA recherché / souhaité
+            - generic:
+              - generic:
+                - checkbox "Inférieur à 1.7M€"
+                - generic:
+                  - generic: Inférieur à 1.7M€
+              - generic:
+                - checkbox "Entre 1.7M€ et 3M€"
+                - generic:
+                  - generic: Entre 1.7M€ et 3M€
+              - generic:
+                - checkbox "Supérieur à 3M€"
+                - generic:
+                  - generic: Supérieur à 3M€
+          - generic:
+            - paragraph: Explorer par atouts
+            - list:
+              - listitem:
+                - checkbox "FRR"
+                - generic: FRR
+              - listitem:
+                - checkbox "Exclusivité"
+                - generic: Exclusivité
+              - listitem:
+                - checkbox "Clés en main"
+                - generic: Clés en main
+              - listitem:
+                - checkbox "Nouveauté"
+                - generic: Nouveauté
+          - generic:
+            - paragraph: Explorer par types d’emplacement
+            - list:
+              - listitem:
+                - checkbox "Bourg"
+                - generic: Bourg
+              - listitem:
+                - checkbox "Bord de mer"
+                - generic: Bord de mer
+              - listitem:
+                - checkbox "Centre commercial"
+                - generic: Centre commercial
+              - listitem:
+                - checkbox "Quartier"
+                - generic: Quartier
+              - listitem:
+                - checkbox "Montagne"
+                - generic: Montagne
+              - listitem:
+                - checkbox "Rural"
+                - generic: Rural
+              - listitem:
+                - checkbox "Ville"
+                - generic: Ville
+          - generic:
+            - button "Lancer la recherche":
+              - generic: Lancer la recherche
+            - button "Voir toutes les annonces":
+              - generic: Voir toutes les annonces
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - paragraph: Une communauté de (futurs) professionnels
+                - paragraph:
+                  - generic: Let the
+                  - generic:
+                    - strong: soin shine
+                - generic:
+                  - paragraph: Phamily, c’est le partage des bonnes infos, parce qu’on devrait en savoir plus beaucoup plus tôt pour faire les bons choix.
+          - generic:
+            - list:
+              - listitem:
+                - link:
+                  - /url: https://phamilypharma.com/ressources/meilleurs-voeux-2026
+                  - figure
+                - generic:
+                  - generic:
+                    - link "Article":
+                      - /url: https://phamilypharma.com/ressources/article
+                    - link "B2B":
+                      - /url: https://phamilypharma.com/ressources/b2b
+                    - generic: 04/01/2026
+                  - heading "Meilleurs voeux 2026" [level=2]:
+                    - link "Meilleurs voeux 2026":
+                      - /url: https://phamilypharma.com/ressources/meilleurs-voeux-2026
+                  - generic: Cap sur 2026 !!!
+                  - link "Lire l'article":
+                    - /url: https://phamilypharma.com/ressources/meilleurs-voeux-2026
+              - listitem:
+                - link:
+                  - /url: https://phamilypharma.com/ressources/la-dispensation-des-antalgiques
+                  - figure
+                - generic:
+                  - generic:
+                    - link "Article":
+                      - /url: https://phamilypharma.com/ressources/article
+                    - link "Exercice pro":
+                      - /url: https://phamilypharma.com/ressources/exercice-pro
+                    - generic: 13/01/2026
+                  - heading "LA DISPENSATION DES ANTALGIQUES" [level=2]:
+                    - link "LA DISPENSATION DES ANTALGIQUES":
+                      - /url: https://phamilypharma.com/ressources/la-dispensation-des-antalgiques
+                  - generic: LES PHARMACIENS CONTRE L’ENCADREMENT DE LA DISPENSATION DES ANTALGIQUES DE PALIER I
+                  - link "Lire l'article":
+                    - /url: https://phamilypharma.com/ressources/la-dispensation-des-antalgiques
+              - listitem:
+                - link:
+                  - /url: https://phamilypharma.com/ressources/pharmacie-fonds-ou-titres
+                  - figure:
+                    - 'img "Fonds de commerce ou titres de sociétés : que choisir?"'
+                - generic:
+                  - generic:
+                    - link "Article":
+                      - /url: https://phamilypharma.com/ressources/article
+                    - link "Entrepreneuriat":
+                      - /url: https://phamilypharma.com/ressources/entrepreneuriat
+                    - generic: 10/02/2025
+                  - 'heading "Pharmacie : Fonds ou Titres ?" [level=2]':
+                    - 'link "Pharmacie : Fonds ou Titres ?"':
+                      - /url: https://phamilypharma.com/ressources/pharmacie-fonds-ou-titres
+                  - generic: "Se lancer dans l’acquisition de sa pharmacie passe par plusieurs étapes, dont une : Est-ce que j’achète un fonds de commerce ou une société (via ses parts ou ses actions) ?"
+                  - link "Lire l'article":
+                    - /url: https://phamilypharma.com/ressources/pharmacie-fonds-ou-titres
+              - listitem:
+                - link:
+                  - /url: https://phamilypharma.com/ressources/pharmacie-et-bail-commercial
+                  - figure
+                - generic:
+                  - generic:
+                    - link "Article":
+                      - /url: https://phamilypharma.com/ressources/article
+                    - link "Juridique":
+                      - /url: https://phamilypharma.com/ressources/juridique
+                    - generic: 15/10/2024
+                  - heading "Pharmacie et bail commercial" [level=2]:
+                    - link "Pharmacie et bail commercial":
+                      - /url: https://phamilypharma.com/ressources/pharmacie-et-bail-commercial
+                  - generic: Le bail commercial constitue l’un des contrats essentiels à l’exploitation d’une pharmacie puisqu’il organise les conditions d’occupation des locaux et les relations avec le …
+                  - link "Lire l'article":
+                    - /url: https://phamilypharma.com/ressources/pharmacie-et-bail-commercial
+              - listitem:
+                - link:
+                  - /url: https://phamilypharma.com/ressources/decoder-la-valeur-d-une-pharmacie-le-guide-des-indicateurs
+                  - figure
+                - generic:
+                  - generic:
+                    - link "Article":
+                      - /url: https://phamilypharma.com/ressources/article
+                    - link "Finance":
+                      - /url: https://phamilypharma.com/ressources/finance
+                    - generic: 15/11/2024
+                  - 'heading "Décoder la Valeur d''une Pharmacie : Le Guide des Indicateurs" [level=2]':
+                    - 'link "Décoder la Valeur d''une Pharmacie : Le Guide des Indicateurs"':
+                      - /url: https://phamilypharma.com/ressources/decoder-la-valeur-d-une-pharmacie-le-guide-des-indicateurs
+                  - generic: Valoriser une pharmacie aujourd’hui, c'est bien plus qu'une simple lecture des comptes. Au-delà des chiffres, il faut comprendre la capacité de l'officine à générer de la …
+                  - link "Lire l'article":
+                    - /url: https://phamilypharma.com/ressources/decoder-la-valeur-d-une-pharmacie-le-guide-des-indicateurs
+          - generic:
+            - generic:
+              - paragraph: Explorer nos thématiques
+              - list:
+                - listitem:
+                  - link "B2B":
+                    - /url: https://phamilypharma.com/ressources/b2b
+                - listitem:
+                  - link "Entrepreneuriat":
+                    - /url: https://phamilypharma.com/ressources/entrepreneuriat
+                - listitem:
+                  - link "Études & formations":
+                    - /url: https://phamilypharma.com/ressources/etudes-formations
+                - listitem:
+                  - link "Exercice pro":
+                    - /url: https://phamilypharma.com/ressources/exercice-pro
+                - listitem:
+                  - link "Finance":
+                    - /url: https://phamilypharma.com/ressources/finance
+                - listitem:
+                  - link "Juridique":
+                    - /url: https://phamilypharma.com/ressources/juridique
+            - generic:
+              - figure
+              - generic:
+                - paragraph: Rejoignez la communauté
+                - link "S’inscrire à la newsletter":
+                  - /url: https://9a6ec556.sibforms.com/serve/MUIFAEAIzOUfqvGZqHR7oWptLrVbz0dljFopOz2P8X3IrwW4sqW3Qxoh9huJbpoS7elAtHQgwK4Iguivc63oOKPgQaFiyPOvNM1cCVRp56MKgqM73Fab0IxEYFe6QmZzollorGOYlX56SVz7HC0rXGy8XK_iy9CgfqxuPoL2bLDcJ0aBZ7Kn7SqHDC0YghIpJacIrJRPGqwxjmN5
+                  - generic: S’inscrire à la newsletter
+                - generic:
+                  - paragraph: Retrouvez-nous également sur
+                  - list:
+                    - listitem:
+                      - link "Linkedin":
+                        - /url: https://www.linkedin.com/company/phamilypharma/
+                        - img
+                    - listitem:
+                      - link "Facebook":
+                        - /url: https://www.facebook.com/profile.php?id=61565870593728&sk=about
+                        - img
+                    - listitem:
+                      - link "Instagram":
+                        - /url: https://www.instagram.com/phamilypharma/
+                        - img
+            - generic:
+              - generic:
+                - generic:
+                  - generic: Event
+                  - generic: Exercice pro
+                - paragraph: 20/03/2025 à Montpellier
+                - 'heading "Journée du Pharmacien : IA & Officine" [level=2]'
+                - link "Découvrir l'évènement":
+                  - /url: https://phamilypharma.com/ressources/journee-du-pharmacien-ia-officine
+                  - generic: Découvrir l'évènement
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - paragraph: La famille
+                - paragraph:
+                  - generic: Là pour vous.
+                  - generic:
+                    - strong: Tout près de vous.
+                - generic:
+                  - paragraph: De Lyon à Montpellier, en passant par Nice et Marseille, les conseillers Phamily sont tout près de vous
+                - link "À propos de nous":
+                  - /url: https://phamilypharma.com/a-propos
+                  - generic: À propos de nous
+        - generic:
+          - img
+          - link "Gloria Faites briller vos ambitions 01 21 38 69 71 73 74 Plus d'info":
+            - /url: https://phamilypharma.com/conseillers/gloria
+            - figure:
+              - img "Gloria, co-fondatrice et transactionnaire"
+            - generic:
+              - paragraph: Gloria
+              - paragraph: Faites briller vos ambitions
+              - list:
+                - listitem:
+                  - generic: "01"
+                - listitem:
+                  - generic: "21"
+                - listitem:
+                  - generic: "38"
+                - listitem:
+                  - generic: "69"
+                - listitem:
+                  - generic: "71"
+                - listitem:
+                  - generic: "73"
+                - listitem:
+                  - generic: "74"
+              - generic:
+                - generic:
+                  - generic: Plus d'info
+          - link "Loïc La Pharma, c’est la vie 03 15 42 43 63 69 Plus d'info":
+            - /url: https://phamilypharma.com/conseillers/loic
+            - figure:
+              - img "Loïc, co-fondateur et transactionnaire"
+            - generic:
+              - paragraph: Loïc
+              - paragraph: La Pharma, c’est la vie
+              - list:
+                - listitem:
+                  - generic: "03"
+                - listitem:
+                  - generic: "15"
+                - listitem:
+                  - generic: "42"
+                - listitem:
+                  - generic: "43"
+                - listitem:
+                  - generic: "63"
+                - listitem:
+                  - generic: "69"
+              - generic:
+                - generic:
+                  - generic: Plus d'info
+          - link "Stéphane Libre d'être soi-même 06 83 Plus d'info":
+            - /url: https://phamilypharma.com/conseillers/stephane
+            - figure
+            - generic:
+              - paragraph: Stéphane
+              - paragraph: Libre d'être soi-même
+              - list:
+                - listitem:
+                  - generic: "06"
+                - listitem:
+                  - generic: "83"
+              - generic:
+                - generic:
+                  - generic: Plus d'info
+          - link "Aude L’humain, avant tout ! 2A 2B 04 05 07 13 26 84 Plus d'info":
+            - /url: https://phamilypharma.com/conseillers/aude
+            - figure:
+              - img "Aude, co-fondatrice et transactionnaire"
+            - generic:
+              - paragraph: Aude
+              - paragraph: L’humain, avant tout !
+              - list:
+                - listitem:
+                  - generic: 2A
+                - listitem:
+                  - generic: 2B
+                - listitem:
+                  - generic: "04"
+                - listitem:
+                  - generic: "05"
+                - listitem:
+                  - generic: "07"
+                - listitem:
+                  - generic: "13"
+                - listitem:
+                  - generic: "26"
+                - listitem:
+                  - generic: "84"
+              - generic:
+                - generic:
+                  - generic: Plus d'info
+    - generic:
+      - button "Alors ce projet, On en parle ?":
+        - figure
+        - paragraph:
+          - generic: Alors ce projet,
+          - generic: On en parle ?
+        - generic:
+          - img
+      - generic:
+        - generic:
+          - link "Je souhaite acheter une pharma":
+            - /url: https://phamilypharma.com/contact?choix=a
+            - generic:
+              - generic: Je souhaite
+              - generic: acheter une pharma
+            - generic:
+              - img
+          - link "Je souhaite vendre ma pharma":
+            - /url: https://phamilypharma.com/contact?choix=v
+            - generic:
+              - generic: Je souhaite
+              - generic: vendre ma pharma
+            - generic:
+              - img
+  - contentinfo:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - figure
+            - generic:
+              - paragraph: Restez à jour
+              - generic:
+                - paragraph: Tous les mois, nos meilleurs conseils et les dates des prochains évènements.
+              - link "S’inscrire à la newsletter":
+                - /url: https://9a6ec556.sibforms.com/serve/MUIFAEAIzOUfqvGZqHR7oWptLrVbz0dljFopOz2P8X3IrwW4sqW3Qxoh9huJbpoS7elAtHQgwK4Iguivc63oOKPgQaFiyPOvNM1cCVRp56MKgqM73Fab0IxEYFe6QmZzollorGOYlX56SVz7HC0rXGy8XK_iy9CgfqxuPoL2bLDcJ0aBZ7Kn7SqHDC0YghIpJacIrJRPGqwxjmN5
+                - generic: S’inscrire à la newsletter
+          - generic:
+            - figure
+            - generic:
+              - paragraph: Et votre projet ?
+              - generic:
+                - paragraph: Nous sommes disponibles pour faire le point sur vos souhaits & ambitions.
+              - link "Échanger avec un conseiller":
+                - /url: https://phamilypharma.com/contact
+                - generic: Échanger avec un conseiller
+    - generic:
+      - generic:
+        - generic:
+          - list:
+            - listitem:
+              - link "À Propos":
+                - /url: https://phamilypharma.com/a-propos
+            - listitem:
+              - link "Concept":
+                - /url: https://phamilypharma.com/concept
+            - listitem:
+              - link "Acheter":
+                - /url: https://phamilypharma.com/acheter-sa-pharmacie
+            - listitem:
+              - link "Vendre":
+                - /url: https://phamilypharma.com/vendre-sa-pharmacie
+            - listitem:
+              - link "Ressources":
+                - /url: https://phamilypharma.com/ressources
+            - listitem:
+              - link "Contact":
+                - /url: https://phamilypharma.com/contact
+          - generic:
+            - paragraph: © 2026 Phamily, tous droits réservés.
+            - list:
+              - listitem:
+                - link "Mentions légales":
+                  - /url: https://phamilypharma.com/mentions-legales
+              - listitem:
+                - link "Confidentialités":
+                  - /url: https://phamilypharma.com/politique-de-confidentialite
+              - listitem:
+                - link "Crédits":
+                  - /url: https://www.troa.fr/
+    - generic:
+      - generic:
+        - generic:
+          - img

@@ -1,0 +1,308 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e88] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e93]
+        - link "Foto do perfil de _pipelinestudio" [ref=e99] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e104]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e105]
+      - generic [ref=e106]:
+        - link "Configurações" [ref=e109] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e114]
+        - link "Também da Meta" [ref=e117] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e122]
+    - generic [ref=e125]:
+      - main [ref=e126]:
+        - generic [ref=e127]:
+          - generic [ref=e129]:
+            - button [ref=e134]:
+              - group [ref=e144]:
+                - slider [ref=e146]:
+                  - button [ref=e150] [cursor=pointer]:
+                    - img [ref=e151]
+            - generic [ref=e154]:
+              - generic [ref=e156]:
+                - button "Foto do perfil de dra_giovannalima" [ref=e161] [cursor=pointer]:
+                  - link "Foto do perfil de dra_giovannalima" [ref=e163]:
+                    - img "Foto do perfil de dra_giovannalima" [ref=e164]
+                - generic [ref=e167]:
+                  - generic [ref=e168]:
+                    - link "dra_giovannalima" [ref=e176] [cursor=pointer]:
+                      - /url: /dra_giovannalima/
+                      - generic [ref=e179]: dra_giovannalima
+                    - 'link "veneris • Vivaldi Winter Drill #2" [ref=e183] [cursor=pointer]':
+                      - /url: /reels/audio/964883907569227/
+                      - generic [ref=e186]:
+                        - text: veneris
+                        - generic [ref=e187]: •
+                        - text: "Vivaldi Winter Drill #2"
+                  - button "Seguir" [ref=e189] [cursor=pointer]
+                - button "Mais opções" [ref=e192] [cursor=pointer]:
+                  - img "Mais opções" [ref=e195]
+              - separator [ref=e199]
+              - generic [ref=e201]:
+                - generic [ref=e203]:
+                  - link "Foto do perfil de dra_giovannalima" [ref=e208] [cursor=pointer]:
+                    - /url: /dra_giovannalima/
+                    - img "Foto do perfil de dra_giovannalima" [ref=e209]
+                  - generic [ref=e213]:
+                    - generic [ref=e214]:
+                      - link "dra_giovannalima" [ref=e218] [cursor=pointer]:
+                        - /url: /dra_giovannalima/
+                        - generic [ref=e221]: dra_giovannalima
+                      - time [ref=e223]: 67 sem
+                    - generic [ref=e224]:
+                      - text: Protocolo superior e inferior imediato ✨
+                      - text: Mudança de vida, função e estética reestabelecida ✨
+                      - text: .
+                      - text: .
+                      - text: .
+                      - text: .
+                      - text: .
+                      - text: .
+                      - text: .
+                      - link "#protocolodentario" [ref=e225] [cursor=pointer]:
+                        - /url: /explore/tags/protocolodentario/
+                      - link "#implantes" [ref=e226] [cursor=pointer]:
+                        - /url: /explore/tags/implantes/
+                      - link "#implantedentario" [ref=e227] [cursor=pointer]:
+                        - /url: /explore/tags/implantedentario/
+                      - link "#sorriso" [ref=e228] [cursor=pointer]:
+                        - /url: /explore/tags/sorriso/
+                      - link "#sorria" [ref=e229] [cursor=pointer]:
+                        - /url: /explore/tags/sorria/
+                      - link "#sorrindo" [ref=e230] [cursor=pointer]:
+                        - /url: /explore/tags/sorrindo/
+                      - link "#ourofino" [ref=e231] [cursor=pointer]:
+                        - /url: /explore/tags/ourofino/
+                      - link "#minasgerais" [ref=e232] [cursor=pointer]:
+                        - /url: /explore/tags/minasgerais/
+                      - link "#ourofinomg" [ref=e233] [cursor=pointer]:
+                        - /url: /explore/tags/ourofinomg/
+                      - link "#dentista" [ref=e234] [cursor=pointer]:
+                        - /url: /explore/tags/dentista/
+                - generic [ref=e238]:
+                  - link "Foto do perfil de cassia.pereira.773" [ref=e244] [cursor=pointer]:
+                    - /url: /cassia.pereira.773/
+                    - img "Foto do perfil de cassia.pereira.773" [ref=e245]
+                  - generic [ref=e246]:
+                    - generic [ref=e247]:
+                      - generic [ref=e249]:
+                        - generic [ref=e250]:
+                          - link "cassia.pereira.773" [ref=e255] [cursor=pointer]:
+                            - /url: /cassia.pereira.773/
+                            - generic [ref=e258]: cassia.pereira.773
+                          - link "67 sem" [ref=e260] [cursor=pointer]:
+                            - /url: /p/DDvH__9vDR4/c/17891700840052263/
+                            - time [ref=e261]: 67 sem
+                        - generic [ref=e263]: Parabéns Dra. Giovanna! Ficou lindo.
+                      - button "Responder" [ref=e265] [cursor=pointer]:
+                        - generic [ref=e267]: Responder
+                    - button "Curtir" [ref=e272] [cursor=pointer]:
+                      - img "Curtir" [ref=e275]
+              - generic [ref=e277]:
+                - generic [ref=e278]:
+                  - generic [ref=e279]:
+                    - button "Curtir" [ref=e282] [cursor=pointer]:
+                      - img "Curtir" [ref=e285]
+                    - button "8" [ref=e287] [cursor=pointer]
+                    - button "Comentar" [ref=e289] [cursor=pointer]:
+                      - img "Comentar" [ref=e291]
+                    - button "1" [ref=e293] [cursor=pointer]
+                    - button "Compartilhar" [ref=e294] [cursor=pointer]:
+                      - img "Compartilhar" [ref=e295]
+                  - button "Salvar" [ref=e300] [cursor=pointer]:
+                    - button "Salvar" [ref=e301]:
+                      - img "Salvar" [ref=e303]
+                - link "18 de dezembro de 2024" [ref=e307] [cursor=pointer]:
+                  - /url: /dra_giovannalima/reel/DDvH__9vDR4/
+                  - time [ref=e309]: 18 de dezembro de 2024
+              - generic [ref=e312]:
+                - link [ref=e313]
+                - generic [ref=e315]:
+                  - button "Emoji" [ref=e317] [cursor=pointer]:
+                    - img "Emoji" [ref=e319]
+                  - textbox "Adicione um comentário..." [ref=e321]
+          - separator [ref=e323]
+          - generic [ref=e324]:
+            - generic [ref=e326]:
+              - text: Mais posts de
+              - link "dra_giovannalima" [ref=e327] [cursor=pointer]:
+                - /url: /dra_giovannalima/
+            - generic [ref=e330]:
+              - generic [ref=e331]:
+                - 'link "Antes e depois imediato, realizado em sessão única! ✨ Transformação com facetas de resina, pino de fibra de vidro + coroa de resina composta. ✨ Não se trata somente de transformar, e sim de transformação! . . . . . . . . . . . . . . . . #antesedepois #antesdepois #facetas #facetasderesina #lentesdecontatodental #lentes #dentes #dentesbrancos #dentesperfeitos #ourofino #ourofinomg #minas #minasgerais #antesedepoisreal #transformação #transicao #transformar #antesedepois #sorrisoperfeito #sorrisotransformado #sorrisolindo #sorria #fy #reels #fyp #viral Carrossel" [ref=e333] [cursor=pointer]':
+                  - /url: /dra_giovannalima/p/CybQZyzrP-B/
+                  - 'img "Antes e depois imediato, realizado em sessão única! ✨ Transformação com facetas de resina, pino de fibra de vidro + coroa de resina composta. ✨ Não se trata somente de transformar, e sim de transformação! . . . . . . . . . . . . . . . . #antesedepois #antesdepois #facetas #facetasderesina #lentesdecontatodental #lentes #dentes #dentesbrancos #dentesperfeitos #ourofino #ourofinomg #minas #minasgerais #antesedepoisreal #transformação #transicao #transformar #antesedepois #sorrisoperfeito #sorrisotransformado #sorrisolindo #sorria #fy #reels #fyp #viral" [ref=e336]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - 'link "Implante dentário, associado a facetas de porcelana ✨ Um lindo caso de encher os olhos 🥹🥰… Abandone sua dentadura, perca seu medo de sorrir ✨ . . . . . . . . . #ourofino #dentistaemourofino #dentistaembordadamata #dentistaempousoalegre #facetas #sorria Clipe" [ref=e339] [cursor=pointer]':
+                  - /url: /dra_giovannalima/reel/CuaPxJbMIA9/
+                  - 'img "Implante dentário, associado a facetas de porcelana ✨ Um lindo caso de encher os olhos 🥹🥰… Abandone sua dentadura, perca seu medo de sorrir ✨ . . . . . . . . . #ourofino #dentistaemourofino #dentistaembordadamata #dentistaempousoalegre #facetas #sorria" [ref=e342]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - 'link "“O poder da transformação das facetas de resina ✨ . . . . . . . . . . . #antesedepois #facetasderesina #lentesderesina Clipe" [ref=e345] [cursor=pointer]':
+                  - /url: /dra_giovannalima/reel/CzCAyVERewA/
+                  - 'img "“O poder da transformação das facetas de resina ✨ . . . . . . . . . . . #antesedepois #facetasderesina #lentesderesina" [ref=e348]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+              - generic [ref=e350]:
+                - link "A Alice quis mostrar um pouquinho da nossa clínica hoje 🤍 Um espaço pensado com carinho para cuidar de você. Vem conhecer a Clínica Lima! ✨ Clipe" [ref=e352] [cursor=pointer]:
+                  - /url: /limaclinicadeespecialidades/reel/DWbu2KVjtNz/
+                  - img "A Alice quis mostrar um pouquinho da nossa clínica hoje 🤍 Um espaço pensado com carinho para cuidar de você. Vem conhecer a Clínica Lima! ✨" [ref=e355]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - 'link "Toda honra e glória a Deus sempre, por tudo que fez e faz, pelo dom e pela graça de transformar vidas, curar dores e construir sorrisos! 🙏🏽 #sorrisos #lentes #facetasdentárias #dentista #minas Clipe" [ref=e358] [cursor=pointer]':
+                  - /url: /dra_giovannalima/reel/DVzhg6ZkfW8/
+                  - 'img "Toda honra e glória a Deus sempre, por tudo que fez e faz, pelo dom e pela graça de transformar vidas, curar dores e construir sorrisos! 🙏🏽 #sorrisos #lentes #facetasdentárias #dentista #minas" [ref=e361]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - 'link "Transformação com trocas de facetas de resina! ✨ Preservando sempre anatomia do rosto e curva de sorriso, naturalidade que encanta! ✨ . . . . . . . . #sorriso #facetas #facetasderesina #lentesdentes #sorrisolindo #sorrisoperfeito #sorria #ourofino #ourofinomg #minasgeraisoficial #dentistaeminas Carrossel" [ref=e364] [cursor=pointer]':
+                  - /url: /dra_giovannalima/p/DQMiLkFkThX/
+                  - 'img "Transformação com trocas de facetas de resina! ✨ Preservando sempre anatomia do rosto e curva de sorriso, naturalidade que encanta! ✨ . . . . . . . . #sorriso #facetas #facetasderesina #lentesdentes #sorrisolindo #sorrisoperfeito #sorria #ourofino #ourofinomg #minasgeraisoficial #dentistaeminas" [ref=e367]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+      - contentinfo [ref=e369]:
+        - generic [ref=e370]:
+          - generic [ref=e372]:
+            - link "Meta" [ref=e374] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e375]: Meta
+            - link "Sobre" [ref=e377] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e378]: Sobre
+            - link "Blog" [ref=e380] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e381]: Blog
+            - link "Carreiras" [ref=e383] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e384]: Carreiras
+            - link "Ajuda" [ref=e386] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e387]: Ajuda
+            - link "API" [ref=e389] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e390]: API
+            - link "Privacidade" [ref=e392] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e393]: Privacidade
+            - link "Termos" [ref=e395] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e396]: Termos
+            - link "Localizações" [ref=e398] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e399]: Localizações
+            - link "Instagram Lite" [ref=e401] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e402]: Instagram Lite
+            - link "Meta AI" [ref=e404] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e405]: Meta AI
+            - link "Threads" [ref=e407] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e408]: Threads
+            - link "Upload de contatos e não usuários" [ref=e410] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e411]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e413] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e414]: Meta Verified
+          - generic [ref=e415]:
+            - generic [ref=e416] [cursor=pointer]:
+              - generic [ref=e417]:
+                - generic [ref=e418]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e421]
+              - combobox "Trocar idioma de exibição" [ref=e423]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e425]: © 2026 Instagram from Meta
+  - button "Mensagens Mensagens" [ref=e427] [cursor=pointer]:
+    - generic [ref=e429]:
+      - img "Mensagens" [ref=e431]
+      - generic [ref=e434]: Mensagens

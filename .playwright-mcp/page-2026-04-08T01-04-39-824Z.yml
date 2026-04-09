@@ -1,0 +1,438 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e88] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e93]
+        - link "Foto do perfil de _pipelinestudio" [ref=e99] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e104]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e105]
+      - generic [ref=e106]:
+        - link "Configurações" [ref=e109] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e114]
+        - link "Também da Meta" [ref=e117] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e122]
+    - generic [ref=e125]:
+      - main [ref=e126]:
+        - generic [ref=e127]:
+          - generic [ref=e129]:
+            - button [ref=e134]:
+              - generic [ref=e141]:
+                - list [ref=e143]:
+                  - listitem [ref=e144]
+                  - listitem [ref=e145]:
+                    - img [ref=e152]
+                  - listitem [ref=e154]:
+                    - img [ref=e161]
+                - button [ref=e163] [cursor=pointer]
+            - generic [ref=e166]:
+              - generic [ref=e168]:
+                - button "Foto do perfil de dra.isabellaribeiro" [ref=e173] [cursor=pointer]:
+                  - link "Foto do perfil de dra.isabellaribeiro" [ref=e175]:
+                    - img "Foto do perfil de dra.isabellaribeiro" [ref=e176]
+                - generic [ref=e179]:
+                  - generic [ref=e180]:
+                    - link "dra.isabellaribeiro" [ref=e188] [cursor=pointer]:
+                      - /url: /dra.isabellaribeiro/
+                      - generic [ref=e191]: dra.isabellaribeiro
+                    - link "Patrocínio MG - A Nossa Cidade" [ref=e195] [cursor=pointer]:
+                      - /url: /explore/locations/250276709/patrocinio-mg-a-nossa-cidade/
+                  - button "Seguir" [ref=e197] [cursor=pointer]
+                - button "Mais opções" [ref=e200] [cursor=pointer]:
+                  - img "Mais opções" [ref=e203]
+              - separator [ref=e207]
+              - generic [ref=e209]:
+                - generic [ref=e211]:
+                  - link "Foto do perfil de dra.isabellaribeiro" [ref=e216] [cursor=pointer]:
+                    - /url: /dra.isabellaribeiro/
+                    - img "Foto do perfil de dra.isabellaribeiro" [ref=e217]
+                  - generic [ref=e221]:
+                    - generic [ref=e222]:
+                      - link "dra.isabellaribeiro" [ref=e226] [cursor=pointer]:
+                        - /url: /dra.isabellaribeiro/
+                        - generic [ref=e229]: dra.isabellaribeiro
+                      - time [ref=e231]: 7 sem
+                    - generic [ref=e232]:
+                      - text: O poder do cuidado certo transforma mais do que a pele, transforma a autoestima.
+                      - text: "O Line Skin é o que devolve à pele aquilo que o tempo leva silenciosamente: viço, firmeza e qualidade."
+                      - text: Ele não é sobre exagero, é sobre estrutura.
+                      - text: É sobre tratar a base da pele.
+                      - text: Quando associado à harmonização facial feita com técnica e leveza, o resultado não pesa , ele equilibra.
+                      - text: Não modifica ,valoriza. Não transforma você em outra pessoa, revela sua melhor versão.
+                      - text: "Naturalidade não é acaso : É estratégia. É conhecimento anatômico, é escolha."
+                      - text: Permita-se viver essa transformação com elegância.
+                - generic [ref=e233]:
+                  - generic [ref=e234]:
+                    - generic [ref=e236]:
+                      - link "Foto do perfil de giseledib_" [ref=e242] [cursor=pointer]:
+                        - /url: /giseledib_/
+                        - img "Foto do perfil de giseledib_" [ref=e243]
+                      - generic [ref=e244]:
+                        - generic [ref=e245]:
+                          - generic [ref=e247]:
+                            - generic [ref=e248]:
+                              - link "giseledib_ Verificado" [ref=e253] [cursor=pointer]:
+                                - /url: /giseledib_/
+                                - generic [ref=e255]:
+                                  - generic [ref=e256]: giseledib_
+                                  - img "Verificado" [ref=e258]
+                              - link "7 sem" [ref=e261] [cursor=pointer]:
+                                - /url: /p/DUtsCyGDiM3/c/17869304337554359/
+                                - time [ref=e262]: 7 sem
+                            - generic [ref=e264]: Perfeita! ❤️
+                          - generic [ref=e265]:
+                            - button "1 curtida" [ref=e266] [cursor=pointer]:
+                              - generic [ref=e268]: 1 curtida
+                            - button "Responder" [ref=e269] [cursor=pointer]:
+                              - generic [ref=e271]: Responder
+                        - button "Curtir" [ref=e276] [cursor=pointer]:
+                          - img "Curtir" [ref=e279]
+                    - button "Ver todas as 1 respostas" [ref=e282] [cursor=pointer]:
+                      - generic [ref=e285]: Ver todas as 1 respostas
+                  - generic [ref=e286]:
+                    - generic [ref=e288]:
+                      - link "Foto do perfil de andreiamaquiagenstga" [ref=e294] [cursor=pointer]:
+                        - /url: /andreiamaquiagenstga/
+                        - img "Foto do perfil de andreiamaquiagenstga" [ref=e295]
+                      - generic [ref=e296]:
+                        - generic [ref=e297]:
+                          - generic [ref=e299]:
+                            - generic [ref=e300]:
+                              - link "andreiamaquiagenstga" [ref=e305] [cursor=pointer]:
+                                - /url: /andreiamaquiagenstga/
+                                - generic [ref=e308]: andreiamaquiagenstga
+                              - link "7 sem" [ref=e310] [cursor=pointer]:
+                                - /url: /p/DUtsCyGDiM3/c/18099597179507087/
+                                - time [ref=e311]: 7 sem
+                            - generic [ref=e313]: Ual 👏👏
+                          - generic [ref=e314]:
+                            - button "1 curtida" [ref=e315] [cursor=pointer]:
+                              - generic [ref=e317]: 1 curtida
+                            - button "Responder" [ref=e318] [cursor=pointer]:
+                              - generic [ref=e320]: Responder
+                        - button "Curtir" [ref=e325] [cursor=pointer]:
+                          - img "Curtir" [ref=e328]
+                    - button "Ver todas as 1 respostas" [ref=e331] [cursor=pointer]:
+                      - generic [ref=e334]: Ver todas as 1 respostas
+                  - generic [ref=e335]:
+                    - generic [ref=e337]:
+                      - link "Foto do perfil de giovannibarbalho" [ref=e343] [cursor=pointer]:
+                        - /url: /giovannibarbalho/
+                        - img "Foto do perfil de giovannibarbalho" [ref=e344]
+                      - generic [ref=e345]:
+                        - generic [ref=e346]:
+                          - generic [ref=e348]:
+                            - generic [ref=e349]:
+                              - link "giovannibarbalho" [ref=e354] [cursor=pointer]:
+                                - /url: /giovannibarbalho/
+                                - generic [ref=e357]: giovannibarbalho
+                              - link "7 sem" [ref=e359] [cursor=pointer]:
+                                - /url: /p/DUtsCyGDiM3/c/17858345592609352/
+                                - time [ref=e360]: 7 sem
+                            - generic [ref=e362]: Muito bom!👏👏
+                          - generic [ref=e363]:
+                            - button "1 curtida" [ref=e364] [cursor=pointer]:
+                              - generic [ref=e366]: 1 curtida
+                            - button "Responder" [ref=e367] [cursor=pointer]:
+                              - generic [ref=e369]: Responder
+                        - button "Curtir" [ref=e374] [cursor=pointer]:
+                          - img "Curtir" [ref=e377]
+                    - button "Ver todas as 1 respostas" [ref=e380] [cursor=pointer]:
+                      - generic [ref=e383]: Ver todas as 1 respostas
+                  - generic [ref=e384]:
+                    - generic [ref=e386]:
+                      - link "Foto do perfil de natalia1976" [ref=e392] [cursor=pointer]:
+                        - /url: /natalia1976/
+                        - img "Foto do perfil de natalia1976" [ref=e393]
+                      - generic [ref=e394]:
+                        - generic [ref=e395]:
+                          - generic [ref=e397]:
+                            - generic [ref=e398]:
+                              - link "natalia1976" [ref=e403] [cursor=pointer]:
+                                - /url: /natalia1976/
+                                - generic [ref=e406]: natalia1976
+                              - link "7 sem" [ref=e408] [cursor=pointer]:
+                                - /url: /p/DUtsCyGDiM3/c/17876700039489126/
+                                - time [ref=e409]: 7 sem
+                            - generic [ref=e411]: 🔥🔥🔥🔥🔥
+                          - generic [ref=e412]:
+                            - button "1 curtida" [ref=e413] [cursor=pointer]:
+                              - generic [ref=e415]: 1 curtida
+                            - button "Responder" [ref=e416] [cursor=pointer]:
+                              - generic [ref=e418]: Responder
+                        - button "Curtir" [ref=e423] [cursor=pointer]:
+                          - img "Curtir" [ref=e426]
+                    - button "Ver todas as 1 respostas" [ref=e429] [cursor=pointer]:
+                      - generic [ref=e432]: Ver todas as 1 respostas
+                  - generic [ref=e433]:
+                    - generic [ref=e435]:
+                      - link "Foto do perfil de bela.sribeiro" [ref=e441] [cursor=pointer]:
+                        - /url: /bela.sribeiro/
+                        - img "Foto do perfil de bela.sribeiro" [ref=e442]
+                      - generic [ref=e443]:
+                        - generic [ref=e444]:
+                          - generic [ref=e446]:
+                            - generic [ref=e447]:
+                              - link "bela.sribeiro" [ref=e452] [cursor=pointer]:
+                                - /url: /bela.sribeiro/
+                                - generic [ref=e455]: bela.sribeiro
+                              - link "7 sem" [ref=e457] [cursor=pointer]:
+                                - /url: /p/DUtsCyGDiM3/c/18082252937206773/
+                                - time [ref=e458]: 7 sem
+                            - generic [ref=e460]: 👏👏👏👏👏👏
+                          - generic [ref=e461]:
+                            - button "1 curtida" [ref=e462] [cursor=pointer]:
+                              - generic [ref=e464]: 1 curtida
+                            - button "Responder" [ref=e465] [cursor=pointer]:
+                              - generic [ref=e467]: Responder
+                        - button "Curtir" [ref=e472] [cursor=pointer]:
+                          - img "Curtir" [ref=e475]
+                    - button "Ver todas as 1 respostas" [ref=e478] [cursor=pointer]:
+                      - generic [ref=e481]: Ver todas as 1 respostas
+                  - generic [ref=e482]:
+                    - generic [ref=e484]:
+                      - link "Foto do perfil de brechodahorabg" [ref=e490] [cursor=pointer]:
+                        - /url: /brechodahorabg/
+                        - img "Foto do perfil de brechodahorabg" [ref=e491]
+                      - generic [ref=e492]:
+                        - generic [ref=e493]:
+                          - generic [ref=e495]:
+                            - generic [ref=e496]:
+                              - link "brechodahorabg" [ref=e501] [cursor=pointer]:
+                                - /url: /brechodahorabg/
+                                - generic [ref=e504]: brechodahorabg
+                              - link "7 sem" [ref=e506] [cursor=pointer]:
+                                - /url: /p/DUtsCyGDiM3/c/18008186345832786/
+                                - time [ref=e507]: 7 sem
+                            - generic [ref=e509]: Qual a técnica usada?
+                          - generic [ref=e510]:
+                            - button "1 curtida" [ref=e511] [cursor=pointer]:
+                              - generic [ref=e513]: 1 curtida
+                            - button "Responder" [ref=e514] [cursor=pointer]:
+                              - generic [ref=e516]: Responder
+                        - button "Curtir" [ref=e521] [cursor=pointer]:
+                          - img "Curtir" [ref=e524]
+                    - button "Ver todas as 1 respostas" [ref=e527] [cursor=pointer]:
+                      - generic [ref=e530]: Ver todas as 1 respostas
+                  - generic [ref=e531]:
+                    - generic [ref=e533]:
+                      - link "Foto do perfil de rafa_belgini" [ref=e539] [cursor=pointer]:
+                        - /url: /rafa_belgini/
+                        - img "Foto do perfil de rafa_belgini" [ref=e540]
+                      - generic [ref=e541]:
+                        - generic [ref=e542]:
+                          - generic [ref=e544]:
+                            - generic [ref=e545]:
+                              - link "rafa_belgini" [ref=e550] [cursor=pointer]:
+                                - /url: /rafa_belgini/
+                                - generic [ref=e553]: rafa_belgini
+                              - link "7 sem" [ref=e555] [cursor=pointer]:
+                                - /url: /p/DUtsCyGDiM3/c/17922001614089052/
+                                - time [ref=e556]: 7 sem
+                            - generic [ref=e558]: Muito bom ! Como você faz para tirar todas essas manchas ?
+                          - button "Responder" [ref=e560] [cursor=pointer]:
+                            - generic [ref=e562]: Responder
+                        - button "Curtir" [ref=e567] [cursor=pointer]:
+                          - img "Curtir" [ref=e570]
+                    - button "Ver todas as 1 respostas" [ref=e573] [cursor=pointer]:
+                      - generic [ref=e576]: Ver todas as 1 respostas
+              - generic [ref=e577]:
+                - generic [ref=e578]:
+                  - generic [ref=e579]:
+                    - button "Curtir" [ref=e582] [cursor=pointer]:
+                      - img "Curtir" [ref=e585]
+                    - button "Comentar" [ref=e588] [cursor=pointer]:
+                      - img "Comentar" [ref=e590]
+                    - button "14" [ref=e592] [cursor=pointer]
+                    - button "Compartilhar" [ref=e593] [cursor=pointer]:
+                      - img "Compartilhar" [ref=e594]
+                  - button "Salvar" [ref=e599] [cursor=pointer]:
+                    - button "Salvar" [ref=e600]:
+                      - img "Salvar" [ref=e602]
+                - link "13 de fevereiro" [ref=e606] [cursor=pointer]:
+                  - /url: /dra.isabellaribeiro/p/DUtsCyGDiM3/
+                  - time [ref=e608]: 13 de fevereiro
+              - generic [ref=e611]:
+                - link [ref=e612]
+                - generic [ref=e614]:
+                  - button "Emoji" [ref=e616] [cursor=pointer]:
+                    - img "Emoji" [ref=e618]
+                  - textbox "Adicione um comentário..." [ref=e620]
+          - separator [ref=e622]
+          - generic [ref=e623]:
+            - generic [ref=e625]:
+              - text: Mais posts de
+              - link "dra.isabellaribeiro" [ref=e626] [cursor=pointer]:
+                - /url: /dra.isabellaribeiro/
+            - generic [ref=e629]:
+              - generic [ref=e630]:
+                - link "Sem sombra de dúvidas um dos resultados mais surpreendentes que tivemos! Neste caso foi realizado o peeling line skin para melhora da flacidez , 6 ml de preenchedor em pontos estratégicos e finalizamos sexta passada com 50unidades de botox. Faremos ainda mais intervenções , porém o que vocês acharam ? Tratamento iniciado em novembro de 2024 Carrossel" [ref=e632] [cursor=pointer]:
+                  - /url: /dra.isabellaribeiro/p/DHwNrk6RoOC/
+                  - img "Sem sombra de dúvidas um dos resultados mais surpreendentes que tivemos! Neste caso foi realizado o peeling line skin para melhora da flacidez , 6 ml de preenchedor em pontos estratégicos e finalizamos sexta passada com 50unidades de botox. Faremos ainda mais intervenções , porém o que vocês acharam ? Tratamento iniciado em novembro de 2024" [ref=e635]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - link "Sem Make, sem filtros e ela está ainda mais bonita! ( foto enviada pela paciente ). Resultado de alguns meses de tratamento com o peeling do milagre como dizem minhas pacientes , foi realizada uma sessão de line skin , preenchimentos em pontos estratégicos da face e finalizamos com a aplicação da toxina botulínica. Esse processo do peeling demora em média 30 dias para estarmos realizando em todo rosto , porém a pele cicatriza em média 10 dias tendo recuperação total da vermelhidão de 4 a 6 meses, por este motivo nossas postagens são após todo esse processo. Não é milagre , é um tratamento simples, eficaz e duradouro . Carrossel" [ref=e638] [cursor=pointer]:
+                  - /url: /dra.isabellaribeiro/p/DIRD2AyxIsZ/
+                  - img "Sem Make, sem filtros e ela está ainda mais bonita! ( foto enviada pela paciente ). Resultado de alguns meses de tratamento com o peeling do milagre como dizem minhas pacientes , foi realizada uma sessão de line skin , preenchimentos em pontos estratégicos da face e finalizamos com a aplicação da toxina botulínica. Esse processo do peeling demora em média 30 dias para estarmos realizando em todo rosto , porém a pele cicatriza em média 10 dias tendo recuperação total da vermelhidão de 4 a 6 meses, por este motivo nossas postagens são após todo esse processo. Não é milagre , é um tratamento simples, eficaz e duradouro ." [ref=e641]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - link "Antes e depois da harmonização natural realizada em nosso consultório, o que divide essas duas fotos são 7 meses e alguns ml de preenchedor . Hoje foi o dia do retoque do preenchimento em nossa querida paciente. Na técnica do lifting volumétrico devolvemos contorno e projeção para face na aplicação de 3 ml distribuídos uniformemente em todo rosto, principalmente na região de mento , lábios, malar e têmporas. Totalizando aplicação de 6 ml de ácido hialurônico ao longo desse tratamento inicial de reestruturação da face. Se você deseja uma harmonização que realce seus traços e beleza, agende um horário conosco pelo likn da bio . Carrossel" [ref=e644] [cursor=pointer]:
+                  - /url: /dra.isabellaribeiro/p/C3ASWoKO0cl/
+                  - img "Antes e depois da harmonização natural realizada em nosso consultório, o que divide essas duas fotos são 7 meses e alguns ml de preenchedor . Hoje foi o dia do retoque do preenchimento em nossa querida paciente. Na técnica do lifting volumétrico devolvemos contorno e projeção para face na aplicação de 3 ml distribuídos uniformemente em todo rosto, principalmente na região de mento , lábios, malar e têmporas. Totalizando aplicação de 6 ml de ácido hialurônico ao longo desse tratamento inicial de reestruturação da face. Se você deseja uma harmonização que realce seus traços e beleza, agende um horário conosco pelo likn da bio ." [ref=e647]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+              - generic [ref=e649]:
+                - link "Carrossel" [ref=e651] [cursor=pointer]:
+                  - /url: /dra.isabellaribeiro/p/DW102_vFNDF/
+                  - img [ref=e654]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - link "Entendedoras, entenderão kkkk Clipe" [ref=e657] [cursor=pointer]:
+                  - /url: /dra.isabellaribeiro/reel/DWtl-xbjRfi/
+                  - img "Entendedoras, entenderão kkkk" [ref=e660]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - link "Photo by Dra Isabela Ribeiro 💎CRO MG 548882 on April 02, 2026. May be an image of text." [ref=e663] [cursor=pointer]:
+                  - /url: /dra.isabellaribeiro/p/DWo7kEjCPn5/
+                  - img "Photo by Dra Isabela Ribeiro 💎CRO MG 548882 on April 02, 2026. May be an image of text." [ref=e666]
+      - contentinfo [ref=e668]:
+        - generic [ref=e669]:
+          - generic [ref=e671]:
+            - link "Meta" [ref=e673] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e674]: Meta
+            - link "Sobre" [ref=e676] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e677]: Sobre
+            - link "Blog" [ref=e679] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e680]: Blog
+            - link "Carreiras" [ref=e682] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e683]: Carreiras
+            - link "Ajuda" [ref=e685] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e686]: Ajuda
+            - link "API" [ref=e688] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e689]: API
+            - link "Privacidade" [ref=e691] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e692]: Privacidade
+            - link "Termos" [ref=e694] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e695]: Termos
+            - link "Localizações" [ref=e697] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e698]: Localizações
+            - link "Instagram Lite" [ref=e700] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e701]: Instagram Lite
+            - link "Meta AI" [ref=e703] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e704]: Meta AI
+            - link "Threads" [ref=e706] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e707]: Threads
+            - link "Upload de contatos e não usuários" [ref=e709] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e710]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e712] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e713]: Meta Verified
+          - generic [ref=e714]:
+            - generic [ref=e715] [cursor=pointer]:
+              - generic [ref=e716]:
+                - generic [ref=e717]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e720]
+              - combobox "Trocar idioma de exibição" [ref=e722]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e724]: © 2026 Instagram from Meta
+  - button "Mensagens Mensagens" [ref=e726] [cursor=pointer]:
+    - generic [ref=e728]:
+      - img "Mensagens" [ref=e730]
+      - generic [ref=e733]: Mensagens

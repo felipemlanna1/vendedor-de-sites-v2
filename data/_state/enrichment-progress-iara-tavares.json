@@ -1,0 +1,564 @@
+{
+  "current_phase": 7,
+  "lead_id": "iara-tavares",
+  "nome": "Iara Tavares",
+  "cidade": "Raul Soares",
+  "nicho": "dentista",
+  "strategy": "dental",
+  "source": "instagram",
+  "discovered_urls": {
+    "site_url": "",
+    "instagram_username": "draiaratavares",
+    "facebook_url": "",
+    "google_maps_url": "",
+    "platform_urls": {}
+  },
+  "data_points": [
+    {
+      "category": "presence",
+      "label": "Instagram confirmado",
+      "value": "@draiaratavares",
+      "detail": {
+        "followers": 7516,
+        "posts": 285,
+        "bio": "Cirurgia Dentista - CRO 55.104 | Raul Soares - MG | Harmonizacao Facial | Esculpindo e elevando a sua beleza",
+        "platform": "instagram",
+        "link_na_bio": false
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:55:01.497842+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Instagram secundario",
+      "value": "@iaraatavares",
+      "detail": {
+        "nome": "Dra. Iara Tavares | Harmonizacao Facial",
+        "nota": "Segundo perfil encontrado, possivelmente conta pessoal ou backup",
+        "platform": "instagram"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:55:01.497842+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Site oficial",
+      "value": "Nao encontrado",
+      "detail": {
+        "nota": "Nenhum site proprio identificado em buscas. Lead sem website."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:55:01.497842+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Google Maps/Business",
+      "value": "Nao encontrado",
+      "detail": {
+        "nota": "Sem perfil no Google Maps/Business identificado"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:55:01.497842+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Facebook",
+      "value": "Nao encontrado",
+      "detail": {
+        "nota": "Existe pagina Dra. Iara Tavares Oftalmologista mas e outra profissional. Nenhum Facebook da dentista de Raul Soares."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:55:01.497842+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "LinkedIn",
+      "value": "Nao confirmado",
+      "detail": {
+        "nota": "100+ perfis Iara Tavares no LinkedIn, nenhum confirmado como a dentista de Raul Soares"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:55:01.497842+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Doctoralia",
+      "value": "Nao encontrado",
+      "detail": {
+        "nota": "Sem perfil na Doctoralia. Outras Iara Tavares encontradas sao oftalmologista (Vitoria) e outras profissionais."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:55:01.497842+00:00"
+    },
+    {
+      "category": "reviews",
+      "label": "Avaliacoes publicas",
+      "value": "Nao encontrado",
+      "detail": {
+        "nota": "Sem avaliacoes publicas em Google, Doctoralia ou plataformas de review"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:55:01.497842+00:00"
+    },
+    {
+      "category": "history",
+      "label": "Historia/Sobre",
+      "value": "Informacao limitada",
+      "detail": {
+        "nota": "Nenhum artigo, noticia ou pagina sobre encontrada. Presenca digital concentrada no Instagram. Cidade Raul Soares tem ~25k habitantes.",
+        "especialidade": "Harmonizacao Facial",
+        "registro": "CRO 55.104",
+        "cidade": "Raul Soares/MG"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:55:01.497842+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Concorrencia local",
+      "value": "Clinica COC e OralDents",
+      "detail": {
+        "clinica_coc": "@cocclinica - clinica odontologica em Raul Soares, Dr. Michael Gomes Coelho CRO 19334",
+        "oraldents": "Franquia OralDents com unidade em Raul Soares",
+        "nota": "Mercado local pequeno com pelo menos 2 concorrentes identificados"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:55:01.497842+00:00"
+    },
+    {
+      "category": "identity",
+      "label": "CNPJ",
+      "value": "Nao encontrado",
+      "detail": {
+        "nota": "Buscas por CNPJ em nome de Iara Tavares e Iara Almeida Tavares em Raul Soares nao retornaram resultados. Provavelmente atua como pessoa fisica ou MEI nao indexado publicamente.",
+        "buscas_realizadas": [
+          "WebSearch CNPJ + nome + cidade",
+          "WebSearch CNPJ + nome completo",
+          "casadosdados.com.br",
+          "OpenCNPJ API (indisponivel)"
+        ]
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:56:47.881615+00:00"
+    },
+    {
+      "category": "professional_registry",
+      "label": "CRO-MG",
+      "value": "CRO 55.104",
+      "detail": {
+        "conselho": "CRO-MG - Conselho Regional de Odontologia de Minas Gerais",
+        "nome_completo": "Iara Almeida Tavares",
+        "numero": "55104",
+        "estado": "MG",
+        "especialidade": "Cirurgia Dentista / Harmonizacao Facial",
+        "cidade_atuacao": "Raul Soares/MG",
+        "fonte_confirmacao": "Documento transparencia.cromg.org.br listando CD55104-Iara Almeida Tavares",
+        "nota": "CRO confirmado via busca web em documentos oficiais do CRO-MG."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (CRO-MG)",
+      "fetched_at": "2026-04-08T00:56:47.881615+00:00"
+    },
+    {
+      "category": "website",
+      "label": "Website",
+      "value": "Nao possui site",
+      "detail": {
+        "status": "sem_site"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-08T00:57:17.684223+00:00"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Doctoralia",
+      "value": "Nao encontrado",
+      "detail": {
+        "plataforma": "doctoralia.com.br",
+        "nota": "Sem perfil na Doctoralia"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:58:24.148156+00:00"
+    },
+    {
+      "category": "sales_channels",
+      "label": "BoaConsulta",
+      "value": "Nao encontrado",
+      "detail": {
+        "plataforma": "boaconsulta.com",
+        "nota": "Sem perfil no BoaConsulta"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:58:24.148156+00:00"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Reclame Aqui",
+      "value": "Nao encontrado",
+      "detail": {
+        "plataforma": "reclameaqui.com.br",
+        "nota": "Sem reclamacoes registradas"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:58:24.148156+00:00"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Google Maps",
+      "value": "Nao encontrado",
+      "detail": {
+        "plataforma": "Google Maps",
+        "nota": "Sem perfil no Google Maps/Business identificado"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:58:24.148156+00:00"
+    },
+    {
+      "category": "sales_channels",
+      "label": "YouTube",
+      "value": "Nao encontrado",
+      "detail": {
+        "plataforma": "youtube.com",
+        "nota": "Sem canal no YouTube"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:58:24.148156+00:00"
+    },
+    {
+      "category": "sales_channels",
+      "label": "TikTok",
+      "value": "Nao encontrado",
+      "detail": {
+        "plataforma": "tiktok.com",
+        "nota": "Sem perfil no TikTok"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:58:24.148156+00:00"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Resumo canais",
+      "value": "Presenca digital concentrada exclusivamente no Instagram",
+      "detail": {
+        "plataformas_pesquisadas": [
+          "Doctoralia",
+          "BoaConsulta",
+          "Reclame Aqui",
+          "Google Maps",
+          "YouTube",
+          "TikTok"
+        ],
+        "plataformas_encontradas": 0,
+        "instagram_principal": "@draiaratavares (7516 seguidores)",
+        "instagram_secundario": "@iaraatavares",
+        "nota": "Nenhum canal de venda ou agendamento online identificado. Lead depende 100% do Instagram + WhatsApp. Oportunidade clara para site com agendamento online."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:58:24.148156+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Foto de perfil Instagram (@draiaratavares)",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-19/527432052_18392978704187647_2794119573997350111_n.jpg?stp=dst-jpg_s320x320_tt6",
+      "detail": {
+        "tipo": "profile_pic",
+        "fonte": "Playwright (Instagram API)",
+        "conta": "@draiaratavares",
+        "descricao": "7517 seguidores, seguindo 1524, 285 posts. Bio: Esculpindo e elevando a sua beleza. Cirurgia Dentista - CRO 55.104. Raul Soares - MG.",
+        "full_name": "Iara Tavares | Harmonizacao Facial",
+        "external_url": null
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T01:06:30.255959+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Post - Antes/Depois Harmonizacao",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/587273354_18410495644187647_5835844954416212272_n.jpg?stp=dst-jpg_e35_tt6",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram API)",
+        "post_url": "https://www.instagram.com/p/DRvM-ePCW7Q/",
+        "descricao": "Realcando a beleza - caso de harmonizacao facial",
+        "likes": 88,
+        "comments": 22,
+        "is_video": false,
+        "carousel": 3,
+        "width": 1440,
+        "height": 1440
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T01:06:30.255959+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Post - Harmonizacao contornos definidos",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/568744328_18404876122187647_8076139807896902_n.jpg?stp=dst-jpg_e35_tt6",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram API)",
+        "post_url": "https://www.instagram.com/p/DQIP7ehDSmq/",
+        "descricao": "Mais harmonia, contornos definidos e uma imagem que transmite forca e confianca!",
+        "likes": 120,
+        "comments": 18,
+        "is_video": false,
+        "carousel": 4,
+        "width": 1440,
+        "height": 1440
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T01:06:30.255959+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Post - Resultado Otomodelacao",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/619615860_18010710443816247_6061229419016979589_n.jpg?stp=dst-jpg_e35_tt6",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram API)",
+        "post_url": "https://www.instagram.com/p/CrPBs8qrMAy/",
+        "descricao": "Resultado lindo de Otomodelacao! Obrigada Luiza, por permitir que eu faca parte desse sonho!",
+        "likes": 447,
+        "comments": 24,
+        "is_video": false,
+        "width": 1440,
+        "height": 1440
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T01:06:30.255959+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Post - Preenchimento Labial",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.71878-15/656849478_2005635186830795_6743255352561018354_n.jpg?stp=dst-jpg_e15_tt6",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram API)",
+        "post_url": "https://www.instagram.com/p/DWZAv1FjQJ1/",
+        "descricao": "O preenchimento labial nao so valoriza os labios, ele traz harmonia para o rosto e rejuvenesce o paciente",
+        "likes": 153,
+        "comments": 99,
+        "is_video": true,
+        "has_text": true,
+        "width": 640,
+        "height": 1136
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T01:06:30.255959+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Post - Pessoal/Esporte (campeas)",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/656078708_18427296823187647_2150759784083345768_n.jpg?stp=dst-jpegr_e35_tt6",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram API)",
+        "post_url": "https://www.instagram.com/p/DWM3n0Bifvd/",
+        "descricao": "CAMPEAS!! Obrigada pela parceria dupla!!",
+        "likes": 267,
+        "comments": 39,
+        "is_video": false,
+        "carousel": 5,
+        "width": 1440,
+        "height": 1920
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T01:06:30.255959+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Post - Viagem Italia/Toscana",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/654648723_18426458920187647_4428468699291030201_n.jpg?stp=dst-jpg_e35_tt6",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram API)",
+        "post_url": "https://www.instagram.com/p/DWFPsN8CZWj/",
+        "descricao": "Completamente apaixonada pela Toscana! Florenca, Montepulciano, Pienza, San Quirico dOrcia",
+        "likes": 1336,
+        "comments": 74,
+        "is_video": false,
+        "carousel": 19,
+        "width": 1440,
+        "height": 1920
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T01:06:30.255959+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Post - Noivado pessoal",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/648304384_18424464748187647_4399413533672502224_n.jpg?stp=dst-jpegr_e35_tt6",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram API)",
+        "post_url": "https://www.instagram.com/p/DVrpb17CPYM/",
+        "descricao": "SIM SIM SIMMMMM! Mil vezes sim para o amor da minha vida!",
+        "likes": 2389,
+        "comments": 476,
+        "is_video": false,
+        "carousel": 10,
+        "width": 1440,
+        "height": 1920
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T01:06:30.255959+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Post - Harmonizacao perfil (profissional)",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.71878-15/648284565_1892141908854821_2577748817771811646_n.jpg?stp=dst-jpg_e15_tt6",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram API)",
+        "post_url": "https://www.instagram.com/p/DVhM9tVCVvQ/",
+        "descricao": "Dia de cuidar da Marcely! Um pequeno ajuste que faz uma grande diferenca no perfil!",
+        "likes": 419,
+        "comments": 28,
+        "is_video": true,
+        "width": 640,
+        "height": 1136
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T01:06:30.255959+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Post - Harmonizacao noiva",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.71878-15/640330155_26109579232055672_5960097414978570698_n.jpg?stp=dst-jpg_e15_tt6",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram API)",
+        "post_url": "https://www.instagram.com/p/DVTeJaZDfr9/",
+        "descricao": "Que honra fazer parte desse momento tao especial! Ontem foi dia de cuidar dessa noivinha linda e realcar ainda mais a beleza dela para o grande dia!",
+        "likes": 440,
+        "comments": 70,
+        "is_video": true,
+        "width": 640,
+        "height": 1136
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T01:06:30.255959+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Post - Celebrando o amor",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/640598190_18422419333187647_4954296050325439058_n.jpg?stp=dst-jpg_e35_tt6",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram API)",
+        "post_url": "https://www.instagram.com/p/DVE346FCac9/",
+        "descricao": "Celebrando o amor! Vestido: @lucreciaatelier",
+        "likes": 1332,
+        "comments": 87,
+        "is_video": false,
+        "carousel": 8,
+        "width": 1440,
+        "height": 1920
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T01:06:30.255959+00:00"
+    },
+    {
+      "category": "brand",
+      "label": "Padroes da marca",
+      "value": "Estetica feminina, tons neutros/dourados, comunicacao calorosa e acessivel",
+      "detail": {
+        "cores": [
+          "dourado",
+          "rosa",
+          "branco",
+          "preto"
+        ],
+        "tom": "caloroso e profissional, com toque pessoal",
+        "publico_alvo": "Mulheres 25-50 anos, classe media/media-alta, cidade pequena e regiao",
+        "estilo_visual": "Elegante com toque pessoal, mix de conteudo profissional e lifestyle",
+        "slogan": "Esculpindo e elevando a sua beleza",
+        "nome_profissional": "Dra. Iara Tavares",
+        "nome_completo": "Iara Almeida Tavares",
+        "especialidades": [
+          "Harmonizacao Facial",
+          "Preenchimento Labial",
+          "Otomodelacao",
+          "Harmonizacao para noivas"
+        ]
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-08T01:08:06.497013+00:00"
+    },
+    {
+      "category": "competitors",
+      "label": "Concorrentes com site em Raul Soares",
+      "value": "3 encontrados",
+      "detail": [
+        "OdontoCompany Raul Soares - https://odontocompany.com/raulsoares",
+        "OralDents Raul Soares - https://oraldents.com.br/clinicas/dentista-em-raul-soares/",
+        "COC Clinica Medica e Odontologica - https://www.facebook.com/cocclinicamedicaeodontologica/ (apenas Facebook)"
+      ],
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T01:08:06.497013+00:00"
+    }
+  ],
+  "phases": {
+    "phase_1": {
+      "status": "complete"
+    },
+    "phase_2": {
+      "status": "complete",
+      "result": "8 WebSearches executadas, 0 URLs de site/plataforma descobertas, 10 data_points. Instagram @draiaratavares confirmado + @iaraatavares (segundo perfil). Sem site, sem Google Maps, sem Doctoralia."
+    },
+    "phase_3": {
+      "status": "complete",
+      "result": "CNPJ nao encontrado. CRO 55.104 confirmado no CRO-MG (nome completo: Iara Almeida Tavares). 12 data_points total."
+    },
+    "phase_4": {
+      "status": "complete",
+      "result": "Lead sem site - ausencia registrada. Nenhuma analise de website necessaria."
+    },
+    "phase_5": {
+      "status": "complete",
+      "result": "6 plataformas pesquisadas (Doctoralia, BoaConsulta, Reclame Aqui, Google Maps, YouTube, TikTok). Nenhum canal encontrado. Presenca 100% Instagram + WhatsApp. 7 data_points adicionados."
+    },
+    "phase_6": {
+      "status": "complete",
+      "result": "11 imagens capturadas via Playwright MCP (1 foto perfil HD + 10 posts recentes). Fontes: @draiaratavares (API Instagram). Imagens em alta resolucao (1440x1440 e 1440x1920). Mix de conteudo profissional (harmonizacao, preenchimento, otomodelacao) e pessoal (viagem, noivado)."
+    },
+    "phase_7": {
+      "status": "complete",
+      "result": "Briefing compilado e salvo no vendedor.db. Sales score: 9/10. 33 data_points, 11 imagens."
+    }
+  },
+  "started_at": "2026-04-07T21:52:55.426202",
+  "completed_at": "2026-04-07T22:08:06.499994"
+}

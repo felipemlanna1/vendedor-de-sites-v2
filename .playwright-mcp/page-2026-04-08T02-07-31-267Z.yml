@@ -1,0 +1,282 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e4]:
+      - button "Linktree" [ref=e6] [cursor=pointer]:
+        - img [ref=e7]
+      - button "Share profile" [ref=e11] [cursor=pointer]:
+        - img [ref=e12]
+    - generic [ref=e21]:
+      - generic [ref=e24]:
+        - generic [ref=e26]:
+          - generic "Profile avatar" [ref=e27]
+          - generic "Profile title" [ref=e28]:
+            - heading "Beatriz Pereira" [level=1] [ref=e30]: Beatriz Pereira
+          - generic "Profile description" [ref=e31]:
+            - heading "Cirurgiã-dentista" [level=2] [ref=e33]
+        - generic [ref=e36]:
+          - generic [ref=e39]:
+            - link "Agende sua consulta" [ref=e40] [cursor=pointer]:
+              - /url: https://wa.me/55035999497914
+              - generic [ref=e45]: Agende sua consulta
+            - button "Agende sua consulta" [ref=e46] [cursor=pointer]:
+              - img "Agende sua consulta" [ref=e47]
+          - generic [ref=e51]:
+            - button "Localização Av. Juvenal Corrêa de Figueiredo, 282 - Ouro Verde, Três Pontas" [ref=e52] [cursor=pointer]:
+              - generic [ref=e54]:
+                - generic [ref=e57]: Localização
+                - generic [ref=e58]:
+                  - img [ref=e60]
+                  - generic [ref=e62]: Av. Juvenal Corrêa de Figueiredo, 282 - Ouro Verde, Três Pontas
+            - button "Localização" [ref=e63] [cursor=pointer]:
+              - img "Localização" [ref=e64]
+          - generic [ref=e68]:
+            - link "Baixe meu Portifólio" [ref=e69] [cursor=pointer]:
+              - /url: https://drive.google.com/file/d/1iJ2W8C3QGfoDLPvqohUNg1l2SGHlem7c/view
+              - generic [ref=e74]: Baixe meu Portifólio
+            - button "Baixe meu Portifólio" [ref=e75] [cursor=pointer]:
+              - img "Baixe meu Portifólio" [ref=e76]
+      - generic [ref=e79]:
+        - link "Junte-se a beatrizpereiraodontologia2 no Linktree" [ref=e83] [cursor=pointer]:
+          - /url: https://linktr.ee/?utm_source=linktree&utm_medium=profile&utm_campaign=footer_logo_cta&utm_content=beatrizpereiraodontologia2&ses_dat=NmRlYzMzZjUtYWMwNC01ZjNjLWFjNzYtYjExZjI5NDY4NDEyfDljYWQxODkzLTRlOGQtNGI1Mi04M2VjLTdjMzJkNGY4OTExMnxUdWUgQXByIDA3IDIwMjYgMjM6Mzc6MjkgR01ULTAzMDAgKEhvcuFyaW8gUGFkcuNvIGRlIEJyYXPtbGlhKXxUdWUgQXByIDA3IDIwMjYgMjM6MDc6MjkgR01ULTAzMDAgKEhvcuFyaW8gUGFkcuNvIGRlIEJyYXPtbGlhKXw
+          - generic [ref=e85]: Junte-se a beatrizpereiraodontologia2 no Linktree
+        - generic [ref=e87]:
+          - generic [ref=e88]:
+            - button "Cookie Preferences" [ref=e89] [cursor=pointer]
+            - generic [ref=e90]: •
+            - link "Report" [ref=e91] [cursor=pointer]:
+              - /url: https://linktr.ee/s/about/trust-center/report/?field86145911=https%3A%2F%2Flinktr.ee%2Fbeatrizpereiraodontologia2
+            - generic [ref=e92]: •
+            - link "Privacy" [ref=e93] [cursor=pointer]:
+              - /url: https://linktr.ee/privacy
+            - generic [ref=e94]: •
+          - button "Explore" [ref=e96] [cursor=pointer]
+      - generic [ref=e98]:
+        - paragraph [ref=e99]: View on mobile
+        - img [ref=e101]:
+          - generic "Layer 1" [ref=e102]
+          - text: "null"
+    - generic:
+      - generic:
+        - generic:
+          - button:
+            - img
+          - heading [level=2]: Explore other Linktrees
+        - generic:
+          - generic:
+            - generic:
+              - link:
+                - /url: https://linktr.ee/ohtheplacesyoullgrow
+                - generic:
+                  - generic: Michelle Ahn
+                  - generic: "@ohtheplacesyoullgrow"
+              - link:
+                - /url: https://linktr.ee/jimgaffigan
+                - generic:
+                  - generic: jimgaffigan
+                  - generic: "@jimgaffigan"
+              - link:
+                - /url: https://linktr.ee/morepurposepod
+                - generic:
+                  - generic: morepurposepod
+                  - generic: "@morepurposepod"
+              - link:
+                - /url: https://linktr.ee/demilovato
+                - generic:
+                  - generic: Demi Lovato
+                  - generic: "@demilovato"
+              - link:
+                - /url: https://linktr.ee/drMarkHyman
+                - generic:
+                  - generic: drMarkHyman
+                  - generic: "@drMarkHyman"
+              - link:
+                - /url: https://linktr.ee/alysonstoner
+                - generic:
+                  - generic: Alyson Stoner
+                  - generic: "@alysonstoner"
+              - link:
+                - /url: https://linktr.ee/gabbywindey
+                - generic:
+                  - generic: Gabby Windey
+                  - generic: "@gabbywindey"
+              - link:
+                - /url: https://linktr.ee/taradaviswoodhall
+                - generic:
+                  - generic: Tara Davis Hall
+                  - generic: "@taradaviswoodhall"
+              - link:
+                - /url: https://linktr.ee/hooraemedia
+                - generic:
+                  - generic: Hoorae Media
+                  - generic: "@hooraemedia"
+              - link:
+                - /url: https://linktr.ee/tjpalma
+                - generic:
+                  - generic: TJ Palma
+                  - generic: "@tjpalma"
+            - generic:
+              - button:
+                - generic: previous
+                - img
+            - generic:
+              - button:
+                - generic: next
+                - img
+          - generic:
+            - generic:
+              - generic: Discover more
+              - button: See all
+            - generic:
+              - link:
+                - /url: https://linktr.ee/mjpettiford
+                - generic: "@mjpettiford"
+              - link:
+                - /url: https://linktr.ee/hsconceito_
+                - generic: "@hsconceito_"
+              - link:
+                - /url: https://linktr.ee/coolesttools
+                - generic: "@coolesttools"
+              - link:
+                - /url: https://linktr.ee/lojadefabricaheadfree
+                - generic: "@lojadefabricaheadfree"
+              - link:
+                - /url: https://linktr.ee/shishakrause
+                - generic: "@shishakrause"
+              - link:
+                - /url: https://linktr.ee/CRAFTSTORE6
+                - generic: "@CRAFTSTORE6"
+              - link:
+                - /url: https://linktr.ee/ShayAdore
+                - generic: "@ShayAdore"
+              - link:
+                - /url: https://linktr.ee/Oliviarubino
+                - generic: "@Oliviarubino"
+              - link:
+                - /url: https://linktr.ee/pvausaseo05
+                - generic: "@pvausaseo05"
+              - link:
+                - /url: https://linktr.ee/rubaalqhatni
+                - generic: "@rubaalqhatni"
+              - link:
+                - /url: https://linktr.ee/marscamino
+                - generic: "@marscamino"
+              - link:
+                - /url: https://linktr.ee/yol.ksa
+                - generic: "@yol.ksa"
+              - link:
+                - /url: https://linktr.ee/XONeonTiger
+                - generic: "@XONeonTiger"
+              - link:
+                - /url: https://linktr.ee/cupz01
+                - generic: "@cupz01"
+              - link:
+                - /url: https://linktr.ee/highnooncards
+                - generic: "@highnooncards"
+              - link:
+                - /url: https://linktr.ee/tssmed
+                - generic: "@tssmed"
+              - link:
+                - /url: https://linktr.ee/joshuallerandii
+                - generic: "@joshuallerandii"
+              - link:
+                - /url: https://linktr.ee/loudheartpoetry
+                - generic: "@loudheartpoetry"
+              - link:
+                - /url: https://linktr.ee/yosi.cf.17
+                - generic: "@yosi.cf.17"
+              - link:
+                - /url: https://linktr.ee/ttvawakeyfn
+                - generic: "@ttvawakeyfn"
+              - link:
+                - /url: https://linktr.ee/KahzelOnGo
+                - generic: "@KahzelOnGo"
+              - link:
+                - /url: https://linktr.ee/icecolsen
+                - generic: "@icecolsen"
+              - link:
+                - /url: https://linktr.ee/michellegordonbem
+                - generic: "@michellegordonbem"
+              - link:
+                - /url: https://linktr.ee/Lindseyreadsya
+                - generic: "@Lindseyreadsya"
+              - link:
+                - /url: https://linktr.ee/Zeed
+                - generic: "@Zeed"
+              - link:
+                - /url: https://linktr.ee/luiz.oab21722
+                - generic: "@luiz.oab21722"
+              - link:
+                - /url: https://linktr.ee/breathehotelleiden
+                - generic: "@breathehotelleiden"
+              - link:
+                - /url: https://linktr.ee/onlyfunandtravel
+                - generic: "@onlyfunandtravel"
+              - link:
+                - /url: https://linktr.ee/lumierremusic
+                - generic: "@lumierremusic"
+              - link:
+                - /url: https://linktr.ee/amanmishra808464
+                - generic: "@amanmishra808464"
+              - link:
+                - /url: https://linktr.ee/aimwithswans
+                - generic: "@aimwithswans"
+              - link:
+                - /url: https://linktr.ee/hotelemery
+                - generic: "@hotelemery"
+              - link:
+                - /url: https://linktr.ee/DrTDamiani
+                - generic: "@DrTDamiani"
+              - link:
+                - /url: https://linktr.ee/oceanviewplymouth
+                - generic: "@oceanviewplymouth"
+              - link:
+                - /url: https://linktr.ee/mgsofficial_
+                - generic: "@mgsofficial_"
+              - link:
+                - /url: https://linktr.ee/pahpzy
+                - generic: "@pahpzy"
+              - link:
+                - /url: https://linktr.ee/myworld1_de
+                - generic: "@myworld1_de"
+              - link:
+                - /url: https://linktr.ee/Anel7510a
+                - generic: "@Anel7510a"
+              - link:
+                - /url: https://linktr.ee/docesencantosconfiserie
+                - generic: "@docesencantosconfiserie"
+              - link:
+                - /url: https://linktr.ee/theakashkota
+                - generic: "@theakashkota"
+              - link:
+                - /url: https://linktr.ee/sweetpeachcrochets
+                - generic: "@sweetpeachcrochets"
+              - link:
+                - /url: https://linktr.ee/wilderlorestudio
+                - generic: "@wilderlorestudio"
+              - link:
+                - /url: https://linktr.ee/noxyr
+                - generic: "@noxyr"
+              - link:
+                - /url: https://linktr.ee/joyeriacrisbga
+                - generic: "@joyeriacrisbga"
+              - link:
+                - /url: https://linktr.ee/festesmajors
+                - generic: "@festesmajors"
+  - complementary [ref=e113]:
+    - generic [ref=e114]:
+      - generic [ref=e115]:
+        - generic [ref=e116]:
+          - heading "Valorizamos sua privacidade" [level=2] [ref=e117]
+          - button "Close" [ref=e119] [cursor=pointer]:
+            - img [ref=e120]
+        - button "Open language dropdown" [ref=e124] [cursor=pointer]:
+          - img [ref=e125]
+          - generic [ref=e127]: Portuguese (Brazil)
+          - img [ref=e128]
+      - paragraph [ref=e131]: Nós e nossos fornecedores usamos cookies e tecnologias semelhantes para aprimorar sua experiência, analisar o tráfego do site, personalizar o conteúdo e oferecer publicidade direcionada. Precisamos do seu consentimento para usar cookies não essenciais. Você pode escolher quais categorias permitir abaixo. Para obter mais detalhes, consulte nossa Política de Cookies.
+      - link "Política de cookies" [ref=e133] [cursor=pointer]:
+        - /url: https://linktr.ee/s/about/cookie-notice
+      - button "Aceitar tudo" [ref=e134] [cursor=pointer]
+      - button "Rejeitar tudo" [ref=e135] [cursor=pointer]
+      - button "Personalizar minhas escolhas" [ref=e136] [cursor=pointer]
+  - alert [ref=e137]

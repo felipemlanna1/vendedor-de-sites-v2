@@ -1,0 +1,599 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e88] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e93]
+        - link "Foto do perfil de _pipelinestudio" [ref=e99] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e104]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e105]
+      - generic [ref=e106]:
+        - link "Configurações" [ref=e109] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e114]
+        - link "Também da Meta" [ref=e117] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e122]
+    - generic [ref=e125]:
+      - main [ref=e126]:
+        - generic [ref=e127]:
+          - generic [ref=e129]:
+            - button [ref=e134]:
+              - generic [ref=e141]:
+                - list [ref=e143]:
+                  - listitem [ref=e144]
+                  - listitem [ref=e145]:
+                    - img [ref=e152]
+                  - listitem [ref=e154]:
+                    - img [ref=e161]
+                - button [ref=e163] [cursor=pointer]
+            - generic [ref=e166]:
+              - generic [ref=e168]:
+                - button "Foto do perfil de dramarcellamelro" [ref=e173] [cursor=pointer]:
+                  - link "Foto do perfil de dramarcellamelro" [ref=e175]:
+                    - img "Foto do perfil de dramarcellamelro" [ref=e176]
+                - generic [ref=e179]:
+                  - link "dramarcellamelro" [ref=e188] [cursor=pointer]:
+                    - /url: /dramarcellamelro/
+                    - generic [ref=e191]: dramarcellamelro
+                  - button "Seguir" [ref=e193] [cursor=pointer]
+                - button "Mais opções" [ref=e196] [cursor=pointer]:
+                  - img "Mais opções" [ref=e199]
+              - separator [ref=e203]
+              - generic [ref=e205]:
+                - generic [ref=e207]:
+                  - link "Foto do perfil de dramarcellamelro" [ref=e212] [cursor=pointer]:
+                    - /url: /dramarcellamelro/
+                    - img "Foto do perfil de dramarcellamelro" [ref=e213]
+                  - generic [ref=e217]:
+                    - generic [ref=e218]:
+                      - link "dramarcellamelro" [ref=e222] [cursor=pointer]:
+                        - /url: /dramarcellamelro/
+                        - generic [ref=e225]: dramarcellamelro
+                      - time [ref=e227]: 239 sem
+                    - generic [ref=e228]:
+                      - text: Quase lá...📸🎓💫
+                      - text: .
+                      - text: .
+                      - text: .
+                      - link "#vemcro" [ref=e229] [cursor=pointer]:
+                        - /url: /explore/tags/vemcro/
+                      - link "#odontologia" [ref=e230] [cursor=pointer]:
+                        - /url: /explore/tags/odontologia/
+                      - link "#formatura" [ref=e231] [cursor=pointer]:
+                        - /url: /explore/tags/formatura/
+                - generic [ref=e232]:
+                  - generic [ref=e235]:
+                    - link "Foto do perfil de rajendrasharma82" [ref=e241] [cursor=pointer]:
+                      - /url: /rajendrasharma82/
+                      - img "Foto do perfil de rajendrasharma82" [ref=e242]
+                    - generic [ref=e243]:
+                      - generic [ref=e244]:
+                        - generic [ref=e246]:
+                          - generic [ref=e247]:
+                            - link "rajendrasharma82" [ref=e252] [cursor=pointer]:
+                              - /url: /rajendrasharma82/
+                              - generic [ref=e255]: rajendrasharma82
+                            - link "8 sem" [ref=e257] [cursor=pointer]:
+                              - /url: /p/CTdVH2ploan/c/18078040388522937/
+                              - time [ref=e258]: 8 sem
+                          - generic [ref=e260]: Good
+                        - generic [ref=e261]:
+                          - button "Responder" [ref=e262] [cursor=pointer]:
+                            - generic [ref=e264]: Responder
+                          - button "Ver tradução" [ref=e265] [cursor=pointer]:
+                            - generic [ref=e267]: Ver tradução
+                      - button "Curtir" [ref=e272] [cursor=pointer]:
+                        - img "Curtir" [ref=e275]
+                  - generic [ref=e279]:
+                    - link "Foto do perfil de jamileperini" [ref=e285] [cursor=pointer]:
+                      - /url: /jamileperini/
+                      - img "Foto do perfil de jamileperini" [ref=e286]
+                    - generic [ref=e287]:
+                      - generic [ref=e288]:
+                        - generic [ref=e290]:
+                          - generic [ref=e291]:
+                            - link "jamileperini" [ref=e296] [cursor=pointer]:
+                              - /url: /jamileperini/
+                              - generic [ref=e299]: jamileperini
+                            - link "238 sem" [ref=e301] [cursor=pointer]:
+                              - /url: /p/CTdVH2ploan/c/18103066933262197/
+                              - time [ref=e302]: 238 sem
+                          - generic [ref=e304]: Lindaaaaaaaaaaaaaaaaaaaaaaa
+                        - generic [ref=e305]:
+                          - button "1 curtida" [ref=e306] [cursor=pointer]:
+                            - generic [ref=e308]: 1 curtida
+                          - button "Responder" [ref=e309] [cursor=pointer]:
+                            - generic [ref=e311]: Responder
+                      - button "Curtir" [ref=e316] [cursor=pointer]:
+                        - img "Curtir" [ref=e319]
+                  - generic [ref=e323]:
+                    - link "Foto do perfil de gduuarte" [ref=e329] [cursor=pointer]:
+                      - /url: /gduuarte/
+                      - img "Foto do perfil de gduuarte" [ref=e330]
+                    - generic [ref=e331]:
+                      - generic [ref=e332]:
+                        - generic [ref=e334]:
+                          - generic [ref=e335]:
+                            - link "gduuarte" [ref=e340] [cursor=pointer]:
+                              - /url: /gduuarte/
+                              - generic [ref=e343]: gduuarte
+                            - link "239 sem" [ref=e345] [cursor=pointer]:
+                              - /url: /p/CTdVH2ploan/c/17924366461826323/
+                              - time [ref=e346]: 239 sem
+                          - generic [ref=e348]: vc eh muito lindaaaaa nenem 😍😍
+                        - generic [ref=e349]:
+                          - button "1 curtida" [ref=e350] [cursor=pointer]:
+                            - generic [ref=e352]: 1 curtida
+                          - button "Responder" [ref=e353] [cursor=pointer]:
+                            - generic [ref=e355]: Responder
+                      - button "Curtir" [ref=e360] [cursor=pointer]:
+                        - img "Curtir" [ref=e363]
+                  - generic [ref=e367]:
+                    - link "Foto do perfil de elianafiuzalima" [ref=e373] [cursor=pointer]:
+                      - /url: /elianafiuzalima/
+                      - img "Foto do perfil de elianafiuzalima" [ref=e374]
+                    - generic [ref=e375]:
+                      - generic [ref=e376]:
+                        - generic [ref=e378]:
+                          - generic [ref=e379]:
+                            - link "elianafiuzalima" [ref=e384] [cursor=pointer]:
+                              - /url: /elianafiuzalima/
+                              - generic [ref=e387]: elianafiuzalima
+                            - link "239 sem" [ref=e389] [cursor=pointer]:
+                              - /url: /p/CTdVH2ploan/c/17896093994189473/
+                              - time [ref=e390]: 239 sem
+                          - generic [ref=e392]:
+                            - text: Parabéns 👸 linda‼️
+                            - text: Tu és encantadora‼️
+                            - text: Certeza do teu sucesso‼️🥰😘
+                        - generic [ref=e393]:
+                          - button "1 curtida" [ref=e394] [cursor=pointer]:
+                            - generic [ref=e396]: 1 curtida
+                          - button "Responder" [ref=e397] [cursor=pointer]:
+                            - generic [ref=e399]: Responder
+                      - button "Curtir" [ref=e404] [cursor=pointer]:
+                        - img "Curtir" [ref=e407]
+                  - generic [ref=e411]:
+                    - link "Foto do perfil de mylene.liberato" [ref=e417] [cursor=pointer]:
+                      - /url: /mylene.liberato/
+                      - img "Foto do perfil de mylene.liberato" [ref=e418]
+                    - generic [ref=e419]:
+                      - generic [ref=e420]:
+                        - generic [ref=e422]:
+                          - generic [ref=e423]:
+                            - link "mylene.liberato" [ref=e428] [cursor=pointer]:
+                              - /url: /mylene.liberato/
+                              - generic [ref=e431]: mylene.liberato
+                            - link "239 sem" [ref=e433] [cursor=pointer]:
+                              - /url: /p/CTdVH2ploan/c/17894145266218098/
+                              - time [ref=e434]: 239 sem
+                          - generic [ref=e436]: ❤️❤️❤️
+                        - generic [ref=e437]:
+                          - button "1 curtida" [ref=e438] [cursor=pointer]:
+                            - generic [ref=e440]: 1 curtida
+                          - button "Responder" [ref=e441] [cursor=pointer]:
+                            - generic [ref=e443]: Responder
+                      - button "Curtir" [ref=e448] [cursor=pointer]:
+                        - img "Curtir" [ref=e451]
+                  - generic [ref=e455]:
+                    - link "Foto do perfil de yuppiemag" [ref=e461] [cursor=pointer]:
+                      - /url: /yuppiemag/
+                      - img "Foto do perfil de yuppiemag" [ref=e462]
+                    - generic [ref=e463]:
+                      - generic [ref=e464]:
+                        - generic [ref=e466]:
+                          - generic [ref=e467]:
+                            - link "yuppiemag Verificado" [ref=e472] [cursor=pointer]:
+                              - /url: /yuppiemag/
+                              - generic [ref=e474]:
+                                - generic [ref=e475]: yuppiemag
+                                - img "Verificado" [ref=e477]
+                            - link "239 sem" [ref=e480] [cursor=pointer]:
+                              - /url: /p/CTdVH2ploan/c/17919545881796197/
+                              - time [ref=e481]: 239 sem
+                          - generic [ref=e483]: 😍😍😍
+                        - generic [ref=e484]:
+                          - button "1 curtida" [ref=e485] [cursor=pointer]:
+                            - generic [ref=e487]: 1 curtida
+                          - button "Responder" [ref=e488] [cursor=pointer]:
+                            - generic [ref=e490]: Responder
+                      - button "Curtir" [ref=e495] [cursor=pointer]:
+                        - img "Curtir" [ref=e498]
+                  - generic [ref=e502]:
+                    - link "Foto do perfil de dragabrielibojo" [ref=e508] [cursor=pointer]:
+                      - /url: /dragabrielibojo/
+                      - img "Foto do perfil de dragabrielibojo" [ref=e509]
+                    - generic [ref=e510]:
+                      - generic [ref=e511]:
+                        - generic [ref=e513]:
+                          - generic [ref=e514]:
+                            - link "dragabrielibojo" [ref=e519] [cursor=pointer]:
+                              - /url: /dragabrielibojo/
+                              - generic [ref=e522]: dragabrielibojo
+                            - link "239 sem" [ref=e524] [cursor=pointer]:
+                              - /url: /p/CTdVH2ploan/c/17880229550444365/
+                              - time [ref=e525]: 239 sem
+                          - generic [ref=e527]: Maravilhosaaaaaa!!!
+                        - generic [ref=e528]:
+                          - button "1 curtida" [ref=e529] [cursor=pointer]:
+                            - generic [ref=e531]: 1 curtida
+                          - button "Responder" [ref=e532] [cursor=pointer]:
+                            - generic [ref=e534]: Responder
+                      - button "Curtir" [ref=e539] [cursor=pointer]:
+                        - img "Curtir" [ref=e542]
+                  - generic [ref=e546]:
+                    - link "Foto do perfil de cristinaotte" [ref=e552] [cursor=pointer]:
+                      - /url: /cristinaotte/
+                      - img "Foto do perfil de cristinaotte" [ref=e553]
+                    - generic [ref=e554]:
+                      - generic [ref=e555]:
+                        - generic [ref=e557]:
+                          - generic [ref=e558]:
+                            - link "cristinaotte" [ref=e563] [cursor=pointer]:
+                              - /url: /cristinaotte/
+                              - generic [ref=e566]: cristinaotte
+                            - link "239 sem" [ref=e568] [cursor=pointer]:
+                              - /url: /p/CTdVH2ploan/c/17921126218751244/
+                              - time [ref=e569]: 239 sem
+                          - generic [ref=e571]: 👏👏👏👏👏
+                        - generic [ref=e572]:
+                          - button "1 curtida" [ref=e573] [cursor=pointer]:
+                            - generic [ref=e575]: 1 curtida
+                          - button "Responder" [ref=e576] [cursor=pointer]:
+                            - generic [ref=e578]: Responder
+                      - button "Curtir" [ref=e583] [cursor=pointer]:
+                        - img "Curtir" [ref=e586]
+                  - generic [ref=e590]:
+                    - link "Foto do perfil de lauramagalhaees" [ref=e596] [cursor=pointer]:
+                      - /url: /lauramagalhaees/
+                      - img "Foto do perfil de lauramagalhaees" [ref=e597]
+                    - generic [ref=e598]:
+                      - generic [ref=e599]:
+                        - generic [ref=e601]:
+                          - generic [ref=e602]:
+                            - link "lauramagalhaees" [ref=e607] [cursor=pointer]:
+                              - /url: /lauramagalhaees/
+                              - generic [ref=e610]: lauramagalhaees
+                            - link "239 sem" [ref=e612] [cursor=pointer]:
+                              - /url: /p/CTdVH2ploan/c/17913903097971841/
+                              - time [ref=e613]: 239 sem
+                          - generic [ref=e615]: Lindaaaaa
+                        - generic [ref=e616]:
+                          - button "1 curtida" [ref=e617] [cursor=pointer]:
+                            - generic [ref=e619]: 1 curtida
+                          - button "Responder" [ref=e620] [cursor=pointer]:
+                            - generic [ref=e622]: Responder
+                      - button "Curtir" [ref=e627] [cursor=pointer]:
+                        - img "Curtir" [ref=e630]
+                  - generic [ref=e632]:
+                    - generic [ref=e634]:
+                      - link "Foto do perfil de thaysegiusti" [ref=e640] [cursor=pointer]:
+                        - /url: /thaysegiusti/
+                        - img "Foto do perfil de thaysegiusti" [ref=e641]
+                      - generic [ref=e642]:
+                        - generic [ref=e643]:
+                          - generic [ref=e645]:
+                            - generic [ref=e646]:
+                              - link "thaysegiusti" [ref=e651] [cursor=pointer]:
+                                - /url: /thaysegiusti/
+                                - generic [ref=e654]: thaysegiusti
+                              - link "239 sem" [ref=e656] [cursor=pointer]:
+                                - /url: /p/CTdVH2ploan/c/18187415614136868/
+                                - time [ref=e657]: 239 sem
+                            - generic [ref=e659]: Já pode agendar o botox?
+                          - generic [ref=e660]:
+                            - button "1 curtida" [ref=e661] [cursor=pointer]:
+                              - generic [ref=e663]: 1 curtida
+                            - button "Responder" [ref=e664] [cursor=pointer]:
+                              - generic [ref=e666]: Responder
+                        - button "Curtir" [ref=e671] [cursor=pointer]:
+                          - img "Curtir" [ref=e674]
+                    - button "Ver todas as 1 respostas" [ref=e677] [cursor=pointer]:
+                      - generic [ref=e680]: Ver todas as 1 respostas
+                  - generic [ref=e683]:
+                    - link "Foto do perfil de jusstraub" [ref=e689] [cursor=pointer]:
+                      - /url: /jusstraub/
+                      - img "Foto do perfil de jusstraub" [ref=e690]
+                    - generic [ref=e691]:
+                      - generic [ref=e692]:
+                        - generic [ref=e694]:
+                          - generic [ref=e695]:
+                            - link "jusstraub" [ref=e700] [cursor=pointer]:
+                              - /url: /jusstraub/
+                              - generic [ref=e703]: jusstraub
+                            - link "239 sem" [ref=e705] [cursor=pointer]:
+                              - /url: /p/CTdVH2ploan/c/17956572685490890/
+                              - time [ref=e706]: 239 sem
+                          - generic [ref=e708]: Lindaaaa Dra 😍👏🏽👏🏽
+                        - generic [ref=e709]:
+                          - button "1 curtida" [ref=e710] [cursor=pointer]:
+                            - generic [ref=e712]: 1 curtida
+                          - button "Responder" [ref=e713] [cursor=pointer]:
+                            - generic [ref=e715]: Responder
+                      - button "Curtir" [ref=e720] [cursor=pointer]:
+                        - img "Curtir" [ref=e723]
+                  - generic [ref=e727]:
+                    - link "Foto do perfil de gomesgabrielle__" [ref=e733] [cursor=pointer]:
+                      - /url: /gomesgabrielle__/
+                      - img "Foto do perfil de gomesgabrielle__" [ref=e734]
+                    - generic [ref=e735]:
+                      - generic [ref=e736]:
+                        - generic [ref=e738]:
+                          - generic [ref=e739]:
+                            - link "gomesgabrielle__" [ref=e744] [cursor=pointer]:
+                              - /url: /gomesgabrielle__/
+                              - generic [ref=e747]: gomesgabrielle__
+                            - link "239 sem" [ref=e749] [cursor=pointer]:
+                              - /url: /p/CTdVH2ploan/c/17925666448772456/
+                              - time [ref=e750]: 239 sem
+                          - generic [ref=e752]: 😍❤️😍❤️
+                        - generic [ref=e753]:
+                          - button "1 curtida" [ref=e754] [cursor=pointer]:
+                            - generic [ref=e756]: 1 curtida
+                          - button "Responder" [ref=e757] [cursor=pointer]:
+                            - generic [ref=e759]: Responder
+                      - button "Curtir" [ref=e764] [cursor=pointer]:
+                        - img "Curtir" [ref=e767]
+                  - generic [ref=e771]:
+                    - link "Foto do perfil de gomesgabrielle__" [ref=e777] [cursor=pointer]:
+                      - /url: /gomesgabrielle__/
+                      - img "Foto do perfil de gomesgabrielle__" [ref=e778]
+                    - generic [ref=e779]:
+                      - generic [ref=e780]:
+                        - generic [ref=e782]:
+                          - generic [ref=e783]:
+                            - link "gomesgabrielle__" [ref=e788] [cursor=pointer]:
+                              - /url: /gomesgabrielle__/
+                              - generic [ref=e791]: gomesgabrielle__
+                            - link "239 sem" [ref=e793] [cursor=pointer]:
+                              - /url: /p/CTdVH2ploan/c/17887968830327223/
+                              - time [ref=e794]: 239 sem
+                          - generic [ref=e796]: Lindona
+                        - generic [ref=e797]:
+                          - button "1 curtida" [ref=e798] [cursor=pointer]:
+                            - generic [ref=e800]: 1 curtida
+                          - button "Responder" [ref=e801] [cursor=pointer]:
+                            - generic [ref=e803]: Responder
+                      - button "Curtir" [ref=e808] [cursor=pointer]:
+                        - img "Curtir" [ref=e811]
+                  - generic [ref=e815]:
+                    - link "Foto do perfil de daanimay" [ref=e821] [cursor=pointer]:
+                      - /url: /daanimay/
+                      - img "Foto do perfil de daanimay" [ref=e822]
+                    - generic [ref=e823]:
+                      - generic [ref=e824]:
+                        - generic [ref=e826]:
+                          - generic [ref=e827]:
+                            - link "daanimay" [ref=e832] [cursor=pointer]:
+                              - /url: /daanimay/
+                              - generic [ref=e835]: daanimay
+                            - link "239 sem" [ref=e837] [cursor=pointer]:
+                              - /url: /p/CTdVH2ploan/c/17848319531639146/
+                              - time [ref=e838]: 239 sem
+                          - generic [ref=e840]: lindaaaa
+                        - generic [ref=e841]:
+                          - button "1 curtida" [ref=e842] [cursor=pointer]:
+                            - generic [ref=e844]: 1 curtida
+                          - button "Responder" [ref=e845] [cursor=pointer]:
+                            - generic [ref=e847]: Responder
+                      - button "Curtir" [ref=e852] [cursor=pointer]:
+                        - img "Curtir" [ref=e855]
+                  - generic [ref=e859]:
+                    - link "Foto do perfil de dada_vianna" [ref=e865] [cursor=pointer]:
+                      - /url: /dada_vianna/
+                      - img "Foto do perfil de dada_vianna" [ref=e866]
+                    - generic [ref=e867]:
+                      - generic [ref=e868]:
+                        - generic [ref=e870]:
+                          - generic [ref=e871]:
+                            - link "dada_vianna" [ref=e876] [cursor=pointer]:
+                              - /url: /dada_vianna/
+                              - generic [ref=e879]: dada_vianna
+                            - link "239 sem" [ref=e881] [cursor=pointer]:
+                              - /url: /p/CTdVH2ploan/c/17923843213838598/
+                              - time [ref=e882]: 239 sem
+                          - generic [ref=e884]: Lindaa!!!!
+                        - generic [ref=e885]:
+                          - button "1 curtida" [ref=e886] [cursor=pointer]:
+                            - generic [ref=e888]: 1 curtida
+                          - button "Responder" [ref=e889] [cursor=pointer]:
+                            - generic [ref=e891]: Responder
+                      - button "Curtir" [ref=e896] [cursor=pointer]:
+                        - img "Curtir" [ref=e899]
+                  - progressbar [ref=e903]:
+                    - img "Carregando..." [ref=e904]
+              - generic [ref=e917]:
+                - generic [ref=e918]:
+                  - generic [ref=e919]:
+                    - button "Curtir" [ref=e922] [cursor=pointer]:
+                      - img "Curtir" [ref=e925]
+                    - button "Comentar" [ref=e928] [cursor=pointer]:
+                      - img "Comentar" [ref=e930]
+                    - button "36" [ref=e932] [cursor=pointer]
+                    - button "Compartilhar" [ref=e933] [cursor=pointer]:
+                      - img "Compartilhar" [ref=e934]
+                  - button "Salvar" [ref=e939] [cursor=pointer]:
+                    - button "Salvar" [ref=e940]:
+                      - img "Salvar" [ref=e942]
+                - link "5 de setembro de 2021" [ref=e946] [cursor=pointer]:
+                  - /url: /dramarcellamelro/p/CTdVH2ploan/
+                  - time [ref=e948]: 5 de setembro de 2021
+              - generic [ref=e951]:
+                - link [ref=e952]
+                - generic [ref=e954]:
+                  - button "Emoji" [ref=e956] [cursor=pointer]:
+                    - img "Emoji" [ref=e958]
+                  - textbox "Adicione um comentário..." [ref=e960]
+          - separator [ref=e962]
+          - generic [ref=e963]:
+            - generic [ref=e965]:
+              - text: Mais posts de
+              - link "dramarcellamelro" [ref=e966] [cursor=pointer]:
+                - /url: /dramarcellamelro/
+            - generic [ref=e969]:
+              - generic [ref=e970]:
+                - link "Photo by Marcella Melro on March 31, 2026. May be an image of one or more people, people smiling, jewelry and text." [ref=e972] [cursor=pointer]:
+                  - /url: /dramarcellamelro/p/DWkS1VsjPHu/
+                  - img "Photo by Marcella Melro on March 31, 2026. May be an image of one or more people, people smiling, jewelry and text." [ref=e975]
+                - link "💙 Cuidar da boca faz parte de cuidar do todo — e cada escolha metabólica precisa de um olhar integrativo, consciente e individualizado. Clipe" [ref=e978] [cursor=pointer]:
+                  - /url: /dramarcellamelro/reel/DQpqrv1EqnY/
+                  - img "💙 Cuidar da boca faz parte de cuidar do todo — e cada escolha metabólica precisa de um olhar integrativo, consciente e individualizado." [ref=e981]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - 'link "A radiografia panorâmica vai muito além de “ver os dentes”. Ela nos permite enxergar o organismo como um todo — estruturas ósseas, articulações, possíveis focos de inflamação e até sinais de desequilíbrios sistêmicos. Cada imagem é uma janela para compreender o corpo de forma completa 💫 #odontologiaintegrativa Carrossel" [ref=e984] [cursor=pointer]':
+                  - /url: /dramarcellamelro/p/DQZeI_djbIr/
+                  - 'img "A radiografia panorâmica vai muito além de “ver os dentes”. Ela nos permite enxergar o organismo como um todo — estruturas ósseas, articulações, possíveis focos de inflamação e até sinais de desequilíbrios sistêmicos. Cada imagem é uma janela para compreender o corpo de forma completa 💫 #odontologiaintegrativa" [ref=e987]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+              - generic [ref=e989]:
+                - 'link "O futuro é integrativo! Muitas vezes escutei “Por que um dentista iria em um congresso de medicina (integrativa)?” e eu devolvo a pergunta “Por que não?”. Todo conhecimento é válido e valioso. Ao longo desses dias conheci muitas pessoas e profissionais incríveis, tive a oportunidade de aprender com palestrantes extremamente inteligentes e confirmei o que eu já sabia: o corpo está todo ligado. Nem sempre é sobre evoluir só como dentista mas sim como profissional da SAÚDE. Entender como o corpo funciona e saber como a odontologia, medicina, nutrição e psicologia se completam é incrível. Muito feliz por aproveitar as oportunidades que a vida oferece 💙 @abmfuncionalintegrativa @drvictorsorrentino Carrossel" [ref=e991] [cursor=pointer]':
+                  - /url: /dramarcellamelro/p/DQSfhIlkmBd/
+                  - 'img "O futuro é integrativo! Muitas vezes escutei “Por que um dentista iria em um congresso de medicina (integrativa)?” e eu devolvo a pergunta “Por que não?”. Todo conhecimento é válido e valioso. Ao longo desses dias conheci muitas pessoas e profissionais incríveis, tive a oportunidade de aprender com palestrantes extremamente inteligentes e confirmei o que eu já sabia: o corpo está todo ligado. Nem sempre é sobre evoluir só como dentista mas sim como profissional da SAÚDE. Entender como o corpo funciona e saber como a odontologia, medicina, nutrição e psicologia se completam é incrível. Muito feliz por aproveitar as oportunidades que a vida oferece 💙 @abmfuncionalintegrativa @drvictorsorrentino" [ref=e994]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - link "Gengiva saudável NÃO sangra 🚨 Mesmo com uma boa escovação em casa, apenas o dentista consegue remover a placa e o tártaro acumulados nos locais de difícil acesso. Manter as limpezas periódicas evita gengivite, mau hálito e outros problemas que podem afetar a saúde geral. E aí, quando foi sua última limpeza? Clipe" [ref=e997] [cursor=pointer]:
+                  - /url: /dramarcellamelro/reel/DPxBAC_Debb/
+                  - img "Gengiva saudável NÃO sangra 🚨 Mesmo com uma boa escovação em casa, apenas o dentista consegue remover a placa e o tártaro acumulados nos locais de difícil acesso. Manter as limpezas periódicas evita gengivite, mau hálito e outros problemas que podem afetar a saúde geral. E aí, quando foi sua última limpeza?" [ref=e1000]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - link "Photo by Marcella Melro on October 05, 2025." [ref=e1003] [cursor=pointer]:
+                  - /url: /dramarcellamelro/p/DPcn2uxDS47/
+                  - img "Photo by Marcella Melro on October 05, 2025." [ref=e1006]
+      - contentinfo [ref=e1008]:
+        - generic [ref=e1009]:
+          - generic [ref=e1011]:
+            - link "Meta" [ref=e1013] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e1014]: Meta
+            - link "Sobre" [ref=e1016] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e1017]: Sobre
+            - link "Blog" [ref=e1019] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e1020]: Blog
+            - link "Carreiras" [ref=e1022] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e1023]: Carreiras
+            - link "Ajuda" [ref=e1025] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e1026]: Ajuda
+            - link "API" [ref=e1028] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e1029]: API
+            - link "Privacidade" [ref=e1031] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e1032]: Privacidade
+            - link "Termos" [ref=e1034] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e1035]: Termos
+            - link "Localizações" [ref=e1037] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e1038]: Localizações
+            - link "Instagram Lite" [ref=e1040] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e1041]: Instagram Lite
+            - link "Meta AI" [ref=e1043] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e1044]: Meta AI
+            - link "Threads" [ref=e1046] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e1047]: Threads
+            - link "Upload de contatos e não usuários" [ref=e1049] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e1050]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e1052] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e1053]: Meta Verified
+          - generic [ref=e1054]:
+            - generic [ref=e1055] [cursor=pointer]:
+              - generic [ref=e1056]:
+                - generic [ref=e1057]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e1060]
+              - combobox "Trocar idioma de exibição" [ref=e1062]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e1064]: © 2026 Instagram from Meta
+  - button "Mensagens Mensagens" [ref=e1066] [cursor=pointer]:
+    - generic [ref=e1068]:
+      - img "Mensagens" [ref=e1070]
+      - generic [ref=e1073]: Mensagens

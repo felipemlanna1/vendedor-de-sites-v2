@@ -1,0 +1,179 @@
+- application:
+  - iframe [ref=e1]:
+    
+  - generic [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e8]:
+        - img [ref=e12]
+        - generic [ref=e16]:
+          - text: Portifólio Dra. Beatriz Pereira
+          - tooltip [ref=e17]
+        - menubar "Barra de menus" [ref=e19]:
+          - button "Arquivo" [ref=e23] [cursor=pointer]:
+            - generic [ref=e24]: Arquivo
+          - button "Acessar" [ref=e28] [cursor=pointer]:
+            - generic [ref=e29]: Acessar
+          - button "Ferramentas" [ref=e33] [cursor=pointer]:
+            - generic [ref=e34]: Ferramentas
+          - button "Ajuda" [ref=e38] [cursor=pointer]:
+            - generic [ref=e39]: Ajuda
+        - link "Fazer login" [ref=e46] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://drive.google.com/file/d/1iJ2W8C3QGfoDLPvqohUNg1l2SGHlem7c/view&followup=https://drive.google.com/file/d/1iJ2W8C3QGfoDLPvqohUNg1l2SGHlem7c/view&ec=GAZAGQ
+      - generic [ref=e48]:
+        - generic [ref=e49]:
+          - generic [ref=e51]:
+            - generic [ref=e52]: Página
+            - group "Contêiner de entrada do número da página. Pressione ENTER para começar a digitar e ESC para sair." [ref=e53]:
+              - textbox "Página 1 de 10" [ref=e57]: "1"
+            - generic [ref=e58]: /
+            - generic [ref=e59]: "10"
+          - generic [ref=e61]:
+            - generic [ref=e63]:
+              - button "Baixar" [ref=e64] [cursor=pointer]:
+                - img [ref=e67]
+              - tooltip [ref=e70]: Baixar
+            - generic [ref=e72]:
+              - button "Imprimir" [ref=e73] [cursor=pointer]:
+                - img [ref=e76]
+              - tooltip [ref=e79]: Imprimir
+          - generic [ref=e82]:
+            - generic [ref=e83]:
+              - button "Diminuir zoom" [ref=e84] [cursor=pointer]:
+                - img [ref=e86]
+              - tooltip [ref=e89]: Diminuir zoom
+            - group "Contêiner de preenchimento automático do zoom. Pressione ENTER para começar a digitar, ESC para sair e as setas para navegar no menu suspenso." [ref=e90]:
+              - generic [ref=e93]:
+                - combobox "Controle de zoom da página" [ref=e95]: 100%
+                - generic [ref=e96]:
+                  - generic:
+                    - img
+            - generic [ref=e97]:
+              - button "Aumentar zoom" [ref=e98] [cursor=pointer]:
+                - img [ref=e100]
+              - tooltip [ref=e103]: Aumentar zoom
+        - generic [ref=e106]:
+          - button "Ocultar cabeçalho do arquivo" [ref=e107] [cursor=pointer]:
+            - img [ref=e110]
+            - img [ref=e114]
+          - tooltip [ref=e117]: Ocultar cabeçalho do arquivo
+      - generic [ref=e118]:
+        - generic [ref=e119]:
+          - toolbar "Navegação" [ref=e120]:
+            - generic [ref=e123]:
+              - button "Ocultar miniaturas" [pressed] [ref=e124] [cursor=pointer]:
+                - img [ref=e126]
+                - img [ref=e133]
+              - tooltip [ref=e136]: Ocultar miniaturas
+          - generic [ref=e139]:
+            - button "Ocultar painel de navegação" [pressed] [ref=e140] [cursor=pointer]:
+              - img [ref=e143]
+              - img [ref=e147]
+            - tooltip [ref=e150]: Ocultar painel de navegação
+        - listbox "Miniaturas da página" [ref=e154]:
+          - option "Miniatura da página" [selected] [ref=e155]:
+            - generic [ref=e156]: "1"
+            - img [ref=e158] [cursor=pointer]
+          - option "Miniatura da página" [ref=e159]:
+            - generic [ref=e160]: "2"
+            - img [ref=e162] [cursor=pointer]
+          - option "Miniatura da página" [ref=e163]:
+            - generic [ref=e164]: "3"
+            - img [ref=e166] [cursor=pointer]
+          - option "Miniatura da página" [ref=e167]:
+            - generic [ref=e168]: "4"
+            - img [ref=e170] [cursor=pointer]
+          - option "Miniatura da página" [ref=e171]:
+            - generic [ref=e172]: "5"
+            - img [ref=e174] [cursor=pointer]
+          - option "Miniatura da página" [ref=e175]:
+            - generic [ref=e176]: "6"
+            - img [ref=e178] [cursor=pointer]
+          - option "Miniatura da página" [ref=e179]:
+            - img [ref=e181] [cursor=pointer]
+          - option "Miniatura da página" [ref=e182]:
+            - img [ref=e184] [cursor=pointer]
+          - option "Miniatura da página" [ref=e185]:
+            - img [ref=e187] [cursor=pointer]
+          - option "Miniatura da página" [ref=e188]:
+            - img [ref=e190] [cursor=pointer]
+    - generic "Mostrando leitor." [ref=e192]:
+      - generic "Exibindo Portifólio Dra. Beatriz Pereira…" [active]
+      - generic [ref=e193]:
+        - generic "Anterior" [ref=e194]
+        - generic "Avançar" [ref=e195]
+        - main [ref=e196]:
+          - generic [ref=e197]:
+            - textbox [ref=e198]
+            - document [ref=e200]:
+              - generic:
+                - generic:
+                  - list
+              - generic:
+                - generic:
+                  - heading "Página 1 de 10" [level=2]
+                  - paragraph: DRA.BEATRIZPEREIRA
+                  - paragraph: P O R T I F Ó L I O
+                  - paragraph: Cirurgiã-dentista
+                  - paragraph: Consultório em Três Pontas
+                - img
+              - generic:
+                - generic:
+                  - heading "Página 2 de 10" [level=2]
+                  - paragraph: QUEM SOU EU?
+                  - paragraph: Olá, sou a Beatriz, caçula de dois
+                  - paragraph: filhos, casada, cristã, apaixonada por
+                  - paragraph: cachorrinhos, amo tocar piano e
+                  - paragraph: cantar. Cheia de sonhos, correndo
+                  - paragraph: atrás da realização de cada um deles.
+                  - paragraph: Filha de um agricultor e uma
+                  - paragraph: funcionária pública, mineira, cristã e
+                  - paragraph: muito orgulhosa da minha trajetória
+                  - paragraph: até aqui.
+                  - paragraph: Cirurgiã-dentista formada em 2019,
+                  - paragraph: com mais de 5 anos de experiência
+                  - paragraph: dedicados à Odontologia. Meu
+                  - paragraph: compromisso é oferecer tratamentos
+                  - paragraph: de excelência, sempre priorizando o
+                  - paragraph: bem-estar e a satisfação dos
+                  - paragraph: pacientes.
+                  - paragraph: Atualmente, possuo um consultório
+                  - paragraph: em Três Pontas, no bairro Ouro Verde.
+                  - paragraph: Atendemos todas as áreas da
+                  - paragraph: Odontologia. Também recebo
+                  - paragraph: pacientes encaminhados por outros
+                  - paragraph: dentistas que confiam no meu
+                  - paragraph: trabalho para tratamentos
+                  - paragraph: especializados em Endodontia. Além
+                  - paragraph: disso, atuo de forma itinerante,
+                  - paragraph: colaborando com diversos
+                  - paragraph: consultórios.
+                  - paragraph: Estou sempre em busca de
+                  - paragraph: atualizações e aprimoramento
+                  - paragraph: profissional para garantir que meus
+                  - paragraph: pacientes recebam o melhor
+                  - paragraph: atendimento possível. Acredito
+                  - paragraph: "firmemente no ditado: “Nunca pare de"
+                  - paragraph: estudar!”
+                  - paragraph: "@dra.beatrizpereira"
+              - generic:
+                - generic:
+                  - heading "Página 3 de 10" [level=2]
+                  - paragraph: QUALIFICAÇÃO
+                  - paragraph: · Cirurgiã-dentista
+                  - paragraph: · Formada em 2019
+                  - paragraph: · 5 anos de experiência
+                  - paragraph: · Especialista em Prótese Dentária
+                  - paragraph: · Capacitada e Pós-graduanda em Endodontia
+                  - paragraph: · Capacitada em Estética Avançada em Resinas Compostas
+                  - paragraph: · Expert em Clareamento Dentário
+                  - paragraph: · Atendimento adulto e infantil em todas as áreas da
+                  - paragraph: Odontologia.
+                  - paragraph: "@dra.beatrizpereira"
+            - generic [ref=e212]:
+              - textbox [ref=e215]:
+                - /placeholder: Localizar no documento
+              - button [ref=e218] [cursor=pointer]
+              - button [ref=e220] [cursor=pointer]
+              - button [ref=e222] [cursor=pointer]
+  - region
+  - generic [ref=e224]: Exibindo Portifólio Dra. Beatriz Pereira… Página 1 Página 1 de 10

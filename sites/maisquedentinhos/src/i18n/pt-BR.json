@@ -1,0 +1,133 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre",
+    "services": "Especialidades",
+    "credentials": "Credenciais",
+    "contact": "Contato",
+    "cta": "Agendar Consulta"
+  },
+  "hero": {
+    "title": "Quem ensina os dentistas do futuro cuida do sorriso do seu filho hoje",
+    "subtitle": "Odontopediatria com ciencia, carinho e 25+ anos de dedicacao",
+    "cta": "Agendar primeira consulta",
+    "badge1": "Doutora UNESP",
+    "badge2": "Professora FURB",
+    "badge3": "25+ anos"
+  },
+  "counters": {
+    "years": "anos de experiencia",
+    "students": "alunos formados",
+    "project": "projeto social ativo"
+  },
+  "about": {
+    "title": "Profa. Dra. Marcia Goedert de Oliveira",
+    "subtitle": "Quem cuida de quem cuida",
+    "p1": "Ha mais de 25 anos, a Profa. Dra. Marcia dedica sua carreira a dois propositos que se complementam: cuidar dos sorrisos das criancas de Blumenau e formar os dentistas que cuidarao das proximas geracoes.",
+    "p2": "Doutora em Odontopediatria pela UNESP de Araraquara — uma das mais respeitadas do pais — ela traz para cada consulta a mesma precisao cientifica que leva para a sala de aula na FURB, onde e professora no Departamento de Odontologia e no Mestrado em Saude Coletiva.",
+    "p3": "Sua abordagem integrativa enxerga cada crianca como unica: alem do tratamento dentario, considera alimentacao, habitos, respiracao e desenvolvimento emocional. E por isso que familias confiam nela de geracao em geracao.",
+    "cta": "Converse com a Profa. Marcia"
+  },
+  "services": {
+    "title": "Especialidades",
+    "subtitle": "Cuidado completo do primeiro dente ao sorriso adulto",
+    "odontopediatria": {
+      "name": "Odontopediatria",
+      "description": "Atendimento especializado de bebes a jovens adultos, com abordagem ludica e acolhedora que transforma a ida ao dentista em experiencia positiva.",
+      "detail": "Cada crianca tem seu ritmo. A gente respeita isso."
+    },
+    "ortodontia": {
+      "name": "Ortodontia Preventiva",
+      "description": "Intervencao precoce para guiar o crescimento dos ossos e dentes, prevenindo problemas maiores no futuro. Ortodontia interceptiva para criancas e adolescentes.",
+      "detail": "Prevenir e mais simples — e mais gentil — do que corrigir."
+    },
+    "invisalign": {
+      "name": "Invisalign",
+      "description": "Alinhadores transparentes para adolescentes e adultos. Tratamento discreto, confortavel e com resultados previsiveis. Dra. Marcia e Invisalign Doctor certificada.",
+      "detail": "Tecnologia invisivel, resultado visivel."
+    },
+    "integrativa": {
+      "name": "Odontologia Integrativa",
+      "description": "Visao ampla da saude bucal que considera o paciente por inteiro: alimentacao, respiracao, habitos orais e desenvolvimento emocional, alem do tratamento dentario.",
+      "detail": "A boca fala muito sobre a saude inteira."
+    },
+    "pcd": {
+      "name": "Atendimento PcD",
+      "description": "Atendimento humanizado e adaptado para pacientes com deficiencia. Equipe preparada, ambiente acolhedor e protocolos especificos para cada necessidade.",
+      "detail": "Todo sorriso merece atencao especializada."
+    }
+  },
+  "impact": {
+    "phrase": "Cada sorriso merece ciencia e carinho"
+  },
+  "timeline": {
+    "title": "Uma historia de dedicacao",
+    "subtitle": "Da universidade ao consultorio, cada passo construiu a profissional que cuida do seu filho",
+    "items": {
+      "unesp_grad": {
+        "year": "1995",
+        "title": "Graduacao em Odontologia",
+        "description": "UNESP Araraquara — uma das melhores faculdades de odontologia do Brasil"
+      },
+      "mestrado": {
+        "year": "2000",
+        "title": "Mestrado em Odontopediatria",
+        "description": "UNESP Araraquara — especializacao no cuidado com criancas"
+      },
+      "doutorado": {
+        "year": "2004",
+        "title": "Doutorado em Odontopediatria",
+        "description": "UNESP Araraquara — o mais alto titulo academico na area"
+      },
+      "furb": {
+        "year": "2005",
+        "title": "Professora na FURB",
+        "description": "Departamento de Odontologia e Mestrado em Saude Coletiva — formando a proxima geracao"
+      },
+      "furbmovel": {
+        "year": "2010",
+        "title": "Projeto FURBmovel",
+        "description": "Extensao universitaria levando educacao em saude bucal para criancas em escolas publicas de Blumenau"
+      },
+      "today": {
+        "year": "Hoje",
+        "title": "25+ anos de experiencia",
+        "description": "Atendendo familias em Blumenau com a mesma paixao do primeiro dia"
+      }
+    }
+  },
+  "credentials": {
+    "title": "Formacao e reconhecimento",
+    "unesp": "Doutora pela UNESP Araraquara",
+    "furb": "Professora FURB",
+    "invisalign": "Invisalign Doctor"
+  },
+  "contact": {
+    "title": "Agende uma consulta",
+    "subtitle": "Estamos na Vila Formosa, Blumenau",
+    "address": "Rua Hermann Huscher, 113, sala 405, Vila Formosa, Blumenau, SC",
+    "zip": "89023-010",
+    "phone": "(47) 98866-1652",
+    "whatsapp_cta": "Falar pelo WhatsApp",
+    "whatsapp_message": "Ola! Gostaria de agendar uma consulta com a Profa. Dra. Marcia.",
+    "map_cta": "Ver no Google Maps",
+    "instagram": "@maisquedentinhos",
+    "final_cta": "Leve seu filho para quem ensina os dentistas"
+  },
+  "footer": {
+    "copyright": "2026 Clinica Goedert e Oliveira. Todos os direitos reservados.",
+    "tagline": "Odontologia Integrativa",
+    "instagram": "Instagram",
+    "whatsapp": "WhatsApp",
+    "privacy": "Politica de Privacidade"
+  },
+  "lang": {
+    "pt": "Portugues",
+    "en": "English"
+  },
+  "accessibility": {
+    "skip_to_content": "Pular para o conteudo",
+    "open_menu": "Abrir menu",
+    "close_menu": "Fechar menu"
+  }
+}

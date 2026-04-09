@@ -1,0 +1,41 @@
+:root {
+  /* Primary - Verde escuro profundo */
+  --color-primary: #1B3D2F;
+  --color-primary-light: #2D5E47;
+  --color-primary-dark: #0F2A1E;
+
+  /* Secondary - Dourado terroso (darkened for WCAG AA on #FAFAF7) */
+  --color-secondary: #8B6D2E;
+
+  /* Accent - Bronze suave */
+  --color-accent: #8B7355;
+
+  /* Backgrounds */
+  --color-background: #FAFAF7;
+  --color-surface: #FFFFFF;
+
+  /* Text */
+  --color-text-primary: #1A1A18;
+  --color-text-secondary: #4A4A45;
+  --color-text-muted: #6B6B64;
+
+  /* Borders */
+  --color-border: #E5E5E0;
+  --color-border-light: #F0F0EB;
+
+  /* Typography */
+  --font-display: 'Cormorant Garamond Variable', 'Georgia', serif;
+  --font-body: 'Outfit Variable', 'system-ui', sans-serif;
+
+  /* Spacing base */
+  --space-unit: 8px;
+
+  /* Max width */
+  --max-width: 1280px;
+
+  /* Transitions */
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --duration-normal: 0.4s;
+  --duration-slow: 0.8s;
+  --duration-slower: 1.2s;
+}

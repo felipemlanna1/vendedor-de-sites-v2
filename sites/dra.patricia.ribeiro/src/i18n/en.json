@@ -1,0 +1,150 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "specialty": "Specialty",
+    "treatments": "Treatments",
+    "numbers": "Results",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "cta": "Book your appointment"
+  },
+  "hero": {
+    "title": "I treat your pain and restore your health",
+    "subtitle": "+1000 pain-free patients in Santa Rita do Sapucaí",
+    "cta": "Book your appointment",
+    "cta_secondary": "See my work"
+  },
+  "about": {
+    "label": "About Dra. Patricia",
+    "title": "Dedication that turns fear into confidence",
+    "description": "I'm Dra. Patricia Ribeiro, an endodontist specialized in painless root canal treatment. I chose endodontics because I believe no one should suffer from toothache. In Santa Rita do Sapucaí, I'm the only specialist focused exclusively on saving teeth — and I've already helped over 1000 patients smile without fear.",
+    "credentials": "CRO 56979/MG",
+    "credential_label": "Professional License",
+    "location": "Santa Rita do Sapucaí, MG",
+    "location_label": "Location"
+  },
+  "specialty": {
+    "label": "Specialty",
+    "title": "What is endodontics?",
+    "description": "Endodontics is the specialty that treats the inside of the tooth — the pulp and roots. When you feel that strong, throbbing pain, it usually means the tooth root needs care. Modern root canal treatment is painless, quick, and saves your natural tooth.",
+    "steps": {
+      "diagnosis": {
+        "title": "Precise diagnosis",
+        "description": "Detailed exams to identify exactly where the pain comes from and plan the best treatment."
+      },
+      "treatment": {
+        "title": "Painless treatment",
+        "description": "With modern techniques and effective anesthesia, the procedure is comfortable from start to finish."
+      },
+      "recovery": {
+        "title": "Quick recovery",
+        "description": "In most cases, you return to your normal routine the next day, pain-free with your tooth preserved."
+      }
+    }
+  },
+  "treatments": {
+    "label": "Treatments",
+    "title": "How I can help you",
+    "cta_intermediate": "Have questions about your case? Talk to me",
+    "items": {
+      "canal": {
+        "name": "Root canal treatment",
+        "description": "Removal of inflamed or infected pulp, cleaning and sealing of root canals. Painless procedure with up-to-date techniques."
+      },
+      "retratamento": {
+        "name": "Endodontic retreatment",
+        "description": "When a previous root canal hasn't healed properly, retreatment resolves the persistent infection and saves the tooth."
+      },
+      "cirurgia": {
+        "name": "Endodontic surgery",
+        "description": "Apicoectomy and other surgical procedures to treat lesions at the root tip when conventional treatment isn't enough."
+      },
+      "urgencia": {
+        "name": "Dental emergencies",
+        "description": "Priority care for acute pain, abscesses, and dental trauma. Immediate relief when you need it most."
+      },
+      "restauracao": {
+        "name": "Post-canal restoration",
+        "description": "Tooth reconstruction after root canal treatment, restoring function and aesthetics to your smile."
+      }
+    }
+  },
+  "numbers": {
+    "label": "Results",
+    "title": "The proof is in the numbers",
+    "patients": {
+      "value": "1000",
+      "label": "Patients treated without pain"
+    },
+    "experience": {
+      "value": "10",
+      "label": "Years dedicated to endodontics"
+    },
+    "cro": {
+      "value": "56979",
+      "label": "CRO/MG — Active license"
+    },
+    "city": {
+      "value": "1",
+      "label": "Only exclusive endodontist in the city"
+    },
+    "impact_phrase": "Each number represents someone who arrived afraid and left smiling."
+  },
+  "faq": {
+    "label": "Frequently asked questions",
+    "title": "Your questions, answered",
+    "items": {
+      "q1": {
+        "question": "Does root canal treatment hurt?",
+        "answer": "No. With modern techniques and proper anesthesia, root canal treatment is painless. Most patients say it's more comfortable than they expected. The pain you feel BEFORE the treatment is exactly what we'll resolve."
+      },
+      "q2": {
+        "question": "How long does the treatment take?",
+        "answer": "Most root canal treatments are completed in a single session of 40 to 90 minutes. More complex cases may need two sessions. You return to your normal routine the next day."
+      },
+      "q3": {
+        "question": "How do I know if I need a root canal?",
+        "answer": "The most common signs are: throbbing or constant pain, prolonged sensitivity to hot or cold, pain when chewing, gum swelling, and tooth darkening. If you experience any of these symptoms, seek care."
+      },
+      "q4": {
+        "question": "Is it better to get a root canal or extract the tooth?",
+        "answer": "Whenever possible, saving the natural tooth is the best option. A root canal-treated tooth can last a lifetime with proper care. Implants and prosthetics are good alternatives, but nothing replaces your natural tooth."
+      },
+      "q5": {
+        "question": "Does Dra. Patricia handle emergencies?",
+        "answer": "Yes. I understand that toothache doesn't wait. Reach out via WhatsApp and we'll do our best to see you as soon as possible, prioritizing acute pain and infection cases."
+      },
+      "q6": {
+        "question": "Where is the office located?",
+        "answer": "I practice in Santa Rita do Sapucaí, MG, Brazil. For the exact address and scheduling, please reach out via WhatsApp. I'll be happy to guide you."
+      }
+    }
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "I'm ready to take care of you",
+    "description": "Book your appointment via WhatsApp. Personalized, unhurried care — every patient receives individual attention.",
+    "whatsapp_cta": "Chat on WhatsApp",
+    "location": "Santa Rita do Sapucaí, MG",
+    "location_label": "Location",
+    "cro": "CRO 56979/MG",
+    "cro_label": "Professional license",
+    "instagram": "@dra.patricia.ribeiro",
+    "instagram_label": "Instagram"
+  },
+  "footer": {
+    "copyright": "2026 Dra. Patricia Ribeiro. All rights reserved.",
+    "cro": "CRO 56979/MG — Endodontist",
+    "instagram": "Instagram",
+    "privacy": "Responsible professional: Dra. Patricia Ribeiro — CRO-MG 56979"
+  },
+  "lang": {
+    "pt": "Portugues",
+    "en": "English"
+  },
+  "whatsapp_float": {
+    "label": "Book via WhatsApp",
+    "aria": "Open WhatsApp to book an appointment"
+  }
+}

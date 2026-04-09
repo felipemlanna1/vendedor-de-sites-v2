@@ -1,0 +1,1062 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Ir para o conteúdo principal" [ref=e2] [cursor=pointer]
+      - link "Desativar a rolagem contínua" [ref=e3] [cursor=pointer]:
+        - /url: "#"
+      - link "Ajuda sobre acessibilidade" [ref=e4] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=pt-BR
+      - link "Feedback de acessibilidade" [ref=e5] [cursor=pointer]
+  - generic [ref=e10]:
+    - search [ref=e11]:
+      - generic [ref=e13]:
+        - link "Ir para a página inicial do Google" [ref=e15] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=pt-BR&sa=X&ved=0ahUKEwj7h6HDlN2TAxUjpJUCHWiRL-EQPAgK
+          - img [ref=e16]
+        - generic [ref=e18]:
+          - generic [ref=e19]:
+            - combobox "Pesquisar" [ref=e22]: dra.patricia.ribeiro site:instagram.com dra.patricia.ribeiro site:instagram.com
+            - generic [ref=e23]:
+              - button "Limpar" [ref=e25] [cursor=pointer]:
+                - img [ref=e27]
+              - generic [ref=e30]:
+                - button "Ferramentas de inserção de texto" [ref=e31] [cursor=pointer]:
+                  - img [ref=e33]
+                - button "Pesquisar por voz" [ref=e35] [cursor=pointer]:
+                  - img [ref=e36]
+                - button "Pesquisa por imagem" [ref=e38] [cursor=pointer]:
+                  - img [ref=e39]
+          - button "Pesquisar" [ref=e41] [cursor=pointer]:
+            - img [ref=e44]
+    - generic [ref=e46]:
+      - button "Configurações" [ref=e48] [cursor=pointer]:
+        - img [ref=e51]
+      - generic [ref=e54]:
+        - button "Google Apps" [ref=e56] [cursor=pointer]:
+          - img [ref=e57]
+        - link "Fazer login" [ref=e61] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=pt-BR&passive=true&continue=https://www.google.com/search%3Fq%3Ddra.patricia.ribeiro%2Bsite:instagram.com%26udm%3D2&ec=futura_srp_og_si_72236_p
+  - generic [ref=e63]:
+    - navigation [ref=e68]:
+      - generic [ref=e69]:
+        - list [ref=e70]:
+          - listitem [ref=e71]:
+            - link "Modo IA" [ref=e74] [cursor=pointer]:
+              - /url: /search?q=dra.patricia.ribeiro+site:instagram.com&sca_esv=91f788fc0d48d683&udm=50&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB054Dys3s2x_Qm_GJcU2DlSXgs4i471_5vbbrE24Q_ZqrC7iiy_S82A4-gwew8AwbPmphYPOX9v1JaILjn7okyIF3-c1qlHErhIyu3DV6nFr7vxA7rp9AVGB1lnTpHU9awU_DP0Hxz2fN4gcZDO2smvkGURzx4ejJ0nWniePGMrlj9qeA-uEI4L5pMwTR1MtBnWxcC46I&aep=1&ntc=1&sa=X&ved=2ahUKEwj7h6HDlN2TAxUjpJUCHWiRL-EQ2J8OegQIChAD
+              - generic [ref=e77]: Modo IA
+          - listitem [ref=e78]:
+            - link "Tudo" [ref=e79] [cursor=pointer]:
+              - /url: /search?sca_esv=91f788fc0d48d683&q=dra.patricia.ribeiro+site:instagram.com&source=lnms&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB054Dys3s2x_Qm_GJcU2DlSXgs4i471_5vbbrE24Q_ZqrC7iiy_S82A4-gwew8AwbPmphYPOX9v1JaILjn7okyIF3-c1qlHErhIyu3DV6nFr7vxA7rp9AVGB1lnTpHU9awU_DP0Hxz2fN4gcZDO2smvkGURzx4ejJ0nWniePGMrlj9qeA-uEI4L5pMwTR1MtBnWxcC46I&sa=X&ved=2ahUKEwj7h6HDlN2TAxUjpJUCHWiRL-EQ0pQJegQICxAB
+              - generic [ref=e81]: Tudo
+          - listitem [ref=e82]:
+            - link "Imagens" [disabled] [ref=e83]:
+              - generic [ref=e85]: Imagens
+          - listitem [ref=e86]:
+            - link "Vídeos" [ref=e87] [cursor=pointer]:
+              - /url: /search?sca_esv=91f788fc0d48d683&udm=7&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB054Dys3s2x_Qm_GJcU2DlSXgs4i471_5vbbrE24Q_ZqrC7iiy_S82A4-gwew8AwbPmphYPOX9v1JaILjn7okyIF3-c1qlHErhIyu3DV6nFr7vxA7rp9AVGB1lnTpHU9awU_DP0Hxz2fN4gcZDO2smvkGURzx4ejJ0nWniePGMrlj9qeA-uEI4L5pMwTR1MtBnWxcC46I&q=dra.patricia.ribeiro+site:instagram.com&sa=X&ved=2ahUKEwj7h6HDlN2TAxUjpJUCHWiRL-EQtKgLegQIEBAB
+              - generic [ref=e89]: Vídeos
+          - listitem [ref=e90]:
+            - link "Notícias" [ref=e91] [cursor=pointer]:
+              - /url: /search?sca_esv=91f788fc0d48d683&q=dra.patricia.ribeiro+site:instagram.com&tbm=nws&source=lnms&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB054Dys3s2x_Qm_GJcU2DlSXgs4i471_5vbbrE24Q_ZqrC7iiy_S82A4-gwew8AwbPmphYPOX9v1JaILjn7okyIF3-c1qlHErhIyu3DV6nFr7vxA7rp9AVGB1lnTpHU9awU_DP0Hxz2fN4gcZDO2smvkGURzx4ejJ0nWniePGMrlj9qeA-uEI4L5pMwTR1MtBnWxcC46I&sa=X&ved=2ahUKEwj7h6HDlN2TAxUjpJUCHWiRL-EQ0pQJegQIDBAB
+              - generic [ref=e93]: Notícias
+          - listitem [ref=e94]:
+            - link "Vídeos curtos" [ref=e95] [cursor=pointer]:
+              - /url: /search?sca_esv=91f788fc0d48d683&udm=39&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB054Dys3s2x_Qm_GJcU2DlSXgs4i471_5vbbrE24Q_ZqrC7iiy_S82A4-gwew8AwbPmphYPOX9v1JaILjn7okyIF3-c1qlHErhIyu3DV6nFr7vxA7rp9AVGB1lnTpHU9awU_DP0Hxz2fN4gcZDO2smvkGURzx4ejJ0nWniePGMrlj9qeA-uEI4L5pMwTR1MtBnWxcC46I&q=dra.patricia.ribeiro+site:instagram.com&sa=X&ved=2ahUKEwj7h6HDlN2TAxUjpJUCHWiRL-EQs6gLegQIDRAB
+              - generic [ref=e97]: Vídeos curtos
+          - listitem [ref=e98]:
+            - link "Web" [ref=e99] [cursor=pointer]:
+              - /url: /search?sca_esv=91f788fc0d48d683&udm=web&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB054Dys3s2x_Qm_GJcU2DlSXgs4i471_5vbbrE24Q_ZqrC7iiy_S82A4-gwew8AwbPmphYPOX9v1JaILjn7okyIF3-c1qlHErhIyu3DV6nFr7vxA7rp9AVGB1lnTpHU9awU_DP0Hxz2fN4gcZDO2smvkGURzx4ejJ0nWniePGMrlj9qeA-uEI4L5pMwTR1MtBnWxcC46I&q=dra.patricia.ribeiro+site:instagram.com&sa=X&ved=2ahUKEwj7h6HDlN2TAxUjpJUCHWiRL-EQs6gLegQIDxAB
+              - generic [ref=e101]: Web
+          - listitem [ref=e102]:
+            - button "Mais filtros" [ref=e103] [cursor=pointer]:
+              - generic "Mais filtros" [ref=e104]:
+                - generic [ref=e105]:
+                  - generic [ref=e106]: Mais
+                  - img [ref=e108]
+        - button "Ferramentas" [ref=e111] [cursor=pointer]:
+          - generic [ref=e113]:
+            - generic [ref=e114]: Ferramentas
+            - img [ref=e116]
+    - heading "Resultados da pesquisa" [level=1] [ref=e118]
+    - main [ref=e120]:
+      - generic [ref=e126]:
+        - generic [ref=e129]:
+          - generic [ref=e130] [cursor=pointer]:
+            - generic [ref=e131]:
+              - heading "Transformar vidas vai muito além de devolver fios. É devolver autoestima, confiança e aquele sorriso no espelho. Eu sou a Dra. Patrícia Ribeiro, tricologista, e cada transplante capilar é uma história de" [level=3] [ref=e132]:
+                - button "Transformar vidas vai muito além de devolver fios. É devolver autoestima, confiança e aquele sorriso no espelho. Eu sou a Dra. Patrícia Ribeiro, tricologista, e cada transplante capilar é uma história de" [ref=e134]:
+                  - img "Transformar vidas vai muito além de devolver fios. É devolver autoestima, confiança e aquele sorriso no espelho. Eu sou a Dra. Patrícia Ribeiro, tricologista, e cada transplante capilar é uma história de" [ref=e137]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Transformar vidas vai muito além de devolver fios. É devolver autoestima, confiança e aquele sorriso no espelho. Eu sou a Dra. Patrícia Ribeiro, tricologista, e cada transplante capilar é uma história de" [ref=e139]:
+              - /url: https://www.instagram.com/reel/DN1QIHmXGKo/
+              - generic [ref=e144]: Instagram
+              - generic [ref=e146]: Transformar vidas vai muito além de devolver fios. É devolver autoestima, confiança e aquele sorriso no espelho. Eu sou a Dra. Patrícia Ribeiro, tricologista, e cada transplante capilar é uma história de
+          - generic [ref=e147] [cursor=pointer]:
+            - heading "Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [level=3] [ref=e149]:
+              - button "Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [ref=e151]:
+                - img "Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [ref=e154]
+            - link "Instagram Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [ref=e156]:
+              - /url: https://www.instagram.com/dra.patriciafribeiro/
+              - generic [ref=e161]: Instagram
+              - generic [ref=e163]: Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos
+          - generic [ref=e164] [cursor=pointer]:
+            - generic [ref=e165]:
+              - heading "Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [level=3] [ref=e166]:
+                - button "Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [ref=e168]:
+                  - img "Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [ref=e171]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [ref=e173]:
+              - /url: https://www.instagram.com/dra.patriciafribeiro/
+              - generic [ref=e178]: Instagram
+              - generic [ref=e180]: Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos
+          - generic [ref=e181] [cursor=pointer]:
+            - heading "Dra. Patricia | Médica Geriatra (@dra.patriciaribeirogeriatra) • Instagram photos and videos" [level=3] [ref=e183]:
+              - button "Dra. Patricia | Médica Geriatra (@dra.patriciaribeirogeriatra) • Instagram photos and videos" [ref=e185]:
+                - img "Dra. Patricia | Médica Geriatra (@dra.patriciaribeirogeriatra) • Instagram photos and videos" [ref=e188]
+            - link "Instagram Dra. Patricia | Médica Geriatra (@dra.patriciaribeirogeriatra) • Instagram photos and videos" [ref=e190]:
+              - /url: https://www.instagram.com/dra.patriciaribeirogeriatra/
+              - generic [ref=e195]: Instagram
+              - generic [ref=e197]: Dra. Patricia | Médica Geriatra (@dra.patriciaribeirogeriatra) • Instagram photos and videos
+          - generic [ref=e198] [cursor=pointer]:
+            - heading "Vitis Medcenter | 💜 Aqui na Vitis Medcenter, você tem endocrinologista para cuidar da sua saúde! A Dra. Patrícia Ferreira Ribeiro é especialista no... | Instagram" [level=3] [ref=e200]:
+              - button "Vitis Medcenter | 💜 Aqui na Vitis Medcenter, você tem endocrinologista para cuidar da sua saúde! A Dra. Patrícia Ferreira Ribeiro é especialista no... | Instagram" [ref=e202]:
+                - img "Vitis Medcenter | 💜 Aqui na Vitis Medcenter, você tem endocrinologista para cuidar da sua saúde! A Dra. Patrícia Ferreira Ribeiro é especialista no... | Instagram" [ref=e205]
+            - link "Instagram Vitis Medcenter | 💜 Aqui na Vitis Medcenter, você tem endocrinologista para cuidar da sua saúde! A Dra. Patrícia Ferreira Ribeiro é especialista no... | Instagram" [ref=e207]:
+              - /url: https://www.instagram.com/p/DIvxNuqtc3-/
+              - generic [ref=e212]: Instagram
+              - generic [ref=e214]: Vitis Medcenter | 💜 Aqui na Vitis Medcenter, você tem endocrinologista para cuidar da sua saúde! A Dra. Patrícia Ferreira Ribeiro é especialista no... | Instagram
+          - generic [ref=e215] [cursor=pointer]:
+            - generic [ref=e216]:
+              - heading "Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [level=3] [ref=e217]:
+                - button "Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [ref=e219]:
+                  - img "Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [ref=e222]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [ref=e224]:
+              - /url: https://www.instagram.com/dra.patriciafribeiro/reels/
+              - generic [ref=e229]: Instagram
+              - generic [ref=e231]: Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos
+          - generic [ref=e232] [cursor=pointer]:
+            - generic [ref=e233]:
+              - heading "Dra. Patricia | Médica Geriatra | A prática diária das pequenas coisas entediantes e monótonas importa muito mais que os eventos grandiosos. Inspirada por @simonsinek.... | Instagram" [level=3] [ref=e234]:
+                - button "Dra. Patricia | Médica Geriatra | A prática diária das pequenas coisas entediantes e monótonas importa muito mais que os eventos grandiosos. Inspirada por @simonsinek.... | Instagram" [ref=e236]:
+                  - img "Dra. Patricia | Médica Geriatra | A prática diária das pequenas coisas entediantes e monótonas importa muito mais que os eventos grandiosos. Inspirada por @simonsinek.... | Instagram" [ref=e239]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Dra. Patricia | Médica Geriatra | A prática diária das pequenas coisas entediantes e monótonas importa muito mais que os eventos grandiosos. Inspirada por @simonsinek.... | Instagram" [ref=e241]:
+              - /url: https://www.instagram.com/reel/DN5eaq9Ynz9/
+              - generic [ref=e246]: Instagram
+              - generic [ref=e248]: Dra. Patricia | Médica Geriatra | A prática diária das pequenas coisas entediantes e monótonas importa muito mais que os eventos grandiosos. Inspirada por @simonsinek.... | Instagram
+          - generic [ref=e249] [cursor=pointer]:
+            - generic [ref=e250]:
+              - heading "Hoje é o Dia do Médico 💙 Olho para trás e vejo uma trajetória cheia de desafios, renúncias, aprendizados e muita gratidão. Cada paciente que atendo é um lembrete de que escolhi" [level=3] [ref=e251]:
+                - button "Hoje é o Dia do Médico 💙 Olho para trás e vejo uma trajetória cheia de desafios, renúncias, aprendizados e muita gratidão. Cada paciente que atendo é um lembrete de que escolhi" [ref=e253]:
+                  - img "Hoje é o Dia do Médico 💙 Olho para trás e vejo uma trajetória cheia de desafios, renúncias, aprendizados e muita gratidão. Cada paciente que atendo é um lembrete de que escolhi" [ref=e256]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Hoje é o Dia do Médico 💙 Olho para trás e vejo uma trajetória cheia de desafios, renúncias, aprendizados e muita gratidão. Cada paciente que atendo é um lembrete de que escolhi" [ref=e258]:
+              - /url: https://www.instagram.com/reel/DP8xReeEbMr/
+              - generic [ref=e263]: Instagram
+              - generic [ref=e265]: Hoje é o Dia do Médico 💙 Olho para trás e vejo uma trajetória cheia de desafios, renúncias, aprendizados e muita gratidão. Cada paciente que atendo é um lembrete de que escolhi
+          - generic [ref=e266] [cursor=pointer]:
+            - heading "Patrícia Ribeiro | Harmonização Facial (@drapatriciaribeiro) • Instagram photos and videos" [level=3] [ref=e268]:
+              - button "Patrícia Ribeiro | Harmonização Facial (@drapatriciaribeiro) • Instagram photos and videos" [ref=e270]:
+                - img "Patrícia Ribeiro | Harmonização Facial (@drapatriciaribeiro) • Instagram photos and videos" [ref=e273]
+            - link "Instagram Patrícia Ribeiro | Harmonização Facial (@drapatriciaribeiro) • Instagram photos and videos" [ref=e275]:
+              - /url: https://www.instagram.com/drapatriciaribeiro/
+              - generic [ref=e280]: Instagram
+              - generic [ref=e282]: Patrícia Ribeiro | Harmonização Facial (@drapatriciaribeiro) • Instagram photos and videos
+          - generic [ref=e283] [cursor=pointer]:
+            - generic [ref=e284]:
+              - heading "Dra. Patricia | Médica Geriatra (@dra.patriciaribeirogeriatra) • Instagram photos and videos" [level=3] [ref=e285]:
+                - button "Dra. Patricia | Médica Geriatra (@dra.patriciaribeirogeriatra) • Instagram photos and videos" [ref=e287]:
+                  - img "Dra. Patricia | Médica Geriatra (@dra.patriciaribeirogeriatra) • Instagram photos and videos" [ref=e290]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Dra. Patricia | Médica Geriatra (@dra.patriciaribeirogeriatra) • Instagram photos and videos" [ref=e292]:
+              - /url: https://www.instagram.com/dra.patriciaribeirogeriatra/
+              - generic [ref=e297]: Instagram
+              - generic [ref=e299]: Dra. Patricia | Médica Geriatra (@dra.patriciaribeirogeriatra) • Instagram photos and videos
+          - generic [ref=e300] [cursor=pointer]:
+            - heading "Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [level=3] [ref=e302]:
+              - button "Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [ref=e304]:
+                - img "Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [ref=e307]
+            - link "Instagram Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [ref=e309]:
+              - /url: https://www.instagram.com/dra.patriciafribeiro/reels/
+              - generic [ref=e314]: Instagram
+              - generic [ref=e316]: Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos
+          - generic [ref=e317] [cursor=pointer]:
+            - 'heading "📘 𝐂𝐮𝐫𝐬𝐨 𝐏𝐫𝐞́-𝐉𝐨𝐫𝐧𝐚𝐝𝐚𝐬 𝐉𝐍𝐏𝐂 𝟐𝟎𝟐𝟔 👩‍🏫 Formadora: 𝐃𝐫𝐚. 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚 𝐑𝐢𝐛𝐞𝐢𝐫𝐨 𝐀𝐥𝐯𝐞𝐬 📌 Curso 1: 𝙍𝙚𝙩𝙝𝙞𝙣𝙠𝙞𝙣𝙜 𝙊𝙗𝙚𝙨𝙞𝙩𝙮: 𝙀𝙢𝙥𝙤𝙬𝙚𝙧𝙞𝙣𝙜 𝙁𝙖𝙢𝙞𝙡𝙮 𝘿𝙤𝙘𝙩𝙤𝙧𝙨 𝙛𝙤𝙧 𝙍𝙚𝙖𝙡 𝘾𝙝𝙖𝙣𝙜𝙚 ..." [level=3] [ref=e319]':
+              - 'button "📘 𝐂𝐮𝐫𝐬𝐨 𝐏𝐫𝐞́-𝐉𝐨𝐫𝐧𝐚𝐝𝐚𝐬 𝐉𝐍𝐏𝐂 𝟐𝟎𝟐𝟔 👩‍🏫 Formadora: 𝐃𝐫𝐚. 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚 𝐑𝐢𝐛𝐞𝐢𝐫𝐨 𝐀𝐥𝐯𝐞𝐬 📌 Curso 1: 𝙍𝙚𝙩𝙝𝙞𝙣𝙠𝙞𝙣𝙜 𝙊𝙗𝙚𝙨𝙞𝙩𝙮: 𝙀𝙢𝙥𝙤𝙬𝙚𝙧𝙞𝙣𝙜 𝙁𝙖𝙢𝙞𝙡𝙮 𝘿𝙤𝙘𝙩𝙤𝙧𝙨 𝙛𝙤𝙧 𝙍𝙚𝙖𝙡 𝘾𝙝𝙖𝙣𝙜𝙚 ..." [ref=e321]':
+                - 'img "📘 𝐂𝐮𝐫𝐬𝐨 𝐏𝐫𝐞́-𝐉𝐨𝐫𝐧𝐚𝐝𝐚𝐬 𝐉𝐍𝐏𝐂 𝟐𝟎𝟐𝟔 👩‍🏫 Formadora: 𝐃𝐫𝐚. 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚 𝐑𝐢𝐛𝐞𝐢𝐫𝐨 𝐀𝐥𝐯𝐞𝐬 📌 Curso 1: 𝙍𝙚𝙩𝙝𝙞𝙣𝙠𝙞𝙣𝙜 𝙊𝙗𝙚𝙨𝙞𝙩𝙮: 𝙀𝙢𝙥𝙤𝙬𝙚𝙧𝙞𝙣𝙜 𝙁𝙖𝙢𝙞𝙡𝙮 𝘿𝙤𝙘𝙩𝙤𝙧𝙨 𝙛𝙤𝙧 𝙍𝙚𝙖𝙡 𝘾𝙝𝙖𝙣𝙜𝙚 ..." [ref=e324]'
+            - 'link "Instagram 📘 𝐂𝐮𝐫𝐬𝐨 𝐏𝐫𝐞́-𝐉𝐨𝐫𝐧𝐚𝐝𝐚𝐬 𝐉𝐍𝐏𝐂 𝟐𝟎𝟐𝟔 👩‍🏫 Formadora: 𝐃𝐫𝐚. 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚 𝐑𝐢𝐛𝐞𝐢𝐫𝐨 𝐀𝐥𝐯𝐞𝐬 📌 Curso 1: 𝙍𝙚𝙩𝙝𝙞𝙣𝙠𝙞𝙣𝙜 𝙊𝙗𝙚𝙨𝙞𝙩𝙮: 𝙀𝙢𝙥𝙤𝙬𝙚𝙧𝙞𝙣𝙜 𝙁𝙖𝙢𝙞𝙡𝙮 𝘿𝙤𝙘𝙩𝙤𝙧𝙨 𝙛𝙤𝙧 𝙍𝙚𝙖𝙡 𝘾𝙝𝙖𝙣𝙜𝙚 ..." [ref=e326]':
+              - /url: https://www.instagram.com/p/DUS4TIpCPqS/
+              - generic [ref=e331]: Instagram
+              - generic [ref=e333]: "📘 𝐂𝐮𝐫𝐬𝐨 𝐏𝐫𝐞́-𝐉𝐨𝐫𝐧𝐚𝐝𝐚𝐬 𝐉𝐍𝐏𝐂 𝟐𝟎𝟐𝟔 👩‍🏫 Formadora: 𝐃𝐫𝐚. 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚 𝐑𝐢𝐛𝐞𝐢𝐫𝐨 𝐀𝐥𝐯𝐞𝐬 📌 Curso 1: 𝙍𝙚𝙩𝙝𝙞𝙣𝙠𝙞𝙣𝙜 𝙊𝙗𝙚𝙨𝙞𝙩𝙮: 𝙀𝙢𝙥𝙤𝙬𝙚𝙧𝙞𝙣𝙜 𝙁𝙖𝙢𝙞𝙡𝙮 𝘿𝙤𝙘𝙩𝙤𝙧𝙨 𝙛𝙤𝙧 𝙍𝙚𝙖𝙡 𝘾𝙝𝙖𝙣𝙜𝙚 ..."
+          - generic [ref=e334] [cursor=pointer]:
+            - heading "Dra Patrícia Ribeiro de Souza (@minhaamigapediatra) · Itajubá, MG" [level=3] [ref=e336]:
+              - button "Dra Patrícia Ribeiro de Souza (@minhaamigapediatra) · Itajubá, MG" [ref=e338]:
+                - img "Dra Patrícia Ribeiro de Souza (@minhaamigapediatra) · Itajubá, MG" [ref=e341]
+            - link "Instagram Dra Patrícia Ribeiro de Souza (@minhaamigapediatra) · Itajubá, MG" [ref=e343]:
+              - /url: https://www.instagram.com/minhaamigapediatra/
+              - generic [ref=e348]: Instagram
+              - generic [ref=e350]: Dra Patrícia Ribeiro de Souza (@minhaamigapediatra) · Itajubá, MG
+          - generic [ref=e351] [cursor=pointer]:
+            - generic [ref=e352]:
+              - heading "Neste vídeo, a Dra. Patricia Izetti Ribeiro, médica responsável técnica pelo Serviço de Radioterapia, fala sobre os tratamentos de alta tecnologia atualmente disponíveis na Santa Casa de Caridade de Bagé. A Dra." [level=3] [ref=e353]:
+                - button "Neste vídeo, a Dra. Patricia Izetti Ribeiro, médica responsável técnica pelo Serviço de Radioterapia, fala sobre os tratamentos de alta tecnologia atualmente disponíveis na Santa Casa de Caridade de Bagé. A Dra." [ref=e355]:
+                  - img "Neste vídeo, a Dra. Patricia Izetti Ribeiro, médica responsável técnica pelo Serviço de Radioterapia, fala sobre os tratamentos de alta tecnologia atualmente disponíveis na Santa Casa de Caridade de Bagé. A Dra." [ref=e358]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Neste vídeo, a Dra. Patricia Izetti Ribeiro, médica responsável técnica pelo Serviço de Radioterapia, fala sobre os tratamentos de alta tecnologia atualmente disponíveis na Santa Casa de Caridade de Bagé. A Dra." [ref=e360]:
+              - /url: https://www.instagram.com/reel/C9DRhnFxiyf/
+              - generic [ref=e365]: Instagram
+              - generic [ref=e367]: Neste vídeo, a Dra. Patricia Izetti Ribeiro, médica responsável técnica pelo Serviço de Radioterapia, fala sobre os tratamentos de alta tecnologia atualmente disponíveis na Santa Casa de Caridade de Bagé. A Dra.
+          - generic [ref=e368] [cursor=pointer]:
+            - generic [ref=e369]:
+              - 'heading "Dra. Patricia | Médica Geriatra | Uma sequência de erros pode arruinar a sua vida ou do seu familiar. Patricia Ribeiro Médica geriatra #geriatra #alzheimer #parkinson | Instagram" [level=3] [ref=e370]':
+                - 'button "Dra. Patricia | Médica Geriatra | Uma sequência de erros pode arruinar a sua vida ou do seu familiar. Patricia Ribeiro Médica geriatra #geriatra #alzheimer #parkinson | Instagram" [ref=e372]':
+                  - 'img "Dra. Patricia | Médica Geriatra | Uma sequência de erros pode arruinar a sua vida ou do seu familiar. Patricia Ribeiro Médica geriatra #geriatra #alzheimer #parkinson | Instagram" [ref=e375]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Dra. Patricia | Médica Geriatra | Uma sequência de erros pode arruinar a sua vida ou do seu familiar. Patricia Ribeiro Médica geriatra #geriatra #alzheimer #parkinson | Instagram" [ref=e377]':
+              - /url: https://www.instagram.com/p/DM-ea2PuwfS/
+              - generic [ref=e382]: Instagram
+              - generic [ref=e384]: "Dra. Patricia | Médica Geriatra | Uma sequência de erros pode arruinar a sua vida ou do seu familiar. Patricia Ribeiro Médica geriatra #geriatra #alzheimer #parkinson | Instagram"
+          - generic [ref=e385] [cursor=pointer]:
+            - heading "Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos" [level=3] [ref=e387]:
+              - button "Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos" [ref=e389]:
+                - img "Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos" [ref=e392]
+            - link "Instagram Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos" [ref=e394]:
+              - /url: https://www.instagram.com/drapatriciafurieri/reels/
+              - generic [ref=e399]: Instagram
+              - generic [ref=e401]: Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos
+          - generic [ref=e402] [cursor=pointer]:
+            - heading "Vista-se com o seu melhor sorriso . ツ ⁂ Dra. Patrícia Ribeiro ⚕ CROSP- 121843 ⁂ Dr. Douglas Santos ⚕ CROSP- 118518" [level=3] [ref=e404]:
+              - button "Vista-se com o seu melhor sorriso . ツ ⁂ Dra. Patrícia Ribeiro ⚕ CROSP- 121843 ⁂ Dr. Douglas Santos ⚕ CROSP- 118518" [ref=e406]:
+                - img "Vista-se com o seu melhor sorriso . ツ ⁂ Dra. Patrícia Ribeiro ⚕ CROSP- 121843 ⁂ Dr. Douglas Santos ⚕ CROSP- 118518" [ref=e409]
+            - link "Instagram Vista-se com o seu melhor sorriso . ツ ⁂ Dra. Patrícia Ribeiro ⚕ CROSP- 121843 ⁂ Dr. Douglas Santos ⚕ CROSP- 118518" [ref=e411]:
+              - /url: https://www.instagram.com/p/C5YZjbuO8DB/
+              - generic [ref=e416]: Instagram
+              - generic [ref=e418]: Vista-se com o seu melhor sorriso . ツ ⁂ Dra. Patrícia Ribeiro ⚕ CROSP- 121843 ⁂ Dr. Douglas Santos ⚕ CROSP- 118518
+          - generic [ref=e419] [cursor=pointer]:
+            - generic [ref=e420]:
+              - heading "Dra. Patricia | Médica Geriatra (@dra.patriciaribeirogeriatra) • Instagram photos and videos" [level=3] [ref=e421]:
+                - button "Dra. Patricia | Médica Geriatra (@dra.patriciaribeirogeriatra) • Instagram photos and videos" [ref=e423]:
+                  - img "Dra. Patricia | Médica Geriatra (@dra.patriciaribeirogeriatra) • Instagram photos and videos" [ref=e426]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Dra. Patricia | Médica Geriatra (@dra.patriciaribeirogeriatra) • Instagram photos and videos" [ref=e428]:
+              - /url: https://www.instagram.com/dra.patriciaribeirogeriatra/
+              - generic [ref=e433]: Instagram
+              - generic [ref=e435]: Dra. Patricia | Médica Geriatra (@dra.patriciaribeirogeriatra) • Instagram photos and videos
+          - generic [ref=e436] [cursor=pointer]:
+            - generic [ref=e437]:
+              - heading "Dia da mentira liberado… mas só hoje, combinado? 🤥 Porque, quando o assunto é queda de cabelo, essas “mentirinhas” atrasam MUITO o resultado. Shampoo que resolve tudo, produto milagroso, esperar para ver" [level=3] [ref=e438]:
+                - button "Dia da mentira liberado… mas só hoje, combinado? 🤥 Porque, quando o assunto é queda de cabelo, essas “mentirinhas” atrasam MUITO o resultado. Shampoo que resolve tudo, produto milagroso, esperar para ver" [ref=e440]:
+                  - img "Dia da mentira liberado… mas só hoje, combinado? 🤥 Porque, quando o assunto é queda de cabelo, essas “mentirinhas” atrasam MUITO o resultado. Shampoo que resolve tudo, produto milagroso, esperar para ver" [ref=e443]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+                - text: ·
+                - generic: 6 dias atrás
+            - link "Instagram Dia da mentira liberado… mas só hoje, combinado? 🤥 Porque, quando o assunto é queda de cabelo, essas “mentirinhas” atrasam MUITO o resultado. Shampoo que resolve tudo, produto milagroso, esperar para ver" [ref=e445]:
+              - /url: https://www.instagram.com/reel/DWmmKq_CmAk/
+              - generic [ref=e450]: Instagram
+              - generic [ref=e452]: Dia da mentira liberado… mas só hoje, combinado? 🤥 Porque, quando o assunto é queda de cabelo, essas “mentirinhas” atrasam MUITO o resultado. Shampoo que resolve tudo, produto milagroso, esperar para ver
+          - generic [ref=e453] [cursor=pointer]:
+            - generic [ref=e454]:
+              - heading "A pele muda com o tempo, com o sol, com as emoções e com as fases da vida. Hoje, a nossa homenagem é para quem traduz sinais em cuidado real. Uma homenagem" [level=3] [ref=e455]:
+                - button "A pele muda com o tempo, com o sol, com as emoções e com as fases da vida. Hoje, a nossa homenagem é para quem traduz sinais em cuidado real. Uma homenagem" [ref=e457]:
+                  - img "A pele muda com o tempo, com o sol, com as emoções e com as fases da vida. Hoje, a nossa homenagem é para quem traduz sinais em cuidado real. Uma homenagem" [ref=e460]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram A pele muda com o tempo, com o sol, com as emoções e com as fases da vida. Hoje, a nossa homenagem é para quem traduz sinais em cuidado real. Uma homenagem" [ref=e462]:
+              - /url: https://www.instagram.com/reel/DUYD2lrDujs/
+              - generic [ref=e467]: Instagram
+              - generic [ref=e469]: A pele muda com o tempo, com o sol, com as emoções e com as fases da vida. Hoje, a nossa homenagem é para quem traduz sinais em cuidado real. Uma homenagem
+          - generic [ref=e470] [cursor=pointer]:
+            - generic [ref=e471]:
+              - heading "Que eu continue sendo rica daquilo que o dinheiro não compra, meus valores, meu coração sempre pronto a fazer o bem e o amor que Deus me deu para através da minha" [level=3] [ref=e472]:
+                - button "Que eu continue sendo rica daquilo que o dinheiro não compra, meus valores, meu coração sempre pronto a fazer o bem e o amor que Deus me deu para através da minha" [ref=e474]:
+                  - img "Que eu continue sendo rica daquilo que o dinheiro não compra, meus valores, meu coração sempre pronto a fazer o bem e o amor que Deus me deu para através da minha" [ref=e477]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Que eu continue sendo rica daquilo que o dinheiro não compra, meus valores, meu coração sempre pronto a fazer o bem e o amor que Deus me deu para através da minha" [ref=e479]:
+              - /url: https://www.instagram.com/p/DJVUrJ4tFf5/
+              - generic [ref=e484]: Instagram
+              - generic [ref=e486]: Que eu continue sendo rica daquilo que o dinheiro não compra, meus valores, meu coração sempre pronto a fazer o bem e o amor que Deus me deu para através da minha
+          - generic [ref=e487] [cursor=pointer]:
+            - heading "Patricia Ribeiro | Dermatologia e Tricologia (@drapatriciaribeirodermato) • Instagram photos and videos" [level=3] [ref=e489]:
+              - button "Patricia Ribeiro | Dermatologia e Tricologia (@drapatriciaribeirodermato) • Instagram photos and videos" [ref=e491]:
+                - img "Patricia Ribeiro | Dermatologia e Tricologia (@drapatriciaribeirodermato) • Instagram photos and videos" [ref=e494]
+            - link "Instagram Patricia Ribeiro | Dermatologia e Tricologia (@drapatriciaribeirodermato) • Instagram photos and videos" [ref=e496]:
+              - /url: https://www.instagram.com/drapatriciaribeirodermato/
+              - generic [ref=e501]: Instagram
+              - generic [ref=e503]: Patricia Ribeiro | Dermatologia e Tricologia (@drapatriciaribeirodermato) • Instagram photos and videos
+          - generic [ref=e504] [cursor=pointer]:
+            - generic [ref=e505]:
+              - heading "Dra. Patricia | Médica Geriatra (@dra.patriciaribeirogeriatra) • Instagram photos and videos" [level=3] [ref=e506]:
+                - button "Dra. Patricia | Médica Geriatra (@dra.patriciaribeirogeriatra) • Instagram photos and videos" [ref=e508]:
+                  - img "Dra. Patricia | Médica Geriatra (@dra.patriciaribeirogeriatra) • Instagram photos and videos" [ref=e511]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Dra. Patricia | Médica Geriatra (@dra.patriciaribeirogeriatra) • Instagram photos and videos" [ref=e513]:
+              - /url: https://www.instagram.com/dra.patriciaribeirogeriatra/
+              - generic [ref=e518]: Instagram
+              - generic [ref=e520]: Dra. Patricia | Médica Geriatra (@dra.patriciaribeirogeriatra) • Instagram photos and videos
+          - generic [ref=e521] [cursor=pointer]:
+            - heading "Patrícia Ribeiro | Harmonização Facial (@drapatriciaribeiro) • Instagram photos and videos" [level=3] [ref=e523]:
+              - button "Patrícia Ribeiro | Harmonização Facial (@drapatriciaribeiro) • Instagram photos and videos" [ref=e525]:
+                - img "Patrícia Ribeiro | Harmonização Facial (@drapatriciaribeiro) • Instagram photos and videos" [ref=e528]
+            - link "Instagram Patrícia Ribeiro | Harmonização Facial (@drapatriciaribeiro) • Instagram photos and videos" [ref=e530]:
+              - /url: https://www.instagram.com/drapatriciaribeiro/
+              - generic [ref=e535]: Instagram
+              - generic [ref=e537]: Patrícia Ribeiro | Harmonização Facial (@drapatriciaribeiro) • Instagram photos and videos
+          - generic [ref=e538] [cursor=pointer]:
+            - heading "Patricia Ribeiro (@patriciaribeiro528) • Instagram photos and videos" [level=3] [ref=e540]:
+              - button "Patricia Ribeiro (@patriciaribeiro528) • Instagram photos and videos" [ref=e542]:
+                - img "Patricia Ribeiro (@patriciaribeiro528) • Instagram photos and videos" [ref=e545]
+            - link "Instagram Patricia Ribeiro (@patriciaribeiro528) • Instagram photos and videos" [ref=e547]:
+              - /url: https://www.instagram.com/patriciaribeiro528/
+              - generic [ref=e552]: Instagram
+              - generic [ref=e554]: Patricia Ribeiro (@patriciaribeiro528) • Instagram photos and videos
+          - generic [ref=e555] [cursor=pointer]:
+            - generic [ref=e556]:
+              - heading "Dra. Patricia | Médica Geriatra (@dra.patriciaribeirogeriatra) • Instagram photos and videos" [level=3] [ref=e557]:
+                - button "Dra. Patricia | Médica Geriatra (@dra.patriciaribeirogeriatra) • Instagram photos and videos" [ref=e559]:
+                  - img "Dra. Patricia | Médica Geriatra (@dra.patriciaribeirogeriatra) • Instagram photos and videos" [ref=e562]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Dra. Patricia | Médica Geriatra (@dra.patriciaribeirogeriatra) • Instagram photos and videos" [ref=e564]:
+              - /url: https://www.instagram.com/dra.patriciaribeirogeriatra/
+              - generic [ref=e569]: Instagram
+              - generic [ref=e571]: Dra. Patricia | Médica Geriatra (@dra.patriciaribeirogeriatra) • Instagram photos and videos
+          - generic [ref=e572] [cursor=pointer]:
+            - heading "Patrícia Ribeiro | Dentista | Cuidar do sorriso logo no começo do ano é uma forma de prevenir problemas e garantir mais tranquilidade para toda a família.😁 Consultas... | Instagram" [level=3] [ref=e574]:
+              - button "Patrícia Ribeiro | Dentista | Cuidar do sorriso logo no começo do ano é uma forma de prevenir problemas e garantir mais tranquilidade para toda a família.😁 Consultas... | Instagram" [ref=e576]:
+                - img "Patrícia Ribeiro | Dentista | Cuidar do sorriso logo no começo do ano é uma forma de prevenir problemas e garantir mais tranquilidade para toda a família.😁 Consultas... | Instagram" [ref=e579]
+            - link "Instagram Patrícia Ribeiro | Dentista | Cuidar do sorriso logo no começo do ano é uma forma de prevenir problemas e garantir mais tranquilidade para toda a família.😁 Consultas... | Instagram" [ref=e581]:
+              - /url: https://www.instagram.com/p/DTNoupfkeqQ/
+              - generic [ref=e586]: Instagram
+              - generic [ref=e588]: Patrícia Ribeiro | Dentista | Cuidar do sorriso logo no começo do ano é uma forma de prevenir problemas e garantir mais tranquilidade para toda a família.😁 Consultas... | Instagram
+          - generic [ref=e589] [cursor=pointer]:
+            - generic [ref=e590]:
+              - heading "Conselho de quem tem experiência de vida; Conte seus projetos para Deus, que é o único que jamais irá fingir que está feliz com suas conquistas, porque a maioria se alegra, te" [level=3] [ref=e591]:
+                - button "Conselho de quem tem experiência de vida; Conte seus projetos para Deus, que é o único que jamais irá fingir que está feliz com suas conquistas, porque a maioria se alegra, te" [ref=e593]:
+                  - img "Conselho de quem tem experiência de vida; Conte seus projetos para Deus, que é o único que jamais irá fingir que está feliz com suas conquistas, porque a maioria se alegra, te" [ref=e596]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Conselho de quem tem experiência de vida; Conte seus projetos para Deus, que é o único que jamais irá fingir que está feliz com suas conquistas, porque a maioria se alegra, te" [ref=e598]:
+              - /url: https://www.instagram.com/p/DTs_jWlkQKQ/
+              - generic [ref=e603]: Instagram
+              - generic [ref=e605]: Conselho de quem tem experiência de vida; Conte seus projetos para Deus, que é o único que jamais irá fingir que está feliz com suas conquistas, porque a maioria se alegra, te
+          - generic [ref=e606] [cursor=pointer]:
+            - heading "Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos" [level=3] [ref=e608]:
+              - button "Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos" [ref=e610]:
+                - img "Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos" [ref=e613]
+            - link "Instagram Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos" [ref=e615]:
+              - /url: https://www.instagram.com/drapatriciafurieri/
+              - generic [ref=e620]: Instagram
+              - generic [ref=e622]: Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos
+          - generic [ref=e623] [cursor=pointer]:
+            - heading "Dra Patrícia Ribeiro | Estética Avançada (@drapatriciaribeiroestetica) • Instagram photos and videos" [level=3] [ref=e625]:
+              - button "Dra Patrícia Ribeiro | Estética Avançada (@drapatriciaribeiroestetica) • Instagram photos and videos" [ref=e627]:
+                - img "Dra Patrícia Ribeiro | Estética Avançada (@drapatriciaribeiroestetica) • Instagram photos and videos" [ref=e630]
+            - link "Instagram Dra Patrícia Ribeiro | Estética Avançada (@drapatriciaribeiroestetica) • Instagram photos and videos" [ref=e632]:
+              - /url: https://www.instagram.com/drapatriciaribeiroestetica/
+              - generic [ref=e637]: Instagram
+              - generic [ref=e639]: Dra Patrícia Ribeiro | Estética Avançada (@drapatriciaribeiroestetica) • Instagram photos and videos
+          - generic [ref=e640] [cursor=pointer]:
+            - heading "Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [level=3] [ref=e642]:
+              - button "Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [ref=e644]:
+                - img "Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [ref=e647]
+            - link "Instagram Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [ref=e649]:
+              - /url: https://www.instagram.com/dra.patriciafribeiro/reels/
+              - generic [ref=e654]: Instagram
+              - generic [ref=e656]: Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos
+          - generic [ref=e657] [cursor=pointer]:
+            - generic [ref=e658]:
+              - heading "Só posso dizer que é muito bom pagar o mal com o bem sem precisar dar o troco, porque tudo que plantarmos, colheremos e uma consciência leve em paz, não tem preço." [level=3] [ref=e659]:
+                - button "Só posso dizer que é muito bom pagar o mal com o bem sem precisar dar o troco, porque tudo que plantarmos, colheremos e uma consciência leve em paz, não tem preço." [ref=e661]:
+                  - img "Só posso dizer que é muito bom pagar o mal com o bem sem precisar dar o troco, porque tudo que plantarmos, colheremos e uma consciência leve em paz, não tem preço." [ref=e664]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Só posso dizer que é muito bom pagar o mal com o bem sem precisar dar o troco, porque tudo que plantarmos, colheremos e uma consciência leve em paz, não tem preço." [ref=e666]:
+              - /url: https://www.instagram.com/reel/DIjSsaOucZv/
+              - generic [ref=e671]: Instagram
+              - generic [ref=e673]: Só posso dizer que é muito bom pagar o mal com o bem sem precisar dar o troco, porque tudo que plantarmos, colheremos e uma consciência leve em paz, não tem preço.
+          - generic [ref=e674] [cursor=pointer]:
+            - heading "Nem todo caso de queda de cabelo precisa, de imediato, de um transplante. E nem todo tratamento clínico consegue, sozinho, recuperar áreas já muito comprometidas. O tratamento capilar costuma ser indicado quando" [level=3] [ref=e676]:
+              - button "Nem todo caso de queda de cabelo precisa, de imediato, de um transplante. E nem todo tratamento clínico consegue, sozinho, recuperar áreas já muito comprometidas. O tratamento capilar costuma ser indicado quando" [ref=e678]:
+                - img "Nem todo caso de queda de cabelo precisa, de imediato, de um transplante. E nem todo tratamento clínico consegue, sozinho, recuperar áreas já muito comprometidas. O tratamento capilar costuma ser indicado quando" [ref=e681]
+            - link "Instagram Nem todo caso de queda de cabelo precisa, de imediato, de um transplante. E nem todo tratamento clínico consegue, sozinho, recuperar áreas já muito comprometidas. O tratamento capilar costuma ser indicado quando" [ref=e683]:
+              - /url: https://www.instagram.com/reel/DMyZdG5Jb-9/
+              - generic [ref=e688]: Instagram
+              - generic [ref=e690]: Nem todo caso de queda de cabelo precisa, de imediato, de um transplante. E nem todo tratamento clínico consegue, sozinho, recuperar áreas já muito comprometidas. O tratamento capilar costuma ser indicado quando
+          - generic [ref=e691] [cursor=pointer]:
+            - generic [ref=e692]:
+              - heading "Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [level=3] [ref=e693]:
+                - button "Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [ref=e695]:
+                  - img "Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [ref=e698]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [ref=e700]:
+              - /url: https://www.instagram.com/dra.patriciafribeiro/
+              - generic [ref=e705]: Instagram
+              - generic [ref=e707]: Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos
+          - generic [ref=e708] [cursor=pointer]:
+            - generic [ref=e709]:
+              - 'heading "Quando recebo perguntas de pacientes que passaram por quimioterapia e radioterapia, meu coração sempre aperta… E a boa notícia, aquela que enche minhas pacientes de esperança, é: sim, existe tratamento, sim, você" [level=3] [ref=e710]':
+                - 'button "Quando recebo perguntas de pacientes que passaram por quimioterapia e radioterapia, meu coração sempre aperta… E a boa notícia, aquela que enche minhas pacientes de esperança, é: sim, existe tratamento, sim, você" [ref=e712]':
+                  - 'img "Quando recebo perguntas de pacientes que passaram por quimioterapia e radioterapia, meu coração sempre aperta… E a boa notícia, aquela que enche minhas pacientes de esperança, é: sim, existe tratamento, sim, você" [ref=e715]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Quando recebo perguntas de pacientes que passaram por quimioterapia e radioterapia, meu coração sempre aperta… E a boa notícia, aquela que enche minhas pacientes de esperança, é: sim, existe tratamento, sim, você" [ref=e717]':
+              - /url: https://www.instagram.com/reel/DSVvCxOkUv8/
+              - generic [ref=e722]: Instagram
+              - generic [ref=e724]: "Quando recebo perguntas de pacientes que passaram por quimioterapia e radioterapia, meu coração sempre aperta… E a boa notícia, aquela que enche minhas pacientes de esperança, é: sim, existe tratamento, sim, você"
+          - generic [ref=e725] [cursor=pointer]:
+            - generic [ref=e726]:
+              - heading "Pós Graduação em Rinoplastia Estruturada 2026/2027 Condições especiais para inscrições em Jan/2026 Garanta sua vaga Informações com Patricia Ribeiro (11) 98130-3333 @pr.medicalconsulting" [level=3] [ref=e727]:
+                - button "Pós Graduação em Rinoplastia Estruturada 2026/2027 Condições especiais para inscrições em Jan/2026 Garanta sua vaga Informações com Patricia Ribeiro (11) 98130-3333 @pr.medicalconsulting" [ref=e729]:
+                  - img "Pós Graduação em Rinoplastia Estruturada 2026/2027 Condições especiais para inscrições em Jan/2026 Garanta sua vaga Informações com Patricia Ribeiro (11) 98130-3333 @pr.medicalconsulting" [ref=e732]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Pós Graduação em Rinoplastia Estruturada 2026/2027 Condições especiais para inscrições em Jan/2026 Garanta sua vaga Informações com Patricia Ribeiro (11) 98130-3333 @pr.medicalconsulting" [ref=e734]:
+              - /url: https://www.instagram.com/p/DTlI3wbDkzi/
+              - generic [ref=e739]: Instagram
+              - generic [ref=e741]: Pós Graduação em Rinoplastia Estruturada 2026/2027 Condições especiais para inscrições em Jan/2026 Garanta sua vaga Informações com Patricia Ribeiro (11) 98130-3333 @pr.medicalconsulting
+          - generic [ref=e742] [cursor=pointer]:
+            - heading "Canal especializado | Santa Rita (@dra.patricia.ribeiro) · Santa Rita do Sapucaí, MG" [level=3] [ref=e744]:
+              - button "Canal especializado | Santa Rita (@dra.patricia.ribeiro) · Santa Rita do Sapucaí, MG" [ref=e746]:
+                - img "Canal especializado | Santa Rita (@dra.patricia.ribeiro) · Santa Rita do Sapucaí, MG" [ref=e749]
+            - link "Instagram Canal especializado | Santa Rita (@dra.patricia.ribeiro) · Santa Rita do Sapucaí, MG" [ref=e751]:
+              - /url: https://www.instagram.com/dra.patricia.ribeiro/
+              - generic [ref=e756]: Instagram
+              - generic [ref=e758]: Canal especializado | Santa Rita (@dra.patricia.ribeiro) · Santa Rita do Sapucaí, MG
+          - generic [ref=e759] [cursor=pointer]:
+            - heading "✨ Há 11 anos, Pitangui ganhou meu coração, onde conheci meu marido, Dr. Daniel. Comecei atendendo aqui como hobby, e com o tempo, percebemos uma verdadeira necessidade de expandir. 🌿 🏥 Inspirada" [level=3] [ref=e761]:
+              - button "✨ Há 11 anos, Pitangui ganhou meu coração, onde conheci meu marido, Dr. Daniel. Comecei atendendo aqui como hobby, e com o tempo, percebemos uma verdadeira necessidade de expandir. 🌿 🏥 Inspirada" [ref=e763]:
+                - img "✨ Há 11 anos, Pitangui ganhou meu coração, onde conheci meu marido, Dr. Daniel. Comecei atendendo aqui como hobby, e com o tempo, percebemos uma verdadeira necessidade de expandir. 🌿 🏥 Inspirada" [ref=e766]
+            - link "Instagram ✨ Há 11 anos, Pitangui ganhou meu coração, onde conheci meu marido, Dr. Daniel. Comecei atendendo aqui como hobby, e com o tempo, percebemos uma verdadeira necessidade de expandir. 🌿 🏥 Inspirada" [ref=e768]:
+              - /url: https://www.instagram.com/reel/C6JuF5drRYP/
+              - generic [ref=e773]: Instagram
+              - generic [ref=e775]: ✨ Há 11 anos, Pitangui ganhou meu coração, onde conheci meu marido, Dr. Daniel. Comecei atendendo aqui como hobby, e com o tempo, percebemos uma verdadeira necessidade de expandir. 🌿 🏥 Inspirada
+          - generic [ref=e776] [cursor=pointer]:
+            - heading "Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos" [level=3] [ref=e778]:
+              - button "Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos" [ref=e780]:
+                - img "Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos" [ref=e783]
+            - link "Instagram Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos" [ref=e785]:
+              - /url: https://www.instagram.com/drapatriciafurieri/
+              - generic [ref=e790]: Instagram
+              - generic [ref=e792]: Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos
+          - generic [ref=e793] [cursor=pointer]:
+            - 'heading "✨Workshop Hands On em Frontoplastia e Blefaroplastia Quando: Dias 02, 03 e 04 de abril de 2025 Ministrantes: @dr.josejurado, @drapatriciakrunn e Dr. Carlos Eduardo + informações com Patricia Ribeiro (11) 98130-3333 @pr.medicalconsulting" [level=3] [ref=e795]':
+              - 'button "✨Workshop Hands On em Frontoplastia e Blefaroplastia Quando: Dias 02, 03 e 04 de abril de 2025 Ministrantes: @dr.josejurado, @drapatriciakrunn e Dr. Carlos Eduardo + informações com Patricia Ribeiro (11) 98130-3333 @pr.medicalconsulting" [ref=e797]':
+                - 'img "✨Workshop Hands On em Frontoplastia e Blefaroplastia Quando: Dias 02, 03 e 04 de abril de 2025 Ministrantes: @dr.josejurado, @drapatriciakrunn e Dr. Carlos Eduardo + informações com Patricia Ribeiro (11) 98130-3333 @pr.medicalconsulting" [ref=e800]'
+            - 'link "Instagram ✨Workshop Hands On em Frontoplastia e Blefaroplastia Quando: Dias 02, 03 e 04 de abril de 2025 Ministrantes: @dr.josejurado, @drapatriciakrunn e Dr. Carlos Eduardo + informações com Patricia Ribeiro (11) 98130-3333 @pr.medicalconsulting" [ref=e802]':
+              - /url: https://www.instagram.com/p/DDzjiGeuHZI/
+              - generic [ref=e807]: Instagram
+              - generic [ref=e809]: "✨Workshop Hands On em Frontoplastia e Blefaroplastia Quando: Dias 02, 03 e 04 de abril de 2025 Ministrantes: @dr.josejurado, @drapatriciakrunn e Dr. Carlos Eduardo + informações com Patricia Ribeiro (11) 98130-3333 @pr.medicalconsulting"
+          - generic [ref=e810] [cursor=pointer]:
+            - generic [ref=e811]:
+              - 'heading "💜 D E S A F I O D A S E M A N A 💜 Inversão na Combo Chair: Desafio de controle e força! 🚀 Nessa variação, trabalhamos intensamente: ✓" [level=3] [ref=e812]':
+                - 'button "💜 D E S A F I O D A S E M A N A 💜 Inversão na Combo Chair: Desafio de controle e força! 🚀 Nessa variação, trabalhamos intensamente: ✓" [ref=e814]':
+                  - 'img "💜 D E S A F I O D A S E M A N A 💜 Inversão na Combo Chair: Desafio de controle e força! 🚀 Nessa variação, trabalhamos intensamente: ✓" [ref=e817]'
+              - generic:
+                - generic: 6 dias atrás
+            - 'link "Instagram 💜 D E S A F I O D A S E M A N A 💜 Inversão na Combo Chair: Desafio de controle e força! 🚀 Nessa variação, trabalhamos intensamente: ✓" [ref=e819]':
+              - /url: https://www.instagram.com/p/DWjV2_UjWAC/
+              - generic [ref=e824]: Instagram
+              - generic [ref=e826]: "💜 D E S A F I O D A S E M A N A 💜 Inversão na Combo Chair: Desafio de controle e força! 🚀 Nessa variação, trabalhamos intensamente: ✓"
+          - generic [ref=e827] [cursor=pointer]:
+            - heading "Amor, paciência para educar e ensinar , voz de comando com tom, olhar no olho quando falar são detalhes importantes para o desenvolvimento sentimental afetivo dos pacientes s para seus filhos. Dra." [level=3] [ref=e829]:
+              - button "Amor, paciência para educar e ensinar , voz de comando com tom, olhar no olho quando falar são detalhes importantes para o desenvolvimento sentimental afetivo dos pacientes s para seus filhos. Dra." [ref=e831]:
+                - img "Amor, paciência para educar e ensinar , voz de comando com tom, olhar no olho quando falar são detalhes importantes para o desenvolvimento sentimental afetivo dos pacientes s para seus filhos. Dra." [ref=e834]
+            - link "Instagram Amor, paciência para educar e ensinar , voz de comando com tom, olhar no olho quando falar são detalhes importantes para o desenvolvimento sentimental afetivo dos pacientes s para seus filhos. Dra." [ref=e836]:
+              - /url: https://www.instagram.com/p/DJHLURYNHFO/
+              - generic [ref=e841]: Instagram
+              - generic [ref=e843]: Amor, paciência para educar e ensinar , voz de comando com tom, olhar no olho quando falar são detalhes importantes para o desenvolvimento sentimental afetivo dos pacientes s para seus filhos. Dra.
+          - generic [ref=e844] [cursor=pointer]:
+            - generic [ref=e845]:
+              - heading "Dra. Patricia | Médica Geriatra | Precisamos falar sobre os nossos últimos 10 anos de vida. O que você pensa sobre isso? Você tem vivido intencionalmente para que seus... | Instagram" [level=3] [ref=e846]:
+                - button "Dra. Patricia | Médica Geriatra | Precisamos falar sobre os nossos últimos 10 anos de vida. O que você pensa sobre isso? Você tem vivido intencionalmente para que seus... | Instagram" [ref=e848]:
+                  - img "Dra. Patricia | Médica Geriatra | Precisamos falar sobre os nossos últimos 10 anos de vida. O que você pensa sobre isso? Você tem vivido intencionalmente para que seus... | Instagram" [ref=e851]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Dra. Patricia | Médica Geriatra | Precisamos falar sobre os nossos últimos 10 anos de vida. O que você pensa sobre isso? Você tem vivido intencionalmente para que seus... | Instagram" [ref=e853]:
+              - /url: https://www.instagram.com/p/DRwyqSZET5x/
+              - generic [ref=e858]: Instagram
+              - generic [ref=e860]: Dra. Patricia | Médica Geriatra | Precisamos falar sobre os nossos últimos 10 anos de vida. O que você pensa sobre isso? Você tem vivido intencionalmente para que seus... | Instagram
+          - generic [ref=e861] [cursor=pointer]:
+            - heading "Dra. Patricia | Médica Geriatra | Prioridades e escolhas inteligentes. Patricia Ribeiro Médica geriatra Brasília e online 61 99196-4386 | Instagram" [level=3] [ref=e863]:
+              - button "Dra. Patricia | Médica Geriatra | Prioridades e escolhas inteligentes. Patricia Ribeiro Médica geriatra Brasília e online 61 99196-4386 | Instagram" [ref=e865]:
+                - img "Dra. Patricia | Médica Geriatra | Prioridades e escolhas inteligentes. Patricia Ribeiro Médica geriatra Brasília e online 61 99196-4386 | Instagram" [ref=e868]
+            - link "Instagram Dra. Patricia | Médica Geriatra | Prioridades e escolhas inteligentes. Patricia Ribeiro Médica geriatra Brasília e online 61 99196-4386 | Instagram" [ref=e870]:
+              - /url: https://www.instagram.com/p/DRAADPHEQt-/
+              - generic [ref=e875]: Instagram
+              - generic [ref=e877]: Dra. Patricia | Médica Geriatra | Prioridades e escolhas inteligentes. Patricia Ribeiro Médica geriatra Brasília e online 61 99196-4386 | Instagram
+          - generic [ref=e878] [cursor=pointer]:
+            - generic [ref=e879]:
+              - heading "🎥Um trecho da minha entrevista no programa Espaço Feminino. Conversamos sobre o impacto da calvície na vida das pessoas, confira! Cada paciente tem uma história única e, por isso, cada caso de" [level=3] [ref=e880]:
+                - button "🎥Um trecho da minha entrevista no programa Espaço Feminino. Conversamos sobre o impacto da calvície na vida das pessoas, confira! Cada paciente tem uma história única e, por isso, cada caso de" [ref=e882]:
+                  - img "🎥Um trecho da minha entrevista no programa Espaço Feminino. Conversamos sobre o impacto da calvície na vida das pessoas, confira! Cada paciente tem uma história única e, por isso, cada caso de" [ref=e885]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram 🎥Um trecho da minha entrevista no programa Espaço Feminino. Conversamos sobre o impacto da calvície na vida das pessoas, confira! Cada paciente tem uma história única e, por isso, cada caso de" [ref=e887]:
+              - /url: https://www.instagram.com/reel/DHb22_cBMom/
+              - generic [ref=e892]: Instagram
+              - generic [ref=e894]: 🎥Um trecho da minha entrevista no programa Espaço Feminino. Conversamos sobre o impacto da calvície na vida das pessoas, confira! Cada paciente tem uma história única e, por isso, cada caso de
+          - generic [ref=e895] [cursor=pointer]:
+            - generic [ref=e896]:
+              - heading "Quando o leite desce para amamentar? É logo após o parto? Ou leva alguns dias? Em nosso podcast sobre amamentação, a Dra. Clery Gallaci e a enfermeira Patrícia Ribeiro esclarecem essas e" [level=3] [ref=e897]:
+                - button "Quando o leite desce para amamentar? É logo após o parto? Ou leva alguns dias? Em nosso podcast sobre amamentação, a Dra. Clery Gallaci e a enfermeira Patrícia Ribeiro esclarecem essas e" [ref=e899]:
+                  - img "Quando o leite desce para amamentar? É logo após o parto? Ou leva alguns dias? Em nosso podcast sobre amamentação, a Dra. Clery Gallaci e a enfermeira Patrícia Ribeiro esclarecem essas e" [ref=e902]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Quando o leite desce para amamentar? É logo após o parto? Ou leva alguns dias? Em nosso podcast sobre amamentação, a Dra. Clery Gallaci e a enfermeira Patrícia Ribeiro esclarecem essas e" [ref=e904]:
+              - /url: https://www.instagram.com/reel/C_1V2WqOoeB/
+              - generic [ref=e909]: Instagram
+              - generic [ref=e911]: Quando o leite desce para amamentar? É logo após o parto? Ou leva alguns dias? Em nosso podcast sobre amamentação, a Dra. Clery Gallaci e a enfermeira Patrícia Ribeiro esclarecem essas e
+          - generic [ref=e912] [cursor=pointer]:
+            - heading "✨ Há 11 anos, Pitangui ganhou meu coração, onde conheci meu marido, Dr. Daniel. Comecei atendendo aqui como hobby, e com o tempo, percebemos uma verdadeira necessidade de expandir. 🌿 🏥 Inspirada" [level=3] [ref=e914]:
+              - button "✨ Há 11 anos, Pitangui ganhou meu coração, onde conheci meu marido, Dr. Daniel. Comecei atendendo aqui como hobby, e com o tempo, percebemos uma verdadeira necessidade de expandir. 🌿 🏥 Inspirada" [ref=e916]:
+                - img "✨ Há 11 anos, Pitangui ganhou meu coração, onde conheci meu marido, Dr. Daniel. Comecei atendendo aqui como hobby, e com o tempo, percebemos uma verdadeira necessidade de expandir. 🌿 🏥 Inspirada" [ref=e919]
+            - link "Instagram ✨ Há 11 anos, Pitangui ganhou meu coração, onde conheci meu marido, Dr. Daniel. Comecei atendendo aqui como hobby, e com o tempo, percebemos uma verdadeira necessidade de expandir. 🌿 🏥 Inspirada" [ref=e921]:
+              - /url: https://www.instagram.com/reel/C6JuF5drRYP/
+              - generic [ref=e926]: Instagram
+              - generic [ref=e928]: ✨ Há 11 anos, Pitangui ganhou meu coração, onde conheci meu marido, Dr. Daniel. Comecei atendendo aqui como hobby, e com o tempo, percebemos uma verdadeira necessidade de expandir. 🌿 🏥 Inspirada
+          - generic [ref=e929] [cursor=pointer]:
+            - heading "✨ Quando uma mulher decide se olhar, amar, cuidar, algo poderoso acontece. Ela ganha energia, confiança, clareza… e começa a transformar tudo ao seu redor. Cuidar de si mesma não é egoísmo." [level=3] [ref=e931]:
+              - button "✨ Quando uma mulher decide se olhar, amar, cuidar, algo poderoso acontece. Ela ganha energia, confiança, clareza… e começa a transformar tudo ao seu redor. Cuidar de si mesma não é egoísmo." [ref=e933]:
+                - img "✨ Quando uma mulher decide se olhar, amar, cuidar, algo poderoso acontece. Ela ganha energia, confiança, clareza… e começa a transformar tudo ao seu redor. Cuidar de si mesma não é egoísmo." [ref=e936]
+            - link "Instagram ✨ Quando uma mulher decide se olhar, amar, cuidar, algo poderoso acontece. Ela ganha energia, confiança, clareza… e começa a transformar tudo ao seu redor. Cuidar de si mesma não é egoísmo." [ref=e938]:
+              - /url: https://www.instagram.com/p/DVor27hkRtJ/
+              - generic [ref=e943]: Instagram
+              - generic [ref=e945]: ✨ Quando uma mulher decide se olhar, amar, cuidar, algo poderoso acontece. Ela ganha energia, confiança, clareza… e começa a transformar tudo ao seu redor. Cuidar de si mesma não é egoísmo.
+          - generic [ref=e946] [cursor=pointer]:
+            - generic [ref=e947]:
+              - heading "Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [level=3] [ref=e948]:
+                - button "Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [ref=e950]:
+                  - img "Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [ref=e953]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+                - text: ·
+                - generic: 4 dias atrás
+            - link "Instagram Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [ref=e955]:
+              - /url: https://www.instagram.com/dra.patriciafribeiro/
+              - generic [ref=e960]: Instagram
+              - generic [ref=e962]: Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos
+          - generic [ref=e963] [cursor=pointer]:
+            - heading "Amor, paciência para educar e ensinar , voz de comando com tom, olhar no olho quando falar são detalhes importantes para o desenvolvimento sentimental afetivo dos pacientes s para seus filhos. Dra." [level=3] [ref=e965]:
+              - button "Amor, paciência para educar e ensinar , voz de comando com tom, olhar no olho quando falar são detalhes importantes para o desenvolvimento sentimental afetivo dos pacientes s para seus filhos. Dra." [ref=e967]:
+                - img "Amor, paciência para educar e ensinar , voz de comando com tom, olhar no olho quando falar são detalhes importantes para o desenvolvimento sentimental afetivo dos pacientes s para seus filhos. Dra." [ref=e970]
+            - link "Instagram Amor, paciência para educar e ensinar , voz de comando com tom, olhar no olho quando falar são detalhes importantes para o desenvolvimento sentimental afetivo dos pacientes s para seus filhos. Dra." [ref=e972]:
+              - /url: https://www.instagram.com/p/DJHLURYNHFO/
+              - generic [ref=e977]: Instagram
+              - generic [ref=e979]: Amor, paciência para educar e ensinar , voz de comando com tom, olhar no olho quando falar são detalhes importantes para o desenvolvimento sentimental afetivo dos pacientes s para seus filhos. Dra.
+          - generic [ref=e980] [cursor=pointer]:
+            - generic [ref=e981]:
+              - 'heading "Dra. Patricia | Médica Geriatra | Quanto mais exames o médico pedir, melhor. Será? A resposta do vídeo pode te surpreender. Patricia Ribeiro Médica geriatra #geriatra... | Instagram" [level=3] [ref=e982]':
+                - 'button "Dra. Patricia | Médica Geriatra | Quanto mais exames o médico pedir, melhor. Será? A resposta do vídeo pode te surpreender. Patricia Ribeiro Médica geriatra #geriatra... | Instagram" [ref=e984]':
+                  - 'img "Dra. Patricia | Médica Geriatra | Quanto mais exames o médico pedir, melhor. Será? A resposta do vídeo pode te surpreender. Patricia Ribeiro Médica geriatra #geriatra... | Instagram" [ref=e987]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Dra. Patricia | Médica Geriatra | Quanto mais exames o médico pedir, melhor. Será? A resposta do vídeo pode te surpreender. Patricia Ribeiro Médica geriatra #geriatra... | Instagram" [ref=e989]':
+              - /url: https://www.instagram.com/p/DKuHoAWsYiF/
+              - generic [ref=e994]: Instagram
+              - generic [ref=e996]: "Dra. Patricia | Médica Geriatra | Quanto mais exames o médico pedir, melhor. Será? A resposta do vídeo pode te surpreender. Patricia Ribeiro Médica geriatra #geriatra... | Instagram"
+          - generic [ref=e997] [cursor=pointer]:
+            - generic [ref=e998]:
+              - heading "O transplante entrega os folículos, mas é a sua estratégia pós-cirúrgica que garante o resultado final. Sem o cuidado estratégico após a cirurgia, você coloca todo o investimento em risco. Assista ao" [level=3] [ref=e999]:
+                - button "O transplante entrega os folículos, mas é a sua estratégia pós-cirúrgica que garante o resultado final. Sem o cuidado estratégico após a cirurgia, você coloca todo o investimento em risco. Assista ao" [ref=e1001]:
+                  - img "O transplante entrega os folículos, mas é a sua estratégia pós-cirúrgica que garante o resultado final. Sem o cuidado estratégico após a cirurgia, você coloca todo o investimento em risco. Assista ao" [ref=e1004]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram O transplante entrega os folículos, mas é a sua estratégia pós-cirúrgica que garante o resultado final. Sem o cuidado estratégico após a cirurgia, você coloca todo o investimento em risco. Assista ao" [ref=e1006]:
+              - /url: https://www.instagram.com/reel/DUY49syCMMh/
+              - generic [ref=e1011]: Instagram
+              - generic [ref=e1013]: O transplante entrega os folículos, mas é a sua estratégia pós-cirúrgica que garante o resultado final. Sem o cuidado estratégico após a cirurgia, você coloca todo o investimento em risco. Assista ao
+          - generic [ref=e1014] [cursor=pointer]:
+            - heading "Dra. Patrícia estou com a fisionomia de cansaço, além de sentir minha pele flácida. Preciso melhorar, trabalho com vendas e preciso passar uma boa imagem.” A estética vai muito além do que" [level=3] [ref=e1016]:
+              - button "Dra. Patrícia estou com a fisionomia de cansaço, além de sentir minha pele flácida. Preciso melhorar, trabalho com vendas e preciso passar uma boa imagem.” A estética vai muito além do que" [ref=e1018]:
+                - img "Dra. Patrícia estou com a fisionomia de cansaço, além de sentir minha pele flácida. Preciso melhorar, trabalho com vendas e preciso passar uma boa imagem.” A estética vai muito além do que" [ref=e1021]
+            - link "Instagram Dra. Patrícia estou com a fisionomia de cansaço, além de sentir minha pele flácida. Preciso melhorar, trabalho com vendas e preciso passar uma boa imagem.” A estética vai muito além do que" [ref=e1023]:
+              - /url: https://www.instagram.com/p/DAn91_IudbV/
+              - generic [ref=e1028]: Instagram
+              - generic [ref=e1030]: Dra. Patrícia estou com a fisionomia de cansaço, além de sentir minha pele flácida. Preciso melhorar, trabalho com vendas e preciso passar uma boa imagem.” A estética vai muito além do que
+          - generic [ref=e1031] [cursor=pointer]:
+            - heading "Tomei conhecimento do brutal feminicídio praticado contra a advogada Dra. Patrícia de Fátima Ribeiro. Mais uma mulher vítima da violência que insiste em calar vozes e interromper vidas. Que a dor da" [level=3] [ref=e1033]:
+              - button "Tomei conhecimento do brutal feminicídio praticado contra a advogada Dra. Patrícia de Fátima Ribeiro. Mais uma mulher vítima da violência que insiste em calar vozes e interromper vidas. Que a dor da" [ref=e1035]:
+                - img "Tomei conhecimento do brutal feminicídio praticado contra a advogada Dra. Patrícia de Fátima Ribeiro. Mais uma mulher vítima da violência que insiste em calar vozes e interromper vidas. Que a dor da" [ref=e1038]
+            - link "Instagram Tomei conhecimento do brutal feminicídio praticado contra a advogada Dra. Patrícia de Fátima Ribeiro. Mais uma mulher vítima da violência que insiste em calar vozes e interromper vidas. Que a dor da" [ref=e1040]:
+              - /url: https://www.instagram.com/p/DQIBvC9CbdD/
+              - generic [ref=e1045]: Instagram
+              - generic [ref=e1047]: Tomei conhecimento do brutal feminicídio praticado contra a advogada Dra. Patrícia de Fátima Ribeiro. Mais uma mulher vítima da violência que insiste em calar vozes e interromper vidas. Que a dor da
+          - generic [ref=e1048] [cursor=pointer]:
+            - heading "O rastreio e o autoexame da mama podem salvar vidas. 🩷 Quanto mais cedo uma alteração é detetada, maiores são as hipóteses de tratamento eficaz e uma recuperação completa. No vídeo de" [level=3] [ref=e1050]:
+              - button "O rastreio e o autoexame da mama podem salvar vidas. 🩷 Quanto mais cedo uma alteração é detetada, maiores são as hipóteses de tratamento eficaz e uma recuperação completa. No vídeo de" [ref=e1052]:
+                - img "O rastreio e o autoexame da mama podem salvar vidas. 🩷 Quanto mais cedo uma alteração é detetada, maiores são as hipóteses de tratamento eficaz e uma recuperação completa. No vídeo de" [ref=e1055]
+            - link "Instagram O rastreio e o autoexame da mama podem salvar vidas. 🩷 Quanto mais cedo uma alteração é detetada, maiores são as hipóteses de tratamento eficaz e uma recuperação completa. No vídeo de" [ref=e1057]:
+              - /url: https://www.instagram.com/reel/DPhGxsRiA2a/
+              - generic [ref=e1062]: Instagram
+              - generic [ref=e1064]: O rastreio e o autoexame da mama podem salvar vidas. 🩷 Quanto mais cedo uma alteração é detetada, maiores são as hipóteses de tratamento eficaz e uma recuperação completa. No vídeo de
+          - generic [ref=e1065] [cursor=pointer]:
+            - heading "Dra Patrícia Ribeiro Alves (@drapatriciaralves) • Instagram photos and videos" [level=3] [ref=e1067]:
+              - button "Dra Patrícia Ribeiro Alves (@drapatriciaralves) • Instagram photos and videos" [ref=e1069]:
+                - img "Dra Patrícia Ribeiro Alves (@drapatriciaralves) • Instagram photos and videos" [ref=e1072]
+            - link "Instagram Dra Patrícia Ribeiro Alves (@drapatriciaralves) • Instagram photos and videos" [ref=e1074]:
+              - /url: https://www.instagram.com/drapatriciaralves/
+              - generic [ref=e1079]: Instagram
+              - generic [ref=e1081]: Dra Patrícia Ribeiro Alves (@drapatriciaralves) • Instagram photos and videos
+          - generic [ref=e1082] [cursor=pointer]:
+            - heading "Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos" [level=3] [ref=e1084]:
+              - button "Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos" [ref=e1086]:
+                - img "Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos" [ref=e1089]
+            - link "Instagram Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos" [ref=e1091]:
+              - /url: https://www.instagram.com/drapatriciafurieri/
+              - generic [ref=e1096]: Instagram
+              - generic [ref=e1098]: Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos
+          - generic [ref=e1099] [cursor=pointer]:
+            - generic [ref=e1100]:
+              - heading "A verdadeira influência de uma pessoa que deseja influenciar o mundo, começa com amor Ágape, aquele que Deus nos ensina através do seu filho Jesus Cristo que fez , faz e sempre" [level=3] [ref=e1101]:
+                - button "A verdadeira influência de uma pessoa que deseja influenciar o mundo, começa com amor Ágape, aquele que Deus nos ensina através do seu filho Jesus Cristo que fez , faz e sempre" [ref=e1103]:
+                  - img "A verdadeira influência de uma pessoa que deseja influenciar o mundo, começa com amor Ágape, aquele que Deus nos ensina através do seu filho Jesus Cristo que fez , faz e sempre" [ref=e1106]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram A verdadeira influência de uma pessoa que deseja influenciar o mundo, começa com amor Ágape, aquele que Deus nos ensina através do seu filho Jesus Cristo que fez , faz e sempre" [ref=e1108]:
+              - /url: https://www.instagram.com/reel/DIm7b-GtWWl/
+              - generic [ref=e1113]: Instagram
+              - generic [ref=e1115]: A verdadeira influência de uma pessoa que deseja influenciar o mundo, começa com amor Ágape, aquele que Deus nos ensina através do seu filho Jesus Cristo que fez , faz e sempre
+          - generic [ref=e1116] [cursor=pointer]:
+            - heading "Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [level=3] [ref=e1118]:
+              - button "Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [ref=e1120]:
+                - img "Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [ref=e1123]
+            - link "Instagram Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [ref=e1125]:
+              - /url: https://www.instagram.com/dra.patriciafribeiro/
+              - generic [ref=e1130]: Instagram
+              - generic [ref=e1132]: Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos
+          - generic [ref=e1133] [cursor=pointer]:
+            - heading "Um protocolo personalizado que atua na estrutura, sustentação e qualidade da pele de forma estratégica para você. Não é sobre mudar… É sobre se olhar no espelho e se reconhecer mais leve," [level=3] [ref=e1135]:
+              - button "Um protocolo personalizado que atua na estrutura, sustentação e qualidade da pele de forma estratégica para você. Não é sobre mudar… É sobre se olhar no espelho e se reconhecer mais leve," [ref=e1137]:
+                - img "Um protocolo personalizado que atua na estrutura, sustentação e qualidade da pele de forma estratégica para você. Não é sobre mudar… É sobre se olhar no espelho e se reconhecer mais leve," [ref=e1140]
+            - link "Instagram Um protocolo personalizado que atua na estrutura, sustentação e qualidade da pele de forma estratégica para você. Não é sobre mudar… É sobre se olhar no espelho e se reconhecer mais leve," [ref=e1142]:
+              - /url: https://www.instagram.com/p/DWT9gVYANt5/
+              - generic [ref=e1147]: Instagram
+              - generic [ref=e1149]: Um protocolo personalizado que atua na estrutura, sustentação e qualidade da pele de forma estratégica para você. Não é sobre mudar… É sobre se olhar no espelho e se reconhecer mais leve,
+          - generic [ref=e1150] [cursor=pointer]:
+            - heading "Nossa equipe de pediatras contam com o profissionalismo e dedicação da Dra. Mariana Faria de Godói e Dra. Patrícia Ribeiro de Souza. ✨A Dra. Mariana é pediatra, alergista e imunologista. Trabalha na" [level=3] [ref=e1152]:
+              - button "Nossa equipe de pediatras contam com o profissionalismo e dedicação da Dra. Mariana Faria de Godói e Dra. Patrícia Ribeiro de Souza. ✨A Dra. Mariana é pediatra, alergista e imunologista. Trabalha na" [ref=e1154]:
+                - img "Nossa equipe de pediatras contam com o profissionalismo e dedicação da Dra. Mariana Faria de Godói e Dra. Patrícia Ribeiro de Souza. ✨A Dra. Mariana é pediatra, alergista e imunologista. Trabalha na" [ref=e1157]
+            - link "Instagram Nossa equipe de pediatras contam com o profissionalismo e dedicação da Dra. Mariana Faria de Godói e Dra. Patrícia Ribeiro de Souza. ✨A Dra. Mariana é pediatra, alergista e imunologista. Trabalha na" [ref=e1159]:
+              - /url: https://www.instagram.com/p/CZw_me3u9oQ/
+              - generic [ref=e1164]: Instagram
+              - generic [ref=e1166]: Nossa equipe de pediatras contam com o profissionalismo e dedicação da Dra. Mariana Faria de Godói e Dra. Patrícia Ribeiro de Souza. ✨A Dra. Mariana é pediatra, alergista e imunologista. Trabalha na
+          - generic [ref=e1167] [cursor=pointer]:
+            - generic [ref=e1168]:
+              - 'heading "Hoje parabenizamos aqueles que tornam sonhos em vidas! Feliz dia do médico! Obrigada Dr. Rodrigo Ribeiro, Dra. Patrícia Antonini, Dra. Luísa Ribeiro e Dr. Geraldo Ribeiro e Dr. Augusto Brandão! #diadomedico" [level=3] [ref=e1169]':
+                - 'button "Hoje parabenizamos aqueles que tornam sonhos em vidas! Feliz dia do médico! Obrigada Dr. Rodrigo Ribeiro, Dra. Patrícia Antonini, Dra. Luísa Ribeiro e Dr. Geraldo Ribeiro e Dr. Augusto Brandão! #diadomedico" [ref=e1171]':
+                  - 'img "Hoje parabenizamos aqueles que tornam sonhos em vidas! Feliz dia do médico! Obrigada Dr. Rodrigo Ribeiro, Dra. Patrícia Antonini, Dra. Luísa Ribeiro e Dr. Geraldo Ribeiro e Dr. Augusto Brandão! #diadomedico" [ref=e1174]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Hoje parabenizamos aqueles que tornam sonhos em vidas! Feliz dia do médico! Obrigada Dr. Rodrigo Ribeiro, Dra. Patrícia Antonini, Dra. Luísa Ribeiro e Dr. Geraldo Ribeiro e Dr. Augusto Brandão! #diadomedico" [ref=e1176]':
+              - /url: https://www.instagram.com/reel/DP8__nQjYkI/
+              - generic [ref=e1181]: Instagram
+              - generic [ref=e1183]: "Hoje parabenizamos aqueles que tornam sonhos em vidas! Feliz dia do médico! Obrigada Dr. Rodrigo Ribeiro, Dra. Patrícia Antonini, Dra. Luísa Ribeiro e Dr. Geraldo Ribeiro e Dr. Augusto Brandão! #diadomedico"
+          - generic [ref=e1184] [cursor=pointer]:
+            - heading "🎥Um trecho da minha entrevista no programa Espaço Feminino. Conversamos sobre o impacto da calvície na vida das pessoas, confira! Cada paciente tem uma história única e, por isso, cada caso de" [level=3] [ref=e1186]:
+              - button "🎥Um trecho da minha entrevista no programa Espaço Feminino. Conversamos sobre o impacto da calvície na vida das pessoas, confira! Cada paciente tem uma história única e, por isso, cada caso de" [ref=e1188]:
+                - img "🎥Um trecho da minha entrevista no programa Espaço Feminino. Conversamos sobre o impacto da calvície na vida das pessoas, confira! Cada paciente tem uma história única e, por isso, cada caso de" [ref=e1191]
+            - link "Instagram 🎥Um trecho da minha entrevista no programa Espaço Feminino. Conversamos sobre o impacto da calvície na vida das pessoas, confira! Cada paciente tem uma história única e, por isso, cada caso de" [ref=e1193]:
+              - /url: https://www.instagram.com/reel/DHb22_cBMom/
+              - generic [ref=e1198]: Instagram
+              - generic [ref=e1200]: 🎥Um trecho da minha entrevista no programa Espaço Feminino. Conversamos sobre o impacto da calvície na vida das pessoas, confira! Cada paciente tem uma história única e, por isso, cada caso de
+          - generic [ref=e1201] [cursor=pointer]:
+            - generic [ref=e1202]:
+              - 'heading "A dúvida é comum: vitamina C de manhã ou à noite? A resposta certa pode transformar sua rotina de skincare. E se você ainda não usa, talvez esteja perdendo um dos maiores" [level=3] [ref=e1203]':
+                - 'button "A dúvida é comum: vitamina C de manhã ou à noite? A resposta certa pode transformar sua rotina de skincare. E se você ainda não usa, talvez esteja perdendo um dos maiores" [ref=e1205]':
+                  - 'img "A dúvida é comum: vitamina C de manhã ou à noite? A resposta certa pode transformar sua rotina de skincare. E se você ainda não usa, talvez esteja perdendo um dos maiores" [ref=e1208]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram A dúvida é comum: vitamina C de manhã ou à noite? A resposta certa pode transformar sua rotina de skincare. E se você ainda não usa, talvez esteja perdendo um dos maiores" [ref=e1210]':
+              - /url: https://www.instagram.com/reel/DNyEHGpxwqO/
+              - generic [ref=e1215]: Instagram
+              - generic [ref=e1217]: "A dúvida é comum: vitamina C de manhã ou à noite? A resposta certa pode transformar sua rotina de skincare. E se você ainda não usa, talvez esteja perdendo um dos maiores"
+          - generic [ref=e1218] [cursor=pointer]:
+            - heading "Patrícia Ribeiro | Dentista (@patriciaribeiroodontologia) • Instagram photos and videos" [level=3] [ref=e1220]:
+              - button "Patrícia Ribeiro | Dentista (@patriciaribeiroodontologia) • Instagram photos and videos" [ref=e1222]:
+                - img "Patrícia Ribeiro | Dentista (@patriciaribeiroodontologia) • Instagram photos and videos" [ref=e1225]
+            - link "Instagram Patrícia Ribeiro | Dentista (@patriciaribeiroodontologia) • Instagram photos and videos" [ref=e1227]:
+              - /url: https://www.instagram.com/patriciaribeiroodontologia/
+              - generic [ref=e1232]: Instagram
+              - generic [ref=e1234]: Patrícia Ribeiro | Dentista (@patriciaribeiroodontologia) • Instagram photos and videos
+          - generic [ref=e1235] [cursor=pointer]:
+            - heading "Candidíase é assunto que coça só de falar né? Então, veja essas dicas para evitá-la. 🩺 @drapatricia.ribeiro 1 - Não ficar com roupa molhada. O fungo da candidíase cresce em ambientes úmidos" [level=3] [ref=e1237]:
+              - button "Candidíase é assunto que coça só de falar né? Então, veja essas dicas para evitá-la. 🩺 @drapatricia.ribeiro 1 - Não ficar com roupa molhada. O fungo da candidíase cresce em ambientes úmidos" [ref=e1239]:
+                - img "Candidíase é assunto que coça só de falar né? Então, veja essas dicas para evitá-la. 🩺 @drapatricia.ribeiro 1 - Não ficar com roupa molhada. O fungo da candidíase cresce em ambientes úmidos" [ref=e1242]
+            - link "Instagram Candidíase é assunto que coça só de falar né? Então, veja essas dicas para evitá-la. 🩺 @drapatricia.ribeiro 1 - Não ficar com roupa molhada. O fungo da candidíase cresce em ambientes úmidos" [ref=e1244]:
+              - /url: https://www.instagram.com/p/CyJ3GIrrQ-l/
+              - generic [ref=e1249]: Instagram
+              - generic [ref=e1251]: Candidíase é assunto que coça só de falar né? Então, veja essas dicas para evitá-la. 🩺 @drapatricia.ribeiro 1 - Não ficar com roupa molhada. O fungo da candidíase cresce em ambientes úmidos
+          - generic [ref=e1252] [cursor=pointer]:
+            - 'heading "Novidade! Workshop Hands em Frontoplastia e Blefaroplastia Quando? Dias 06, 07 e 08 de Maio de 2026. Ministrantes: @dr.josejurado e Dr. Carlos Eduardo + informações com Patricia Ribeiro (11) 98130-3333 @pr.medicalconsulting" [level=3] [ref=e1254]':
+              - 'button "Novidade! Workshop Hands em Frontoplastia e Blefaroplastia Quando? Dias 06, 07 e 08 de Maio de 2026. Ministrantes: @dr.josejurado e Dr. Carlos Eduardo + informações com Patricia Ribeiro (11) 98130-3333 @pr.medicalconsulting" [ref=e1256]':
+                - 'img "Novidade! Workshop Hands em Frontoplastia e Blefaroplastia Quando? Dias 06, 07 e 08 de Maio de 2026. Ministrantes: @dr.josejurado e Dr. Carlos Eduardo + informações com Patricia Ribeiro (11) 98130-3333 @pr.medicalconsulting" [ref=e1259]'
+            - 'link "Instagram Novidade! Workshop Hands em Frontoplastia e Blefaroplastia Quando? Dias 06, 07 e 08 de Maio de 2026. Ministrantes: @dr.josejurado e Dr. Carlos Eduardo + informações com Patricia Ribeiro (11) 98130-3333 @pr.medicalconsulting" [ref=e1261]':
+              - /url: https://www.instagram.com/p/DR-sxbHASQD/
+              - generic [ref=e1266]: Instagram
+              - generic [ref=e1268]: "Novidade! Workshop Hands em Frontoplastia e Blefaroplastia Quando? Dias 06, 07 e 08 de Maio de 2026. Ministrantes: @dr.josejurado e Dr. Carlos Eduardo + informações com Patricia Ribeiro (11) 98130-3333 @pr.medicalconsulting"
+          - generic [ref=e1269] [cursor=pointer]:
+            - generic [ref=e1270]:
+              - heading "Entradas e coroa não são a mesma coisa e tratar como se fossem pode comprometer todo o resultado. Muita gente acha que “calvície é tudo igual”, mas cada área do couro cabeludo" [level=3] [ref=e1271]:
+                - button "Entradas e coroa não são a mesma coisa e tratar como se fossem pode comprometer todo o resultado. Muita gente acha que “calvície é tudo igual”, mas cada área do couro cabeludo" [ref=e1273]:
+                  - img "Entradas e coroa não são a mesma coisa e tratar como se fossem pode comprometer todo o resultado. Muita gente acha que “calvície é tudo igual”, mas cada área do couro cabeludo" [ref=e1276]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Entradas e coroa não são a mesma coisa e tratar como se fossem pode comprometer todo o resultado. Muita gente acha que “calvície é tudo igual”, mas cada área do couro cabeludo" [ref=e1278]:
+              - /url: https://www.instagram.com/reel/DSlLKntkUVx/
+              - generic [ref=e1283]: Instagram
+              - generic [ref=e1285]: Entradas e coroa não são a mesma coisa e tratar como se fossem pode comprometer todo o resultado. Muita gente acha que “calvície é tudo igual”, mas cada área do couro cabeludo
+          - generic [ref=e1286] [cursor=pointer]:
+            - generic [ref=e1287]:
+              - heading "O eczema é mais comum do que parece — e muitas vezes confundido com alergia passageira. Mas o problema é que ele pode se tornar crônico se não tratado corretamente. ✓ Tratamento" [level=3] [ref=e1288]:
+                - button "O eczema é mais comum do que parece — e muitas vezes confundido com alergia passageira. Mas o problema é que ele pode se tornar crônico se não tratado corretamente. ✓ Tratamento" [ref=e1290]:
+                  - img "O eczema é mais comum do que parece — e muitas vezes confundido com alergia passageira. Mas o problema é que ele pode se tornar crônico se não tratado corretamente. ✓ Tratamento" [ref=e1293]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram O eczema é mais comum do que parece — e muitas vezes confundido com alergia passageira. Mas o problema é que ele pode se tornar crônico se não tratado corretamente. ✓ Tratamento" [ref=e1295]:
+              - /url: https://www.instagram.com/p/DOt7lfbkdBh/
+              - generic [ref=e1300]: Instagram
+              - generic [ref=e1302]: O eczema é mais comum do que parece — e muitas vezes confundido com alergia passageira. Mas o problema é que ele pode se tornar crônico se não tratado corretamente. ✓ Tratamento
+          - generic [ref=e1303] [cursor=pointer]:
+            - heading "Evolução do transplante capilar com 6 meses de pós operatório, autoestima renovada com sucesso 🤩 e ainda vai crescer muito mais até atingir o resultado final! * Reparem na naturalidade desse topete" [level=3] [ref=e1305]:
+              - button "Evolução do transplante capilar com 6 meses de pós operatório, autoestima renovada com sucesso 🤩 e ainda vai crescer muito mais até atingir o resultado final! * Reparem na naturalidade desse topete" [ref=e1307]:
+                - img "Evolução do transplante capilar com 6 meses de pós operatório, autoestima renovada com sucesso 🤩 e ainda vai crescer muito mais até atingir o resultado final! * Reparem na naturalidade desse topete" [ref=e1310]
+            - link "Instagram Evolução do transplante capilar com 6 meses de pós operatório, autoestima renovada com sucesso 🤩 e ainda vai crescer muito mais até atingir o resultado final! * Reparem na naturalidade desse topete" [ref=e1312]:
+              - /url: https://www.instagram.com/reel/CtsKtEQpalK/
+              - generic [ref=e1317]: Instagram
+              - generic [ref=e1319]: Evolução do transplante capilar com 6 meses de pós operatório, autoestima renovada com sucesso 🤩 e ainda vai crescer muito mais até atingir o resultado final! * Reparem na naturalidade desse topete
+          - generic [ref=e1320] [cursor=pointer]:
+            - heading "Na última segunda-feira (17), a membra do Conselho Consultivo da Escola da Magistratura do Estado do Rio Janeiro (EMERJ) e Magistrada Supervisora de Pedagogia e Ensino da EMERJ, desembargadora Patrícia Ribeiro Serra" [level=3] [ref=e1322]:
+              - button "Na última segunda-feira (17), a membra do Conselho Consultivo da Escola da Magistratura do Estado do Rio Janeiro (EMERJ) e Magistrada Supervisora de Pedagogia e Ensino da EMERJ, desembargadora Patrícia Ribeiro Serra" [ref=e1324]:
+                - img "Na última segunda-feira (17), a membra do Conselho Consultivo da Escola da Magistratura do Estado do Rio Janeiro (EMERJ) e Magistrada Supervisora de Pedagogia e Ensino da EMERJ, desembargadora Patrícia Ribeiro Serra" [ref=e1327]
+            - link "Instagram Na última segunda-feira (17), a membra do Conselho Consultivo da Escola da Magistratura do Estado do Rio Janeiro (EMERJ) e Magistrada Supervisora de Pedagogia e Ensino da EMERJ, desembargadora Patrícia Ribeiro Serra" [ref=e1329]:
+              - /url: https://www.instagram.com/p/DRNufFojSmU/
+              - generic [ref=e1334]: Instagram
+              - generic [ref=e1336]: Na última segunda-feira (17), a membra do Conselho Consultivo da Escola da Magistratura do Estado do Rio Janeiro (EMERJ) e Magistrada Supervisora de Pedagogia e Ensino da EMERJ, desembargadora Patrícia Ribeiro Serra
+          - generic [ref=e1337] [cursor=pointer]:
+            - heading "O DHT é pequeno, mas poderoso e quando se desequilibra, pode ser o grande vilão por trás da sua queda capilar. Ele age silenciosamente, enfraquecendo os fios até que eles parem de" [level=3] [ref=e1339]:
+              - button "O DHT é pequeno, mas poderoso e quando se desequilibra, pode ser o grande vilão por trás da sua queda capilar. Ele age silenciosamente, enfraquecendo os fios até que eles parem de" [ref=e1341]:
+                - img "O DHT é pequeno, mas poderoso e quando se desequilibra, pode ser o grande vilão por trás da sua queda capilar. Ele age silenciosamente, enfraquecendo os fios até que eles parem de" [ref=e1344]
+            - link "Instagram O DHT é pequeno, mas poderoso e quando se desequilibra, pode ser o grande vilão por trás da sua queda capilar. Ele age silenciosamente, enfraquecendo os fios até que eles parem de" [ref=e1346]:
+              - /url: https://www.instagram.com/p/DQwklpqjrFX/
+              - generic [ref=e1351]: Instagram
+              - generic [ref=e1353]: O DHT é pequeno, mas poderoso e quando se desequilibra, pode ser o grande vilão por trás da sua queda capilar. Ele age silenciosamente, enfraquecendo os fios até que eles parem de
+          - generic [ref=e1354] [cursor=pointer]:
+            - heading "Ser mulher é viver muitos papéis em uma só vida. É ser forte quando precisa. Sensível quando sente. Sonhadora quando olha para o futuro. É ser mãe, esposa, profissional… é trabalhar fora," [level=3] [ref=e1356]:
+              - button "Ser mulher é viver muitos papéis em uma só vida. É ser forte quando precisa. Sensível quando sente. Sonhadora quando olha para o futuro. É ser mãe, esposa, profissional… é trabalhar fora," [ref=e1358]:
+                - img "Ser mulher é viver muitos papéis em uma só vida. É ser forte quando precisa. Sensível quando sente. Sonhadora quando olha para o futuro. É ser mãe, esposa, profissional… é trabalhar fora," [ref=e1361]
+            - link "Instagram Ser mulher é viver muitos papéis em uma só vida. É ser forte quando precisa. Sensível quando sente. Sonhadora quando olha para o futuro. É ser mãe, esposa, profissional… é trabalhar fora," [ref=e1363]:
+              - /url: https://www.instagram.com/p/DVoEL-_EZiK/
+              - generic [ref=e1368]: Instagram
+              - generic [ref=e1370]: Ser mulher é viver muitos papéis em uma só vida. É ser forte quando precisa. Sensível quando sente. Sonhadora quando olha para o futuro. É ser mãe, esposa, profissional… é trabalhar fora,
+          - generic [ref=e1371] [cursor=pointer]:
+            - heading "Dra.Patrícia Ribeiro Borges (@drapatriciaribeiroborges) • Instagram photos and videos" [level=3] [ref=e1373]:
+              - button "Dra.Patrícia Ribeiro Borges (@drapatriciaribeiroborges) • Instagram photos and videos" [ref=e1375]:
+                - img "Dra.Patrícia Ribeiro Borges (@drapatriciaribeiroborges) • Instagram photos and videos" [ref=e1378]
+            - link "Instagram Dra.Patrícia Ribeiro Borges (@drapatriciaribeiroborges) • Instagram photos and videos" [ref=e1380]:
+              - /url: https://www.instagram.com/drapatriciaribeiroborges/
+              - generic [ref=e1385]: Instagram
+              - generic [ref=e1387]: Dra.Patrícia Ribeiro Borges (@drapatriciaribeiroborges) • Instagram photos and videos
+          - generic [ref=e1388] [cursor=pointer]:
+            - heading "A SUA BARBA PODE IMPACTAR SUA IMAGEM! Se você sente que as falhas na barba não refletem quem você é, o transplante de barba imediato pode ser a solução ideal. Com técnica" [level=3] [ref=e1390]:
+              - button "A SUA BARBA PODE IMPACTAR SUA IMAGEM! Se você sente que as falhas na barba não refletem quem você é, o transplante de barba imediato pode ser a solução ideal. Com técnica" [ref=e1392]:
+                - img "A SUA BARBA PODE IMPACTAR SUA IMAGEM! Se você sente que as falhas na barba não refletem quem você é, o transplante de barba imediato pode ser a solução ideal. Com técnica" [ref=e1395]
+            - link "Instagram A SUA BARBA PODE IMPACTAR SUA IMAGEM! Se você sente que as falhas na barba não refletem quem você é, o transplante de barba imediato pode ser a solução ideal. Com técnica" [ref=e1397]:
+              - /url: https://www.instagram.com/p/DIKRcrfJaDc/
+              - generic [ref=e1402]: Instagram
+              - generic [ref=e1404]: A SUA BARBA PODE IMPACTAR SUA IMAGEM! Se você sente que as falhas na barba não refletem quem você é, o transplante de barba imediato pode ser a solução ideal. Com técnica
+          - generic [ref=e1405] [cursor=pointer]:
+            - heading "Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos" [level=3] [ref=e1407]:
+              - button "Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos" [ref=e1409]:
+                - img "Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos" [ref=e1412]
+            - link "Instagram Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos" [ref=e1414]:
+              - /url: https://www.instagram.com/drapatriciafurieri/
+              - generic [ref=e1419]: Instagram
+              - generic [ref=e1421]: Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos
+          - generic [ref=e1422] [cursor=pointer]:
+            - heading "Patrícia Ribeiro | Advogada trabalhista | \"Deus me proteja de mim e da maldade de gente boa, Da bondade da pessoa ruim, Deus me governe e guarde ilumine e zele assim...\"(Chico César) |" [level=3] [ref=e1424]:
+              - button "Patrícia Ribeiro | Advogada trabalhista | \"Deus me proteja de mim e da maldade de gente boa, Da bondade da pessoa ruim, Deus me governe e guarde ilumine e zele assim...\"(Chico César) |" [ref=e1426]:
+                - img "Patrícia Ribeiro | Advogada trabalhista | \"Deus me proteja de mim e da maldade de gente boa, Da bondade da pessoa ruim, Deus me governe e guarde ilumine e zele assim...\"(Chico César) |" [ref=e1429]
+            - link "Instagram Patrícia Ribeiro | Advogada trabalhista | \"Deus me proteja de mim e da maldade de gente boa, Da bondade da pessoa ruim, Deus me governe e guarde ilumine e zele assim...\"(Chico César) |" [ref=e1431]:
+              - /url: https://www.instagram.com/p/CO1EqiuHx2p/
+              - generic [ref=e1436]: Instagram
+              - generic [ref=e1438]: Patrícia Ribeiro | Advogada trabalhista | "Deus me proteja de mim e da maldade de gente boa, Da bondade da pessoa ruim, Deus me governe e guarde ilumine e zele assim..."(Chico César) |
+          - generic [ref=e1439] [cursor=pointer]:
+            - heading "Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos" [level=3] [ref=e1441]:
+              - button "Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos" [ref=e1443]:
+                - img "Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos" [ref=e1446]
+            - link "Instagram Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos" [ref=e1448]:
+              - /url: https://www.instagram.com/drapatriciafurieri/
+              - generic [ref=e1453]: Instagram
+              - generic [ref=e1455]: Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos
+          - generic [ref=e1456] [cursor=pointer]:
+            - generic [ref=e1457]:
+              - heading "Patricia Ribeiro | Dermatologia e Tricologia (@drapatriciaribeirodermato) • Instagram photos and videos" [level=3] [ref=e1458]:
+                - button "Patricia Ribeiro | Dermatologia e Tricologia (@drapatriciaribeirodermato) • Instagram photos and videos" [ref=e1460]:
+                  - img "Patricia Ribeiro | Dermatologia e Tricologia (@drapatriciaribeirodermato) • Instagram photos and videos" [ref=e1463]
+              - generic:
+                - generic: 4 dias atrás
+            - link "Instagram Patricia Ribeiro | Dermatologia e Tricologia (@drapatriciaribeirodermato) • Instagram photos and videos" [ref=e1465]:
+              - /url: https://www.instagram.com/drapatriciaribeirodermato/
+              - generic [ref=e1470]: Instagram
+              - generic [ref=e1472]: Patricia Ribeiro | Dermatologia e Tricologia (@drapatriciaribeirodermato) • Instagram photos and videos
+          - generic [ref=e1473] [cursor=pointer]:
+            - heading "Pós Graduação em Rinoplastia Estruturada 2026/2027 Garanta sua vaga Informações com Patricia Ribeiro (11) 98130-3333 @pr.medicalconsulting" [level=3] [ref=e1475]:
+              - button "Pós Graduação em Rinoplastia Estruturada 2026/2027 Garanta sua vaga Informações com Patricia Ribeiro (11) 98130-3333 @pr.medicalconsulting" [ref=e1477]:
+                - img "Pós Graduação em Rinoplastia Estruturada 2026/2027 Garanta sua vaga Informações com Patricia Ribeiro (11) 98130-3333 @pr.medicalconsulting" [ref=e1480]
+            - link "Instagram Pós Graduação em Rinoplastia Estruturada 2026/2027 Garanta sua vaga Informações com Patricia Ribeiro (11) 98130-3333 @pr.medicalconsulting" [ref=e1482]:
+              - /url: https://www.instagram.com/p/DViqohgDm9H/
+              - generic [ref=e1487]: Instagram
+              - generic [ref=e1489]: Pós Graduação em Rinoplastia Estruturada 2026/2027 Garanta sua vaga Informações com Patricia Ribeiro (11) 98130-3333 @pr.medicalconsulting
+          - generic [ref=e1490] [cursor=pointer]:
+            - heading "A Comissão de Direitos Humanos da 33ª Subseção da OAB/MG, representada pelo advogado Dr. Bruno Barbosa Borges e pela advogada Dra Patrícia Ribeiro de Melo em atuação conjunta com a Comissão de" [level=3] [ref=e1492]:
+              - button "A Comissão de Direitos Humanos da 33ª Subseção da OAB/MG, representada pelo advogado Dr. Bruno Barbosa Borges e pela advogada Dra Patrícia Ribeiro de Melo em atuação conjunta com a Comissão de" [ref=e1494]:
+                - img "A Comissão de Direitos Humanos da 33ª Subseção da OAB/MG, representada pelo advogado Dr. Bruno Barbosa Borges e pela advogada Dra Patrícia Ribeiro de Melo em atuação conjunta com a Comissão de" [ref=e1497]
+            - link "Instagram A Comissão de Direitos Humanos da 33ª Subseção da OAB/MG, representada pelo advogado Dr. Bruno Barbosa Borges e pela advogada Dra Patrícia Ribeiro de Melo em atuação conjunta com a Comissão de" [ref=e1499]:
+              - /url: https://www.instagram.com/p/DExbYTnxb3e/
+              - generic [ref=e1504]: Instagram
+              - generic [ref=e1506]: A Comissão de Direitos Humanos da 33ª Subseção da OAB/MG, representada pelo advogado Dr. Bruno Barbosa Borges e pela advogada Dra Patrícia Ribeiro de Melo em atuação conjunta com a Comissão de
+          - generic [ref=e1507] [cursor=pointer]:
+            - heading "Dra Patrícia Ribeiro | Estética Avançada (@drapatriciaribeiroestetica) • Instagram photos and videos" [level=3] [ref=e1509]:
+              - button "Dra Patrícia Ribeiro | Estética Avançada (@drapatriciaribeiroestetica) • Instagram photos and videos" [ref=e1511]:
+                - img "Dra Patrícia Ribeiro | Estética Avançada (@drapatriciaribeiroestetica) • Instagram photos and videos" [ref=e1514]
+            - link "Instagram Dra Patrícia Ribeiro | Estética Avançada (@drapatriciaribeiroestetica) • Instagram photos and videos" [ref=e1516]:
+              - /url: https://www.instagram.com/drapatriciaribeiroestetica/
+              - generic [ref=e1521]: Instagram
+              - generic [ref=e1523]: Dra Patrícia Ribeiro | Estética Avançada (@drapatriciaribeiroestetica) • Instagram photos and videos
+          - generic [ref=e1524] [cursor=pointer]:
+            - generic [ref=e1525]:
+              - heading "Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [level=3] [ref=e1526]:
+                - button "Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [ref=e1528]:
+                  - img "Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [ref=e1531]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [ref=e1533]:
+              - /url: https://www.instagram.com/dra.patriciafribeiro/reels/
+              - generic [ref=e1538]: Instagram
+              - generic [ref=e1540]: Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos
+          - generic [ref=e1541] [cursor=pointer]:
+            - 'heading "Novidade! Workshop Hands em Frontoplastia e Blefaroplastia Quando? Dias 06, 07 e 08 de Maio de 2026. Ministrantes: @dr.josejurado e Dr. Carlos Eduardo + informações com Patricia Ribeiro (11) 98130-3333 @pr.medicalconsulting" [level=3] [ref=e1543]':
+              - 'button "Novidade! Workshop Hands em Frontoplastia e Blefaroplastia Quando? Dias 06, 07 e 08 de Maio de 2026. Ministrantes: @dr.josejurado e Dr. Carlos Eduardo + informações com Patricia Ribeiro (11) 98130-3333 @pr.medicalconsulting" [ref=e1545]':
+                - 'img "Novidade! Workshop Hands em Frontoplastia e Blefaroplastia Quando? Dias 06, 07 e 08 de Maio de 2026. Ministrantes: @dr.josejurado e Dr. Carlos Eduardo + informações com Patricia Ribeiro (11) 98130-3333 @pr.medicalconsulting" [ref=e1548]'
+            - 'link "Instagram Novidade! Workshop Hands em Frontoplastia e Blefaroplastia Quando? Dias 06, 07 e 08 de Maio de 2026. Ministrantes: @dr.josejurado e Dr. Carlos Eduardo + informações com Patricia Ribeiro (11) 98130-3333 @pr.medicalconsulting" [ref=e1550]':
+              - /url: https://www.instagram.com/p/DR-sxbHASQD/
+              - generic [ref=e1555]: Instagram
+              - generic [ref=e1557]: "Novidade! Workshop Hands em Frontoplastia e Blefaroplastia Quando? Dias 06, 07 e 08 de Maio de 2026. Ministrantes: @dr.josejurado e Dr. Carlos Eduardo + informações com Patricia Ribeiro (11) 98130-3333 @pr.medicalconsulting"
+          - generic [ref=e1558] [cursor=pointer]:
+            - heading "Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos" [level=3] [ref=e1560]:
+              - button "Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos" [ref=e1562]:
+                - img "Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos" [ref=e1565]
+            - link "Instagram Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos" [ref=e1567]:
+              - /url: https://www.instagram.com/drapatriciafurieri/
+              - generic [ref=e1572]: Instagram
+              - generic [ref=e1574]: Dra Patricia Ribeiro Furieri (@drapatriciafurieri) • Instagram photos and videos
+          - generic [ref=e1575] [cursor=pointer]:
+            - generic [ref=e1576]:
+              - heading "Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [level=3] [ref=e1577]:
+                - button "Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [ref=e1579]:
+                  - img "Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [ref=e1582]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos" [ref=e1584]:
+              - /url: https://www.instagram.com/dra.patriciafribeiro/
+              - generic [ref=e1589]: Instagram
+              - generic [ref=e1591]: Dra Patrícia Ribeiro | Transplante Capilar e de Sobrancelhas FUE (@dra.patriciafribeiro) • Instagram photos and videos
+          - generic [ref=e1592] [cursor=pointer]:
+            - generic [ref=e1593]:
+              - heading "✨ “Estou me sentindo sensacional!” - É assim que Josiane descreve sua jornada conosco. 🌟 👩🏻‍⚕️ Após vários procedimentos e um acompanhamento constante, Josiane se sente não só mais bela, mas também" [level=3] [ref=e1594]:
+                - button "✨ “Estou me sentindo sensacional!” - É assim que Josiane descreve sua jornada conosco. 🌟 👩🏻‍⚕️ Após vários procedimentos e um acompanhamento constante, Josiane se sente não só mais bela, mas também" [ref=e1596]:
+                  - img "✨ “Estou me sentindo sensacional!” - É assim que Josiane descreve sua jornada conosco. 🌟 👩🏻‍⚕️ Após vários procedimentos e um acompanhamento constante, Josiane se sente não só mais bela, mas também" [ref=e1599]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram ✨ “Estou me sentindo sensacional!” - É assim que Josiane descreve sua jornada conosco. 🌟 👩🏻‍⚕️ Após vários procedimentos e um acompanhamento constante, Josiane se sente não só mais bela, mas também" [ref=e1601]:
+              - /url: https://www.instagram.com/p/C7PHnVdO7nS/
+              - generic [ref=e1606]: Instagram
+              - generic [ref=e1608]: ✨ “Estou me sentindo sensacional!” - É assim que Josiane descreve sua jornada conosco. 🌟 👩🏻‍⚕️ Após vários procedimentos e um acompanhamento constante, Josiane se sente não só mais bela, mas também
+          - generic [ref=e1609] [cursor=pointer]:
+            - generic [ref=e1610]:
+              - heading "Patricia Ribeiro | Dermatologia e Tricologia (@drapatriciaribeirodermato) • Instagram photos and videos" [level=3] [ref=e1611]:
+                - button "Patricia Ribeiro | Dermatologia e Tricologia (@drapatriciaribeirodermato) • Instagram photos and videos" [ref=e1613]:
+                  - img "Patricia Ribeiro | Dermatologia e Tricologia (@drapatriciaribeirodermato) • Instagram photos and videos" [ref=e1616]
+              - generic:
+                - generic: 4 dias atrás
+            - link "Instagram Patricia Ribeiro | Dermatologia e Tricologia (@drapatriciaribeirodermato) • Instagram photos and videos" [ref=e1618]:
+              - /url: https://www.instagram.com/drapatriciaribeirodermato/
+              - generic [ref=e1623]: Instagram
+              - generic [ref=e1625]: Patricia Ribeiro | Dermatologia e Tricologia (@drapatriciaribeirodermato) • Instagram photos and videos
+          - generic [ref=e1626] [cursor=pointer]:
+            - heading "Patrícia Ribeiro | Advogada trabalhista (@patriciaribeiroadvogada) • Instagram photos and videos" [level=3] [ref=e1628]:
+              - button "Patrícia Ribeiro | Advogada trabalhista (@patriciaribeiroadvogada) • Instagram photos and videos" [ref=e1630]:
+                - img "Patrícia Ribeiro | Advogada trabalhista (@patriciaribeiroadvogada) • Instagram photos and videos" [ref=e1633]
+            - link "Instagram Patrícia Ribeiro | Advogada trabalhista (@patriciaribeiroadvogada) • Instagram photos and videos" [ref=e1635]:
+              - /url: https://www.instagram.com/patriciaribeiroadvogada/
+              - generic [ref=e1640]: Instagram
+              - generic [ref=e1642]: Patrícia Ribeiro | Advogada trabalhista (@patriciaribeiroadvogada) • Instagram photos and videos
+          - generic [ref=e1643] [cursor=pointer]:
+            - heading "Dra. Patricia | Médica Geriatra (@dra.patriciaribeirogeriatra) • Instagram photos and videos" [level=3] [ref=e1645]:
+              - button "Dra. Patricia | Médica Geriatra (@dra.patriciaribeirogeriatra) • Instagram photos and videos" [ref=e1647]:
+                - img "Dra. Patricia | Médica Geriatra (@dra.patriciaribeirogeriatra) • Instagram photos and videos" [ref=e1650]
+            - link "Instagram Dra. Patricia | Médica Geriatra (@dra.patriciaribeirogeriatra) • Instagram photos and videos" [ref=e1652]:
+              - /url: https://www.instagram.com/dra.patriciaribeirogeriatra/
+              - generic [ref=e1657]: Instagram
+              - generic [ref=e1659]: Dra. Patricia | Médica Geriatra (@dra.patriciaribeirogeriatra) • Instagram photos and videos
+          - generic [ref=e1660] [cursor=pointer]:
+            - 'heading "Não perca! Crefito-3 EDUCA #110 está chegando com uma palestra imperdível! Tema: “Princípios da CO-OP e Saúde Funcional: Integrando Raciocínio Clínico e Metas Significativas” Palestrante: Dra. Clarice Ribeiro Soares Araújo Moderadora: Dra." [level=3] [ref=e1662]':
+              - 'button "Não perca! Crefito-3 EDUCA #110 está chegando com uma palestra imperdível! Tema: “Princípios da CO-OP e Saúde Funcional: Integrando Raciocínio Clínico e Metas Significativas” Palestrante: Dra. Clarice Ribeiro Soares Araújo Moderadora: Dra." [ref=e1664]':
+                - 'img "Não perca! Crefito-3 EDUCA #110 está chegando com uma palestra imperdível! Tema: “Princípios da CO-OP e Saúde Funcional: Integrando Raciocínio Clínico e Metas Significativas” Palestrante: Dra. Clarice Ribeiro Soares Araújo Moderadora: Dra." [ref=e1667]'
+            - 'link "Instagram Não perca! Crefito-3 EDUCA #110 está chegando com uma palestra imperdível! Tema: “Princípios da CO-OP e Saúde Funcional: Integrando Raciocínio Clínico e Metas Significativas” Palestrante: Dra. Clarice Ribeiro Soares Araújo Moderadora: Dra." [ref=e1669]':
+              - /url: https://www.instagram.com/p/DWQ74Crliys/
+              - generic [ref=e1674]: Instagram
+              - generic [ref=e1676]: "Não perca! Crefito-3 EDUCA #110 está chegando com uma palestra imperdível! Tema: “Princípios da CO-OP e Saúde Funcional: Integrando Raciocínio Clínico e Metas Significativas” Palestrante: Dra. Clarice Ribeiro Soares Araújo Moderadora: Dra."
+          - generic [ref=e1677] [cursor=pointer]:
+            - heading "Ser mulher é viver muitos papéis em uma só vida. É ser forte quando precisa. Sensível quando sente. Sonhadora quando olha para o futuro. É ser mãe, esposa, profissional… é trabalhar fora," [level=3] [ref=e1679]:
+              - button "Ser mulher é viver muitos papéis em uma só vida. É ser forte quando precisa. Sensível quando sente. Sonhadora quando olha para o futuro. É ser mãe, esposa, profissional… é trabalhar fora," [ref=e1681]:
+                - img "Ser mulher é viver muitos papéis em uma só vida. É ser forte quando precisa. Sensível quando sente. Sonhadora quando olha para o futuro. É ser mãe, esposa, profissional… é trabalhar fora," [ref=e1684]
+            - link "Instagram Ser mulher é viver muitos papéis em uma só vida. É ser forte quando precisa. Sensível quando sente. Sonhadora quando olha para o futuro. É ser mãe, esposa, profissional… é trabalhar fora," [ref=e1686]:
+              - /url: https://www.instagram.com/p/DVoEL-_EZiK/
+              - generic [ref=e1691]: Instagram
+              - generic [ref=e1693]: Ser mulher é viver muitos papéis em uma só vida. É ser forte quando precisa. Sensível quando sente. Sonhadora quando olha para o futuro. É ser mãe, esposa, profissional… é trabalhar fora,
+          - generic [ref=e1694] [cursor=pointer]:
+            - heading "O rastreio e o autoexame da mama podem salvar vidas. 🩷 Quanto mais cedo uma alteração é detetada, maiores são as hipóteses de tratamento eficaz e uma recuperação completa. No vídeo de" [level=3] [ref=e1696]:
+              - button "O rastreio e o autoexame da mama podem salvar vidas. 🩷 Quanto mais cedo uma alteração é detetada, maiores são as hipóteses de tratamento eficaz e uma recuperação completa. No vídeo de" [ref=e1698]:
+                - img "O rastreio e o autoexame da mama podem salvar vidas. 🩷 Quanto mais cedo uma alteração é detetada, maiores são as hipóteses de tratamento eficaz e uma recuperação completa. No vídeo de" [ref=e1701]
+            - link "Instagram O rastreio e o autoexame da mama podem salvar vidas. 🩷 Quanto mais cedo uma alteração é detetada, maiores são as hipóteses de tratamento eficaz e uma recuperação completa. No vídeo de" [ref=e1703]:
+              - /url: https://www.instagram.com/reel/DPhGxsRiA2a/
+              - generic [ref=e1708]: Instagram
+              - generic [ref=e1710]: O rastreio e o autoexame da mama podem salvar vidas. 🩷 Quanto mais cedo uma alteração é detetada, maiores são as hipóteses de tratamento eficaz e uma recuperação completa. No vídeo de
+          - generic [ref=e1711] [cursor=pointer]:
+            - generic [ref=e1712]:
+              - 'heading "💜 D E S A F I O D A S E M A N A 💜 Inversão na Combo Chair: Desafio de controle e força! 🚀 Nessa variação, trabalhamos intensamente: ✓" [level=3] [ref=e1713]':
+                - 'button "💜 D E S A F I O D A S E M A N A 💜 Inversão na Combo Chair: Desafio de controle e força! 🚀 Nessa variação, trabalhamos intensamente: ✓" [ref=e1715]':
+                  - 'img "💜 D E S A F I O D A S E M A N A 💜 Inversão na Combo Chair: Desafio de controle e força! 🚀 Nessa variação, trabalhamos intensamente: ✓" [ref=e1718]'
+              - generic:
+                - generic: 6 dias atrás
+            - 'link "Instagram 💜 D E S A F I O D A S E M A N A 💜 Inversão na Combo Chair: Desafio de controle e força! 🚀 Nessa variação, trabalhamos intensamente: ✓" [ref=e1720]':
+              - /url: https://www.instagram.com/p/DWjV2_UjWAC/
+              - generic [ref=e1725]: Instagram
+              - generic [ref=e1727]: "💜 D E S A F I O D A S E M A N A 💜 Inversão na Combo Chair: Desafio de controle e força! 🚀 Nessa variação, trabalhamos intensamente: ✓"
+          - generic [ref=e1728] [cursor=pointer]:
+            - heading "CONSULTÓRIO MÉDICO O ambiente criado é capaz de transmitir conforto para o paciente no momento da consulta. A parte visual de uma clínica médica é um dos fatores principais ao que diz" [level=3] [ref=e1730]:
+              - button "CONSULTÓRIO MÉDICO O ambiente criado é capaz de transmitir conforto para o paciente no momento da consulta. A parte visual de uma clínica médica é um dos fatores principais ao que diz" [ref=e1732]:
+                - img "CONSULTÓRIO MÉDICO O ambiente criado é capaz de transmitir conforto para o paciente no momento da consulta. A parte visual de uma clínica médica é um dos fatores principais ao que diz" [ref=e1735]
+            - link "Instagram CONSULTÓRIO MÉDICO O ambiente criado é capaz de transmitir conforto para o paciente no momento da consulta. A parte visual de uma clínica médica é um dos fatores principais ao que diz" [ref=e1737]:
+              - /url: https://www.instagram.com/p/CbF9JbQuM72/
+              - generic [ref=e1742]: Instagram
+              - generic [ref=e1744]: CONSULTÓRIO MÉDICO O ambiente criado é capaz de transmitir conforto para o paciente no momento da consulta. A parte visual de uma clínica médica é um dos fatores principais ao que diz
+          - generic [ref=e1745] [cursor=pointer]:
+            - generic [ref=e1746]:
+              - heading "O Bruno completou 12 meses de pós-operatório. E, quando a gente conversa hoje, a mudança vai além do que aparece na foto. Não é apenas sobre fios novos. É sobre postura, segurança," [level=3] [ref=e1747]:
+                - button "O Bruno completou 12 meses de pós-operatório. E, quando a gente conversa hoje, a mudança vai além do que aparece na foto. Não é apenas sobre fios novos. É sobre postura, segurança," [ref=e1749]:
+                  - img "O Bruno completou 12 meses de pós-operatório. E, quando a gente conversa hoje, a mudança vai além do que aparece na foto. Não é apenas sobre fios novos. É sobre postura, segurança," [ref=e1752]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram O Bruno completou 12 meses de pós-operatório. E, quando a gente conversa hoje, a mudança vai além do que aparece na foto. Não é apenas sobre fios novos. É sobre postura, segurança," [ref=e1754]:
+              - /url: https://www.instagram.com/reel/DWkBRJGAepX/
+              - generic [ref=e1759]: Instagram
+              - generic [ref=e1761]: O Bruno completou 12 meses de pós-operatório. E, quando a gente conversa hoje, a mudança vai além do que aparece na foto. Não é apenas sobre fios novos. É sobre postura, segurança,
+          - generic [ref=e1762] [cursor=pointer]:
+            - heading "Patricia Ribeiro | Dermatologia e Tricologia (@drapatriciaribeirodermato) • Instagram photos and videos" [level=3] [ref=e1764]:
+              - button "Patricia Ribeiro | Dermatologia e Tricologia (@drapatriciaribeirodermato) • Instagram photos and videos" [ref=e1766]:
+                - img "Patricia Ribeiro | Dermatologia e Tricologia (@drapatriciaribeirodermato) • Instagram photos and videos" [ref=e1769]
+            - link "Instagram Patricia Ribeiro | Dermatologia e Tricologia (@drapatriciaribeirodermato) • Instagram photos and videos" [ref=e1771]:
+              - /url: https://www.instagram.com/drapatriciaribeirodermato/reels/
+              - generic [ref=e1776]: Instagram
+              - generic [ref=e1778]: Patricia Ribeiro | Dermatologia e Tricologia (@drapatriciaribeirodermato) • Instagram photos and videos
+          - generic [ref=e1779] [cursor=pointer]:
+            - heading "Ser mulher é viver muitos papéis em uma só vida. É ser forte quando precisa. Sensível quando sente. Sonhadora quando olha para o futuro. É ser mãe, esposa, profissional… é trabalhar fora," [level=3] [ref=e1781]:
+              - button "Ser mulher é viver muitos papéis em uma só vida. É ser forte quando precisa. Sensível quando sente. Sonhadora quando olha para o futuro. É ser mãe, esposa, profissional… é trabalhar fora," [ref=e1783]:
+                - img "Ser mulher é viver muitos papéis em uma só vida. É ser forte quando precisa. Sensível quando sente. Sonhadora quando olha para o futuro. É ser mãe, esposa, profissional… é trabalhar fora," [ref=e1786]
+            - link "Instagram Ser mulher é viver muitos papéis em uma só vida. É ser forte quando precisa. Sensível quando sente. Sonhadora quando olha para o futuro. É ser mãe, esposa, profissional… é trabalhar fora," [ref=e1788]:
+              - /url: https://www.instagram.com/p/DVoEL-_EZiK/
+              - generic [ref=e1793]: Instagram
+              - generic [ref=e1795]: Ser mulher é viver muitos papéis em uma só vida. É ser forte quando precisa. Sensível quando sente. Sonhadora quando olha para o futuro. É ser mãe, esposa, profissional… é trabalhar fora,
+        - generic [ref=e1798]:
+          - heading "Page Navigation" [level=1] [ref=e1799]
+          - button "Mais resultados" [ref=e1800] [cursor=pointer]:
+            - generic [ref=e1801]:
+              - separator [ref=e1802]
+              - generic [ref=e1803]:
+                - generic [ref=e1804]: Mais resultados
+                - img [ref=e1806]
+      - navigation

@@ -1,0 +1,137 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e88] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e93]
+        - link "Foto do perfil de _pipelinestudio" [ref=e99] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e104]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e105]
+      - generic [ref=e106]:
+        - link "Configurações" [ref=e109] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e114]
+        - link "Também da Meta" [ref=e117] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e122]
+    - main [ref=e126]:
+      - generic [active] [ref=e127]:
+        - generic [ref=e130]:
+          - generic [ref=e132]:
+            - img
+            - group "Video player" [ref=e139]:
+              - generic [ref=e140]:
+                - button "0 Vídeos do Reels de dra_giovannalima Vídeos do Reels de dra_giovannalima Seguir Quebrou seu dente ?" [ref=e141] [cursor=pointer]:
+                  - slider "Ajustar volume" [ref=e142]:
+                    - button "O áudio está silenciado" [ref=e146]:
+                      - img "O áudio está silenciado" [ref=e147]
+                  - generic [ref=e152]:
+                    - generic [ref=e153]:
+                      - generic [ref=e155]:
+                        - link "Vídeos do Reels de dra_giovannalima" [ref=e156]:
+                          - /url: /dra_giovannalima/reels/
+                          - link "Foto do perfil de dra_giovannalima" [ref=e159]:
+                            - img "Foto do perfil de dra_giovannalima" [ref=e160]
+                        - link "Vídeos do Reels de dra_giovannalima" [ref=e163]:
+                          - /url: /dra_giovannalima/reels/
+                          - generic [ref=e164]: dra_giovannalima
+                      - button "Seguir" [ref=e167]
+                    - button "Quebrou seu dente ?" [ref=e168]:
+                      - generic [ref=e170]:
+                        - generic [ref=e171]: Quebrou seu dente ?
+                        - generic [ref=e172]: … mais
+                - button "Pressionar para reproduzir" [ref=e174] [cursor=pointer]:
+                  - img "Ícone do botão Reproduzir" [ref=e176]
+          - generic [ref=e178]:
+            - generic [ref=e179] [cursor=pointer]:
+              - button "Curtir" [ref=e182]:
+                - img "Curtir" [ref=e185]
+              - button "18" [ref=e187]:
+                - generic [ref=e191]: "18"
+            - button "Comentar" [ref=e193] [cursor=pointer]:
+              - img "Comentar" [ref=e195]
+            - button "Compartilhar" [ref=e198] [cursor=pointer]:
+              - img "Compartilhar" [ref=e199]
+            - button "Salvar" [ref=e204] [cursor=pointer]:
+              - button "Salvar" [ref=e205]:
+                - img "Salvar" [ref=e207]
+            - button "Mais" [ref=e210] [cursor=pointer]:
+              - img "Mais" [ref=e212]
+            - link "Imagem do áudio" [ref=e217] [cursor=pointer]:
+              - /url: /reels/audio/521516222925316/
+              - img "Imagem do áudio" [ref=e220]
+        - generic [ref=e224]:
+          - generic [ref=e226]:
+            - img
+            - group "Video player" [ref=e233]:
+              - generic [ref=e234]:
+                - button "0 Vídeos do Reels de classicosraiiz Vídeos do Reels de classicosraiiz Seguir Antes do mundo caber na palma da mão…" [ref=e235] [cursor=pointer]:
+                  - slider "Ajustar volume" [ref=e236]:
+                    - button "O áudio está silenciado" [ref=e240]:
+                      - img "O áudio está silenciado" [ref=e241]
+                  - generic [ref=e246]:
+                    - generic [ref=e247]:
+                      - generic [ref=e249]:
+                        - link "Vídeos do Reels de classicosraiiz" [ref=e250]:
+                          - /url: /classicosraiiz/reels/
+                          - link "Foto do perfil de classicosraiiz" [ref=e253]:
+                            - img "Foto do perfil de classicosraiiz" [ref=e254]
+                        - link "Vídeos do Reels de classicosraiiz" [ref=e257]:
+                          - /url: /classicosraiiz/reels/
+                          - generic [ref=e258]: classicosraiiz
+                      - button "Seguir" [ref=e261]
+                    - button "Antes do mundo caber na palma da mão…" [ref=e262]:
+                      - generic [ref=e264]:
+                        - generic [ref=e265]: Antes do mundo caber na palma da mão…
+                        - generic [ref=e266]: … mais
+                - button "Pressionar para reproduzir" [ref=e268] [cursor=pointer]:
+                  - img "Ícone do botão Reproduzir" [ref=e270]
+          - generic [ref=e272]:
+            - generic [ref=e273] [cursor=pointer]:
+              - button "Curtir" [ref=e276]:
+                - img "Curtir" [ref=e279]
+              - button "133 mil" [ref=e281]:
+                - generic [ref=e285]: 133 mil
+            - button "Comentar 1.934" [ref=e287] [cursor=pointer]:
+              - generic [ref=e288]:
+                - img "Comentar" [ref=e289]
+                - generic [ref=e294]: "1.934"
+            - button "Compartilhar" [ref=e296] [cursor=pointer]:
+              - img "Compartilhar" [ref=e297]
+            - button "Salvar" [ref=e302] [cursor=pointer]:
+              - button "Salvar" [ref=e303]:
+                - img "Salvar" [ref=e305]
+            - button "Mais" [ref=e308] [cursor=pointer]:
+              - img "Mais" [ref=e310]
+            - link "Imagem do áudio" [ref=e315] [cursor=pointer]:
+              - /url: /reels/audio/25896028170077596/
+              - img "Imagem do áudio" [ref=e318]
+      - toolbar "Reels navigation controls" [ref=e320]:
+        - button "Navegar para o reel anterior" [ref=e321] [cursor=pointer]:
+          - img [ref=e323]
+        - button "Navegar para o próximo reel" [ref=e325] [cursor=pointer]:
+          - img [ref=e327]
+  - button "Mensagens Mensagens" [ref=e330] [cursor=pointer]:
+    - generic [ref=e332]:
+      - img "Mensagens" [ref=e334]
+      - generic [ref=e337]: Mensagens

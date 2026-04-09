@@ -1,0 +1,163 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "differentials": "Why Us",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "cta": "Book a Magical Visit"
+  },
+  "hero": {
+    "title": "Where every smile is born with a touch of magic",
+    "subtitle": "Pediatric dentistry with enchantment in Triângulo Mineiro, Brazil. Dr. Bianca turns the fear of the dentist into a magical adventure for your child.",
+    "cta": "Book the first magical visit",
+    "badge": "CRO MG 63888"
+  },
+  "impact": {
+    "phrase": "Because your child's first dentist doesn't have to be scary"
+  },
+  "about": {
+    "title": "The Tooth Fairy's story",
+    "description": "I'm Dr. Bianca Ribas Samartin, the Tooth Fairy. I graduated in Dentistry from Universidade de Uberaba (UNIUBE) and chose Pediatric Dentistry because I believe a child's first visit to the dentist can be magical. Here, every child is welcomed into a playful and warm environment, where the dental office becomes an enchanted world.",
+    "description2": "My mission is to care for your child's smile with warmth, expertise, and a whole lot of magic — so they grow up loving to take care of their teeth.",
+    "credentials": "CRO MG 63888 — Pediatric Dentist",
+    "university": "Universidade de Uberaba (UNIUBE)",
+    "specialty": "Pediatric Dentistry Specialist",
+    "cta": "Discover our space"
+  },
+  "services": {
+    "title": "The spells",
+    "subtitle": "Every smile deserves special care",
+    "items": {
+      "firstVisit": {
+        "name": "First Magical Visit",
+        "description": "The first encounter with the Tooth Fairy: getting acquainted, exploring the enchanted office, and building trust with your child."
+      },
+      "prevention": {
+        "name": "Enchanted Prevention",
+        "description": "Fluoride application, sealants, and oral hygiene guidance delivered in a playful and fun way that kids absolutely love."
+      },
+      "treatment": {
+        "name": "Gentle Treatments",
+        "description": "Restorations, cavity treatment, and dental development monitoring, always with gentle and welcoming techniques."
+      },
+      "emergency": {
+        "name": "Dental Emergencies",
+        "description": "Trauma, pain, and pediatric dental emergencies with humanized and prompt care to comfort both parents and children."
+      }
+    },
+    "cta": "Find out which magic your child's smile needs"
+  },
+  "counters": {
+    "smiles": {
+      "value": 2000,
+      "label": "Little smiles cared for"
+    },
+    "experience": {
+      "value": 4,
+      "label": "Years of experience"
+    },
+    "families": {
+      "value": 500,
+      "label": "Families served"
+    },
+    "rating": {
+      "value": 5,
+      "label": "Star rating"
+    }
+  },
+  "differentials": {
+    "title": "Why the Tooth Fairy?",
+    "items": {
+      "playful": {
+        "name": "Playful Environment",
+        "description": "An office decorated like an enchanted world, where every child feels safe and at ease."
+      },
+      "fearless": {
+        "name": "Fear-Free",
+        "description": "Behavioral management techniques that transform the visit into a positive and fun experience."
+      },
+      "specialized": {
+        "name": "Child Specialist",
+        "description": "Specialized training in Pediatric Dentistry — technical and emotional care tailored to every age group."
+      },
+      "location": {
+        "name": "Triângulo Mineiro",
+        "description": "Conveniently located in the Triângulo Mineiro region, with easy access and parking."
+      },
+      "cro": {
+        "name": "CRO MG 63888",
+        "description": "Active professional registration with the Minas Gerais Regional Dental Council."
+      },
+      "humanized": {
+        "name": "Humanized Care",
+        "description": "Every family receives personalized attention, from the first contact to ongoing follow-up."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "What mothers say",
+    "items": {
+      "t1": {
+        "text": "My daughter used to be terrified of dentists and now she asks to go back! Dr. Bianca is amazing with children.",
+        "author": "Camila R.",
+        "role": "Mother of Sofia, age 5"
+      },
+      "t2": {
+        "text": "The office is enchanting, like a make-believe world. My son loves going to his appointments.",
+        "author": "Fernanda M.",
+        "role": "Mother of Pedro, age 3"
+      },
+      "t3": {
+        "text": "A dedicated and super attentive professional. She explains everything calmly and the kids truly trust her.",
+        "author": "Juliana S.",
+        "role": "Mother of Laura, age 7"
+      },
+      "t4": {
+        "text": "The Tooth Fairy transformed the dental experience for our entire family. I recommend her wholeheartedly!",
+        "author": "Patrícia L.",
+        "role": "Mother of Enzo, age 4"
+      },
+      "t5": {
+        "text": "I took my baby for the first appointment and Dr. Bianca was wonderful. Perfect environment for children.",
+        "author": "Amanda C.",
+        "role": "Mother of Helena, age 1"
+      },
+      "t6": {
+        "text": "After several attempts with other dentists, we finally found the right professional. Impeccable care.",
+        "author": "Renata B.",
+        "role": "Mother of Lucas, age 6"
+      }
+    },
+    "cta": "Your family also deserves this kind of care"
+  },
+  "contact": {
+    "title": "And they smiled happily ever after",
+    "subtitle": "Shall we write this story together?",
+    "whatsappCta": "Say hi on WhatsApp",
+    "whatsappSubtext": "We're ready to enchant you",
+    "region": "Triângulo Mineiro, MG",
+    "cro": "CRO MG 63888",
+    "instagram": "@_afadadodente",
+    "instagramUrl": "https://www.instagram.com/_afadadodente/"
+  },
+  "footer": {
+    "copyright": "2026 A Fada do Dente — Dra. Bianca R. Samartin. All rights reserved.",
+    "cro": "CRO MG 63888",
+    "social": "Follow us"
+  },
+  "floatingCta": {
+    "tooltip": "Talk to the Fairy",
+    "ariaLabel": "Open WhatsApp chat"
+  },
+  "lang": {
+    "pt": "Português",
+    "en": "English"
+  },
+  "accessibility": {
+    "skipToContent": "Skip to content",
+    "menuOpen": "Open menu",
+    "menuClose": "Close menu"
+  }
+}

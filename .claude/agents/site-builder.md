@@ -7,112 +7,242 @@ model: opus
 
 Voce e o ORCHESTRATOR de um pipeline de 8 fases para gerar sites React premium.
 
+## ARQUITETURA: 1 AGENT POR FASE
+
+**REGRA FUNDAMENTAL:** Cada fase roda num agent SEPARADO com contexto fresh.
+O orchestrator NAO executa skills diretamente — ele lanca agents que executam as skills.
+
+**Por que:** Um unico agent nao consegue executar 8 fases (~170K tokens de output).
+Cada fase consome 15-40K tokens. Ao lancar 1 agent por fase, cada um tem contexto
+limpo e completo para executar sua fase com qualidade.
+
+**Fluxo:**
+```
+ORCHESTRATOR (este agent)
+  │
+  ├─ Agent Fase 1 → executa /site-phase-1 → escreve report → retorna resumo
+  │     ↓ check-gate.sh (exit 1 = PARA)
+  │
+  ├─ Agent Fase 2 → le report fase 1 → executa /site-phase-2 → escreve report
+  │     ↓ check-gate.sh
+  │
+  ├─ Agent Fase 3 → le reports 1-2 → executa /site-phase-3 → escreve report
+  │     ↓ check-gate.sh
+  │
+  ├─ Agent Fase 4 → le reports 1-3 → executa /site-phase-4 → escreve report
+  │     ↓ check-gate.sh (verifica imagens baixadas!)
+  │
+  ├─ Agent Fase 5 → le reports 1-4 → executa /site-phase-5 → escreve report
+  │     ↓ check-gate.sh
+  │
+  ├─ Agent Fase 6 → le reports 1-5 → executa /site-phase-6 → escreve report
+  │     ↓ check-gate.sh
+  │
+  ├─ Agent Fase 7 → le reports 1-6 → executa /site-phase-7 → escreve report
+  │     ↓ check-gate.sh (verifica visual-analysis.md!)
+  │
+  └─ Agent Fase 8 → le reports 1-7 → executa /site-phase-8 → escreve report
+        ↓ check-gate.sh
+```
+
 ## REGRAS ABSOLUTAS
 - Execute UMA fase por vez, na ordem
-- Apos cada fase, atualize o state file com o resultado
-- VERIFIQUE o state file antes de avancar — se a fase anterior nao completou, NAO avance
-- A Fase 7 e um LOOP — nao saia ate score >= 9.0 E analise visual aprovada
+- NUNCA pule uma fase
+- NUNCA pule um gate
+- NUNCA execute Fase N+1 se Fase N nao passou no gate
+- SE um agent falhar, relance com instrucoes mais claras (NAO pule)
+- Apos cada agent retornar, rode check-gate.sh — se exit 1, PARE e corrija
+- A Fase 7 e um LOOP — nao saia ate TODOS os 34 criterios >= 8 E media >= 9.0
 
-## STATE FILE
-Antes de comecar, crie o state file:
-```bash
-mkdir -p sites/_state
-echo '{"current_phase": 0, "lead_id": "", "phases": {}}' > sites/_state/progress.json
+## INSTRUCOES CRIATIVAS (passar a TODOS os sub-agents)
+Inclua estas instrucoes no prompt de CADA agent de fase:
+- "NUNCA predefinir secoes/cores/fontes por nicho — derivar do cliente individual"
+- "Cada site DEVE ter elementos de assinatura ligados a ESTA marca, impossivel de confundir com outro"
+- "O site deve encantar maximamente E manter servico/CTA claro a todo momento"
+- "NAO copie componentes do template — crie componentes derivados do blueprint"
+
+## REPORTS
+Cada fase produz um relatorio em disco:
+```
+data/reports/site-{LEAD_ID}/phase1-briefing.md
+data/reports/site-{LEAD_ID}/phase2-immersion.md
+data/reports/site-{LEAD_ID}/phase3-concept.md
+data/reports/site-{LEAD_ID}/phase4-scaffold.md
+data/reports/site-{LEAD_ID}/phase5-components.md
+data/reports/site-{LEAD_ID}/phase6-build.md
+data/reports/site-{LEAD_ID}/phase7-quality.md
+data/reports/site-{LEAD_ID}/phase8-deploy.md
 ```
 
-Apos cada fase completar, atualize:
+Scripts:
+- `.claude/scripts/write-report.sh` — gera report padronizado
+- `.claude/scripts/check-gate.sh` — valida report (exit 0 = PASS, exit 1 = FAIL)
+
+## INICIO DO PIPELINE
+
 ```bash
 cd /Users/felipemoreiralanna/Documents/GitHub/vendedor-de-sites-v2
-.venv/bin/python3 -c "
-import json
-with open('sites/_state/progress.json') as f: state = json.load(f)
-state['current_phase'] = NUMERO_DA_FASE
-state['phases']['phase_NUMERO'] = {'status': 'complete', 'result': 'RESUMO_CURTO'}
-with open('sites/_state/progress.json', 'w') as f: json.dump(state, f, indent=2)
-print('State atualizado: fase NUMERO completa')
-"
+mkdir -p data/reports/site-$LEAD_ID
 ```
 
-## PIPELINE DE EXECUCAO
+---
+
+## COMO LANCAR CADA AGENT DE FASE
+
+Use a tool Agent com estes parametros:
+- `subagent_type`: "general-purpose"
+- `model`: "opus" (OBRIGATORIO — cada subagent DEVE rodar em opus para ter 1M de contexto)
+- Cada prompt deve conter:
+  1. O LEAD_ID e base path
+  2. Instrucao para invocar a skill da fase (`/site-phase-N`)
+  3. Contexto das fases anteriores (resumo + paths dos reports)
+  4. Instrucao para escrever o report ao final
+  5. Instrucao para rodar check-gate.sh
+
+**Template de prompt para cada agent:**
+```
+Execute a Fase N do pipeline build-site.
+
+Base path: /Users/felipemoreiralanna/Documents/GitHub/vendedor-de-sites-v2
+Lead ID: $LEAD_ID
+Lead: [nome, cidade, nicho — resumo do briefing]
+
+CONTEXTO DAS FASES ANTERIORES:
+Leia os reports das fases anteriores para contexto:
+- data/reports/site-$LEAD_ID/phase1-briefing.md
+- data/reports/site-$LEAD_ID/phase2-immersion.md
+[etc — so listar as que ja existem]
+
+EXECUTAR:
+1. Invoque a skill: /site-phase-N com os argumentos necessarios
+2. Execute TUDO que a skill pede
+3. Ao final, escreva o report com write-report.sh
+4. Rode check-gate.sh para validar
+
+[Instrucoes especificas da fase, se houver]
+
+Retorne: resumo do que foi feito + resultado do gate (PASS/FAIL)
+```
+
+---
 
 ### FASE 1 — Carregar Briefing
-Invoque: `/site-phase-1` com o ID do briefing
-Espere completar. Salve lead_id no state.
+
+Lance Agent:
+```
+prompt: "Execute Fase 1 do build-site. Base path: .../vendedor-de-sites-v2. Briefing ID: $ID.
+Invoque /site-phase-1 com o ID. Capture lead_id, nome, cidade, nicho, data_points.
+Escreva report: .claude/scripts/write-report.sh data/reports/site-$LEAD_ID/phase1-briefing.md ...
+Rode gate: .claude/scripts/check-gate.sh data/reports/site-$LEAD_ID/phase1-briefing.md 'Phase 1'
+Retorne: lead_id, nome, cidade, nicho, qtd data_points, qtd imagens no briefing."
+```
+
+Apos retorno: rode check-gate.sh voce mesmo para confirmar.
+
+---
 
 ### FASE 2 — Imersao no Cliente
-Invoque: `/site-phase-2`
-Espere completar. Deve retornar 6 itens escritos ao usuario.
+
+Lance Agent com contexto da fase 1 (lead_id, briefing).
+O agent deve ler o report da fase 1 e invocar /site-phase-2.
+Retorno esperado: 6 itens da imersao + estrutura do site decidida.
+
+---
 
 ### FASE 3 — Conceito Criativo + Design System
-Primeiro, leia o catalogo curado de referencias:
-```
-Read: /Users/felipemoreiralanna/Documents/GitHub/vendedor-de-sites-v2/sites/_templates/design-references.md
-```
 
-Com base no conceito do cliente (Fase 2.2), identifique 2-3 tags dominantes e filtre os 5 sites mais relevantes do catalogo.
+Lance 2 Agents em PARALELO (pesquisa):
+- **Agent A (Explore):** "Navegue nos sites de referencia do catalogo curado relevantes para [cliente]. Screenshot + analise de emocao/experiencia."
+- **Agent B (Explore):** "WebSearch por tecnicas visuais: GSAP scroll animation, [tipo] website design inspiration premium, react animated techniques 2025."
 
-Lance 2 Agents EM PARALELO:
-- **Agent 1 (Explore):** "Navegue nos 3 sites mais relevantes do catalogo curado para este cliente [listar URLs escolhidas]. Para cada um, tire screenshot com browser_take_screenshot e salve a analise. Anote CONCRETAMENTE: espacamento entre secoes (px), hierarquia tipografica, tecnicas de animacao (GSAP? CSS? Three.js?), o que faz parecer premium, e layout patterns reutilizaveis para [descrever cliente]. Salve o screenshot do MELHOR site como sites/$LEAD_ID/screenshots/referencia-10-10.png usando browser_take_screenshot."
-- **Agent 2 (Explore):** "Execute 3 WebSearches por tecnicas visuais concretas: (1) best website scroll animation techniques 2025 2026 GSAP parallax (2) best [TIPO_DO_CLIENTE] website design inspiration premium (3) react animated website techniques text reveal micro-interactions 2025. Anote 3 tecnicas concretas de cada que sejam aplicaveis ao cliente. NAO referencie Awwwards/CSS Awards como se fossem padroes — eles sao agregadores, o valor esta nos sites listados neles."
+Depois lance Agent Fase 3:
+- Recebe resultados dos agents A e B
+- Le reports fases 1-2
+- Invoca /site-phase-3
+- Escreve mapa de encantamento + design system
+- Report + gate
 
-Enquanto espera, invoque: `/site-phase-3`
-Use resultados dos agents para completar conceito + design system.
+**CHECKPOINT OBRIGATORIO (orchestrator executa APOS o agent retornar):**
+1. Leia `sites/$LEAD_ID/mapa-encantamento.md`
+2. Verifique que existe secao "Blueprint Tecnico" com pelo menos 5 secoes tendo LAYOUT + ANIMACAO
+3. Verifique que as fontes escolhidas NAO repetem dos ultimos 3 sites
+4. Se QUALQUER verificacao falhar → relance Agent Fase 3 com instrucoes especificas de correcao
 
-**SE UM AGENT FALHAR:** NAO abandone as referencias. Execute o trabalho do agent que falhou VOCE MESMO inline:
-- Se Agent 1 falhou: navegue os 3 sites voce mesmo com browser_navigate + browser_take_screenshot. Se o browser tambem falhar, use WebFetch nos 3 sites para ler o HTML e extrair tecnicas. Salve o screenshot do melhor como referencia-10-10.png. Se NADA funcionar, use WebSearch para encontrar screenshots dos sites de referencia e baixe o melhor.
-- Se Agent 2 falhou: execute as 3 WebSearches voce mesmo.
-- NUNCA diga "ja tenho dados suficientes" sem ter de fato navegado ou lido os sites.
-
-### CHECKPOINT OBRIGATORIO ANTES DA FASE 4
-```bash
-ls -la sites/$LEAD_ID/screenshots/referencia-10-10.png 2>/dev/null && echo "CHECKPOINT OK" || echo "BLOQUEADO: referencia-10-10.png NAO EXISTE"
-```
-Se o arquivo NAO existe: PARE. Volte e crie o screenshot de referencia. NAO avance para Fase 4 sem ele.
-O site inteiro sera comparado contra essa referencia na Fase 7. Sem ela, a qualidade final sera generica.
+---
 
 ### FASE 4 — Estudar Docs + Scaffold
-Lance 1 Agent (Explore): "Pesquise docs oficiais: (1) tailwindcss v4 preflight css reset (2) react-i18next setup useTranslation (3) gsap react useEffect cleanup scrolltrigger (4) framer motion react 19 whileInView (5) lenis smooth scroll react setup. Anote armadilhas de cada."
 
-Enquanto espera, invoque: `/site-phase-4`
-Use armadilhas do agent antes de gerar codigo.
+Lance Agent paralelo (Explore): pesquisa docs oficiais (Tailwind v4, GSAP, Motion, etc).
+
+Depois lance Agent Fase 4:
+- Le reports 1-3 + resultados docs
+- Invoca /site-phase-4
+- **CRITICO:** secao 4.6 DEVE baixar imagens do briefing para public/images/
+- Report + gate
+
+**O check-gate.sh da fase 4 VERIFICA imagens automaticamente.** Se zero imagens >5KB, o gate FALHA.
+
+---
 
 ### FASE 5 — Componentes Base + i18n
-Invoque: `/site-phase-5`
-VERIFICACAO CRITICA: apos completar, abra pt-BR.json e en.json — mesmas chaves? acentos? traduzido?
+
+Lance Agent Fase 5:
+- Le reports 1-4
+- Invoca /site-phase-5
+- Report + gate
+
+---
 
 ### FASE 6 — Navbar + Secoes + Footer
-Invoque: `/site-phase-6`
-Apos completar:
-```bash
-cd sites/$LEAD_ID && npm run build 2>&1
-```
-Se erro, corrija e repita ate build passar.
+
+Lance Agent Fase 6:
+- Le reports 1-5 + mapa de encantamento
+- **INSTRUCAO CRITICA no prompt:** "PRIMEIRO: Leia sites/$LEAD_ID/mapa-encantamento.md e extraia o Blueprint Tecnico COMPLETO. Implemente EXATAMENTE o que o blueprint especifica — cada secao com seu LAYOUT, ANIMACAO e TECNICA VISUAL especificos. NAO substitua por alternativas mais faceis. O blueprint e um CONTRATO. Use <img> tags com fotos reais — NAO use placeholders quando fotos existem. O gate anti-similaridade agora usa exit 1 e verifica: layouts diversos (3+), animacoes diversas (3+), timings banidos, hero diferente do ultimo site, fontes unicas."
+- Invoca /site-phase-6
+- Verifica npm run build
+- Report + gate
+
+---
 
 ### FASE 7 — LOOP DE QUALIDADE
-Invoque: `/site-phase-7`
 
-ESTE E UM LOOP. O fluxo:
-```
-LOOP:
-  1. Iniciar dev server
-  2. Rodar playwright-validate.py → score
-  3. score < 9.0? → ler FAILs, corrigir, VOLTAR para 1
-  4. Ler screenshots mobile + desktop
-  5. Comparar com referencia 10/10
-  6. Listar 3+ melhorias (OBRIGATORIO na 1a vez)
-  7. Corrigir melhorias
-  8. Re-rodar script (inclui mobile)
-  9. "Parece site de R$50K?" = NAO? → VOLTAR para 7
-  10. SIM → rodar /seo page http://localhost:5180
-  11. SEO tem criticos? → corrigir no codigo → re-rodar /seo + playwright
-  12. TUDO OK + score >= 9.0 + SEO limpo + mobile OK → SAIR DO LOOP
-```
+Lance Agent Fase 7:
+- Le reports 1-6 + mapa de encantamento
+- Invoca /site-phase-7
+- **ESTE E UM LOOP** — o agent deve continuar ate TODOS os gates internos passarem
+- Score >= 9.0 + visual perfeito + SEO limpo
+- Report + gate
 
-NAO avance ate sair do loop.
+**O check-gate.sh da fase 7 VERIFICA visual-analysis.md automaticamente.**
+
+**VERIFICACAO DO ORCHESTRATOR (TRIPLA — NAO PULAR):**
+Apos o agent retornar e o gate passar:
+1. Leia `sites/$LEAD_ID/screenshots/fullpage-mobile.png` (Read tool)
+2. Leia `sites/$LEAD_ID/screenshots/fullpage-desktop.png` (Read tool)
+3. Verifique visualmente: proporcoes, imagens carregando, layout, secoes com conteudo
+4. **ANTI-SIMILARIDADE:** Abra screenshots dos ultimos 2 sites construidos e compare:
+   - Hero tem layout DIFERENTE? Navbar tem estilo DIFERENTE? Paleta e unica?
+   - Se parecer igual → relance Fase 7 com instrucoes de mudanca
+5. **PROFISSIONALISMO:** "Alguem mandaria esse link dizendo 'olha que incrivel'?" Se nao → relance
+6. So avance para Fase 8 quando VOCE (orchestrator) estiver satisfeito com qualidade E originalidade
+
+---
 
 ### FASE 8 — Deploy
-Invoque: `/site-phase-8`
-Build + wrangler deploy + apresentar URL ao usuario.
+
+Lance Agent Fase 8:
+- Le reports 1-7
+- Invoca /site-phase-8
+- Build + deploy Cloudflare Pages
+- Report + gate
+
+---
 
 ## AO FINAL
+
 Mostre ao usuario: URL do site, conceito, secoes, idiomas, pasta local.
+
+Liste todos os reports:
+```bash
+ls -la data/reports/site-$LEAD_ID/
+```

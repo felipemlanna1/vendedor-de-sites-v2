@@ -1,0 +1,431 @@
+{
+  "current_phase": 7,
+  "lead_id": "patricia-ribeiro",
+  "nome": "Patricia Ribeiro",
+  "cidade": "Santa Rita do Sapucaí",
+  "nicho": "dentista",
+  "strategy": "dental",
+  "source": "instagram",
+  "discovered_urls": {
+    "site_url": "",
+    "instagram_username": "dra.patricia.ribeiro",
+    "facebook_url": "",
+    "google_maps_url": "",
+    "platform_urls": {
+      "linkedin": "https://br.linkedin.com/in/patr%C3%ADcia-ribeiro-62bab764",
+      "ident": "https://www.ident.com.br/dra.patriciaribeiro/perfil-completo",
+      "doctoralia_listing": "https://www.doctoralia.com.br/dentista/santa-rita-do-sapucai"
+    }
+  },
+  "data_points": [
+    {
+      "category": "presence",
+      "label": "Instagram confirmado",
+      "value": "@dra.patricia.ribeiro",
+      "detail": {
+        "bio": "Canal especializado | Santa Rita | Trato sua dor e devolvo saúde | +1000 pacientes sem dor | CRO56979",
+        "seguidores": 1624,
+        "posts": 253
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T22:58:00.145364"
+    },
+    {
+      "category": "presence",
+      "label": "LinkedIn encontrado",
+      "value": "https://br.linkedin.com/in/patr%C3%ADcia-ribeiro-62bab764",
+      "detail": {
+        "titulo": "Consultório Odontológico Dra Patricia"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T22:58:00.145364"
+    },
+    {
+      "category": "presence",
+      "label": "Doctoralia listagem",
+      "value": "Presente na listagem de dentistas de Santa Rita do Sapucaí",
+      "detail": {
+        "url": "https://www.doctoralia.com.br/dentista/santa-rita-do-sapucai"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T22:58:00.145364"
+    },
+    {
+      "category": "presence",
+      "label": "Website drapatricia.com.br",
+      "value": "NAO pertence a esta lead - site de outra Dra Patricia em Sao Paulo",
+      "detail": {
+        "url": "https://drapatricia.com.br/",
+        "motivo_descarte": "Telefone 11, endereco SP, email patriciaokumamasi - outra pessoa"
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch (drapatricia.com.br)",
+      "fetched_at": "2026-04-07T22:58:00.145364"
+    },
+    {
+      "category": "presence",
+      "label": "Ident.com.br perfil",
+      "value": "https://www.ident.com.br/dra.patriciaribeiro/perfil-completo",
+      "detail": {
+        "platform": "Ident"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T22:58:00.145364"
+    },
+    {
+      "category": "reviews",
+      "label": "Avaliacoes online",
+      "value": "Nenhuma avaliacao especifica encontrada",
+      "detail": {
+        "nota": "N/A",
+        "observacao": "Nao ha reviews em plataformas publicas"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T22:58:00.145364"
+    },
+    {
+      "category": "history",
+      "label": "Historia do negocio",
+      "value": "+1000 pacientes atendidos, endodontista (canal)",
+      "detail": {
+        "especialidade": "Endodontia (Canal)",
+        "claim": "+1000 pacientes sem dor",
+        "CRO": "56979"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (bio Instagram)",
+      "fetched_at": "2026-04-07T22:58:00.145364"
+    },
+    {
+      "category": "identity",
+      "label": "CNPJ",
+      "value": "Nao encontrado",
+      "detail": {
+        "status": "nao_encontrado",
+        "buscas_realizadas": [
+          "WebSearch CNPJ Patricia Ribeiro Santa Rita",
+          "casadosdados.com.br",
+          "cnpj.biz"
+        ]
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T22:59:21.705371"
+    },
+    {
+      "category": "professional_registry",
+      "label": "CRO",
+      "value": "CRO 56979",
+      "detail": {
+        "tipo": "CRO",
+        "numero": "56979",
+        "estado": "MG",
+        "especialidade": "Endodontia (Canal)",
+        "fonte": "Bio Instagram @dra.patricia.ribeiro"
+      },
+      "source_type": "briefing",
+      "source_name": "Instagram bio",
+      "fetched_at": "2026-04-07T22:59:21.705371"
+    },
+    {
+      "category": "website",
+      "label": "Website",
+      "value": "Nao possui site",
+      "detail": {
+        "status": "sem_site",
+        "observacao": "drapatricia.com.br pertence a outra profissional em SP, nao a esta lead"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-07T22:59:45.667070"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Doctoralia",
+      "value": "Nao encontrada",
+      "detail": {
+        "platform": "Doctoralia",
+        "status": "ausente",
+        "buscas": [
+          "site:doctoralia.com.br",
+          "listagem dentistas Santa Rita pag 1 e 2"
+        ]
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch + WebFetch",
+      "fetched_at": "2026-04-07T23:00:52.170614"
+    },
+    {
+      "category": "sales_channels",
+      "label": "BoaConsulta",
+      "value": "Nao encontrada",
+      "detail": {
+        "platform": "BoaConsulta",
+        "status": "ausente"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T23:00:52.170614"
+    },
+    {
+      "category": "sales_channels",
+      "label": "ReclameAqui",
+      "value": "Nao encontrada",
+      "detail": {
+        "platform": "ReclameAqui",
+        "status": "ausente"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T23:00:52.170614"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Google Maps",
+      "value": "Nao encontrado",
+      "detail": {
+        "platform": "Google Maps",
+        "status": "ausente"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T23:00:52.170614"
+    },
+    {
+      "category": "images",
+      "label": "Foto de perfil Instagram",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.2885-19/350136295_5664645470518784_488084973702871723_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=108&ccb=7-5&_nc_sid=bf7eb4",
+      "detail": {
+        "urls": [
+          "https://scontent-poa1-1.cdninstagram.com/v/t51.2885-19/350136295_5664645470518784_488084973702871723_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=108&ccb=7-5&_nc_sid=bf7eb4"
+        ],
+        "tipo": "profile_pic",
+        "fonte": "Playwright (Instagram perfil)",
+        "descricao": "1623 seguidores, 253 posts, Canal especializado Santa Rita"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-07T23:05:55.329118"
+    },
+    {
+      "category": "images",
+      "label": "Post Instagram - Ano Novo 2026",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/609711913_18554918458041577_1937302533935538987_n.webp?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&_nc_cat=109",
+      "detail": {
+        "urls": [
+          "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/609711913_18554918458041577_1937302533935538987_n.webp?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&_nc_cat=109"
+        ],
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post DS-KmPkEZaA)",
+        "post_url": "https://www.instagram.com/dra.patricia.ribeiro/p/DS-KmPkEZaA/",
+        "date": "Jan 1, 2026"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-07T23:05:55.329118"
+    },
+    {
+      "category": "images",
+      "label": "Post Instagram - Natal 2025",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/607081644_18553558366041577_2870259004061423049_n.webp?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&_nc_cat=104",
+      "detail": {
+        "urls": [
+          "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/607081644_18553558366041577_2870259004061423049_n.webp?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&_nc_cat=104"
+        ],
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post DSr9KJ0jcOp)",
+        "post_url": "https://www.instagram.com/dra.patricia.ribeiro/p/DSr9KJ0jcOp/",
+        "date": "Dec 25, 2025"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-07T23:05:55.329118"
+    },
+    {
+      "category": "images",
+      "label": "Post Instagram - Caso clinico siso",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/581807081_18546539644041577_3210878793541824133_n.webp?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&_nc_cat=102",
+      "detail": {
+        "urls": [
+          "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/581807081_18546539644041577_3210878793541824133_n.webp?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&_nc_cat=102"
+        ],
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post DRKCTVkjBSz)",
+        "post_url": "https://www.instagram.com/dra.patricia.ribeiro/p/DRKCTVkjBSz/",
+        "date": "Nov 13, 2025",
+        "has_text": true,
+        "caption": "Paciente com dor, fistula e uma certeza, NAO QUERIA EXTRAIR O DENTE SISO!"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-07T23:05:55.329118"
+    },
+    {
+      "category": "images",
+      "label": "Post Instagram - Outubro 2025",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/568515193_18539803180041577_2329313025673918526_n.webp?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&_nc_cat=109",
+      "detail": {
+        "urls": [
+          "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/568515193_18539803180041577_2329313025673918526_n.webp?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&_nc_cat=109"
+        ],
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post DQG-sJEDBDh)",
+        "post_url": "https://www.instagram.com/dra.patricia.ribeiro/p/DQG-sJEDBDh/",
+        "date": "Oct 21, 2025"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-07T23:05:55.329118"
+    },
+    {
+      "category": "images",
+      "label": "Post Instagram - Consultorio/religioso",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/564576217_18538321576041577_7396538066853119439_n.webp?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&_nc_cat=107",
+      "detail": {
+        "urls": [
+          "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/564576217_18538321576041577_7396538066853119439_n.webp?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&_nc_cat=107"
+        ],
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post DP3o2w8DMlG)",
+        "post_url": "https://www.instagram.com/dra.patricia.ribeiro/p/DP3o2w8DMlG/",
+        "date": "Oct 14, 2025",
+        "has_text": true,
+        "caption": "dentista consultorioodontologico santaritadosapucai"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-07T23:05:55.329118"
+    },
+    {
+      "category": "images",
+      "label": "Post Instagram - Restauracao pode virar canal",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/566151429_18538882918041577_4776566026478945393_n.webp?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&_nc_cat=108",
+      "detail": {
+        "urls": [
+          "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/566151429_18538882918041577_4776566026478945393_n.webp?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&_nc_cat=108"
+        ],
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post DP6jMh3jb1x)",
+        "post_url": "https://www.instagram.com/dra.patricia.ribeiro/p/DP6jMh3jb1x/",
+        "date": "Oct 17, 2025",
+        "has_text": true,
+        "caption": "Uma restauracao pode se tornar um tratamento de canal?"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-07T23:05:55.329118"
+    },
+    {
+      "category": "images",
+      "label": "Post Instagram - Endodontia explicacao",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/616667914_17934363807016056_2410248005200745051_n.webp?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=109",
+      "detail": {
+        "urls": [
+          "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/616667914_17934363807016056_2410248005200745051_n.webp?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=109"
+        ],
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post CvckusKuOTB)",
+        "post_url": "https://www.instagram.com/dra.patricia.ribeiro/p/CvckusKuOTB/",
+        "date": "Aug 2, 2023",
+        "has_text": true,
+        "caption": "A endodontia e a especialidade que cuida de doencas da polpa. Sou endodontista"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-07T23:05:55.329118"
+    },
+    {
+      "category": "images",
+      "label": "Reel Instagram - Canal tira raiz?",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.71878-15/503311784_703427858999114_8413101158769932723_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=101",
+      "detail": {
+        "urls": [
+          "https://scontent-poa1-1.cdninstagram.com/v/t51.71878-15/503311784_703427858999114_8413101158769932723_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=101"
+        ],
+        "tipo": "post",
+        "fonte": "Playwright (Instagram reel CvpaF1Zghxq)",
+        "post_url": "https://www.instagram.com/dra.patricia.ribeiro/reel/CvpaF1Zghxq/",
+        "date": "Aug 7, 2023",
+        "has_text": true,
+        "caption": "Canal tira a raiz do dente? Assiste essa animacao que te mostro a verdade!"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-07T23:05:55.329118"
+    },
+    {
+      "category": "brand",
+      "label": "Padroes da marca",
+      "value": "Profissional de saude com tom educativo e acolhedor, focada em endodontia",
+      "detail": {
+        "cores": [
+          "azul",
+          "branco",
+          "tons pasteis"
+        ],
+        "tom": "profissional-acolhedor",
+        "publico_alvo": "Pacientes com dor dental, medo de dentista, regiao de Santa Rita do Sapucai ~40k hab",
+        "estilo_visual": "Clean, educativo, posts com conteudo informativo sobre tratamentos de canal",
+        "slogan": "Trato sua dor e devolvo saude",
+        "diferenciais": [
+          "+1000 pacientes sem dor",
+          "Endodontista especializada",
+          "CRO 56979",
+          "WhatsApp na bio"
+        ]
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-07T23:07:27.597823"
+    },
+    {
+      "category": "competitors",
+      "label": "Concorrentes com site",
+      "value": "3 encontrados",
+      "detail": [
+        "Odonto Integrada - https://odontointegradasrs.com.br/",
+        "Odontoclinic Santa Rita - https://odontoclinic.com.br/unidades/santa-rita-do-sapucai/",
+        "Dra. Francine Saran (endodontia tambem) - Doctoralia"
+      ],
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T23:07:27.597823"
+    }
+  ],
+  "phases": {
+    "phase_1": {
+      "status": "complete"
+    },
+    "phase_2": {
+      "status": "complete",
+      "result": "3 URLs descobertas, 7 data_points"
+    },
+    "phase_3": {
+      "status": "complete",
+      "result": "CNPJ nao encontrado, CRO 56979 confirmado via bio Instagram"
+    },
+    "phase_4": {
+      "status": "complete",
+      "result": "Sem site - marcado sem_site"
+    },
+    "phase_5": {
+      "status": "complete",
+      "result": "Nenhum canal de venda encontrado (Doctoralia, BoaConsulta, ReclameAqui, Google Maps)"
+    },
+    "phase_6": {
+      "status": "complete",
+      "result": "9 imagens capturadas via Playwright MCP (1 perfil + 8 posts)"
+    },
+    "phase_7": {
+      "status": "complete",
+      "result": "Briefing salvo no vendedor.db"
+    }
+  },
+  "started_at": "2026-04-07T22:56:01.275485",
+  "completed_at": "2026-04-07T23:07:27.597823"
+}

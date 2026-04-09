@@ -1,0 +1,469 @@
+{
+  "current_phase": 7,
+  "lead_id": "aline-metzelthin",
+  "nome": "Aline Metzelthin",
+  "cidade": "SC",
+  "nicho": "advogada",
+  "strategy": "legal",
+  "source": "instagram",
+  "discovered_urls": {
+    "site_url": "",
+    "instagram_username": "alinemetzel.advogada",
+    "facebook_url": "https://www.facebook.com/advocaciaalinemetzelthin/",
+    "google_maps_url": "https://www.google.com/maps/place/data=!4m2!3m1!1s0x95274995511ad667:0xb9a7cb3f96e9376e",
+    "platform_urls": {
+      "linkedin": "https://www.linkedin.com/in/aline-metzelthin-0507b2b2/",
+      "juridico_certo": "https://juridicocerto.com/p/wmconsultoriajuridic",
+      "instagram_escritorio": "https://www.instagram.com/mmr_advogadas/"
+    }
+  },
+  "data_points": [
+    {
+      "category": "presence",
+      "label": "Perfil JuridicoCerto",
+      "value": "Ativa com nota 5.0/5.0 (16 trabalhos)",
+      "detail": {
+        "url": "https://juridicocerto.com/p/wmconsultoriajuridic",
+        "rating": "5.0/5.0",
+        "trabalhos": 16,
+        "servicos": "Acompanhamentos, Alvarás, Audiências, Cópias, Despachos, Distribuições, Protocolos",
+        "especialidades": "Direito Civil, Consumidor, da Mulher, Sucessões, Família, Trabalho, Penal, Processual Civil, Processual do Trabalho",
+        "foto_url": "https://jc-fotos-correspondentes.s3.amazonaws.com/63682/ALINE_METZELTHIN-20190729141600_120x120.jpg"
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch (juridicocerto.com)",
+      "fetched_at": "2026-04-08T08:12:00.926045"
+    },
+    {
+      "category": "social",
+      "label": "Instagram @alinemetzel.advogada",
+      "value": "Advogada Trabalhista, 539 seguidores, 130 posts",
+      "detail": {
+        "username": "alinemetzel.advogada",
+        "url": "https://www.instagram.com/alinemetzel.advogada/",
+        "seguidores": 539,
+        "posts": 130,
+        "bio": "Advogada Trabalhista, 20 anos de experiencia, so WhatsApp na bio"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:12:00.926045"
+    },
+    {
+      "category": "social",
+      "label": "LinkedIn",
+      "value": "Perfil profissional ativo",
+      "detail": {
+        "url": "https://www.linkedin.com/in/aline-metzelthin-0507b2b2/",
+        "cargo": "Escritório Particular de Advocacia",
+        "experiencia": "18 anos",
+        "formacao": "Bacharelado em Direito - UNISINOS, Pos-graduacao Anhanguera"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:12:00.926045"
+    },
+    {
+      "category": "social",
+      "label": "Facebook - Valle e Metzelthin Advogadas Associadas",
+      "value": "Pagina ativa no Facebook",
+      "detail": {
+        "url": "https://www.facebook.com/advocaciaalinemetzelthin/",
+        "nome_pagina": "Valle e Metzelthin Advogadas Associadas"
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch (facebook.com)",
+      "fetched_at": "2026-04-08T08:12:00.926045"
+    },
+    {
+      "category": "presence",
+      "label": "Escritorio - Mafra & Metzelthin / MMR Advogadas",
+      "value": "Escritorio associado em Sao Jose/SC",
+      "detail": {
+        "nome": "Mafra, Metzelthin & Rocha Advogadas Associadas",
+        "endereco": "Av. Leoberto Leal, 684 - sala 102 - Barreiros, São José - SC, 88117-000",
+        "areas": "Família, Divórcio, Trabalhista, Criminal, Consumidor, Previdenciário",
+        "google_maps": "https://www.google.com/maps/place/data=!4m2!3m1!1s0x95274995511ad667:0xb9a7cb3f96e9376e",
+        "instagram_escritorio": "mmr_advogadas",
+        "experiencia": "23+ anos, 2000+ casos resolvidos"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:12:00.926045"
+    },
+    {
+      "category": "presence",
+      "label": "Email profissional (ZoomInfo)",
+      "value": "Email em dominio mariaconsuelo.adv.br",
+      "detail": {
+        "dominio_email": "mariaconsuelo.adv.br",
+        "fonte": "ZoomInfo"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (ZoomInfo)",
+      "fetched_at": "2026-04-08T08:12:00.926045"
+    },
+    {
+      "category": "presence",
+      "label": "Website pessoal nao encontrado",
+      "value": "Sem site pessoal confirmado",
+      "detail": {
+        "status": "sem_site",
+        "nota": "LinkedIn menciona alinemetzel.com.br mas nao confirmado como ativo"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:12:00.926045"
+    },
+    {
+      "category": "images",
+      "label": "Foto JuridicoCerto",
+      "value": "https://jc-fotos-correspondentes.s3.amazonaws.com/63682/ALINE_METZELTHIN-20190729141600_120x120.jpg",
+      "detail": {
+        "urls": [
+          "https://jc-fotos-correspondentes.s3.amazonaws.com/63682/ALINE_METZELTHIN-20190729141600_120x120.jpg"
+        ],
+        "tipo": "profile_pic",
+        "fonte": "JuridicoCerto",
+        "width": 120,
+        "height": 120
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch (juridicocerto.com)",
+      "fetched_at": "2026-04-08T08:12:00.926045"
+    },
+    {
+      "category": "identity",
+      "label": "CNPJ",
+      "value": "Nao encontrado",
+      "detail": {
+        "nota": "CNPJ pessoal ou do escritorio nao localizado publicamente. Escritorio Mafra, Metzelthin & Rocha Advogadas Associadas em Sao Jose/SC. Thaise Metzelthin (parente?) possui CNPJ 38826586000110 em RS.",
+        "endereco_escritorio": "Av. Leoberto Leal, 684 - sala 102 - Barreiros, São José - SC, 88117-000"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch + CasaDosDados",
+      "fetched_at": "2026-04-08T08:13:34.671834"
+    },
+    {
+      "category": "professional_registry",
+      "label": "OAB/SC",
+      "value": "Numero nao localizado publicamente",
+      "detail": {
+        "seccional": "SC",
+        "tipo": "Advogada",
+        "especialidade": "Direito do Trabalho",
+        "nota": "CNA/OAB nao retornou resultado via WebSearch. Confirmada como advogada ativa pelo JuridicoCerto (nota 5.0), LinkedIn (18 anos experiencia), e Instagram (20 anos experiencia declarada).",
+        "formacao": "Bacharelado em Direito - UNISINOS, Pos-graduacao Anhanguera Educacional"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (OAB/CNA)",
+      "fetched_at": "2026-04-08T08:13:34.671834"
+    },
+    {
+      "category": "website",
+      "label": "Website",
+      "value": "Nao possui site",
+      "detail": {
+        "status": "sem_site",
+        "nota": "LinkedIn menciona alinemetzel.com.br mas dominio nao confirmado como ativo. Sem site pessoal ou do escritorio encontrado."
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-08T08:14:02.532620"
+    },
+    {
+      "category": "sales_channels",
+      "label": "JuridicoCerto - Correspondente Juridico",
+      "value": "Ativa, nota 5.0/5.0, 16 trabalhos",
+      "detail": {
+        "url": "https://juridicocerto.com/p/wmconsultoriajuridic",
+        "plataforma": "JuridicoCerto",
+        "rating": "5.0/5.0",
+        "trabalhos_concluidos": 16
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch (juridicocerto.com)",
+      "fetched_at": "2026-04-08T08:15:09.940445"
+    },
+    {
+      "category": "sales_channels",
+      "label": "JusBrasil - Processos",
+      "value": "Presente como parte em processos (nao como advogada publica)",
+      "detail": {
+        "url": "https://www.jusbrasil.com.br/processos/nome/129017507/beutecnica-comercio-e-assistencia-de-maquinas-ltda-me",
+        "plataforma": "JusBrasil",
+        "tipo": "parte processual",
+        "nota": "Aparece vinculada a processos trabalhistas no TJRS e TRF4"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (jusbrasil.com.br)",
+      "fetched_at": "2026-04-08T08:15:09.940445"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Lista de Advogados SC",
+      "value": "Escritorio listado em lista.adv.br",
+      "detail": {
+        "url": "https://lista.adv.br/direito-de-fam%C3%ADlia",
+        "plataforma": "lista.adv.br",
+        "nome_escritorio": "Advocacia - Mafra, Metzelthin e Rocha",
+        "telefone": "+55 48 9 9933-9417",
+        "especialidades": "Direito de Familia, Divorcio, Alimentos, Guarda, Interdicao, Violencia Domestica, Inventarios, Contratos, Danos Morais e Materiais, Usucapiao"
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch (lista.adv.br)",
+      "fetched_at": "2026-04-08T08:15:09.940445"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Google Maps - Escritorio",
+      "value": "5 estrelas no Google Maps",
+      "detail": {
+        "url": "https://www.google.com/maps/place/data=!4m2!3m1!1s0x95274995511ad667:0xb9a7cb3f96e9376e",
+        "plataforma": "Google Maps",
+        "nome": "Mafra & Metzelthin Advocacia de Familia",
+        "rating": "5.0",
+        "endereco": "Av. Leoberto Leal, 684 - sala 102 - Barreiros, São José - SC, 88117-000",
+        "areas": "Familia, Divorcio, Trabalhista, Criminal, Consumidor, Previdenciario"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (Google Maps)",
+      "fetched_at": "2026-04-08T08:15:09.940445"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Instagram Escritorio @mmr_advogadas",
+      "value": "Perfil do escritorio no Instagram",
+      "detail": {
+        "url": "https://www.instagram.com/mmr_advogadas/",
+        "plataforma": "Instagram",
+        "nota": "2000+ casos resolvidos, 23+ anos experiencia"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:15:09.940445"
+    },
+    {
+      "category": "contact",
+      "label": "Telefone do escritorio",
+      "value": "+55 48 9 9933-9417",
+      "detail": {
+        "tipo": "celular/whatsapp",
+        "fonte": "lista.adv.br"
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch (lista.adv.br)",
+      "fetched_at": "2026-04-08T08:15:09.940445"
+    },
+    {
+      "category": "sales_channels",
+      "label": "ReclameAqui",
+      "value": "Nao encontrado",
+      "detail": {
+        "status": "sem_perfil"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:15:09.940445"
+    },
+    {
+      "category": "images",
+      "label": "Foto perfil Facebook - Valle e Metzelthin",
+      "value": "https://scontent-poa1-1.xx.fbcdn.net/v/t39.30808-1/301869958_475387554598033_3741209889051486662_n.jpg?stp=dst-jpg_tt6&cstp=mx917x922&ctp=s720x720&_nc_cat=110",
+      "detail": {
+        "urls": [
+          "https://scontent-poa1-1.xx.fbcdn.net/v/t39.30808-1/301869958_475387554598033_3741209889051486662_n.jpg?stp=dst-jpg_tt6&cstp=mx917x922&ctp=s720x720&_nc_cat=110"
+        ],
+        "tipo": "logo",
+        "fonte": "Playwright (Facebook og:image)"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP (Facebook)",
+      "fetched_at": "2026-04-08T08:22:42.280916"
+    },
+    {
+      "category": "images",
+      "label": "Banner/Logo escritorio Facebook",
+      "value": "https://scontent-poa1-1.xx.fbcdn.net/v/t39.30808-6/595153731_1376284337841679_2911239781528021487_n.png",
+      "detail": {
+        "urls": [
+          "https://scontent-poa1-1.xx.fbcdn.net/v/t39.30808-6/595153731_1376284337841679_2911239781528021487_n.png"
+        ],
+        "tipo": "banner",
+        "fonte": "Playwright (Facebook photos)",
+        "nota": "Banner/logo do escritorio, formato landscape 600x200"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP (Facebook)",
+      "fetched_at": "2026-04-08T08:22:42.280916"
+    },
+    {
+      "category": "images",
+      "label": "Fotos publicacoes Facebook (5 fotos)",
+      "value": "5 fotos de publicacoes do Facebook do escritorio",
+      "detail": {
+        "urls": [
+          "https://scontent-poa1-1.xx.fbcdn.net/v/t39.30808-6/502573112_1212660070870774_4363637142846289854_n.jpg",
+          "https://scontent-poa1-1.xx.fbcdn.net/v/t39.30808-6/492776044_1186956783441103_5068351564708720628_n.jpg",
+          "https://scontent-poa1-1.xx.fbcdn.net/v/t39.30808-6/494012052_1185827923553989_6121889202205700220_n.jpg",
+          "https://scontent-poa1-1.xx.fbcdn.net/v/t39.30808-6/494721416_1185806150222833_2499817267192485905_n.jpg",
+          "https://scontent-poa1-1.xx.fbcdn.net/v/t39.30808-6/301869958_475387554598033_3741209889051486662_n.jpg"
+        ],
+        "tipo": "post",
+        "fonte": "Playwright (Facebook photos)",
+        "nota": "Fotos profissionais do escritorio Valle e Metzelthin"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP (Facebook)",
+      "fetched_at": "2026-04-08T08:22:42.280916"
+    },
+    {
+      "category": "images",
+      "label": "Fotos antigas Facebook (2 fotos)",
+      "value": "2 fotos mais antigas do Facebook",
+      "detail": {
+        "urls": [
+          "https://scontent-poa1-1.xx.fbcdn.net/v/t1.6435-9/109445867_762176557854221_5754670185079435333_n.jpg",
+          "https://scontent-poa1-1.xx.fbcdn.net/v/t1.6435-9/96423096_713589049379639_5099714815740346368_n.jpg"
+        ],
+        "tipo": "post",
+        "fonte": "Playwright (Facebook photos)",
+        "nota": "Fotos profissionais mais antigas"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP (Facebook)",
+      "fetched_at": "2026-04-08T08:22:42.280916"
+    },
+    {
+      "category": "images",
+      "label": "Foto perfil JuridicoCerto",
+      "value": "https://jc-fotos-correspondentes.s3.amazonaws.com/63682/ALINE_METZELTHIN-20190729141600_120x120.jpg",
+      "detail": {
+        "urls": [
+          "https://jc-fotos-correspondentes.s3.amazonaws.com/63682/ALINE_METZELTHIN-20190729141600_120x120.jpg"
+        ],
+        "tipo": "profile_pic",
+        "fonte": "WebFetch (JuridicoCerto)",
+        "nota": "Foto de perfil baixa resolucao 120x120"
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch",
+      "fetched_at": "2026-04-08T08:22:42.280916"
+    },
+    {
+      "category": "contact",
+      "label": "Email pessoal Instagram",
+      "value": "alinemetz@hotmail.com",
+      "detail": {
+        "tipo": "email_pessoal",
+        "fonte": "Instagram MCP"
+      },
+      "source_type": "briefing",
+      "source_name": "Instagram MCP",
+      "fetched_at": "2026-04-08T08:22:42.280916"
+    },
+    {
+      "category": "contact",
+      "label": "Telefone Instagram",
+      "value": "+5548991966040",
+      "detail": {
+        "tipo": "celular/whatsapp",
+        "fonte": "Instagram MCP"
+      },
+      "source_type": "briefing",
+      "source_name": "Instagram MCP",
+      "fetched_at": "2026-04-08T08:22:42.280916"
+    },
+    {
+      "category": "social",
+      "label": "Instagram - Dados completos MCP",
+      "value": "539 seguidores, 130 posts, conta pessoal publica",
+      "detail": {
+        "username": "alinemetzel.advogada",
+        "full_name": "Aline Metzelthin | Advogada Trabalhista",
+        "bio": "20 anos de experiencia em Direito do Trabalho. Orientacao estrategica judicial. Mapeamento e Gestao de riscos.",
+        "seguidores": 539,
+        "seguindo": 256,
+        "posts": 130,
+        "account_type": "Personal",
+        "is_business": false,
+        "is_verified": false,
+        "is_private": false,
+        "email": "alinemetz@hotmail.com",
+        "phone": "+5548991966040",
+        "external_url": "",
+        "newest_post": "2026-04-06",
+        "oldest_post_fetched": "2024-01-09"
+      },
+      "source_type": "briefing",
+      "source_name": "Instagram MCP",
+      "fetched_at": "2026-04-08T08:22:42.280916"
+    },
+    {
+      "category": "brand",
+      "label": "Padroes da marca",
+      "value": "Advocacia trabalhista, tom profissional e acessivel, foco em orientacao estrategica",
+      "detail": {
+        "cores": [
+          "azul",
+          "branco",
+          "dourado"
+        ],
+        "tom": "profissional com toque acessivel",
+        "publico_alvo": "Trabalhadores com questoes trabalhistas, empresas precisando de consultoria de riscos",
+        "estilo_visual": "Profissional, limpo, juridico classico",
+        "slogan": "Orientacao estrategica judicial. Mapeamento e Gestao de riscos.",
+        "marca": "Mafra & Metzelthin / Valle e Metzelthin Advogadas Associadas",
+        "diferencial": "20 anos de experiencia, nota 5.0 no JuridicoCerto, 2000+ casos resolvidos no escritorio"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-08T08:23:53.552315"
+    },
+    {
+      "category": "competitors",
+      "label": "Concorrentes com site",
+      "value": "4 encontrados",
+      "detail": [
+        "Heeck Peres Advocacia - https://heeck.adv.br/advogado-trabalhista/",
+        "Beirith Advogados Associados - https://www.beirithadvogados.com.br/",
+        "Alberto Brandao Advocacia - https://albertobrandao.com.br/",
+        "Santana Advocacia - https://santanaadvocacia.com.br/"
+      ],
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:23:53.552315"
+    }
+  ],
+  "phases": {
+    "phase_1": {
+      "status": "complete"
+    },
+    "phase_2": {
+      "status": "complete",
+      "result": "8 data_points, 6 URLs descobertas"
+    },
+    "phase_3": {
+      "status": "complete",
+      "result": "CNPJ nao encontrado, OAB confirmada indiretamente"
+    },
+    "phase_4": {
+      "status": "complete",
+      "result": "Sem site - marcado sem_site"
+    },
+    "phase_5": {
+      "status": "complete",
+      "result": "7 data_points: JuridicoCerto, JusBrasil, lista.adv.br, Google Maps, Instagram escritorio, telefone"
+    },
+    "phase_6": {
+      "status": "complete",
+      "result": "Facebook: 9 imagens (og:image + banner + 7 fotos posts). Instagram: dados completos via MCP (email, telefone, bio). JuridicoCerto: 1 foto perfil. Total: 10+ imagens"
+    },
+    "phase_7": {
+      "status": "complete",
+      "result": "Briefing salvo no vendedor.db"
+    }
+  },
+  "started_at": "2026-04-08T08:10:36.448250",
+  "completed_at": "2026-04-08T08:23:53.552315"
+}

@@ -1,0 +1,170 @@
+{
+  "nav": {
+    "home": "Home",
+    "sobre": "About",
+    "servicos": "Services",
+    "portfolio": "Portfolio",
+    "diferenciais": "Why Us",
+    "contato": "Contact",
+    "cta": "Get in touch"
+  },
+  "hero": {
+    "title": "Ana Clara",
+    "subtitle": "Architecture born from research.",
+    "description": "Architectural design, interiors, renovations and consulting in Conselheiro Lafaiete and the surrounding region.",
+    "cta": "Explore my work",
+    "scroll": "Scroll to explore"
+  },
+  "about": {
+    "label": "About",
+    "title": "The mind behind every project",
+    "description": "I am an architect and urban planner graduated from UFOP, with a master's degree and currently pursuing a doctorate at UFV. My master's thesis studied 48 years of urban transformation in Conselheiro Lafaiete, from 1970 to 2018. This research shaped my perspective: every project I design carries a deep understanding of the place where it will be built.",
+    "description2": "Since 2020, I also serve as a substitute professor at UFV's Architecture and Urbanism Department, which keeps me constantly updated and connected to the next generation of professionals.",
+    "imageAlt": "Work desk with architectural projects by Ana Clara",
+    "timeline": {
+      "2015": {
+        "title": "Architecture and Urbanism",
+        "institution": "UFOP",
+        "description": "Bachelor's degree from Universidade Federal de Ouro Preto"
+      },
+      "2019": {
+        "title": "Master's in Architecture",
+        "institution": "UFV",
+        "description": "Thesis on the intraurban space of Conselheiro Lafaiete (1970-2018)"
+      },
+      "2020": {
+        "title": "Teaching",
+        "institution": "UFV",
+        "description": "Substitute professor at the Architecture and Urbanism Department"
+      },
+      "2024": {
+        "title": "Private practice",
+        "institution": "MEI",
+        "description": "Opening of the office in Conselheiro Lafaiete"
+      },
+      "atual": {
+        "title": "Doctorate in progress",
+        "institution": "UFV",
+        "description": "Urban and Regional Planning"
+      }
+    },
+    "counter": {
+      "prefix": "Studied",
+      "value": "48",
+      "suffix": "years of urban transformation in Conselheiro Lafaiete",
+      "period": "1970 - 2018"
+    }
+  },
+  "services": {
+    "label": "Services",
+    "title": "What I can do for your project",
+    "cta": "What project do you have in mind?",
+    "items": {
+      "projetos": {
+        "name": "Architectural Design",
+        "description": "Residential and commercial projects designed from research and urban context analysis, with attention to functionality, aesthetics and sustainability."
+      },
+      "interiores": {
+        "name": "Interior Design",
+        "description": "Spaces planned with sensitivity and technical rigor, translating each client's personality into environments that welcome and inspire."
+      },
+      "reformas": {
+        "name": "Renovations",
+        "description": "Complete technical oversight of renovations, from conception to execution, ensuring quality and compliance with building codes."
+      },
+      "consultorias": {
+        "name": "Consulting",
+        "description": "Technical guidance for those who need professional direction on architecture, urbanism and building regulations."
+      }
+    }
+  },
+  "quote": {
+    "text": "Designing for a city you have studied for years is different. Every line carries the understanding of who this city was, and the vision of who it can become.",
+    "author": "Ana Clara de Souza Pereira",
+    "context": "On designing in Conselheiro Lafaiete"
+  },
+  "portfolio": {
+    "label": "Portfolio",
+    "title": "Projects that transform spaces",
+    "cta": "Like what you see? Let's create yours",
+    "categories": {
+      "all": "All",
+      "residencial": "Residential",
+      "interiores": "Interiors",
+      "comercial": "Commercial"
+    }
+  },
+  "differentials": {
+    "label": "Why Us",
+    "title": "Why choose Ana Clara Arquitetura",
+    "items": {
+      "pesquisa": {
+        "title": "Urban research on Conselheiro Lafaiete",
+        "description": "Studied 48 years of the city's urban transformation. Knows every neighborhood, every context, every possibility.",
+        "stat": "48",
+        "statLabel": "years of urban history studied"
+      },
+      "formacao": {
+        "title": "Academic excellence",
+        "description": "UFOP, master's and doctorate at UFV. One of the few architects in the region with active academic research.",
+        "stat": "3",
+        "statLabel": "degrees from federal universities"
+      },
+      "docencia": {
+        "title": "Teaching experience",
+        "description": "Substitute professor at UFV since 2020. Those who teach architecture master every detail of the craft.",
+        "stat": "4",
+        "statLabel": "years training new architects"
+      },
+      "dedicacao": {
+        "title": "Personalized attention",
+        "description": "Private practice with exclusive dedication to each project. No mass production — every client receives full attention.",
+        "stat": "100",
+        "statLabel": "% dedication to each project"
+      }
+    }
+  },
+  "credentials": {
+    "label": "Credentials",
+    "title": "Education and professional registrations",
+    "items": {
+      "ufop": "Bachelor's in Architecture and Urbanism — UFOP",
+      "ufv": "Master's + Doctorate in progress — UFV",
+      "cau": "Registered with the Architecture and Urbanism Council",
+      "docente": "Substitute Professor — DAU/UFV",
+      "mei": "Active MEI — CNPJ 57.243.413/0001-14"
+    }
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Ready to transform your space?",
+    "description": "Get in touch to discuss your project. The first conversation is about understanding your needs and dreams.",
+    "whatsapp_cta": "Chat on WhatsApp",
+    "phone": "+55 (31) 98819-4100",
+    "phone_raw": "5531988194100",
+    "instagram": "@anaclaraarquitetura",
+    "location": "Conselheiro Lafaiete, MG, Brazil",
+    "region": "Serving the entire Alto Paraopeba region"
+  },
+  "footer": {
+    "copyright": "2026 Ana Clara Arquitetura. All rights reserved.",
+    "social": "Social media",
+    "instagram": "Instagram",
+    "linkedin": "LinkedIn",
+    "whatsapp": "WhatsApp",
+    "developer": "Website by Pipeline Studio"
+  },
+  "whatsappFloat": {
+    "label": "Chat on WhatsApp",
+    "ariaLabel": "Open WhatsApp conversation"
+  },
+  "lang": {
+    "pt": "Portugues",
+    "en": "English"
+  },
+  "accessibility": {
+    "skipToContent": "Skip to content",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  }
+}

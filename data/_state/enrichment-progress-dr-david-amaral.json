@@ -1,0 +1,474 @@
+{
+  "current_phase": 7,
+  "lead_id": "dr-david-amaral",
+  "nome": "David Amaral",
+  "cidade": "Lagoa da Prata",
+  "nicho": "ortopedista",
+  "strategy": "medical",
+  "source": "instagram",
+  "discovered_urls": {
+    "site_url": "",
+    "instagram_username": "dr.davidamaral",
+    "facebook_url": "",
+    "google_maps_url": "",
+    "platform_urls": {
+      "doctoralia": "https://www.doctoralia.com.br/david-antonio-ferreira-amaral/ortopedista-traumatologista/lagoa-da-prata",
+      "boaconsulta": "https://www.boaconsulta.com/especialista/david-antonio-ferreira-amaral-6105a7a8ba32c31b820014b5",
+      "catalogomed": "https://www.catalogo.med.br/doutor/david-antonio-ferreira-amaral-2533665.htm"
+    }
+  },
+  "data_points": [
+    {
+      "category": "presence",
+      "label": "Instagram confirmado",
+      "value": "@dr.davidamaral",
+      "detail": {
+        "followers": 1321,
+        "posts": 69,
+        "bio": "Ortopedista e Traumatologista | CRM MG 68037 | Pos-graduacao em Dor | Infiltracoes guiadas por ultrassom",
+        "platform": "instagram"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:55:06.194006+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Site oficial",
+      "value": "Nao possui site",
+      "detail": {
+        "nota": "Nenhum site proprio identificado em buscas. Presenca apenas em plataformas de terceiros."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:55:06.194006+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Google Maps/Business",
+      "value": "Nao confirmado",
+      "detail": {
+        "nota": "Sem perfil GMB dedicado encontrado nas buscas"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:55:06.194006+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Facebook",
+      "value": "Nao encontrado",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:55:06.194006+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "LinkedIn",
+      "value": "Nao encontrado",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:55:06.194006+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Doctoralia",
+      "value": "https://www.doctoralia.com.br/david-antonio-ferreira-amaral/ortopedista-traumatologista/lagoa-da-prata",
+      "detail": {
+        "plataforma": "Doctoralia",
+        "id_medico": 734568,
+        "avaliacoes": "Nenhuma avaliacao registrada",
+        "nota": "Perfil existente mas sem opinioes de pacientes"
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch (Doctoralia)",
+      "fetched_at": "2026-04-08T00:55:06.194006+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "BoaConsulta",
+      "value": "https://www.boaconsulta.com/especialista/david-antonio-ferreira-amaral-6105a7a8ba32c31b820014b5",
+      "detail": {
+        "plataforma": "BoaConsulta",
+        "cidades_atendimento": [
+          "Lagoa da Prata",
+          "Piumhi",
+          "Bambui"
+        ],
+        "nota": "Perfil existente com multiplas localidades"
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch (BoaConsulta)",
+      "fetched_at": "2026-04-08T00:55:06.194006+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "CatalogoMed",
+      "value": "https://www.catalogo.med.br/doutor/david-antonio-ferreira-amaral-2533665.htm",
+      "detail": {
+        "plataforma": "CatalogoMed",
+        "nota": "Dados mais completos (telefones, enderecos, CRM/RQE confirmados)"
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch (CatalogoMed)",
+      "fetched_at": "2026-04-08T00:55:06.194006+00:00"
+    },
+    {
+      "category": "identity",
+      "label": "Nome completo",
+      "value": "David Antonio Ferreira Amaral",
+      "detail": {
+        "nome_fantasia": "Dr. David Amaral"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:55:06.194006+00:00"
+    },
+    {
+      "category": "identity",
+      "label": "CRM e RQE",
+      "value": "CRM 68037/MG | RQE 44243",
+      "detail": {
+        "crm": "68037",
+        "estado": "MG",
+        "rqe": "44243",
+        "especialidade_registrada": "Ortopedia e Traumatologia"
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch (CatalogoMed)",
+      "fetched_at": "2026-04-08T00:55:06.194006+00:00"
+    },
+    {
+      "category": "identity",
+      "label": "Enderecos de atendimento",
+      "value": "2 locais: Lagoa da Prata e Arcos",
+      "detail": {
+        "local_1": {
+          "nome": "Centro Medico",
+          "endereco": "Rua Cirilo Maciel, 85, Centro",
+          "cidade": "Lagoa da Prata/MG",
+          "cep": "35590-000",
+          "telefone": "(37) 3262-2761",
+          "convenio": "PARTICULAR"
+        },
+        "local_2": {
+          "nome": "Cemear",
+          "endereco": "Rua Arcos, S/N, Centro",
+          "cidade": "Arcos/MG",
+          "cep": "35588-000",
+          "telefone": "(37) 3521-2737",
+          "convenio": "PARTICULAR"
+        }
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch (CatalogoMed)",
+      "fetched_at": "2026-04-08T00:55:06.194006+00:00"
+    },
+    {
+      "category": "identity",
+      "label": "Servicos oferecidos",
+      "value": "7 servicos listados",
+      "detail": {
+        "servicos": [
+          "Consulta ortopedia e traumatologia",
+          "Analise da densidade ossea / osteoporose",
+          "Artrocentese do joelho",
+          "Densitometria",
+          "Viscossuplementacao",
+          "Infiltracao de substancias em cavidade sinovial",
+          "Cirurgia para fraturas do tornozelo"
+        ],
+        "diferencial": "Infiltracoes guiadas por ultrassom",
+        "pos_graduacao": "Dor"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch + WebFetch",
+      "fetched_at": "2026-04-08T00:55:06.194006+00:00"
+    },
+    {
+      "category": "reviews",
+      "label": "Avaliacoes publicas",
+      "value": "Nenhuma avaliacao encontrada",
+      "detail": {
+        "doctoralia": "Sem opinioes",
+        "google": "Sem avaliacoes",
+        "nota": "Lead sem nenhuma avaliacao publica em nenhuma plataforma"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:55:06.194006+00:00"
+    },
+    {
+      "category": "history",
+      "label": "Historia profissional",
+      "value": "Informacao limitada",
+      "detail": {
+        "nota": "Nenhum artigo, noticia ou pagina sobre encontrada. Medico jovem, pos-graduado em Dor, especialista em infiltracoes guiadas por US."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:55:06.194006+00:00"
+    },
+    {
+      "category": "identity",
+      "label": "CNPJ",
+      "value": "Nao encontrado",
+      "detail": {
+        "nota": "Buscas em Google, casadosdados, cnpj.biz e cnpja.com nao retornaram CNPJ para David Antonio Ferreira Amaral. Pode atuar como pessoa fisica ou ter CNPJ nao indexado."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:56:21.557834+00:00"
+    },
+    {
+      "category": "professional_registry",
+      "label": "CRM confirmado",
+      "value": "CRM 68037/MG - Ativo",
+      "detail": {
+        "conselho": "CRM - Conselho Regional de Medicina",
+        "numero": "68037",
+        "estado": "MG",
+        "rqe": "44243",
+        "especialidade": "Ortopedia e Traumatologia",
+        "situacao": "Ativo (confirmado em Doctoralia, CatalogoMed, BoaConsulta e Instagram)",
+        "pos_graduacao": "Dor",
+        "diferencial": "Infiltracoes guiadas por ultrassom"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (multiplas fontes)",
+      "fetched_at": "2026-04-08T00:56:21.557834+00:00"
+    },
+    {
+      "category": "website",
+      "label": "Website",
+      "value": "Nao possui site",
+      "detail": {
+        "status": "sem_site"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-08T00:56:50.002180+00:00"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Doctoralia",
+      "value": "Perfil ativo - sem avaliacoes",
+      "detail": {
+        "plataforma": "doctoralia.com.br",
+        "url": "https://www.doctoralia.com.br/david-antonio-ferreira-amaral/ortopedista-traumatologista/lagoa-da-prata",
+        "id_medico": 734568,
+        "avaliacoes": 0,
+        "nota": "Sem opinioes de pacientes",
+        "consulta_online": false,
+        "tipo": "PARTICULAR"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch + WebFetch",
+      "fetched_at": "2026-04-08T00:57:59.211619+00:00"
+    },
+    {
+      "category": "sales_channels",
+      "label": "BoaConsulta",
+      "value": "Perfil ativo - 3 cidades",
+      "detail": {
+        "plataforma": "boaconsulta.com",
+        "url": "https://www.boaconsulta.com/especialista/david-antonio-ferreira-amaral-6105a7a8ba32c31b820014b5",
+        "cidades": [
+          "Lagoa da Prata",
+          "Piumhi",
+          "Bambui"
+        ],
+        "avaliacoes": 0,
+        "tipo": "PARTICULAR"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch + WebFetch",
+      "fetched_at": "2026-04-08T00:57:59.211619+00:00"
+    },
+    {
+      "category": "sales_channels",
+      "label": "CatalogoMed",
+      "value": "Perfil completo - dados confirmados",
+      "detail": {
+        "plataforma": "catalogo.med.br",
+        "url": "https://www.catalogo.med.br/doutor/david-antonio-ferreira-amaral-2533665.htm",
+        "telefone_lagoa": "(37) 3262-2761",
+        "telefone_arcos": "(37) 3521-2737",
+        "instagram": "@dr.davidamaral"
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch (CatalogoMed)",
+      "fetched_at": "2026-04-08T00:57:59.211619+00:00"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Reclame Aqui",
+      "value": "Nao encontrado",
+      "detail": {
+        "plataforma": "reclameaqui.com.br",
+        "nota": "Sem reclamacoes registradas"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:57:59.211619+00:00"
+    },
+    {
+      "category": "sales_channels",
+      "label": "YouTube",
+      "value": "Nao encontrado",
+      "detail": {
+        "plataforma": "youtube.com"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:57:59.211619+00:00"
+    },
+    {
+      "category": "sales_channels",
+      "label": "TikTok",
+      "value": "Nao encontrado",
+      "detail": {
+        "plataforma": "tiktok.com"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:57:59.211619+00:00"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Resumo canais",
+      "value": "3 plataformas medicas ativas (Doctoralia, BoaConsulta, CatalogoMed) + Instagram",
+      "detail": {
+        "plataformas_pesquisadas": [
+          "Doctoralia",
+          "BoaConsulta",
+          "CatalogoMed",
+          "Reclame Aqui",
+          "YouTube",
+          "TikTok",
+          "Facebook",
+          "LinkedIn"
+        ],
+        "plataformas_encontradas": 3,
+        "nota": "Presenca em diretórios medicos mas sem avaliacoes em nenhum. Instagram como principal canal de comunicacao. Sem presenca em redes sociais alem do Instagram."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:57:59.211619+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Foto de perfil Instagram (@dr.davidamaral)",
+      "value": "Pendente - Playwright indisponivel",
+      "detail": {
+        "tipo": "profile_pic",
+        "fonte": "Instagram perfil",
+        "conta": "@dr.davidamaral",
+        "nota": "Playwright MCP com browser fechado. Instagram MCP requer login. Foto de perfil nao extraida nesta sessao.",
+        "instagram_url": "https://www.instagram.com/dr.davidamaral/",
+        "followers": 1321,
+        "posts": 69
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:59:52.413406+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Perfil Doctoralia",
+      "value": "https://www.doctoralia.com.br/david-antonio-ferreira-amaral/ortopedista-traumatologista/lagoa-da-prata",
+      "detail": {
+        "tipo": "profile_pic",
+        "fonte": "Doctoralia (JS-rendered, nao extraivel via WebFetch)",
+        "nota": "Foto profissional disponivel na plataforma mas requer JS rendering"
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch (Doctoralia)",
+      "fetched_at": "2026-04-08T00:59:52.413406+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Coordenadas do consultorio",
+      "value": "Lat: -20.0223789, Lng: -45.545536",
+      "detail": {
+        "tipo": "mapa",
+        "fonte": "Schema.org (melhores.com)",
+        "endereco": "Rua Cirilo Maciel, 85, Centro, Lagoa da Prata/MG",
+        "nota": "Coordenadas podem ser usadas para gerar mapa estatico do Google Maps"
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch (melhores.com)",
+      "fetched_at": "2026-04-08T00:59:52.413406+00:00"
+    },
+    {
+      "category": "brand",
+      "label": "Padroes da marca",
+      "value": "Medico jovem, comunicacao tecnica-profissional, foco em procedimentos minimamente invasivos",
+      "detail": {
+        "cores": [
+          "azul",
+          "branco",
+          "cinza"
+        ],
+        "tom": "tecnico-profissional",
+        "publico_alvo": "Adultos com dores articulares e problemas ortopedicos, regiao centro-oeste de MG",
+        "estilo_visual": "Profissional medico, sem identidade visual definida",
+        "slogan": "Nao identificado",
+        "diferencial": "Infiltracoes guiadas por ultrassom + Pos-graduacao em Dor"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-08T01:01:00.535907+00:00"
+    },
+    {
+      "category": "competitors",
+      "label": "Concorrentes com site",
+      "value": "0 concorrentes diretos com site proprio em Lagoa da Prata",
+      "detail": {
+        "concorrentes_mesma_cidade": [
+          "Luciano dos Santos Carvalho - Sem site (CatalogoMed/Doctoralia)",
+          "Carlos Leonardo Malta Braga - Sem site (CatalogoMed/Doctoralia)",
+          "Jonas Garcia Almeida - Sem site (CatalogoMed/Doctoralia)",
+          "Fernando Antonio Vasconcelos Caricati - Sem site (clinica.work)"
+        ],
+        "nota": "Nenhum ortopedista em Lagoa da Prata possui site proprio. Todos dependem de diretorios medicos. Mercado aberto."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T01:01:00.535907+00:00"
+    }
+  ],
+  "phases": {
+    "phase_1": {
+      "status": "complete"
+    },
+    "phase_2": {
+      "status": "complete",
+      "result": "3 URLs de plataformas descobertas (Doctoralia, BoaConsulta, CatalogoMed), 14 data_points"
+    },
+    "phase_3": {
+      "status": "complete",
+      "result": "CNPJ nao encontrado. CRM 68037/MG + RQE 44243 confirmados em multiplas fontes. 16 data_points total."
+    },
+    "phase_4": {
+      "status": "complete",
+      "result": "Lead sem site - ausencia registrada. Nenhuma analise de website necessaria."
+    },
+    "phase_5": {
+      "status": "complete",
+      "result": "8 plataformas pesquisadas. 3 encontradas (Doctoralia, BoaConsulta, CatalogoMed). 0 avaliacoes em todas. 7 data_points adicionados."
+    },
+    "phase_6": {
+      "status": "complete",
+      "result": "Playwright MCP indisponivel (browser fechado). Instagram MCP requer login. 3 data_points de imagem registrados (pendentes de captura real). WebSearch/WebFetch executados. Total imagens limitado - recomenda-se re-executar fase 6 com Playwright ativo."
+    },
+    "phase_7": {
+      "status": "complete",
+      "result": "Briefing compilado e salvo no vendedor.db. Sales score: 9/10. 29 data_points, 3 imagens (pendentes)."
+    }
+  },
+  "started_at": "2026-04-07T21:52:44.105527",
+  "completed_at": "2026-04-07T22:01:00.539097"
+}

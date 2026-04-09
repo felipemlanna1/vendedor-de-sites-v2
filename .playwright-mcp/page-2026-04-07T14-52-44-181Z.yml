@@ -1,0 +1,67 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e5]:
+    - link "Monograph" [ref=e6] [cursor=pointer]:
+      - /url: /
+      - generic [ref=e7]: Monograph
+    - img [ref=e9] [cursor=pointer]
+  - generic [ref=e12]:
+    - heading "Plain language," [level=1] [ref=e13]: Plain language,
+    - heading "Extraordinary results" [level=1] [ref=e14]: Extraordinary results
+  - generic [ref=e17]:
+    - heading "We specialize in creative, clear, and cohesive communications solutions that build memorable experiences." [level=3] [ref=e20]
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - heading "Monograph Communications was built on the belief that simple can be extraordinary." [level=2] [ref=e25]
+        - link "About Us" [ref=e27] [cursor=pointer]:
+          - /url: /about
+      - generic [ref=e28]:
+        - heading "Editing" [level=2] [ref=e29]
+        - heading "Give your eyes a break." [level=3] [ref=e30]
+        - generic [ref=e32]: Service
+        - link "Learn More" [ref=e34] [cursor=pointer]:
+          - /url: /services
+      - generic [ref=e36]:
+        - generic [ref=e37]: “Running multiple clinics from different locations can make it hard to develop a unified message to the public. Monograph Communications worked with us to narrow our focus and create clear and concise messaging. I would highly recommend Monograph as an extremely knowledgeable resource for new or established companies.”
+        - generic [ref=e38]:
+          - generic [ref=e39]: — Michael McDine, Owner
+          - generic [ref=e40]: Saskatoon Orthopedic and Sports Medicine Center
+      - generic [ref=e41]:
+        - generic [ref=e42]:
+          - heading "Copywriting" [level=2] [ref=e43]: Copywriting
+          - heading "Want words, but don’t want to write them? Let’s chat." [level=3] [ref=e44]
+        - generic [ref=e46]: Service
+        - link "Learn More" [ref=e48] [cursor=pointer]:
+          - /url: /services
+      - generic [ref=e50]:
+        - generic [ref=e52]: Service
+        - generic [ref=e53]:
+          - heading "Brand Support" [level=2] [ref=e54]: Brand Support
+          - heading "We love the details that make brands happen." [level=3] [ref=e55]
+        - link "Learn More" [ref=e57] [cursor=pointer]:
+          - /url: /services
+      - generic [ref=e58]:
+        - generic [ref=e59]: Differentiating yourself from the crowd can be difficult when offering a product line that is new to your market. Monograph provided us with the language and tone needed to set us apart from the competition. Clear language and concise messaging gave us the voice we needed to stand out on our own. I would happily recommend Monograph to any business looking to communicate their brand in a new, unique and effective way.
+        - generic [ref=e60]:
+          - generic [ref=e61]: — James Rayner
+          - link "Area Home + Lifestyle" [ref=e63] [cursor=pointer]:
+            - /url: https://arealifestyle.ca
+  - generic [ref=e65]:
+    - link [ref=e67] [cursor=pointer]:
+      - /url: /
+    - generic [ref=e70]:
+      - generic [ref=e71]:
+        - generic [ref=e72]:
+          - generic [ref=e73]: ©Monograph Communications
+          - generic [ref=e74]: "2026"
+        - link "Designed in Vancouver by Gary Colwell" [ref=e75] [cursor=pointer]:
+          - /url: https://www.garycolwell.net
+          - generic [ref=e76]: Designed in Vancouver by Gary Colwell
+      - generic [ref=e77]:
+        - link "Home" [ref=e79] [cursor=pointer]:
+          - /url: /
+        - link "About" [ref=e81] [cursor=pointer]:
+          - /url: /about
+        - link "Services" [ref=e83] [cursor=pointer]:
+          - /url: /services
+        - link "Contact" [ref=e85] [cursor=pointer]:
+          - /url: /contact

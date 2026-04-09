@@ -1,0 +1,516 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e86] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e91]
+        - link "Foto do perfil de _pipelinestudio" [ref=e97] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e102]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e103]
+      - generic [ref=e104]:
+        - link "Configurações" [ref=e107] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e112]
+        - link "Também da Meta" [ref=e115] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e120]
+    - generic [ref=e123]:
+      - main [ref=e124]:
+        - generic [ref=e206]:
+          - generic [ref=e208]:
+            - button [ref=e213]:
+              - generic [ref=e220]:
+                - list [ref=e222]:
+                  - listitem [ref=e223]
+                  - listitem [ref=e224]:
+                    - img [ref=e231]
+                  - listitem [ref=e233]:
+                    - img [ref=e240]
+                - button [ref=e242] [cursor=pointer]
+            - generic [ref=e245]:
+              - generic [ref=e247]:
+                - button "Foto do perfil de dramarcelabraz" [disabled] [ref=e252]:
+                  - link "Foto do perfil de dramarcelabraz" [disabled] [ref=e254] [cursor=pointer]:
+                    - img "Foto do perfil de dramarcelabraz" [ref=e255]
+                - generic [ref=e258]:
+                  - link "dramarcelabraz" [ref=e267] [cursor=pointer]:
+                    - /url: /dramarcelabraz/
+                    - generic [ref=e270]: dramarcelabraz
+                  - button "Seguir" [ref=e272] [cursor=pointer]
+                - button "Mais opções" [ref=e275] [cursor=pointer]:
+                  - img "Mais opções" [ref=e278]
+              - separator [ref=e282]
+              - generic [ref=e284]:
+                - generic [ref=e286]:
+                  - link "Foto do perfil de dramarcelabraz" [ref=e291] [cursor=pointer]:
+                    - /url: /dramarcelabraz/
+                    - img "Foto do perfil de dramarcelabraz" [ref=e292]
+                  - generic [ref=e296]:
+                    - generic [ref=e297]:
+                      - link "dramarcelabraz" [ref=e301] [cursor=pointer]:
+                        - /url: /dramarcelabraz/
+                        - generic [ref=e304]: dramarcelabraz
+                      - time [ref=e306]: 75 sem
+                    - generic [ref=e307]:
+                      - text: 25/10 - Dia do Dentista!
+                      - text: "É impossível olhar para trás sem lembrar da ansiedade, das madrugadas estudando, dos primeiros atendimentos e de como foi a experiência de sentir pela primeira vez, a melhor sensação do mudo: a de aliviar a dor de alguém!"
+                      - text: Ser dentista é uma das minhas versões, as vezes leve, as vezes árdua. Nem sempre fácil mas extremamente gratificante! 🙏
+                      - text: Obrigada a todos que fizeram parte dessa jornada, e a você, que continua escrevendo essa história comigo!♥️
+                      - text: Feliz Dia do Dentista a todos os colegas que compartilham essa missão!✨
+                - generic [ref=e308]:
+                  - generic [ref=e309]:
+                    - generic [ref=e311]:
+                      - link "Foto do perfil de mellinavet" [ref=e317] [cursor=pointer]:
+                        - /url: /mellinavet/
+                        - img "Foto do perfil de mellinavet" [ref=e318]
+                      - generic [ref=e319]:
+                        - generic [ref=e320]:
+                          - generic [ref=e322]:
+                            - generic [ref=e323]:
+                              - link "mellinavet" [ref=e328] [cursor=pointer]:
+                                - /url: /mellinavet/
+                                - generic [ref=e331]: mellinavet
+                              - link "75 sem" [ref=e333] [cursor=pointer]:
+                                - /url: /p/DBkEI4_vsKo/c/18046584104049934/
+                                - time [ref=e334]: 75 sem
+                            - generic [ref=e336]: Parabéns Dra ... sucesso e prosperidade...que vc continue essa profissional que nos encanta ❤️
+                          - generic [ref=e337]:
+                            - button "1 curtida" [ref=e338] [cursor=pointer]:
+                              - generic [ref=e340]: 1 curtida
+                            - button "Responder" [ref=e341] [cursor=pointer]:
+                              - generic [ref=e343]: Responder
+                        - button "Curtir" [ref=e348] [cursor=pointer]:
+                          - img "Curtir" [ref=e351]
+                    - button "Ver todas as 1 respostas" [ref=e354] [cursor=pointer]:
+                      - generic [ref=e357]: Ver todas as 1 respostas
+                  - generic [ref=e360]:
+                    - link "Foto do perfil de biancacordeirosou" [ref=e366] [cursor=pointer]:
+                      - /url: /biancacordeirosou/
+                      - img "Foto do perfil de biancacordeirosou" [ref=e367]
+                    - generic [ref=e368]:
+                      - generic [ref=e369]:
+                        - generic [ref=e371]:
+                          - generic [ref=e372]:
+                            - link "biancacordeirosou" [ref=e377] [cursor=pointer]:
+                              - /url: /biancacordeirosou/
+                              - generic [ref=e380]: biancacordeirosou
+                            - link "75 sem" [ref=e382] [cursor=pointer]:
+                              - /url: /p/DBkEI4_vsKo/c/17909311797019983/
+                              - time [ref=e383]: 75 sem
+                          - generic [ref=e385]: A segunda foto me deu saudade tbm! 🤍
+                        - button "Responder" [ref=e387] [cursor=pointer]:
+                          - generic [ref=e389]: Responder
+                      - button "Curtir" [ref=e394] [cursor=pointer]:
+                        - img "Curtir" [ref=e397]
+                  - generic [ref=e399]:
+                    - generic [ref=e401]:
+                      - link "Foto do perfil de isabellafelima" [ref=e407] [cursor=pointer]:
+                        - /url: /isabellafelima/
+                        - img "Foto do perfil de isabellafelima" [ref=e408]
+                      - generic [ref=e409]:
+                        - generic [ref=e410]:
+                          - generic [ref=e412]:
+                            - generic [ref=e413]:
+                              - link "isabellafelima" [ref=e418] [cursor=pointer]:
+                                - /url: /isabellafelima/
+                                - generic [ref=e421]: isabellafelima
+                              - link "75 sem" [ref=e423] [cursor=pointer]:
+                                - /url: /p/DBkEI4_vsKo/c/18066395221638790/
+                                - time [ref=e424]: 75 sem
+                            - generic [ref=e426]: Parabéns Dr. Marcela! Obrigada por carinho e cuidado com as crianças
+                          - generic [ref=e427]:
+                            - button "1 curtida" [ref=e428] [cursor=pointer]:
+                              - generic [ref=e430]: 1 curtida
+                            - button "Responder" [ref=e431] [cursor=pointer]:
+                              - generic [ref=e433]: Responder
+                        - button "Curtir" [ref=e438] [cursor=pointer]:
+                          - img "Curtir" [ref=e441]
+                    - button "Ver todas as 1 respostas" [ref=e444] [cursor=pointer]:
+                      - generic [ref=e447]: Ver todas as 1 respostas
+                  - generic [ref=e450]:
+                    - link "Foto do perfil de dra.lidianerachid" [ref=e456] [cursor=pointer]:
+                      - /url: /dra.lidianerachid/
+                      - img "Foto do perfil de dra.lidianerachid" [ref=e457]
+                    - generic [ref=e458]:
+                      - generic [ref=e459]:
+                        - generic [ref=e461]:
+                          - generic [ref=e462]:
+                            - link "dra.lidianerachid" [ref=e467] [cursor=pointer]:
+                              - /url: /dra.lidianerachid/
+                              - generic [ref=e470]: dra.lidianerachid
+                            - link "75 sem" [ref=e472] [cursor=pointer]:
+                              - /url: /p/DBkEI4_vsKo/c/18471837769043714/
+                              - time [ref=e473]: 75 sem
+                          - generic [ref=e475]: Maravilhosaaa
+                        - button "Responder" [ref=e477] [cursor=pointer]:
+                          - generic [ref=e479]: Responder
+                      - button "Curtir" [ref=e484] [cursor=pointer]:
+                        - img "Curtir" [ref=e487]
+                  - generic [ref=e489]:
+                    - generic [ref=e491]:
+                      - link "Foto do perfil de camilacbraz" [ref=e497] [cursor=pointer]:
+                        - /url: /camilacbraz/
+                        - img "Foto do perfil de camilacbraz" [ref=e498]
+                      - generic [ref=e499]:
+                        - generic [ref=e500]:
+                          - generic [ref=e502]:
+                            - generic [ref=e503]:
+                              - link "camilacbraz" [ref=e508] [cursor=pointer]:
+                                - /url: /camilacbraz/
+                                - generic [ref=e511]: camilacbraz
+                              - link "75 sem" [ref=e513] [cursor=pointer]:
+                                - /url: /p/DBkEI4_vsKo/c/18074465608589828/
+                                - time [ref=e514]: 75 sem
+                            - generic [ref=e516]: Ceh, vc é a melhor! Tem um verdadeiro dom!!! 🙌👏❤️
+                          - generic [ref=e517]:
+                            - button "1 curtida" [ref=e518] [cursor=pointer]:
+                              - generic [ref=e520]: 1 curtida
+                            - button "Responder" [ref=e521] [cursor=pointer]:
+                              - generic [ref=e523]: Responder
+                        - button "Curtir" [ref=e528] [cursor=pointer]:
+                          - img "Curtir" [ref=e531]
+                    - button "Ver todas as 1 respostas" [ref=e534] [cursor=pointer]:
+                      - generic [ref=e537]: Ver todas as 1 respostas
+                  - generic [ref=e538]:
+                    - generic [ref=e540]:
+                      - link "Foto do perfil de rosane_dias63" [ref=e546] [cursor=pointer]:
+                        - /url: /rosane_dias63/
+                        - img "Foto do perfil de rosane_dias63" [ref=e547]
+                      - generic [ref=e548]:
+                        - generic [ref=e549]:
+                          - generic [ref=e551]:
+                            - generic [ref=e552]:
+                              - link "rosane_dias63" [ref=e557] [cursor=pointer]:
+                                - /url: /rosane_dias63/
+                                - generic [ref=e560]: rosane_dias63
+                              - link "75 sem" [ref=e562] [cursor=pointer]:
+                                - /url: /p/DBkEI4_vsKo/c/18028729730140328/
+                                - time [ref=e563]: 75 sem
+                            - generic [ref=e565]: Parabéns gatinha, vc é uma super profissional!
+                          - button "Responder" [ref=e567] [cursor=pointer]:
+                            - generic [ref=e569]: Responder
+                        - button "Curtir" [ref=e574] [cursor=pointer]:
+                          - img "Curtir" [ref=e577]
+                    - button "Ver todas as 1 respostas" [ref=e580] [cursor=pointer]:
+                      - generic [ref=e583]: Ver todas as 1 respostas
+                  - generic [ref=e584]:
+                    - generic [ref=e586]:
+                      - link "Foto do perfil de gil_33.2" [ref=e592] [cursor=pointer]:
+                        - /url: /gil_33.2/
+                        - img "Foto do perfil de gil_33.2" [ref=e593]
+                      - generic [ref=e594]:
+                        - generic [ref=e595]:
+                          - generic [ref=e597]:
+                            - generic [ref=e598]:
+                              - link "gil_33.2" [ref=e603] [cursor=pointer]:
+                                - /url: /gil_33.2/
+                                - generic [ref=e606]: gil_33.2
+                              - link "75 sem" [ref=e608] [cursor=pointer]:
+                                - /url: /p/DBkEI4_vsKo/c/17859401463270814/
+                                - time [ref=e609]: 75 sem
+                            - generic [ref=e611]: Parabéns Dra Marcela ❤️lindaaaa❤️
+                          - generic [ref=e612]:
+                            - button "1 curtida" [ref=e613] [cursor=pointer]:
+                              - generic [ref=e615]: 1 curtida
+                            - button "Responder" [ref=e616] [cursor=pointer]:
+                              - generic [ref=e618]: Responder
+                        - button "Curtir" [ref=e623] [cursor=pointer]:
+                          - img "Curtir" [ref=e626]
+                    - button "Ver todas as 1 respostas" [ref=e629] [cursor=pointer]:
+                      - generic [ref=e632]: Ver todas as 1 respostas
+                  - generic [ref=e633]:
+                    - generic [ref=e635]:
+                      - link "Foto do perfil de jctatagiba" [ref=e641] [cursor=pointer]:
+                        - /url: /jctatagiba/
+                        - img "Foto do perfil de jctatagiba" [ref=e642]
+                      - generic [ref=e643]:
+                        - generic [ref=e644]:
+                          - generic [ref=e646]:
+                            - generic [ref=e647]:
+                              - link "jctatagiba" [ref=e652] [cursor=pointer]:
+                                - /url: /jctatagiba/
+                                - generic [ref=e655]: jctatagiba
+                              - link "75 sem" [ref=e657] [cursor=pointer]:
+                                - /url: /p/DBkEI4_vsKo/c/18271505428218521/
+                                - time [ref=e658]: 75 sem
+                            - generic [ref=e660]: Feliz Dia amor, dia 25 sempre é bem vindo em nossas vidas.
+                          - generic [ref=e661]:
+                            - button "1 curtida" [ref=e662] [cursor=pointer]:
+                              - generic [ref=e664]: 1 curtida
+                            - button "Responder" [ref=e665] [cursor=pointer]:
+                              - generic [ref=e667]: Responder
+                        - button "Curtir" [ref=e672] [cursor=pointer]:
+                          - img "Curtir" [ref=e675]
+                    - button "Ver todas as 1 respostas" [ref=e678] [cursor=pointer]:
+                      - generic [ref=e681]: Ver todas as 1 respostas
+                  - generic [ref=e682]:
+                    - generic [ref=e684]:
+                      - link "Foto do perfil de dra.dairasaraiva" [ref=e690] [cursor=pointer]:
+                        - /url: /dra.dairasaraiva/
+                        - img "Foto do perfil de dra.dairasaraiva" [ref=e691]
+                      - generic [ref=e692]:
+                        - generic [ref=e693]:
+                          - generic [ref=e695]:
+                            - generic [ref=e696]:
+                              - link "dra.dairasaraiva" [ref=e701] [cursor=pointer]:
+                                - /url: /dra.dairasaraiva/
+                                - generic [ref=e704]: dra.dairasaraiva
+                              - link "75 sem" [ref=e706] [cursor=pointer]:
+                                - /url: /p/DBkEI4_vsKo/c/17853058242261354/
+                                - time [ref=e707]: 75 sem
+                            - generic [ref=e709]: Feliz dia Marcelinha! Sucesso sempre ❤️
+                          - generic [ref=e710]:
+                            - button "1 curtida" [ref=e711] [cursor=pointer]:
+                              - generic [ref=e713]: 1 curtida
+                            - button "Responder" [ref=e714] [cursor=pointer]:
+                              - generic [ref=e716]: Responder
+                        - button "Curtir" [ref=e721] [cursor=pointer]:
+                          - img "Curtir" [ref=e724]
+                    - button "Ver todas as 1 respostas" [ref=e727] [cursor=pointer]:
+                      - generic [ref=e730]: Ver todas as 1 respostas
+                  - generic [ref=e731]:
+                    - generic [ref=e733]:
+                      - link "Foto do perfil de gleiciene_floriano" [ref=e739] [cursor=pointer]:
+                        - /url: /gleiciene_floriano/
+                        - img "Foto do perfil de gleiciene_floriano" [ref=e740]
+                      - generic [ref=e741]:
+                        - generic [ref=e742]:
+                          - generic [ref=e744]:
+                            - generic [ref=e745]:
+                              - link "gleiciene_floriano" [ref=e750] [cursor=pointer]:
+                                - /url: /gleiciene_floriano/
+                                - generic [ref=e753]: gleiciene_floriano
+                              - link "75 sem" [ref=e755] [cursor=pointer]:
+                                - /url: /p/DBkEI4_vsKo/c/18140428285317475/
+                                - time [ref=e756]: 75 sem
+                            - generic [ref=e758]: Parabéns gata que Deus abençoe sempre a sua vida profissional
+                          - generic [ref=e759]:
+                            - button "1 curtida" [ref=e760] [cursor=pointer]:
+                              - generic [ref=e762]: 1 curtida
+                            - button "Responder" [ref=e763] [cursor=pointer]:
+                              - generic [ref=e765]: Responder
+                        - button "Curtir" [ref=e770] [cursor=pointer]:
+                          - img "Curtir" [ref=e773]
+                    - button "Ver todas as 1 respostas" [ref=e776] [cursor=pointer]:
+                      - generic [ref=e779]: Ver todas as 1 respostas
+                  - generic [ref=e780]:
+                    - generic [ref=e782]:
+                      - link "Foto do perfil de caio_sdm" [ref=e788] [cursor=pointer]:
+                        - /url: /caio_sdm/
+                        - img "Foto do perfil de caio_sdm" [ref=e789]
+                      - generic [ref=e790]:
+                        - generic [ref=e791]:
+                          - generic [ref=e793]:
+                            - generic [ref=e794]:
+                              - link "caio_sdm" [ref=e799] [cursor=pointer]:
+                                - /url: /caio_sdm/
+                                - generic [ref=e802]: caio_sdm
+                              - link "75 sem" [ref=e804] [cursor=pointer]:
+                                - /url: /p/DBkEI4_vsKo/c/18062307541706032/
+                                - time [ref=e805]: 75 sem
+                            - generic [ref=e807]: 👏👏👏👏👏
+                          - generic [ref=e808]:
+                            - button "1 curtida" [ref=e809] [cursor=pointer]:
+                              - generic [ref=e811]: 1 curtida
+                            - button "Responder" [ref=e812] [cursor=pointer]:
+                              - generic [ref=e814]: Responder
+                        - button "Curtir" [ref=e819] [cursor=pointer]:
+                          - img "Curtir" [ref=e822]
+                    - button "Ver todas as 1 respostas" [ref=e825] [cursor=pointer]:
+                      - generic [ref=e828]: Ver todas as 1 respostas
+                  - progressbar [ref=e831]:
+                    - img "Carregando..." [ref=e832]
+              - generic [ref=e845]:
+                - generic [ref=e846]:
+                  - generic [ref=e847]:
+                    - button "Curtir" [ref=e850] [cursor=pointer]:
+                      - img "Curtir" [ref=e853]
+                    - button "Comentar" [ref=e856] [cursor=pointer]:
+                      - img "Comentar" [ref=e858]
+                    - button "20" [ref=e860] [cursor=pointer]
+                    - button "Compartilhar" [ref=e861] [cursor=pointer]:
+                      - img "Compartilhar" [ref=e862]
+                  - button "Salvar" [ref=e867] [cursor=pointer]:
+                    - button "Salvar" [ref=e868]:
+                      - img "Salvar" [ref=e870]
+                - link "25 de outubro de 2024" [ref=e874] [cursor=pointer]:
+                  - /url: /dramarcelabraz/p/DBkEI4_vsKo/
+                  - time [ref=e876]: 25 de outubro de 2024
+              - generic [ref=e879]:
+                - link [ref=e880]
+                - generic [ref=e882]:
+                  - button "Emoji" [ref=e884] [cursor=pointer]:
+                    - img "Emoji" [ref=e886]
+                  - textbox "Adicione um comentário..." [ref=e888]
+          - separator [ref=e890]
+          - generic [ref=e891]:
+            - generic [ref=e893]:
+              - text: Mais posts de
+              - link "dramarcelabraz" [ref=e894] [cursor=pointer]:
+                - /url: /dramarcelabraz/
+            - generic [ref=e897]:
+              - generic [ref=e898]:
+                - link "Photo shared by Marcela Braz | Dentista em Caxambu on December 06, 2024 tagging @anaflavia4815, @sc_naiara, and @draalinejunqueiraorto." [ref=e900] [cursor=pointer]:
+                  - /url: /dramarcelabraz/p/DDQqFo3t3r9/
+                  - img "Photo shared by Marcela Braz | Dentista em Caxambu on December 06, 2024 tagging @anaflavia4815, @sc_naiara, and @draalinejunqueiraorto." [ref=e903]
+                - link "Sou imensamente grata a Deus por ser filha de uma grande mulher! 🙏🥰 Feliz dia das mães a todas as nossas pacientes e amigas mamães, que exercem esse lindo papel com tanta sabedoria e coragem!😊 Um ótimo domingo à todos nós! 🙏🥰 Carrossel" [ref=e906] [cursor=pointer]:
+                  - /url: /dramarcelabraz/p/C63mf7PuwMr/
+                  - img "Sou imensamente grata a Deus por ser filha de uma grande mulher! 🙏🥰 Feliz dia das mães a todas as nossas pacientes e amigas mamães, que exercem esse lindo papel com tanta sabedoria e coragem!😊 Um ótimo domingo à todos nós! 🙏🥰" [ref=e909]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - link "Mulher, como somos fortes! 💪 Somos feitas de sonhos, de força, amor e inspiração. Somos cheias de vida, dotadas de valor, retrato fiel do cuidado e da intuição! Somos mães, esposas. Somos resistentes como uma rocha, somos pilares de uma casa. Somos batalhadoras. Somos carinho e afeto! Que esse dia te lembre da sua força e da sua capacidade de ir além! Você pode tudo! Feliz dia da Mulher! Em especial para as grandes mulheres da minha vida @mariaritacbraz @camilacbraz 🥰 Carrossel" [ref=e912] [cursor=pointer]:
+                  - /url: /dramarcelabraz/p/C4QKcozO2TT/
+                  - img "Mulher, como somos fortes! 💪 Somos feitas de sonhos, de força, amor e inspiração. Somos cheias de vida, dotadas de valor, retrato fiel do cuidado e da intuição! Somos mães, esposas. Somos resistentes como uma rocha, somos pilares de uma casa. Somos batalhadoras. Somos carinho e afeto! Que esse dia te lembre da sua força e da sua capacidade de ir além! Você pode tudo! Feliz dia da Mulher! Em especial para as grandes mulheres da minha vida @mariaritacbraz @camilacbraz 🥰" [ref=e915]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+              - generic [ref=e917]:
+                - link "“Tia eu sou uma mocinha, nem choro mais!” 😍🥰 Laurinha fechou o tratamento com chave de ouro!! Sua evolução foi notada a cada consulta e hoje para a nossa imensa alegria fechou o tratamento com nota 1000!! 🫶🏻 Estamos muito orgulhosos de você Laurinha! Nossa gatinha manhosa! 😘🥰 @re_paula_bae @sc_naiara Carrossel" [ref=e919] [cursor=pointer]:
+                  - /url: /dramarcelabraz/p/C3sW_uGuc1C/
+                  - img "“Tia eu sou uma mocinha, nem choro mais!” 😍🥰 Laurinha fechou o tratamento com chave de ouro!! Sua evolução foi notada a cada consulta e hoje para a nossa imensa alegria fechou o tratamento com nota 1000!! 🫶🏻 Estamos muito orgulhosos de você Laurinha! Nossa gatinha manhosa! 😘🥰 @re_paula_bae @sc_naiara" [ref=e922]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - link "Photo by Marcela Braz | Dentista em Caxambu in Caxambu - Sul De Minas Gerais." [ref=e925] [cursor=pointer]:
+                  - /url: /dramarcelabraz/p/C2Pa63dO2mP/
+                  - img "Photo by Marcela Braz | Dentista em Caxambu in Caxambu - Sul De Minas Gerais." [ref=e928]
+                - link "Última semana de atendimentos do ano e tudo preparado com muito carinho para receber nossos pacientes!!🥰😍 Por aqui amamos o Natal ainda mais com cheirinho de férias no ar!! 😍😍🥰 Clipe" [ref=e931] [cursor=pointer]:
+                  - /url: /dramarcelabraz/reel/C0wa8nIOfAp/
+                  - img "Última semana de atendimentos do ano e tudo preparado com muito carinho para receber nossos pacientes!!🥰😍 Por aqui amamos o Natal ainda mais com cheirinho de férias no ar!! 😍😍🥰" [ref=e934]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+      - contentinfo [ref=e140]:
+        - generic [ref=e141]:
+          - generic [ref=e143]:
+            - link "Meta" [ref=e145] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e146]: Meta
+            - link "Sobre" [ref=e148] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e149]: Sobre
+            - link "Blog" [ref=e151] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e152]: Blog
+            - link "Carreiras" [ref=e154] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e155]: Carreiras
+            - link "Ajuda" [ref=e157] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e158]: Ajuda
+            - link "API" [ref=e160] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e161]: API
+            - link "Privacidade" [ref=e163] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e164]: Privacidade
+            - link "Termos" [ref=e166] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e167]: Termos
+            - link "Localizações" [ref=e169] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e170]: Localizações
+            - link "Instagram Lite" [ref=e172] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e173]: Instagram Lite
+            - link "Meta AI" [ref=e175] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e176]: Meta AI
+            - link "Threads" [ref=e178] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e179]: Threads
+            - link "Upload de contatos e não usuários" [ref=e181] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e182]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e184] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e185]: Meta Verified
+          - generic [ref=e186]:
+            - generic [ref=e187] [cursor=pointer]:
+              - generic [ref=e188]:
+                - generic [ref=e189]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e192]
+              - combobox "Trocar idioma de exibição" [ref=e194]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e196]: © 2026 Instagram from Meta
+  - button "Mensagens Mensagens" [ref=e198] [cursor=pointer]:
+    - generic [ref=e200]:
+      - img "Mensagens" [ref=e202]
+      - generic [ref=e205]: Mensagens

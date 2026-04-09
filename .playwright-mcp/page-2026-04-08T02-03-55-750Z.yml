@@ -1,0 +1,351 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Ir para o conteúdo principal" [ref=e2] [cursor=pointer]
+      - link "Desativar a rolagem contínua" [ref=e3] [cursor=pointer]:
+        - /url: "#"
+      - link "Ajuda sobre acessibilidade" [ref=e4] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=pt-BR
+      - link "Feedback de acessibilidade" [ref=e5] [cursor=pointer]
+  - generic [ref=e10]:
+    - search [ref=e11]:
+      - generic [ref=e13]:
+        - link "Ir para a página inicial do Google" [ref=e15] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=pt-BR&sa=X&ved=0ahUKEwiZtfj-lN2TAxXirJUCHa3PEu8QPAgK
+          - img [ref=e16]
+        - generic [ref=e18]:
+          - generic [ref=e19]:
+            - combobox "Pesquisar" [ref=e22]: dra.beatrizpereira site:instagram.com dra.beatrizpereira site:instagram.com
+            - generic [ref=e23]:
+              - button "Limpar" [ref=e25] [cursor=pointer]:
+                - img [ref=e27]
+              - generic [ref=e30]:
+                - button "Ferramentas de inserção de texto" [ref=e31] [cursor=pointer]:
+                  - img [ref=e33]
+                - button "Pesquisar por voz" [ref=e35] [cursor=pointer]:
+                  - img [ref=e36]
+                - button "Pesquisa por imagem" [ref=e38] [cursor=pointer]:
+                  - img [ref=e39]
+          - button "Pesquisar" [ref=e41] [cursor=pointer]:
+            - img [ref=e44]
+    - generic [ref=e46]:
+      - button "Configurações" [ref=e48] [cursor=pointer]:
+        - img [ref=e51]
+      - generic [ref=e54]:
+        - button "Google Apps" [ref=e56] [cursor=pointer]:
+          - img [ref=e57]
+        - link "Fazer login" [ref=e61] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=pt-BR&passive=true&continue=https://www.google.com/search%3Fq%3Ddra.beatrizpereira%2Bsite:instagram.com%26udm%3D2&ec=futura_srp_og_si_72236_p
+  - generic [ref=e63]:
+    - navigation [ref=e68]:
+      - generic [ref=e69]:
+        - list [ref=e70]:
+          - listitem [ref=e71]:
+            - link "Modo IA" [ref=e74] [cursor=pointer]:
+              - /url: /search?q=dra.beatrizpereira+site:instagram.com&sca_esv=91f788fc0d48d683&udm=50&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB054Dys3s2x_Qm_GJcU2DlSXjGaRWzFR_7WR9-t6Fsc53GhxhYXsXrBYHNKryQwb7UeekEx_ocTbopQoLxwKIBpAobIx5HPsyguPIYqZsi25KAry37R3oJuQrdIBp92dpsiLjvewRFCzBAJd_5VvC_eI6U6GJF3PolIDqdJcm2R1OebKaKdxg4b4YJTtSVFq_mnXbSvTk&aep=1&ntc=1&sa=X&ved=2ahUKEwiZtfj-lN2TAxXirJUCHa3PEu8Q2J8OegQIChAD
+              - generic [ref=e77]: Modo IA
+          - listitem [ref=e78]:
+            - link "Tudo" [ref=e79] [cursor=pointer]:
+              - /url: /search?sca_esv=91f788fc0d48d683&q=dra.beatrizpereira+site:instagram.com&source=lnms&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB054Dys3s2x_Qm_GJcU2DlSXjGaRWzFR_7WR9-t6Fsc53GhxhYXsXrBYHNKryQwb7UeekEx_ocTbopQoLxwKIBpAobIx5HPsyguPIYqZsi25KAry37R3oJuQrdIBp92dpsiLjvewRFCzBAJd_5VvC_eI6U6GJF3PolIDqdJcm2R1OebKaKdxg4b4YJTtSVFq_mnXbSvTk&sa=X&ved=2ahUKEwiZtfj-lN2TAxXirJUCHa3PEu8Q0pQJegQIDxAB
+              - generic [ref=e81]: Tudo
+          - listitem [ref=e82]:
+            - link "Imagens" [disabled] [ref=e83]:
+              - generic [ref=e85]: Imagens
+          - listitem [ref=e86]:
+            - link "Vídeos" [ref=e87] [cursor=pointer]:
+              - /url: /search?sca_esv=91f788fc0d48d683&udm=7&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB054Dys3s2x_Qm_GJcU2DlSXjGaRWzFR_7WR9-t6Fsc53GhxhYXsXrBYHNKryQwb7UeekEx_ocTbopQoLxwKIBpAobIx5HPsyguPIYqZsi25KAry37R3oJuQrdIBp92dpsiLjvewRFCzBAJd_5VvC_eI6U6GJF3PolIDqdJcm2R1OebKaKdxg4b4YJTtSVFq_mnXbSvTk&q=dra.beatrizpereira+site:instagram.com&sa=X&ved=2ahUKEwiZtfj-lN2TAxXirJUCHa3PEu8QtKgLegQIDRAB
+              - generic [ref=e89]: Vídeos
+          - listitem [ref=e90]:
+            - link "Maps" [ref=e91] [cursor=pointer]:
+              - /url: https://maps.google.com/maps?sca_esv=91f788fc0d48d683&output=search&q=dra.beatrizpereira+site:instagram.com&source=lnms&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB054Dys3s2x_Qm_GJcU2DlSXjGaRWzFR_7WR9-t6Fsc53GhxhYXsXrBYHNKryQwb7UeekEx_ocTbopQoLxwKIBpAobIx5HPsyguPIYqZsi25KAry37R3oJuQrdIBp92dpsiLjvewRFCzBAJd_5VvC_eI6U6GJF3PolIDqdJcm2R1OebKaKdxg4b4YJTtSVFq_mnXbSvTk&entry=mc&ved=1t:200715&ictx=111
+              - generic [ref=e93]: Maps
+          - listitem [ref=e94]:
+            - link "Notícias" [ref=e95] [cursor=pointer]:
+              - /url: /search?sca_esv=91f788fc0d48d683&q=dra.beatrizpereira+site:instagram.com&tbm=nws&source=lnms&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB054Dys3s2x_Qm_GJcU2DlSXjGaRWzFR_7WR9-t6Fsc53GhxhYXsXrBYHNKryQwb7UeekEx_ocTbopQoLxwKIBpAobIx5HPsyguPIYqZsi25KAry37R3oJuQrdIBp92dpsiLjvewRFCzBAJd_5VvC_eI6U6GJF3PolIDqdJcm2R1OebKaKdxg4b4YJTtSVFq_mnXbSvTk&sa=X&ved=2ahUKEwiZtfj-lN2TAxXirJUCHa3PEu8Q0pQJegQIEBAB
+              - generic [ref=e97]: Notícias
+          - listitem [ref=e98]:
+            - link "Shopping" [ref=e99] [cursor=pointer]:
+              - /url: /search?sca_esv=91f788fc0d48d683&udm=28&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB054Dys3s2x_Qm_GJcU2DlSXjGaRWzFR_7WR9-t6Fsc53GhxhYXsXrBYHNKryQwb7UeekEx_ocTbopQoLxwKIBpAobIx5HPsyguPIYqZsi25KAry37R3oJuQrdIBp92dpsiLjvewRFCzBAJd_5VvC_eI6U6GJF3PolIDqdJcm2R1OebKaKdxg4b4YJTtSVFq_mnXbSvTk&q=dra.beatrizpereira+site:instagram.com&ved=1t:220175&ictx=111
+              - generic [ref=e101]: Shopping
+          - listitem [ref=e102]:
+            - button "Mais filtros" [ref=e103] [cursor=pointer]:
+              - generic "Mais filtros" [ref=e104]:
+                - generic [ref=e105]:
+                  - generic [ref=e106]: Mais
+                  - img [ref=e108]
+        - button "Ferramentas" [ref=e111] [cursor=pointer]:
+          - generic [ref=e113]:
+            - generic [ref=e114]: Ferramentas
+            - img [ref=e116]
+    - heading "Resultados da pesquisa" [level=1] [ref=e118]
+    - main [ref=e120]:
+      - generic [ref=e126]:
+        - generic [ref=e129]:
+          - generic [ref=e130] [cursor=pointer]:
+            - heading "Sua pele merece cuidados especiais! ✨ A Dra. Beatriz Pereira, está pronta para cuidar da sua saúde e autoestima com toda atenção e dedicação. 📍 Atendimento na Clínica Jardins – Av. Mestra" [level=3] [ref=e132]:
+              - button "Sua pele merece cuidados especiais! ✨ A Dra. Beatriz Pereira, está pronta para cuidar da sua saúde e autoestima com toda atenção e dedicação. 📍 Atendimento na Clínica Jardins – Av. Mestra" [ref=e134]:
+                - img "Sua pele merece cuidados especiais! ✨ A Dra. Beatriz Pereira, está pronta para cuidar da sua saúde e autoestima com toda atenção e dedicação. 📍 Atendimento na Clínica Jardins – Av. Mestra" [ref=e137]
+            - link "Instagram Sua pele merece cuidados especiais! ✨ A Dra. Beatriz Pereira, está pronta para cuidar da sua saúde e autoestima com toda atenção e dedicação. 📍 Atendimento na Clínica Jardins – Av. Mestra" [ref=e139]:
+              - /url: https://www.instagram.com/p/DPOwCmJDu1v/
+              - generic [ref=e144]: Instagram
+              - generic [ref=e146]: Sua pele merece cuidados especiais! ✨ A Dra. Beatriz Pereira, está pronta para cuidar da sua saúde e autoestima com toda atenção e dedicação. 📍 Atendimento na Clínica Jardins – Av. Mestra
+          - generic [ref=e147] [cursor=pointer]:
+            - 'heading "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG" [level=3] [ref=e149]':
+              - 'button "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG" [ref=e151]':
+                - 'img "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG" [ref=e154]'
+            - 'link "Instagram Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG" [ref=e156]':
+              - /url: https://www.instagram.com/dra.beatrizpereira/
+              - generic [ref=e161]: Instagram
+              - generic [ref=e163]: "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG"
+          - generic [ref=e164] [cursor=pointer]:
+            - 'heading "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG" [level=3] [ref=e166]':
+              - 'button "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG" [ref=e168]':
+                - 'img "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG" [ref=e171]'
+            - 'link "Instagram Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG" [ref=e173]':
+              - /url: https://www.instagram.com/dra.beatrizpereira/
+              - generic [ref=e178]: Instagram
+              - generic [ref=e180]: "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG"
+          - generic [ref=e181] [cursor=pointer]:
+            - 'heading "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG" [level=3] [ref=e183]':
+              - 'button "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG" [ref=e185]':
+                - 'img "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG" [ref=e188]'
+            - 'link "Instagram Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG" [ref=e190]':
+              - /url: https://www.instagram.com/dra.beatrizpereira/
+              - generic [ref=e195]: Instagram
+              - generic [ref=e197]: "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG"
+          - generic [ref=e198] [cursor=pointer]:
+            - heading "Dra.Beatriz Pereira | Psiquiatra | Jaguariúna e Campinas (@psiquiatra. beatrizpereira) • Instagram photos and videos" [level=3] [ref=e200]:
+              - button "Dra.Beatriz Pereira | Psiquiatra | Jaguariúna e Campinas (@psiquiatra. beatrizpereira) • Instagram photos and videos" [ref=e202]:
+                - img "Dra.Beatriz Pereira | Psiquiatra | Jaguariúna e Campinas (@psiquiatra. beatrizpereira) • Instagram photos and videos" [ref=e205]
+            - link "Instagram Dra.Beatriz Pereira | Psiquiatra | Jaguariúna e Campinas (@psiquiatra. beatrizpereira) • Instagram photos and videos" [ref=e207]:
+              - /url: https://www.instagram.com/psiquiatra.beatrizpereira/
+              - generic [ref=e212]: Instagram
+              - generic [ref=e214]: Dra.Beatriz Pereira | Psiquiatra | Jaguariúna e Campinas (@psiquiatra. beatrizpereira) • Instagram photos and videos
+          - generic [ref=e215] [cursor=pointer]:
+            - 'heading "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG" [level=3] [ref=e217]':
+              - 'button "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG" [ref=e219]':
+                - 'img "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG" [ref=e222]'
+            - 'link "Instagram Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG" [ref=e224]':
+              - /url: https://www.instagram.com/dra.beatrizpereira/
+              - generic [ref=e229]: Instagram
+              - generic [ref=e231]: "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG"
+          - generic [ref=e232] [cursor=pointer]:
+            - generic [ref=e233]:
+              - 'heading "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG" [level=3] [ref=e234]':
+                - 'button "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG" [ref=e236]':
+                  - 'img "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG" [ref=e239]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG" [ref=e241]':
+              - /url: https://www.instagram.com/dra.beatrizpereira/
+              - generic [ref=e246]: Instagram
+              - generic [ref=e248]: "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG"
+          - generic [ref=e249] [cursor=pointer]:
+            - heading "Beatriz Pereira - Endodontia Microscópica e laserterapia (@dra. beatrizpereira_) • Instagram photos and videos" [level=3] [ref=e251]:
+              - button "Beatriz Pereira - Endodontia Microscópica e laserterapia (@dra. beatrizpereira_) • Instagram photos and videos" [ref=e253]:
+                - img "Beatriz Pereira - Endodontia Microscópica e laserterapia (@dra. beatrizpereira_) • Instagram photos and videos" [ref=e256]
+            - link "Instagram Beatriz Pereira - Endodontia Microscópica e laserterapia (@dra. beatrizpereira_) • Instagram photos and videos" [ref=e258]:
+              - /url: https://www.instagram.com/dra.beatrizpereira_/
+              - generic [ref=e263]: Instagram
+              - generic [ref=e265]: Beatriz Pereira - Endodontia Microscópica e laserterapia (@dra. beatrizpereira_) • Instagram photos and videos
+          - generic [ref=e266] [cursor=pointer]:
+            - generic [ref=e267]:
+              - 'heading "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG" [level=3] [ref=e268]':
+                - 'button "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG" [ref=e270]':
+                  - 'img "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG" [ref=e273]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG" [ref=e275]':
+              - /url: https://www.instagram.com/dra.beatrizpereira/
+              - generic [ref=e280]: Instagram
+              - generic [ref=e282]: "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG"
+          - generic [ref=e283] [cursor=pointer]:
+            - 'heading "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG" [level=3] [ref=e285]':
+              - 'button "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG" [ref=e287]':
+                - 'img "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG" [ref=e290]'
+            - 'link "Instagram Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG" [ref=e292]':
+              - /url: https://www.instagram.com/dra.beatrizpereira/
+              - generic [ref=e297]: Instagram
+              - generic [ref=e299]: "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 (@dra.beatrizpereira) · Três Pontas, MG"
+          - generic [ref=e300] [cursor=pointer]:
+            - heading "Beatriz Pereira - Endodontia Microscópica e laserterapia (@dra. beatrizpereira_) • Instagram photos and videos" [level=3] [ref=e302]:
+              - button "Beatriz Pereira - Endodontia Microscópica e laserterapia (@dra. beatrizpereira_) • Instagram photos and videos" [ref=e304]:
+                - img "Beatriz Pereira - Endodontia Microscópica e laserterapia (@dra. beatrizpereira_) • Instagram photos and videos" [ref=e307]
+            - link "Instagram Beatriz Pereira - Endodontia Microscópica e laserterapia (@dra. beatrizpereira_) • Instagram photos and videos" [ref=e309]:
+              - /url: https://www.instagram.com/dra.beatrizpereira_/
+              - generic [ref=e314]: Instagram
+              - generic [ref=e316]: Beatriz Pereira - Endodontia Microscópica e laserterapia (@dra. beatrizpereira_) • Instagram photos and videos
+          - generic [ref=e317] [cursor=pointer]:
+            - heading "Olá, sejam bem vindos! ✨ Me chamo Beatriz Pereira, sou médica pela Escola Bahiana de Medicina e psiquiatra pela Universidade Federal de São Paulo (Unifesp) e através do meu perfil irei compartilhar" [level=3] [ref=e319]:
+              - button "Olá, sejam bem vindos! ✨ Me chamo Beatriz Pereira, sou médica pela Escola Bahiana de Medicina e psiquiatra pela Universidade Federal de São Paulo (Unifesp) e através do meu perfil irei compartilhar" [ref=e321]:
+                - img "Olá, sejam bem vindos! ✨ Me chamo Beatriz Pereira, sou médica pela Escola Bahiana de Medicina e psiquiatra pela Universidade Federal de São Paulo (Unifesp) e através do meu perfil irei compartilhar" [ref=e324]
+            - link "Instagram Olá, sejam bem vindos! ✨ Me chamo Beatriz Pereira, sou médica pela Escola Bahiana de Medicina e psiquiatra pela Universidade Federal de São Paulo (Unifesp) e através do meu perfil irei compartilhar" [ref=e326]:
+              - /url: https://www.instagram.com/p/CukuELBrDgF/
+              - generic [ref=e331]: Instagram
+              - generic [ref=e333]: Olá, sejam bem vindos! ✨ Me chamo Beatriz Pereira, sou médica pela Escola Bahiana de Medicina e psiquiatra pela Universidade Federal de São Paulo (Unifesp) e através do meu perfil irei compartilhar
+          - generic [ref=e334] [cursor=pointer]:
+            - generic [ref=e335]:
+              - heading "Conheça a Dra. Beatriz Pereira, clínica geral e especializada em Harmonização Facial✨ Agende sua consulta com a Dra. Beatriz e realce a sua beleza!😁 📲 (16) 99744-0219 📍 Av. Djalma Dutra, 899 –" [level=3] [ref=e336]:
+                - button "Conheça a Dra. Beatriz Pereira, clínica geral e especializada em Harmonização Facial✨ Agende sua consulta com a Dra. Beatriz e realce a sua beleza!😁 📲 (16) 99744-0219 📍 Av. Djalma Dutra, 899 –" [ref=e338]:
+                  - img "Conheça a Dra. Beatriz Pereira, clínica geral e especializada em Harmonização Facial✨ Agende sua consulta com a Dra. Beatriz e realce a sua beleza!😁 📲 (16) 99744-0219 📍 Av. Djalma Dutra, 899 –" [ref=e341]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Conheça a Dra. Beatriz Pereira, clínica geral e especializada em Harmonização Facial✨ Agende sua consulta com a Dra. Beatriz e realce a sua beleza!😁 📲 (16) 99744-0219 📍 Av. Djalma Dutra, 899 –" [ref=e343]:
+              - /url: https://www.instagram.com/reel/DOt4Iskkizs/
+              - generic [ref=e348]: Instagram
+              - generic [ref=e350]: Conheça a Dra. Beatriz Pereira, clínica geral e especializada em Harmonização Facial✨ Agende sua consulta com a Dra. Beatriz e realce a sua beleza!😁 📲 (16) 99744-0219 📍 Av. Djalma Dutra, 899 –
+          - generic [ref=e351] [cursor=pointer]:
+            - heading "Que tal começar seu FDS de um jeito diferente, em uma vibe solar e com a energia das Mommys? O Glow Up Vibes Mommys é um encontro criado para mulheres que, entre" [level=3] [ref=e353]:
+              - button "Que tal começar seu FDS de um jeito diferente, em uma vibe solar e com a energia das Mommys? O Glow Up Vibes Mommys é um encontro criado para mulheres que, entre" [ref=e355]:
+                - img "Que tal começar seu FDS de um jeito diferente, em uma vibe solar e com a energia das Mommys? O Glow Up Vibes Mommys é um encontro criado para mulheres que, entre" [ref=e358]
+            - link "Instagram Que tal começar seu FDS de um jeito diferente, em uma vibe solar e com a energia das Mommys? O Glow Up Vibes Mommys é um encontro criado para mulheres que, entre" [ref=e360]:
+              - /url: https://www.instagram.com/p/DVydF33CDNC/
+              - generic [ref=e365]: Instagram
+              - generic [ref=e367]: Que tal começar seu FDS de um jeito diferente, em uma vibe solar e com a energia das Mommys? O Glow Up Vibes Mommys é um encontro criado para mulheres que, entre
+          - generic [ref=e368] [cursor=pointer]:
+            - heading "Sua pele merece cuidados especiais! ✨ A Dra. Beatriz Pereira, está pronta para cuidar da sua saúde e autoestima com toda atenção e dedicação. 📍 Atendimento na Clínica Jardins – Av. Mestra" [level=3] [ref=e370]:
+              - button "Sua pele merece cuidados especiais! ✨ A Dra. Beatriz Pereira, está pronta para cuidar da sua saúde e autoestima com toda atenção e dedicação. 📍 Atendimento na Clínica Jardins – Av. Mestra" [ref=e372]:
+                - img "Sua pele merece cuidados especiais! ✨ A Dra. Beatriz Pereira, está pronta para cuidar da sua saúde e autoestima com toda atenção e dedicação. 📍 Atendimento na Clínica Jardins – Av. Mestra" [ref=e375]
+            - link "Instagram Sua pele merece cuidados especiais! ✨ A Dra. Beatriz Pereira, está pronta para cuidar da sua saúde e autoestima com toda atenção e dedicação. 📍 Atendimento na Clínica Jardins – Av. Mestra" [ref=e377]:
+              - /url: https://www.instagram.com/p/DPOwCmJDu1v/
+              - generic [ref=e382]: Instagram
+              - generic [ref=e384]: Sua pele merece cuidados especiais! ✨ A Dra. Beatriz Pereira, está pronta para cuidar da sua saúde e autoestima com toda atenção e dedicação. 📍 Atendimento na Clínica Jardins – Av. Mestra
+          - generic [ref=e385] [cursor=pointer]:
+            - heading "Dra.Beatriz Pereira | Psiquiatra | Jaguariúna e Campinas (@psiquiatra. beatrizpereira) • Instagram photos and videos" [level=3] [ref=e387]:
+              - button "Dra.Beatriz Pereira | Psiquiatra | Jaguariúna e Campinas (@psiquiatra. beatrizpereira) • Instagram photos and videos" [ref=e389]:
+                - img "Dra.Beatriz Pereira | Psiquiatra | Jaguariúna e Campinas (@psiquiatra. beatrizpereira) • Instagram photos and videos" [ref=e392]
+            - link "Instagram Dra.Beatriz Pereira | Psiquiatra | Jaguariúna e Campinas (@psiquiatra. beatrizpereira) • Instagram photos and videos" [ref=e394]:
+              - /url: https://www.instagram.com/psiquiatra.beatrizpereira/
+              - generic [ref=e399]: Instagram
+              - generic [ref=e401]: Dra.Beatriz Pereira | Psiquiatra | Jaguariúna e Campinas (@psiquiatra. beatrizpereira) • Instagram photos and videos
+          - generic [ref=e402] [cursor=pointer]:
+            - heading "Beatriz Pereira - Endodontia Microscópica e laserterapia (@dra. beatrizpereira_) • Instagram photos and videos" [level=3] [ref=e404]:
+              - button "Beatriz Pereira - Endodontia Microscópica e laserterapia (@dra. beatrizpereira_) • Instagram photos and videos" [ref=e406]:
+                - img "Beatriz Pereira - Endodontia Microscópica e laserterapia (@dra. beatrizpereira_) • Instagram photos and videos" [ref=e409]
+            - link "Instagram Beatriz Pereira - Endodontia Microscópica e laserterapia (@dra. beatrizpereira_) • Instagram photos and videos" [ref=e411]:
+              - /url: https://www.instagram.com/dra.beatrizpereira_/
+              - generic [ref=e416]: Instagram
+              - generic [ref=e418]: Beatriz Pereira - Endodontia Microscópica e laserterapia (@dra. beatrizpereira_) • Instagram photos and videos
+          - generic [ref=e419] [cursor=pointer]:
+            - generic [ref=e420]:
+              - heading "Sua pele apresenta linhas finas, poros dilatados, textura irregular ou oleosidade excessiva? O Microtox é um dos protocolos mais modernos para tratar a pele de forma global, atuando diretamente na qualidade cutânea," [level=3] [ref=e421]:
+                - button "Sua pele apresenta linhas finas, poros dilatados, textura irregular ou oleosidade excessiva? O Microtox é um dos protocolos mais modernos para tratar a pele de forma global, atuando diretamente na qualidade cutânea," [ref=e423]:
+                  - img "Sua pele apresenta linhas finas, poros dilatados, textura irregular ou oleosidade excessiva? O Microtox é um dos protocolos mais modernos para tratar a pele de forma global, atuando diretamente na qualidade cutânea," [ref=e426]
+              - generic:
+                - generic: 4 dias atrás
+            - link "Instagram Sua pele apresenta linhas finas, poros dilatados, textura irregular ou oleosidade excessiva? O Microtox é um dos protocolos mais modernos para tratar a pele de forma global, atuando diretamente na qualidade cutânea," [ref=e428]:
+              - /url: https://www.instagram.com/p/DWpQFF1Cex-/
+              - generic [ref=e433]: Instagram
+              - generic [ref=e435]: Sua pele apresenta linhas finas, poros dilatados, textura irregular ou oleosidade excessiva? O Microtox é um dos protocolos mais modernos para tratar a pele de forma global, atuando diretamente na qualidade cutânea,
+          - generic [ref=e436] [cursor=pointer]:
+            - heading "Beatriz Pereira - Endodontia Microscópica e laserterapia (@dra. beatrizpereira_) • Instagram photos and videos" [level=3] [ref=e438]:
+              - button "Beatriz Pereira - Endodontia Microscópica e laserterapia (@dra. beatrizpereira_) • Instagram photos and videos" [ref=e440]:
+                - img "Beatriz Pereira - Endodontia Microscópica e laserterapia (@dra. beatrizpereira_) • Instagram photos and videos" [ref=e443]
+            - link "Instagram Beatriz Pereira - Endodontia Microscópica e laserterapia (@dra. beatrizpereira_) • Instagram photos and videos" [ref=e445]:
+              - /url: https://www.instagram.com/dra.beatrizpereira_/
+              - generic [ref=e450]: Instagram
+              - generic [ref=e452]: Beatriz Pereira - Endodontia Microscópica e laserterapia (@dra. beatrizpereira_) • Instagram photos and videos
+          - generic [ref=e453] [cursor=pointer]:
+            - heading "Conheça a Dra. Beatriz Pereira, clínica geral e especializada em Harmonização Facial✨ Agende sua consulta com a Dra. Beatriz e realce a sua beleza!😁 📲 (16) 99744-0219 📍 Av. Djalma Dutra, 899 –" [level=3] [ref=e455]:
+              - button "Conheça a Dra. Beatriz Pereira, clínica geral e especializada em Harmonização Facial✨ Agende sua consulta com a Dra. Beatriz e realce a sua beleza!😁 📲 (16) 99744-0219 📍 Av. Djalma Dutra, 899 –" [ref=e457]:
+                - img "Conheça a Dra. Beatriz Pereira, clínica geral e especializada em Harmonização Facial✨ Agende sua consulta com a Dra. Beatriz e realce a sua beleza!😁 📲 (16) 99744-0219 📍 Av. Djalma Dutra, 899 –" [ref=e460]
+            - link "Instagram Conheça a Dra. Beatriz Pereira, clínica geral e especializada em Harmonização Facial✨ Agende sua consulta com a Dra. Beatriz e realce a sua beleza!😁 📲 (16) 99744-0219 📍 Av. Djalma Dutra, 899 –" [ref=e462]:
+              - /url: https://www.instagram.com/reel/DOt4Iskkizs/
+              - generic [ref=e467]: Instagram
+              - generic [ref=e469]: Conheça a Dra. Beatriz Pereira, clínica geral e especializada em Harmonização Facial✨ Agende sua consulta com a Dra. Beatriz e realce a sua beleza!😁 📲 (16) 99744-0219 📍 Av. Djalma Dutra, 899 –
+          - generic [ref=e470] [cursor=pointer]:
+            - generic [ref=e471]:
+              - heading "Conheça a nossa influencer @drabeatrizoliveiraa 😍🦋💜 Dra. Beatriz Pereira Oliveira Lima Fisioterapeuta pela UniChristus, Pós-Graduada em Fisioterapia Dermato-Funcional, Médica pela UniFSM, residência médica em Medicina de Saúde da Família e ..." [level=3] [ref=e472]:
+                - button "Conheça a nossa influencer @drabeatrizoliveiraa 😍🦋💜 Dra. Beatriz Pereira Oliveira Lima Fisioterapeuta pela UniChristus, Pós-Graduada em Fisioterapia Dermato-Funcional, Médica pela UniFSM, residência médica em Medicina de Saúde da Família e ..." [ref=e474]:
+                  - img "Conheça a nossa influencer @drabeatrizoliveiraa 😍🦋💜 Dra. Beatriz Pereira Oliveira Lima Fisioterapeuta pela UniChristus, Pós-Graduada em Fisioterapia Dermato-Funcional, Médica pela UniFSM, residência médica em Medicina de Saúde da Família e ..." [ref=e477]
+              - generic:
+                - generic: 6 dias atrás
+            - link "Instagram Conheça a nossa influencer @drabeatrizoliveiraa 😍🦋💜 Dra. Beatriz Pereira Oliveira Lima Fisioterapeuta pela UniChristus, Pós-Graduada em Fisioterapia Dermato-Funcional, Médica pela UniFSM, residência médica em Medicina de Saúde da Família e ..." [ref=e479]:
+              - /url: https://www.instagram.com/p/DHDr5NOuvlR/
+              - generic [ref=e484]: Instagram
+              - generic [ref=e486]: Conheça a nossa influencer @drabeatrizoliveiraa 😍🦋💜 Dra. Beatriz Pereira Oliveira Lima Fisioterapeuta pela UniChristus, Pós-Graduada em Fisioterapia Dermato-Funcional, Médica pela UniFSM, residência médica em Medicina de Saúde da Família e ...
+          - generic [ref=e487] [cursor=pointer]:
+            - 'heading "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 | Essa reflexão é uma AUTOcrítica . . #odontologia #estetica #dentista | Instagram" [level=3] [ref=e489]':
+              - 'button "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 | Essa reflexão é uma AUTOcrítica . . #odontologia #estetica #dentista | Instagram" [ref=e491]':
+                - 'img "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 | Essa reflexão é uma AUTOcrítica . . #odontologia #estetica #dentista | Instagram" [ref=e494]'
+            - 'link "Instagram Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 | Essa reflexão é uma AUTOcrítica . . #odontologia #estetica #dentista | Instagram" [ref=e496]':
+              - /url: https://www.instagram.com/reel/DIuDk46Srw9/
+              - generic [ref=e501]: Instagram
+              - generic [ref=e503]: "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 | Essa reflexão é uma AUTOcrítica . . #odontologia #estetica #dentista | Instagram"
+          - generic [ref=e504] [cursor=pointer]:
+            - generic [ref=e505]:
+              - heading "Conheça a nossa influencer @drabeatrizoliveiraa 😍🦋💜 Dra. Beatriz Pereira Oliveira Lima Fisioterapeuta pela UniChristus, Pós-Graduada em Fisioterapia Dermato-Funcional, Médica pela UniFSM, residência médica em Medicina de Saúde da Família e ..." [level=3] [ref=e506]:
+                - button "Conheça a nossa influencer @drabeatrizoliveiraa 😍🦋💜 Dra. Beatriz Pereira Oliveira Lima Fisioterapeuta pela UniChristus, Pós-Graduada em Fisioterapia Dermato-Funcional, Médica pela UniFSM, residência médica em Medicina de Saúde da Família e ..." [ref=e508]:
+                  - img "Conheça a nossa influencer @drabeatrizoliveiraa 😍🦋💜 Dra. Beatriz Pereira Oliveira Lima Fisioterapeuta pela UniChristus, Pós-Graduada em Fisioterapia Dermato-Funcional, Médica pela UniFSM, residência médica em Medicina de Saúde da Família e ..." [ref=e511]
+              - generic:
+                - generic: 6 dias atrás
+            - link "Instagram Conheça a nossa influencer @drabeatrizoliveiraa 😍🦋💜 Dra. Beatriz Pereira Oliveira Lima Fisioterapeuta pela UniChristus, Pós-Graduada em Fisioterapia Dermato-Funcional, Médica pela UniFSM, residência médica em Medicina de Saúde da Família e ..." [ref=e513]:
+              - /url: https://www.instagram.com/p/DHDr5NOuvlR/
+              - generic [ref=e518]: Instagram
+              - generic [ref=e520]: Conheça a nossa influencer @drabeatrizoliveiraa 😍🦋💜 Dra. Beatriz Pereira Oliveira Lima Fisioterapeuta pela UniChristus, Pós-Graduada em Fisioterapia Dermato-Funcional, Médica pela UniFSM, residência médica em Medicina de Saúde da Família e ...
+          - generic [ref=e521] [cursor=pointer]:
+            - heading "Conheça a Dra. Beatriz Pereira, clínica geral e especializada em Harmonização Facial✨ Agende sua consulta com a Dra. Beatriz e realce a sua beleza!😁 📲 (16) 99744-0219 📍 Av. Djalma Dutra, 899 –" [level=3] [ref=e523]:
+              - button "Conheça a Dra. Beatriz Pereira, clínica geral e especializada em Harmonização Facial✨ Agende sua consulta com a Dra. Beatriz e realce a sua beleza!😁 📲 (16) 99744-0219 📍 Av. Djalma Dutra, 899 –" [ref=e525]:
+                - img "Conheça a Dra. Beatriz Pereira, clínica geral e especializada em Harmonização Facial✨ Agende sua consulta com a Dra. Beatriz e realce a sua beleza!😁 📲 (16) 99744-0219 📍 Av. Djalma Dutra, 899 –" [ref=e528]
+            - link "Instagram Conheça a Dra. Beatriz Pereira, clínica geral e especializada em Harmonização Facial✨ Agende sua consulta com a Dra. Beatriz e realce a sua beleza!😁 📲 (16) 99744-0219 📍 Av. Djalma Dutra, 899 –" [ref=e530]:
+              - /url: https://www.instagram.com/reel/DOt4Iskkizs/
+              - generic [ref=e535]: Instagram
+              - generic [ref=e537]: Conheça a Dra. Beatriz Pereira, clínica geral e especializada em Harmonização Facial✨ Agende sua consulta com a Dra. Beatriz e realce a sua beleza!😁 📲 (16) 99744-0219 📍 Av. Djalma Dutra, 899 –
+          - generic [ref=e538] [cursor=pointer]:
+            - generic [ref=e539]:
+              - 'heading "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 | Essa reflexão é uma AUTOcrítica . . #odontologia #estetica #dentista | Instagram" [level=3] [ref=e540]':
+                - 'button "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 | Essa reflexão é uma AUTOcrítica . . #odontologia #estetica #dentista | Instagram" [ref=e542]':
+                  - 'img "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 | Essa reflexão é uma AUTOcrítica . . #odontologia #estetica #dentista | Instagram" [ref=e545]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 | Essa reflexão é uma AUTOcrítica . . #odontologia #estetica #dentista | Instagram" [ref=e547]':
+              - /url: https://www.instagram.com/reel/DIuDk46Srw9/
+              - generic [ref=e552]: Instagram
+              - generic [ref=e554]: "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956 | Essa reflexão é uma AUTOcrítica . . #odontologia #estetica #dentista | Instagram"
+          - generic [ref=e555] [cursor=pointer]:
+            - heading "Olá, sejam bem vindos! ✨ Me chamo Beatriz Pereira, sou médica pela Escola Bahiana de Medicina e psiquiatra pela Universidade Federal de São Paulo (Unifesp) e através do meu perfil irei compartilhar" [level=3] [ref=e557]:
+              - button "Olá, sejam bem vindos! ✨ Me chamo Beatriz Pereira, sou médica pela Escola Bahiana de Medicina e psiquiatra pela Universidade Federal de São Paulo (Unifesp) e através do meu perfil irei compartilhar" [ref=e559]:
+                - img "Olá, sejam bem vindos! ✨ Me chamo Beatriz Pereira, sou médica pela Escola Bahiana de Medicina e psiquiatra pela Universidade Federal de São Paulo (Unifesp) e através do meu perfil irei compartilhar" [ref=e562]
+            - link "Instagram Olá, sejam bem vindos! ✨ Me chamo Beatriz Pereira, sou médica pela Escola Bahiana de Medicina e psiquiatra pela Universidade Federal de São Paulo (Unifesp) e através do meu perfil irei compartilhar" [ref=e564]:
+              - /url: https://www.instagram.com/p/CukuELBrDgF/
+              - generic [ref=e569]: Instagram
+              - generic [ref=e571]: Olá, sejam bem vindos! ✨ Me chamo Beatriz Pereira, sou médica pela Escola Bahiana de Medicina e psiquiatra pela Universidade Federal de São Paulo (Unifesp) e através do meu perfil irei compartilhar
+          - generic [ref=e572] [cursor=pointer]:
+            - heading "Photo by Dra Beatriz Pereira Alcarde (@drabeatrizalcarde) · September 10, 2025" [level=3] [ref=e574]:
+              - button "Photo by Dra Beatriz Pereira Alcarde (@drabeatrizalcarde) · September 10, 2025" [ref=e576]:
+                - img "Photo by Dra Beatriz Pereira Alcarde (@drabeatrizalcarde) · September 10, 2025" [ref=e579]
+            - link "Instagram Photo by Dra Beatriz Pereira Alcarde (@drabeatrizalcarde) · September 10, 2025" [ref=e581]:
+              - /url: https://www.instagram.com/p/DOcCxFYgYaX/
+              - generic [ref=e586]: Instagram
+              - generic [ref=e588]: Photo by Dra Beatriz Pereira Alcarde (@drabeatrizalcarde) · September 10, 2025
+          - generic [ref=e589] [cursor=pointer]:
+            - heading "Conheça a nossa influencer @drabeatrizoliveiraa 😍🦋💜 Dra. Beatriz Pereira Oliveira Lima Fisioterapeuta pela UniChristus, Pós-Graduada em Fisioterapia Dermato-Funcional, Médica pela UniFSM, residência médica em Medicina de Saúde da Família e ..." [level=3] [ref=e591]:
+              - button "Conheça a nossa influencer @drabeatrizoliveiraa 😍🦋💜 Dra. Beatriz Pereira Oliveira Lima Fisioterapeuta pela UniChristus, Pós-Graduada em Fisioterapia Dermato-Funcional, Médica pela UniFSM, residência médica em Medicina de Saúde da Família e ..." [ref=e593]:
+                - img "Conheça a nossa influencer @drabeatrizoliveiraa 😍🦋💜 Dra. Beatriz Pereira Oliveira Lima Fisioterapeuta pela UniChristus, Pós-Graduada em Fisioterapia Dermato-Funcional, Médica pela UniFSM, residência médica em Medicina de Saúde da Família e ..." [ref=e596]
+            - link "Instagram Conheça a nossa influencer @drabeatrizoliveiraa 😍🦋💜 Dra. Beatriz Pereira Oliveira Lima Fisioterapeuta pela UniChristus, Pós-Graduada em Fisioterapia Dermato-Funcional, Médica pela UniFSM, residência médica em Medicina de Saúde da Família e ..." [ref=e598]:
+              - /url: https://www.instagram.com/p/DHDr5NOuvlR/
+              - generic [ref=e603]: Instagram
+              - generic [ref=e605]: Conheça a nossa influencer @drabeatrizoliveiraa 😍🦋💜 Dra. Beatriz Pereira Oliveira Lima Fisioterapeuta pela UniChristus, Pós-Graduada em Fisioterapia Dermato-Funcional, Médica pela UniFSM, residência médica em Medicina de Saúde da Família e ...
+          - generic [ref=e606] [cursor=pointer]:
+            - 'heading "a felicidade de sempre ler isso no meu jaleco! Dra. Beatriz Iza Pereira. Cirurgiã-Dentista 🤍 . . . . . . . . . . . . . . . . . . . . . . . . . #" [level=3] [ref=e608]':
+              - 'button "a felicidade de sempre ler isso no meu jaleco! Dra. Beatriz Iza Pereira. Cirurgiã-Dentista 🤍 . . . . . . . . . . . . . . . . . . . . . . . . . #" [ref=e610]':
+                - 'img "a felicidade de sempre ler isso no meu jaleco! Dra. Beatriz Iza Pereira. Cirurgiã-Dentista 🤍 . . . . . . . . . . . . . . . . . . . . . . . . . #" [ref=e613]'
+            - 'link "Instagram a felicidade de sempre ler isso no meu jaleco! Dra. Beatriz Iza Pereira. Cirurgiã-Dentista 🤍 . . . . . . . . . . . . . . . . . . . . . . . . . #" [ref=e615]':
+              - /url: https://www.instagram.com/p/CnP9aMTvWZ_/
+              - generic [ref=e620]: Instagram
+              - generic [ref=e622]: "a felicidade de sempre ler isso no meu jaleco! Dra. Beatriz Iza Pereira. Cirurgiã-Dentista 🤍 . . . . . . . . . . . . . . . . . . . . . . . . . #"
+        - generic [ref=e625]:
+          - heading "Page Navigation" [level=1] [ref=e626]
+          - generic [ref=e627]:
+            - text: O restante dos resultados pode não ser o que você procura.
+            - link "Conferir mais mesmo assim" [ref=e628] [cursor=pointer]:
+              - /url: "#"
+      - navigation

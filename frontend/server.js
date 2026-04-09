@@ -9,6 +9,7 @@ import Database from 'better-sqlite3'
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const ROOT = join(__dirname, '..')
 const LEADS_DIR = join(ROOT, 'leads')
+const DATA_LEADS_DIR = join(ROOT, 'data', 'leads')
 const DATA_DIR = join(ROOT, 'data')
 
 const app = express()
@@ -65,6 +66,14 @@ function loadInstagramLeads() {
   const files = readdirSync(LEADS_DIR)
     .filter(f => !f.startsWith('gmaps_') && f.endsWith('.csv'))
     .map(f => join(LEADS_DIR, f))
+
+  // Also read from data/leads/
+  if (existsSync(DATA_LEADS_DIR)) {
+    const dataFiles = readdirSync(DATA_LEADS_DIR)
+      .filter(f => !f.startsWith('gmaps_') && f.endsWith('.csv'))
+      .map(f => join(DATA_LEADS_DIR, f))
+    files.push(...dataFiles)
+  }
 
   const allLeads = new Map()
   for (const file of files) {

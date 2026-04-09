@@ -1,109 +1,101 @@
 import { useTranslation } from 'react-i18next'
 import { motion } from 'motion/react'
-import Button from '../ui/Button'
-import { deliveryLinks } from '../../data/content'
+import { Link } from 'react-router-dom'
+import { images } from '../../data/content'
 
 export default function Hero() {
   const { t } = useTranslation()
 
   return (
-    <section className="relative min-h-[100dvh] flex items-center overflow-hidden bg-[var(--color-secondary)]">
-      <div
-        className="absolute inset-0 opacity-40"
-        style={{ backgroundImage: 'url(/images/hero-australiano-tripadvisor.jpg)', backgroundSize: 'cover', backgroundPosition: 'center' }}
-        role="img"
-        aria-label="Hamburguer artesanal Usina do Hamburguer"
-      />
-      <div className="absolute inset-0 bg-gradient-to-r from-[var(--color-secondary)] via-[var(--color-secondary)]/80 to-transparent" />
+    <section
+      className="relative min-h-[100dvh] flex items-center justify-start overflow-hidden"
+      style={{
+        backgroundImage: `linear-gradient(to right, rgba(26,26,26,0.92) 0%, rgba(26,26,26,0.7) 50%, rgba(26,26,26,0.4) 100%), url(${images.heroBackground})`,
+        backgroundSize: 'cover',
+        backgroundPosition: 'center',
+        backgroundColor: '#1A1A1A',
+      }}
+    >
+      <div className="mx-auto max-w-[var(--max-width)] w-full px-5 md:px-8 lg:px-16 pt-32 pb-20">
+        <div className="max-w-2xl">
+          <motion.h1
+            className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight leading-none mb-6"
+            style={{ color: '#FAFAF5', fontFamily: 'var(--font-display)', backgroundColor: '#1A1A1A' }}
+            initial={{ opacity: 0, y: 40 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.8, ease: [0.25, 0.46, 0.45, 0.94] }}
+          >
+            {t('hero.title').split(' ').map((word, i) => (
+              <motion.span
+                key={i}
+                className="inline-block mr-[0.2em]"
+                initial={{ opacity: 0, y: 30 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.6, delay: 0.2 + i * 0.1, ease: [0.25, 0.46, 0.45, 0.94] }}
+                style={word.toLowerCase() === 'proposito.' || word.toLowerCase() === 'purpose.'
+                  ? { color: '#D4A017', backgroundColor: '#1A1A1A' }
+                  : { color: '#FAFAF5', backgroundColor: '#1A1A1A' }
+                }
+              >
+                {word}
+              </motion.span>
+            ))}
+          </motion.h1>
 
-      <div className="relative z-10 mx-auto max-w-[var(--max-width)] px-5 md:px-8 lg:px-16 w-full">
-        <div className="grid lg:grid-cols-2 gap-12 items-center">
-          <div className="max-w-xl" style={{ backgroundColor: '#1A1A1A' }} data-hero-text="true">
-            <motion.div
-              initial={{ opacity: 0, y: 10 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.6 }}
-              className="inline-flex items-center gap-2 bg-[var(--color-primary)] rounded-full px-4 py-1.5 mb-6"
-            >
-              <span className="w-2 h-2 rounded-full bg-[var(--color-secondary)] animate-pulse" />
-              <span className="text-[var(--color-secondary)] text-sm font-bold">
-                R$1 por burguer doado
-              </span>
-            </motion.div>
-
-            <motion.h1
-              initial={{ opacity: 0, y: 30 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.8, delay: 0.2, ease: [0.25, 0.46, 0.45, 0.94] }}
-              className="font-[var(--font-display)] text-4xl md:text-6xl lg:text-7xl font-bold tracking-tighter leading-none mb-6"
-              style={{ color: '#FAFAF5' }}
-            >
-              {t('hero.title')}
-            </motion.h1>
-
-            <motion.p
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.6, delay: 0.5 }}
-              className="text-lg md:text-xl leading-relaxed mb-8 max-w-[50ch]"
-              style={{ color: '#F2EDE4' }}
-            >
-              {t('hero.subtitle')}
-            </motion.p>
-
-            <div className="flex flex-wrap gap-4">
-              <Button href={deliveryLinks.ifood} variant="primary" className="text-base" style={{ backgroundColor: '#D4A017', color: '#1A1A1A' }}>
-                {t('hero.cta')}
-              </Button>
-              <a href="/cardapio" className="inline-flex items-center justify-center font-semibold rounded-full text-base px-8 border-2 border-white/40 hover:bg-white hover:text-[var(--color-secondary)] transition-all cursor-pointer" style={{ color: '#FAFAF5', backgroundColor: 'transparent', minHeight: '48px', paddingTop: '14px', paddingBottom: '14px' }}>
-                {t('hero.cta_menu')}
-              </a>
-            </div>
-
-            <motion.div
-              initial={{ opacity: 0 }}
-              animate={{ opacity: 1 }}
-              transition={{ delay: 1.2 }}
-              className="flex items-center gap-6 mt-10 text-white/50 text-sm"
-            >
-              <div className="flex items-center gap-2">
-                <span className="text-[var(--color-primary)] font-bold text-lg">4.9</span>
-                <span>iFood</span>
-              </div>
-              <div className="w-px h-4 bg-white/20" />
-              <div className="flex items-center gap-2">
-                <span className="text-[var(--color-primary)] font-bold text-lg">#22</span>
-                <span>TripAdvisor</span>
-              </div>
-              <div className="w-px h-4 bg-white/20" />
-              <div className="flex items-center gap-2">
-                <span className="text-[var(--color-primary)] font-bold text-lg">11</span>
-                <span>anos</span>
-              </div>
-            </motion.div>
-          </div>
+          <motion.p
+            className="text-lg md:text-xl leading-relaxed mb-10 max-w-lg"
+            style={{ color: '#FAFAF5', backgroundColor: '#1A1A1A' }}
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.6, delay: 0.6 }}
+          >
+            {t('hero.subtitle')}
+          </motion.p>
 
           <motion.div
-            initial={{ opacity: 0, scale: 0.9 }}
-            animate={{ opacity: 1, scale: 1 }}
-            transition={{ duration: 1, delay: 0.4 }}
-            className="hidden lg:block"
+            className="flex flex-wrap gap-4"
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.6, delay: 0.8 }}
           >
-            <div className="relative">
-              <img
-                src="/images/classico-rappi.png"
-                alt="Hamburguer Classico artesanal da Usina do Hamburguer"
-                width={560}
-                height={560}
-                className="rounded-2xl shadow-2xl object-cover aspect-square"
-              />
-              <div className="absolute -bottom-4 -left-4 bg-[var(--color-primary)] text-[var(--color-secondary)] rounded-xl px-5 py-3 font-[var(--font-display)] font-bold shadow-lg">
-                +R$200mil doados
-              </div>
-            </div>
+            <a
+              href="https://www.ifood.com.br/delivery/florianopolis-sc/usina-do-hamburguer---trindade-trindade/c32722d8-6ab1-4400-85af-31e5edeb4c9b"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center justify-center px-8 py-4 rounded-full text-base font-bold min-h-[48px] transition-transform hover:scale-105"
+              style={{ backgroundColor: '#D4A017', color: '#1A1A1A' }}
+            >
+              {t('hero.cta')}
+            </a>
+            <Link
+              to="/cardapio"
+              className="inline-flex items-center justify-center px-8 py-4 rounded-full text-base font-bold min-h-[48px] border-2 transition-colors hover:bg-[#D4A017] hover:text-[#1A1A1A] hover:border-[#D4A017]"
+              style={{ borderColor: '#D4A017', color: '#D4A017', backgroundColor: '#1A1A1A' }}
+            >
+              {t('hero.secondary_cta')}
+            </Link>
           </motion.div>
         </div>
       </div>
+
+      {/* Scroll indicator */}
+      <motion.div
+        className="absolute bottom-8 left-1/2 -translate-x-1/2"
+        animate={{ y: [0, 10, 0] }}
+        transition={{ duration: 2, repeat: Infinity, ease: 'easeInOut' }}
+      >
+        <div
+          className="w-6 h-10 rounded-full border-2 flex justify-center pt-2"
+          style={{ borderColor: '#D4A017' }}
+        >
+          <motion.div
+            className="w-1.5 h-1.5 rounded-full"
+            style={{ backgroundColor: '#D4A017' }}
+            animate={{ y: [0, 12, 0], opacity: [1, 0.3, 1] }}
+            transition={{ duration: 2, repeat: Infinity, ease: 'easeInOut' }}
+          />
+        </div>
+      </motion.div>
     </section>
   )
 }

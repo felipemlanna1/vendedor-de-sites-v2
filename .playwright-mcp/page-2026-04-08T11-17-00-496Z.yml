@@ -1,0 +1,409 @@
+- generic [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic [ref=e6]:
+          - generic [ref=e9]:
+            - link [ref=e14] [cursor=pointer]:
+              - /url: /
+              - img [ref=e19]
+            - generic [ref=e22]:
+              - link [ref=e27] [cursor=pointer]:
+                - /url: /
+                - img [ref=e32]
+              - link [ref=e37] [cursor=pointer]:
+                - /url: /reels/
+                - img [ref=e42]
+              - link [ref=e49] [cursor=pointer]:
+                - /url: /direct/inbox/
+                - img [ref=e54]
+              - link [ref=e60] [cursor=pointer]:
+                - /url: /explore/
+                - img [ref=e65]
+              - link [ref=e486] [cursor=pointer]:
+                - /url: "#"
+                - img [ref=e491]
+              - link [ref=e83] [cursor=pointer]:
+                - /url: "#"
+                - img [ref=e88]
+              - link [ref=e94] [cursor=pointer]:
+                - /url: /_pipelinestudio/
+                - link [ref=e99]:
+                  - img [ref=e100]
+            - generic [ref=e101]:
+              - link [ref=e104] [cursor=pointer]:
+                - /url: "#"
+                - img [ref=e109]
+              - link [ref=e112] [cursor=pointer]:
+                - /url: "#"
+                - img [ref=e117]
+          - generic [ref=e120]:
+            - main [ref=e121]:
+              - generic [ref=e122]:
+                - generic [ref=e124]:
+                  - list [ref=e131]:
+                    - listitem [ref=e132]
+                    - listitem [ref=e133]:
+                      - button [ref=e134] [cursor=pointer]:
+                        - link [ref=e139]:
+                          - img [ref=e140]
+                        - generic [ref=e143]: k.mbappe
+                    - listitem [ref=e144]:
+                      - button [ref=e145] [cursor=pointer]:
+                        - link [ref=e150]:
+                          - img [ref=e151]
+                        - generic [ref=e154]: neymarjr
+                  - generic [ref=e156]:
+                    - generic [ref=e494]:
+                      - generic [ref=e496]:
+                        - generic [ref=e498]:
+                          - status [ref=e499]
+                          - generic [ref=e500]:
+                            - status [ref=e501]
+                            - status [ref=e502]
+                        - status [ref=e503]
+                      - article [ref=e504]:
+                        - generic [ref=e505]:
+                          - generic [ref=e507]:
+                            - button [ref=e512] [cursor=pointer]:
+                              - link [ref=e514]:
+                                - img [ref=e515]
+                            - generic [ref=e520]:
+                              - generic [ref=e522]:
+                                - link [ref=e528] [cursor=pointer]:
+                                  - /url: /neymarjr/
+                                  - generic [ref=e531]: neymarjr
+                                - img [ref=e533]
+                              - generic [ref=e535]:
+                                - generic [ref=e537]: •
+                                - link [ref=e539] [cursor=pointer]:
+                                  - /url: /p/DWpykCWl9yr/
+                                  - time [ref=e541]: 5 d
+                            - button [ref=e544] [cursor=pointer]:
+                              - img [ref=e547]
+                          - button [ref=e554]:
+                            - generic [ref=e561]:
+                              - list [ref=e563]:
+                                - listitem [ref=e564]
+                                - listitem [ref=e565]:
+                                  - img [ref=e572]
+                                - listitem [ref=e574]:
+                                  - img [ref=e581]
+                              - button [ref=e583] [cursor=pointer]
+                              - button [ref=e585] [cursor=pointer]
+                          - generic [ref=e589]:
+                            - generic [ref=e590]:
+                              - generic [ref=e591]:
+                                - button [ref=e594] [cursor=pointer]:
+                                  - img [ref=e597]
+                                - button [ref=e599] [cursor=pointer]: 4,3 mi
+                                - button [ref=e601] [cursor=pointer]:
+                                  - img [ref=e603]
+                                - button [ref=e605] [cursor=pointer]: "108"
+                                - button [ref=e606] [cursor=pointer]:
+                                  - img [ref=e607]
+                              - button [ref=e612] [cursor=pointer]:
+                                - button [ref=e613]:
+                                  - img [ref=e615]
+                            - generic [ref=e617]:
+                              - link [ref=e622] [cursor=pointer]:
+                                - /url: /neymarjr/
+                                - generic [ref=e624]:
+                                  - generic [ref=e625]: neymarjr
+                                  - img [ref=e627]
+                              - generic [ref=e629]:
+                                - generic [ref=e631]: 3 pontos importantes… parabéns equipe 🤍🖤 S
+                                - generic [ref=e632]:
+                                  - text: ...
+                                  - button [ref=e633] [cursor=pointer]:
+                                    - generic [ref=e634]: mais
+                      - article [ref=e635]:
+                        - generic [ref=e636]:
+                          - generic [ref=e638]:
+                            - button [ref=e643] [cursor=pointer]:
+                              - link [ref=e645]:
+                                - img [ref=e646]
+                            - generic [ref=e649]:
+                              - generic [ref=e650]:
+                                - generic [ref=e651]:
+                                  - generic [ref=e653]:
+                                    - link [ref=e659] [cursor=pointer]:
+                                      - /url: /pozovdalouca/
+                                      - generic [ref=e662]: pozovdalouca
+                                    - img [ref=e664]
+                                  - generic [ref=e666]:
+                                    - generic [ref=e668]: •
+                                    - link [ref=e670] [cursor=pointer]:
+                                      - /url: /p/DWPcLz3EqE_/
+                                      - time [ref=e672]: 2 sem
+                                - generic [ref=e676]: Sugestões para você
+                              - button [ref=e678] [cursor=pointer]: Seguir
+                            - button [ref=e681] [cursor=pointer]:
+                              - img [ref=e684]
+                          - button [ref=e691]:
+                            - img [ref=e697]
+                          - generic [ref=e701]:
+                            - generic [ref=e702]:
+                              - generic [ref=e703]:
+                                - button [ref=e706] [cursor=pointer]:
+                                  - img [ref=e709]
+                                - button [ref=e711] [cursor=pointer]: 6,1 mil
+                                - button [ref=e713] [cursor=pointer]:
+                                  - img [ref=e715]
+                                - button [ref=e717] [cursor=pointer]: "78"
+                                - button [ref=e718] [cursor=pointer]:
+                                  - img [ref=e719]
+                              - button [ref=e724] [cursor=pointer]:
+                                - button [ref=e725]:
+                                  - img [ref=e727]
+                            - generic [ref=e729]:
+                              - link [ref=e734] [cursor=pointer]:
+                                - /url: /pozovdalouca/
+                                - generic [ref=e736]:
+                                  - generic [ref=e737]: pozovdalouca
+                                  - img [ref=e739]
+                              - generic [ref=e742]: 😡
+                      - article [ref=e743]:
+                        - generic [ref=e744]:
+                          - generic [ref=e746]:
+                            - button [ref=e751] [cursor=pointer]:
+                              - link [ref=e753]:
+                                - img [ref=e754]
+                            - generic [ref=e757]:
+                              - generic [ref=e758]:
+                                - generic [ref=e759]:
+                                  - generic [ref=e761]:
+                                    - link [ref=e767] [cursor=pointer]:
+                                      - /url: /tntsportsbr/
+                                      - generic [ref=e770]: tntsportsbr
+                                    - img [ref=e772]
+                                  - generic [ref=e774]:
+                                    - generic [ref=e776]: •
+                                    - link [ref=e778] [cursor=pointer]:
+                                      - /url: /p/DW132abiUj6/
+                                      - time [ref=e780]: 16 h
+                                - generic [ref=e784]: Sugestões para você
+                              - button [ref=e786] [cursor=pointer]: Seguir
+                            - button [ref=e789] [cursor=pointer]:
+                              - img [ref=e792]
+                          - button [ref=e799]:
+                            - img [ref=e805]
+                          - generic [ref=e809]:
+                            - generic [ref=e810]:
+                              - generic [ref=e811]:
+                                - button [ref=e814] [cursor=pointer]:
+                                  - img [ref=e817]
+                                - button [ref=e819] [cursor=pointer]: 39,8 mil
+                                - button [ref=e821] [cursor=pointer]:
+                                  - img [ref=e823]
+                                - button [ref=e825] [cursor=pointer]: "116"
+                                - button [ref=e826] [cursor=pointer]:
+                                  - img [ref=e827]
+                              - button [ref=e832] [cursor=pointer]:
+                                - button [ref=e833]:
+                                  - img [ref=e835]
+                            - generic [ref=e837]:
+                              - link [ref=e842] [cursor=pointer]:
+                                - /url: /tntsportsbr/
+                                - generic [ref=e844]:
+                                  - generic [ref=e845]: tntsportsbr
+                                  - img [ref=e847]
+                              - generic [ref=e849]:
+                                - generic [ref=e850]: TEM TORCEDOR ESPECIAL NO SANTIAGO BERNABÉU! 🔥🇧🇷💎 Rodrygo é um dos mais de 80 mil torcedores que estão apoiando o Real
+                                - generic [ref=e851]:
+                                  - text: ...
+                                  - button [ref=e852] [cursor=pointer]:
+                                    - generic [ref=e853]: mais
+                    - progressbar [ref=e855]:
+                      - img [ref=e856]
+                - generic [ref=e176]:
+                  - generic [ref=e182]:
+                    - button [disabled] [ref=e185]:
+                      - link [disabled] [ref=e187] [cursor=pointer]:
+                        - /url: /_pipelinestudio/
+                        - img [ref=e188]
+                    - generic [ref=e191]:
+                      - link [ref=e193] [cursor=pointer]:
+                        - /url: /_pipelinestudio/
+                        - text: _pipelinestudio
+                      - generic [ref=e197]: Pipeline Studio
+                    - button [ref=e200] [cursor=pointer]: Mudar
+                  - generic [ref=e203]:
+                    - generic [ref=e204]:
+                      - generic [ref=e206]: Sugestões para você
+                      - link [ref=e207] [cursor=pointer]:
+                        - /url: /explore/people/
+                        - generic [ref=e208]: Ver tudo
+                    - generic [ref=e212]:
+                      - generic [ref=e216]:
+                        - link [ref=e223] [cursor=pointer]:
+                          - /url: /chuckaluck2026/
+                          - img [ref=e224]
+                        - generic [ref=e227]:
+                          - link [ref=e232] [cursor=pointer]:
+                            - /url: /chuckaluck2026/
+                            - generic [ref=e235]: chuckaluck2026
+                          - generic [ref=e237]: Sugestões para você
+                        - button [ref=e240] [cursor=pointer]:
+                          - generic [ref=e242]: Seguir
+                      - generic [ref=e246]:
+                        - link [ref=e253] [cursor=pointer]:
+                          - /url: /ramie_h2s/
+                          - img [ref=e254]
+                        - generic [ref=e257]:
+                          - link [ref=e262] [cursor=pointer]:
+                            - /url: /ramie_h2s/
+                            - generic [ref=e265]: Ramie_heart_found...
+                          - generic [ref=e267]: Sugestões para você
+                        - button [ref=e270] [cursor=pointer]:
+                          - generic [ref=e272]: Seguir
+                      - generic [ref=e276]:
+                        - link [ref=e283] [cursor=pointer]:
+                          - /url: /skylerbrodeth24/
+                          - img [ref=e284]
+                        - generic [ref=e287]:
+                          - link [ref=e292] [cursor=pointer]:
+                            - /url: /skylerbrodeth24/
+                            - generic [ref=e295]: skylerbrodeth24
+                          - generic [ref=e297]: Sugestões para você
+                        - button [ref=e300] [cursor=pointer]:
+                          - generic [ref=e302]: Seguir
+                      - generic [ref=e306]:
+                        - link [ref=e313] [cursor=pointer]:
+                          - /url: /mustapha.b.s/
+                          - img [ref=e314]
+                        - generic [ref=e317]:
+                          - link [ref=e322] [cursor=pointer]:
+                            - /url: /mustapha.b.s/
+                            - generic [ref=e325]: mustapha
+                          - generic [ref=e327]: Sugestões para você
+                        - button [ref=e330] [cursor=pointer]:
+                          - generic [ref=e332]: Seguir
+                      - generic [ref=e336]:
+                        - link [ref=e343] [cursor=pointer]:
+                          - /url: /rizwentmissing/
+                          - img [ref=e344]
+                        - generic [ref=e347]:
+                          - link [ref=e352] [cursor=pointer]:
+                            - /url: /rizwentmissing/
+                            - generic [ref=e355]: rizwentmissing
+                          - generic [ref=e357]: Sugestões para você
+                        - button [ref=e360] [cursor=pointer]:
+                          - generic [ref=e362]: Seguir
+                  - generic [ref=e364]:
+                    - navigation [ref=e365]:
+                      - list [ref=e366]:
+                        - listitem [ref=e367]:
+                          - link [ref=e368] [cursor=pointer]:
+                            - /url: https://about.instagram.com/
+                            - generic [ref=e369]: Sobre
+                          - text: ·
+                        - listitem [ref=e370]:
+                          - link [ref=e371] [cursor=pointer]:
+                            - /url: https://help.instagram.com/
+                            - generic [ref=e372]: Ajuda
+                          - text: ·
+                        - listitem [ref=e373]:
+                          - link [ref=e374] [cursor=pointer]:
+                            - /url: https://about.instagram.com/blog/
+                            - generic [ref=e375]: Imprensa
+                          - text: ·
+                        - listitem [ref=e376]:
+                          - link [ref=e377] [cursor=pointer]:
+                            - /url: https://developers.facebook.com/docs/instagram
+                            - generic [ref=e378]: API
+                          - text: ·
+                        - listitem [ref=e379]:
+                          - link [ref=e380] [cursor=pointer]:
+                            - /url: https://about.instagram.com/about-us/careers
+                            - generic [ref=e381]: Carreiras
+                          - text: ·
+                        - listitem [ref=e382]:
+                          - link [ref=e383] [cursor=pointer]:
+                            - /url: /legal/privacy/
+                            - generic [ref=e384]: Privacidade
+                          - text: ·
+                        - listitem [ref=e385]:
+                          - link [ref=e386] [cursor=pointer]:
+                            - /url: /legal/terms/
+                            - generic [ref=e387]: Termos
+                          - text: ·
+                        - listitem [ref=e388]:
+                          - link [ref=e389] [cursor=pointer]:
+                            - /url: /explore/locations/
+                            - generic [ref=e390]: Localizações
+                          - text: ·
+                        - listitem [ref=e391]:
+                          - link [ref=e392] [cursor=pointer]:
+                            - /url: /language/preferences/
+                            - generic [ref=e393]: Idioma
+                          - text: ·
+                        - listitem [ref=e394]:
+                          - link [ref=e395] [cursor=pointer]:
+                            - /url: /accounts/meta_verified/?entrypoint=web_footer
+                            - generic [ref=e396]: Meta Verified
+                    - generic [ref=e398]: © 2026 Instagram from Meta
+            - contentinfo [ref=e399]:
+              - generic [ref=e400]:
+                - generic [ref=e402]:
+                  - link [ref=e404] [cursor=pointer]:
+                    - /url: https://about.meta.com/
+                    - generic [ref=e405]: Meta
+                  - link [ref=e407] [cursor=pointer]:
+                    - /url: https://about.instagram.com/
+                    - generic [ref=e408]: Sobre
+                  - link [ref=e410] [cursor=pointer]:
+                    - /url: https://about.instagram.com/blog/
+                    - generic [ref=e411]: Blog
+                  - link [ref=e413] [cursor=pointer]:
+                    - /url: https://about.instagram.com/about-us/careers
+                    - generic [ref=e414]: Carreiras
+                  - link [ref=e416] [cursor=pointer]:
+                    - /url: https://help.instagram.com/
+                    - generic [ref=e417]: Ajuda
+                  - link [ref=e419] [cursor=pointer]:
+                    - /url: https://developers.facebook.com/docs/instagram
+                    - generic [ref=e420]: API
+                  - link [ref=e422] [cursor=pointer]:
+                    - /url: /legal/privacy/
+                    - generic [ref=e423]: Privacidade
+                  - link [ref=e425] [cursor=pointer]:
+                    - /url: /legal/terms/
+                    - generic [ref=e426]: Termos
+                  - link [ref=e428] [cursor=pointer]:
+                    - /url: /explore/locations/
+                    - generic [ref=e429]: Localizações
+                  - link [ref=e431] [cursor=pointer]:
+                    - /url: /web/lite/
+                    - generic [ref=e432]: Instagram Lite
+                  - link [ref=e434] [cursor=pointer]:
+                    - /url: https://www.meta.ai/?utm_source=foa_web_footer
+                    - generic [ref=e435]: Meta AI
+                  - link [ref=e437] [cursor=pointer]:
+                    - /url: https://www.threads.com/
+                    - generic [ref=e438]: Threads
+                  - link [ref=e440] [cursor=pointer]:
+                    - /url: https://www.facebook.com/help/instagram/261704639352628
+                    - generic [ref=e441]: Upload de contatos e não usuários
+                  - link [ref=e443] [cursor=pointer]:
+                    - /url: /accounts/meta_verified/?entrypoint=web_footer
+                    - generic [ref=e444]: Meta Verified
+                - generic [ref=e445]:
+                  - generic [ref=e446] [cursor=pointer]:
+                    - generic [ref=e447]:
+                      - generic [ref=e448]: Português (Brasil)
+                      - img [ref=e451]
+                    - combobox [ref=e453]
+                  - generic [ref=e455]: © 2026 Instagram from Meta
+        - button "Mensagens Mensagens" [ref=e457] [cursor=pointer]:
+          - generic [ref=e459]:
+            - img "Mensagens" [ref=e461]
+            - generic [ref=e464]: Mensagens
+  - dialog [ref=e471]:
+    - generic [ref=e475]:
+      - generic [ref=e479]:
+        - heading "Ativar notificações" [active] [level=2] [ref=e480]
+        - generic [ref=e481]: Saiba na hora quando alguém seguir você ou curtir e comentar as suas fotos.
+      - generic [ref=e482]:
+        - button "Ativar" [ref=e483] [cursor=pointer]
+        - button "Agora não" [ref=e484] [cursor=pointer]

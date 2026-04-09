@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elaine-castanheira-arquitetura.pages.dev/sitemap.xml

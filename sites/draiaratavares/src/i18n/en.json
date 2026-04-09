@@ -1,0 +1,110 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Procedures",
+    "results": "Results",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "cta": "Book your consultation"
+  },
+  "hero": {
+    "title": "Sculpting and elevating your beauty",
+    "subtitle": "Facial harmonization with artistry and care in Raul Soares, MG",
+    "cta": "Book your consultation",
+    "cta_secondary": "Explore procedures",
+    "credential": "CRO-MG 55.104"
+  },
+  "about": {
+    "title": "Dra. Iara Tavares",
+    "subtitle": "Dental Surgeon specializing in Facial Harmonization",
+    "description": "Registered under CRO-MG 55.104, Dra. Iara Almeida Tavares brought the art of facial harmonization to Raul Soares and the surrounding region. Each procedure is crafted as a unique work of art, respecting natural features and enhancing the beauty that already exists in you.",
+    "philosophy": "I believe harmonization goes beyond aesthetics — it is about restoring confidence, enhancing identity, and caring for each patient as a unique individual.",
+    "credential_label": "Professional registration",
+    "credential_value": "CRO-MG 55.104",
+    "location_label": "Location",
+    "location_value": "Raul Soares, MG"
+  },
+  "quote1": {
+    "text": "Every face tells a story. My work is to enhance yours."
+  },
+  "services": {
+    "title": "Procedures",
+    "subtitle": "Each treatment is personalized to enhance your natural beauty",
+    "cta": "Wondering which procedure is right for you?",
+    "items": {
+      "harmonizacao": {
+        "name": "Facial Harmonization",
+        "description": "A complete treatment that balances facial features, bringing harmony and proportion to the profile. Each case is individually studied for a natural and elegant result."
+      },
+      "botox": {
+        "name": "Botulinum Toxin",
+        "description": "Smooths expression lines and dynamic wrinkles with precision, preserving the naturalness of facial expressions. A refined and rejuvenating result."
+      },
+      "preenchimento": {
+        "name": "Lip Filler",
+        "description": "Enhances lips with personalized volume and definition, bringing harmony to the face and a subtle, elegant rejuvenation."
+      },
+      "bioestimuladores": {
+        "name": "Collagen Biostimulators",
+        "description": "Stimulates natural collagen production, promoting skin firmness and vitality gradually and with lasting results."
+      },
+      "lipo_papada": {
+        "name": "Chin Liposuction",
+        "description": "Reduces fat accumulation in the chin area, defining the facial contour and restoring lightness to the profile."
+      },
+      "rinomodelacao": {
+        "name": "Non-surgical Rhinoplasty",
+        "description": "Non-surgical nose correction with filler, adjusting proportions and smoothing imperfections without recovery time."
+      },
+      "otomodelacao": {
+        "name": "Ear Reshaping",
+        "description": "Non-surgical correction of ear projection, with immediate and natural results. A simple procedure that transforms self-esteem."
+      }
+    }
+  },
+  "results": {
+    "title": "Results",
+    "subtitle": "Real transformations from patients who trusted Dra. Iara",
+    "cta": "Start your transformation",
+    "disclaimer": "Results may vary according to each patient's individual characteristics."
+  },
+  "stats": {
+    "followers": "Instagram followers",
+    "procedures": "procedures performed",
+    "experience": "years of experience",
+    "satisfaction": "satisfaction rate"
+  },
+  "quote2": {
+    "text": "The beauty I enhance is the one that already exists in you."
+  },
+  "contact": {
+    "title": "Book your consultation",
+    "subtitle": "The first step in your transformation starts here",
+    "whatsapp_cta": "Chat on WhatsApp",
+    "instagram_cta": "Follow on Instagram",
+    "instagram_handle": "@draiaratavares",
+    "location": "Raul Soares, MG",
+    "cro": "CRO-MG 55.104"
+  },
+  "footer": {
+    "copyright": "2026 Dra. Iara Tavares. All rights reserved.",
+    "cro": "CRO-MG 55.104 - Dental Surgeon",
+    "social": "Follow us",
+    "cta": "Talk to Dra. Iara",
+    "disclaimer": "The information on this website is for informational purposes only. Consult a professional for individual assessment."
+  },
+  "lang": {
+    "pt": "Português",
+    "en": "English"
+  },
+  "whatsapp_float": {
+    "label": "Chat on WhatsApp",
+    "aria": "Open WhatsApp chat"
+  },
+  "accessibility": {
+    "skip_to_content": "Skip to main content",
+    "open_menu": "Open menu",
+    "close_menu": "Close menu"
+  }
+}

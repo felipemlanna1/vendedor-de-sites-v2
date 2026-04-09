@@ -1,0 +1,326 @@
+- generic [active] [ref=e1]:
+  - link [ref=e2] [cursor=pointer]:
+    - /url: javascript:;
+  - generic [ref=e4]:
+    - link "":
+      - /url: javascript:;
+      - generic: 
+    - generic [ref=e5]:
+      - list [ref=e7]:
+        - listitem [ref=e8]:
+          - link "Fitness" [ref=e9] [cursor=pointer]:
+            - /url: https://alonsofotografia.com.br/ensaio-fitness-estudio-florianopolis/
+        - listitem [ref=e10]:
+          - link "Contato" [ref=e11] [cursor=pointer]:
+            - /url: https://alonsofotografia.com.br/contato/
+        - listitem [ref=e12]:
+          - link "Formatura" [ref=e13] [cursor=pointer]:
+            - /url: https://alonsofotografia.com.br/fotos-para-formatura-em-estudio/
+        - listitem [ref=e14]:
+          - link "Perfil" [ref=e15] [cursor=pointer]:
+            - /url: https://alonsofotografia.com.br/foto-para-perfil-profissional-em-estudio/
+        - listitem [ref=e16]:
+          - link "Feminino" [ref=e17] [cursor=pointer]:
+            - /url: https://alonsofotografia.com.br/book-feminino-ensaio/
+        - listitem [ref=e18]:
+          - link "Sensual" [ref=e19] [cursor=pointer]:
+            - /url: https://alonsofotografia.com.br/ensaio-sensual-feminino-boudoir/
+        - listitem [ref=e20]:
+          - link "Casal" [ref=e21] [cursor=pointer]:
+            - /url: https://alonsofotografia.com.br/book-casal-precasamento/
+        - listitem [ref=e22]:
+          - link "Masculino" [ref=e23] [cursor=pointer]:
+            - /url: https://alonsofotografia.com.br/book-masculino-externo/
+        - listitem [ref=e24]:
+          - link "Gestante" [ref=e25] [cursor=pointer]:
+            - /url: https://alonsofotografia.com.br/ensaio-gestante-florianopolis/
+        - listitem [ref=e26]:
+          - link "Família" [ref=e27] [cursor=pointer]:
+            - /url: https://alonsofotografia.com.br/fotografia-familiar/
+        - listitem [ref=e28]:
+          - link "Airbnb" [ref=e29] [cursor=pointer]:
+            - /url: https://alonsofotografia.com.br/fotografia-para-airbnb-florianopolis/
+        - listitem [ref=e30]:
+          - link "Pousadas" [ref=e31] [cursor=pointer]:
+            - /url: https://alonsofotografia.com.br/fotografia-para-hoteis/
+        - listitem [ref=e32]:
+          - link "Produto" [ref=e33] [cursor=pointer]:
+            - /url: https://alonsofotografia.com.br/fotografia-de-produtos/
+        - listitem [ref=e34]:
+          - link "Visto Americano" [ref=e35] [cursor=pointer]:
+            - /url: https://alonsofotografia.com.br/foto-para-visto-americano-foto-5x5/
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - list
+      - list [ref=e37]:
+        - listitem [ref=e38]:
+          - link "" [ref=e39] [cursor=pointer]:
+            - /url: https://www.facebook.com/AlonsoFotografiaFlorianopolis/
+            - generic [ref=e40]: 
+        - listitem [ref=e41]:
+          - link "" [ref=e42] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/alonso-fotografia-6ab2b326/pt
+            - generic [ref=e43]: 
+        - listitem [ref=e44]:
+          - link "" [ref=e45] [cursor=pointer]:
+            - /url: https://instagram.com/@alonsofotografiafloripa
+            - generic [ref=e46]: 
+  - generic [ref=e47]:
+    - generic [ref=e51]:
+      - link [ref=e54] [cursor=pointer]:
+        - /url: https://alonsofotografia.com.br/
+      - generic [ref=e56]:
+        - list [ref=e59]:
+          - listitem [ref=e60]:
+            - link "ENSAIOS " [ref=e61] [cursor=pointer]:
+              - /url: https://alonsofotografia.com.br/books-fotograficos/
+          - listitem [ref=e62]:
+            - link "AIRBNB " [ref=e63] [cursor=pointer]:
+              - /url: https://alonsofotografia.com.br/fotografia-para-airbnb-florianopolis/
+          - listitem [ref=e64]:
+            - link "PRODUTO" [ref=e65] [cursor=pointer]:
+              - /url: https://alonsofotografia.com.br/fotografia-de-produtos/
+          - listitem [ref=e66]:
+            - link "ALONSO " [ref=e67] [cursor=pointer]:
+              - /url: http://alonsofotografia.com.br/quem-somos/
+          - listitem [ref=e68]:
+            - link "CONTATO" [ref=e69] [cursor=pointer]:
+              - /url: https://alonsofotografia.com.br/contato/
+        - link [ref=e71] [cursor=pointer]:
+          - /url: javascript:;
+    - generic [ref=e72]:
+      - generic:
+        - generic:
+          - generic [ref=e76]:
+            - generic [ref=e78]:
+              - heading "Dra. Ariel Córdova Rosa – Dermatologista" [level=5] [ref=e79]:
+                - link "Dra. Ariel Córdova Rosa – Dermatologista" [ref=e80] [cursor=pointer]:
+                  - /url: https://alonsofotografia.com.br/testimonials/dra-ariel-cordova-rosa-dermatologista/
+              - generic [ref=e81]:
+                - generic:
+                  - link "Dra. Ariel Córdova Rosa – Dermatologista":
+                    - /url: https://alonsofotografia.com.br/testimonials/dra-ariel-cordova-rosa-dermatologista/
+                - generic [ref=e82]:
+                  - text: By
+                  - link "Alonso Fotografia" [ref=e83] [cursor=pointer]:
+                    - /url: https://alonsofotografia.com.br/author/admin/
+                - generic [ref=e84]:
+                  - text: With
+                  - link "0 Comment" [ref=e85] [cursor=pointer]:
+                    - /url: https://alonsofotografia.com.br/testimonials/dra-ariel-cordova-rosa-dermatologista/#respond
+            - heading "Foto perfil profissional dermatologista" [level=6] [ref=e86]:
+              - img "Foto perfil profissional dermatologista" [ref=e87]
+            - heading "Dra. Ariel Córdova Rosa – Dermatologista" [level=6] [ref=e88]
+            - paragraph [ref=e89]: “Atencioso, cuidadoso, as fotos ficaram excelentes! Recomendo!“
+            - paragraph [ref=e90]:
+              - strong [ref=e91]:
+                - emphasis [ref=e92]: "Ensaio realizado:"
+              - emphasis [ref=e93]: Fotos de Perfil Profissional em estúdio
+            - separator [ref=e94]
+            - generic [ref=e98]:
+              - generic [ref=e99]: Author
+              - generic [ref=e100]: Alonso Fotografia
+              - list
+            - separator [ref=e101]
+          - generic [ref=e103]:
+            - generic:
+              - list:
+                - listitem [ref=e104]:
+                  - heading "Sobre Alonso" [level=2] [ref=e105]:
+                    - heading "Sobre Alonso" [level=2] [ref=e107]
+                  - separator [ref=e108]
+                  - generic [ref=e109]:
+                    - img [ref=e111]
+                    - generic [ref=e112]: Olá, tudo bem?Meu nome é Alonso, sou fotógrafo profissional há mais de 25 anos.Gosto de fazer de meus ensaios uma experiência positiva (e muitas vezes até divertida) a meus clientes. A ideia é fazer do ensaio a melhor experiência possível. Ah, e eu tenho certeza que você vai gostar do seu ensaio fotográfico!Para mim, o bom atendimento, a cordialidade, o profissionalismo são fundamentais para um ótimo resultado. E é isso que ofereço.
+                - listitem [ref=e113]:
+                  - search [ref=e114]:
+                    - generic [ref=e115]:
+                      - generic [ref=e116]: "Pesquisar por:"
+                      - textbox "Pesquisar por:" [ref=e117]
+                      - button "Pesquisar" [ref=e118] [cursor=pointer]
+                - listitem [ref=e119]:
+                  - heading "Páginas" [level=2] [ref=e120]
+                  - separator [ref=e121]
+                  - list [ref=e122]:
+                    - listitem [ref=e123]:
+                      - link "Alonso Fotografia" [ref=e124] [cursor=pointer]:
+                        - /url: https://alonsofotografia.com.br/
+                    - listitem [ref=e125]:
+                      - link "Amostra estúdio" [ref=e126] [cursor=pointer]:
+                        - /url: https://alonsofotografia.com.br/amostra-estudio/
+                    - listitem [ref=e127]:
+                      - link "Blog de Alonso Fotografia" [ref=e128] [cursor=pointer]:
+                        - /url: https://alonsofotografia.com.br/blog/
+                    - listitem [ref=e129]:
+                      - link "Book bebê" [ref=e130] [cursor=pointer]:
+                        - /url: https://alonsofotografia.com.br/foto-book-bebe/
+                    - listitem [ref=e131]:
+                      - link "Book casal | Pré-casamento" [ref=e132] [cursor=pointer]:
+                        - /url: https://alonsofotografia.com.br/book-casal-precasamento/
+                    - listitem [ref=e133]:
+                      - link "Book feminino" [ref=e134] [cursor=pointer]:
+                        - /url: https://alonsofotografia.com.br/book-feminino-ensaio/
+                    - listitem [ref=e135]:
+                      - link "Book fotográfico infantil" [ref=e136] [cursor=pointer]:
+                        - /url: https://alonsofotografia.com.br/book-fotografico-infantil/
+                    - listitem [ref=e137]:
+                      - link "Contato fotógrafo" [ref=e138] [cursor=pointer]:
+                        - /url: https://alonsofotografia.com.br/contato/
+                    - listitem [ref=e139]:
+                      - link "Depoimentos dos nossos clientes :)" [ref=e140] [cursor=pointer]:
+                        - /url: https://alonsofotografia.com.br/depoimento/
+                    - listitem [ref=e141]:
+                      - link "Ensaio de gestante" [ref=e142] [cursor=pointer]:
+                        - /url: https://alonsofotografia.com.br/ensaio-gestante-florianopolis/
+                    - listitem [ref=e143]:
+                      - link "Ensaio de gestante em estúdio em Florianópolis" [ref=e144] [cursor=pointer]:
+                        - /url: https://alonsofotografia.com.br/ensaio-de-gestante-em-estudio-em-florianopolis/
+                    - listitem [ref=e145]:
+                      - link "Ensaio Fitness em Estúdio em Florianópolis" [ref=e146] [cursor=pointer]:
+                        - /url: https://alonsofotografia.com.br/ensaio-fitness-estudio-florianopolis/
+                    - listitem [ref=e147]:
+                      - link "Ensaio masculino em estúdio ou externo" [ref=e148] [cursor=pointer]:
+                        - /url: https://alonsofotografia.com.br/book-masculino-externo/
+                    - listitem [ref=e149]:
+                      - link "Ensaio sensual feminino" [ref=e150] [cursor=pointer]:
+                        - /url: https://alonsofotografia.com.br/ensaio-sensual-feminino-boudoir/
+                    - listitem [ref=e151]:
+                      - link "Estúdio fotográfico em Florianópolis" [ref=e152] [cursor=pointer]:
+                        - /url: https://alonsofotografia.com.br/estudio-fotografico-em-florianopolis/
+                    - listitem [ref=e153]:
+                      - link "Foto de empresas e lojas" [ref=e154] [cursor=pointer]:
+                        - /url: https://alonsofotografia.com.br/foto-de-empresas-e-lojas/
+                    - listitem [ref=e155]:
+                      - link "Foto para perfil profissional em estúdio" [ref=e156] [cursor=pointer]:
+                        - /url: https://alonsofotografia.com.br/foto-para-perfil-profissional-em-estudio/
+                    - listitem [ref=e157]:
+                      - link "Foto para Visto Americano foto 5×5" [ref=e158] [cursor=pointer]:
+                        - /url: https://alonsofotografia.com.br/foto-para-visto-americano-foto-5x5/
+                    - listitem [ref=e159]:
+                      - link "Fotografia de Produtos" [ref=e160] [cursor=pointer]:
+                        - /url: https://alonsofotografia.com.br/fotografia-de-produtos/
+                    - listitem [ref=e161]:
+                      - link "Fotografia documental de família" [ref=e162] [cursor=pointer]:
+                        - /url: https://alonsofotografia.com.br/fotografia-documental-de-familia/
+                    - listitem [ref=e163]:
+                      - link "Fotografia familiar" [ref=e164] [cursor=pointer]:
+                        - /url: https://alonsofotografia.com.br/fotografia-familiar/
+                    - listitem [ref=e165]:
+                      - link "Fotografia para Airbnb em Florianópolis e SC" [ref=e166] [cursor=pointer]:
+                        - /url: https://alonsofotografia.com.br/fotografia-para-airbnb-florianopolis/
+                    - listitem [ref=e167]:
+                      - link "Fotografia para Hotéis e Pousadas" [ref=e168] [cursor=pointer]:
+                        - /url: https://alonsofotografia.com.br/fotografia-para-hoteis/
+                    - listitem [ref=e169]:
+                      - link "Fotógrafo Florianópolis" [ref=e170] [cursor=pointer]:
+                        - /url: https://alonsofotografia.com.br/fotografo-florianopolis/
+                    - listitem [ref=e171]:
+                      - link "Fotos para Formatura em Estúdio" [ref=e172] [cursor=pointer]:
+                        - /url: https://alonsofotografia.com.br/fotos-para-formatura-em-estudio/
+                    - listitem [ref=e173]:
+                      - link "Prêmios de Alonso Fotografia" [ref=e174] [cursor=pointer]:
+                        - /url: https://alonsofotografia.com.br/premios/
+                    - listitem [ref=e175]:
+                      - link "Quem somos" [ref=e176] [cursor=pointer]:
+                        - /url: https://alonsofotografia.com.br/quem-somos/
+    - generic [ref=e177]:
+      - list:
+        - listitem [ref=e178]:
+          - heading "Alonso Fotografia" [level=2] [ref=e179]:
+            - heading "Alonso Fotografia" [level=2] [ref=e181]
+          - separator [ref=e182]
+          - generic [ref=e183]:
+            - img [ref=e185]
+            - generic [ref=e186]: Entre em contato!
+        - listitem [ref=e187]:
+          - heading "ESTÚDIO FOTOGRÁFICO" [level=2] [ref=e188]
+          - separator [ref=e189]
+          - generic [ref=e190]:
+            - paragraph [ref=e191]:
+              - img "icon whatsapp" [ref=e192]
+              - text: (48) 99823 0020
+            - paragraph [ref=e193]:
+              - strong [ref=e194]: "Endereço do Estúdio:"
+              - text: R. Lauro Linhares, 2123
+              - text: Trindade Shopping
+              - text: Sala 206 – B
+              - text: Florianópolis, SC
+            - paragraph [ref=e195]:
+              - strong [ref=e196]:
+                - emphasis [ref=e197]: "*Atendemos somente com hora marcada"
+              - text: ____________
+            - paragraph [ref=e198]:
+              - link "Mapa do Site" [ref=e199] [cursor=pointer]:
+                - /url: http://alonsofotografia.com.br/mapa-do-site/
+        - listitem [ref=e200]:
+          - heading "Tags" [level=2] [ref=e201]
+          - separator [ref=e202]
+          - generic [ref=e203]:
+            - link "Ator" [ref=e204] [cursor=pointer]:
+              - /url: https://alonsofotografia.com.br/tag/ator/
+            - link "Atriz" [ref=e205] [cursor=pointer]:
+              - /url: https://alonsofotografia.com.br/tag/atriz/
+            - link "Book Agência" [ref=e206] [cursor=pointer]:
+              - /url: https://alonsofotografia.com.br/tag/agencia/
+            - link "Ensaio Feminino" [ref=e207] [cursor=pointer]:
+              - /url: https://alonsofotografia.com.br/tag/feminino/
+            - link "Ensaio Gestante" [ref=e208] [cursor=pointer]:
+              - /url: https://alonsofotografia.com.br/tag/gestante/
+            - link "Ensaio masculino" [ref=e209] [cursor=pointer]:
+              - /url: https://alonsofotografia.com.br/tag/masculino/
+            - link "Estúdio fotográfico" [ref=e210] [cursor=pointer]:
+              - /url: https://alonsofotografia.com.br/tag/estudio-fotografico/
+            - link "Florianópolis" [ref=e211] [cursor=pointer]:
+              - /url: https://alonsofotografia.com.br/tag/florianopolis/
+            - link "Formatura em estúdio" [ref=e212] [cursor=pointer]:
+              - /url: https://alonsofotografia.com.br/tag/formatura-em-estudio/
+            - link "fotos perfil" [ref=e213] [cursor=pointer]:
+              - /url: https://alonsofotografia.com.br/tag/fotos-perfil/
+            - link "Fotógrafo Florianópolis" [ref=e214] [cursor=pointer]:
+              - /url: https://alonsofotografia.com.br/tag/fotografo-florianopolis/
+            - link "Modelo" [ref=e215] [cursor=pointer]:
+              - /url: https://alonsofotografia.com.br/tag/modelo/
+            - link "perfil profissional" [ref=e216] [cursor=pointer]:
+              - /url: https://alonsofotografia.com.br/tag/perfil-profissional/
+            - link "Praias" [ref=e217] [cursor=pointer]:
+              - /url: https://alonsofotografia.com.br/tag/praias/
+            - link "Pré-casamento" [ref=e218] [cursor=pointer]:
+              - /url: https://alonsofotografia.com.br/tag/pre-casamento/
+            - link "retrato corporativo" [ref=e219] [cursor=pointer]:
+              - /url: https://alonsofotografia.com.br/tag/retrato-corporativo/
+        - listitem [ref=e220]:
+          - heading "Redes Sociais" [level=2] [ref=e221]:
+            - heading "Redes Sociais" [level=2] [ref=e223]
+          - separator [ref=e224]
+          - list [ref=e226]:
+            - listitem [ref=e227]:
+              - link "" [ref=e228] [cursor=pointer]:
+                - /url: https://www.facebook.com/AlonsoFotografiaFlorianopolis/
+                - generic [ref=e229]: 
+            - listitem [ref=e230]:
+              - link "" [ref=e231] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/alonso-fotografia-6ab2b326/pt
+                - generic [ref=e232]: 
+            - listitem [ref=e233]:
+              - link "" [ref=e234] [cursor=pointer]:
+                - /url: https://instagram.com/@alonsofotografiafloripa
+                - generic [ref=e235]: 
+        - listitem [ref=e236]:
+          - paragraph [ref=e237]:
+            - strong [ref=e238]:
+              - link "O que fazer em Florianópolis 2026" [ref=e239] [cursor=pointer]:
+                - /url: https://alonsofotografia.com.br/o-que-fazer-em-florianopolis/
+        - listitem [ref=e240]:
+          - figure [ref=e241]:
+            - link "O que fazer em Florianópolis" [ref=e242] [cursor=pointer]:
+              - /url: https://alonsofotografia.com.br/o-que-fazer-em-florianopolis/
+              - img "O que fazer em Florianópolis" [ref=e243]
+    - generic [ref=e245]:
+      - generic [ref=e246]: © Copyright Alonso Fotografia - Todos os direitos reservados - Fotógrafo Florianópolis
+      - link "" [ref=e247] [cursor=pointer]:
+        - /url: javascript:;
+        - generic [ref=e248]: 
+  - generic [ref=e251] [cursor=pointer]:
+    - img

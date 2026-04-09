@@ -1,0 +1,318 @@
+{
+  "current_phase": 7,
+  "lead_id": "mariana-galante",
+  "nome": "Mariana Galante",
+  "cidade": "MG",
+  "nicho": "arquiteta",
+  "strategy": "generic",
+  "source": "instagram",
+  "discovered_urls": {
+    "site_url": "",
+    "instagram_username": "mg.arqdecor",
+    "facebook_url": "https://www.facebook.com/marianagalante.interiorista/",
+    "google_maps_url": "",
+    "platform_urls": {}
+  },
+  "data_points": [
+    {
+      "category": "presence",
+      "label": "Instagram confirmado",
+      "value": "@mg.arqdecor",
+      "detail": {
+        "followers": 4042,
+        "following": 2732,
+        "posts": 153,
+        "bio": "Arquiteta Mariana Galante - Transformando sonhos em realidade. Projetos online para todo Brasil. 8 anos transformando espacos.",
+        "platform": "instagram",
+        "has_linktree": true
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:17:51.607470+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Facebook encontrado",
+      "value": "Mariana Galante Interiorista",
+      "detail": {
+        "url": "https://www.facebook.com/marianagalante.interiorista/",
+        "platform": "facebook"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:17:51.607470+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "LinkedIn encontrado (Argentina)",
+      "value": "Mariana Galante - Fundacion Banco Nacion",
+      "detail": {
+        "url": "https://ar.linkedin.com/in/marianagalante",
+        "note": "Pode ser homonima - LinkedIn argentino, verificar",
+        "platform": "linkedin"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:17:51.607470+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Sem site proprio",
+      "value": "Nenhum site/portfolio encontrado",
+      "detail": {
+        "note": "Lead sem website, usa apenas Instagram e LinkTree como presenca digital",
+        "opportunity": "Alta - sem site proprio"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:17:51.607470+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Sem Google Maps",
+      "value": "Nenhum perfil Google Business encontrado",
+      "detail": {
+        "note": "Nao possui perfil no Google Maps/Business"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:17:51.607470+00:00"
+    },
+    {
+      "category": "history",
+      "label": "Experiencia profissional",
+      "value": "8 anos de experiencia",
+      "detail": {
+        "description": "8 anos transformando espacos, projetos online para todo Brasil",
+        "nicho": "arquitetura e decoracao"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (Instagram bio)",
+      "fetched_at": "2026-04-08T00:17:51.607470+00:00"
+    },
+    {
+      "category": "reviews",
+      "label": "Avaliacoes",
+      "value": "Nenhuma avaliacao publica encontrada",
+      "detail": {
+        "note": "Sem avaliacoes no Google, Facebook ou plataformas especializadas"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:17:51.607470+00:00"
+    },
+    {
+      "category": "identity",
+      "label": "CNPJ",
+      "value": "Nao encontrado",
+      "detail": {
+        "note": "Buscas por CNPJ nao retornaram empresa de arquitetura em MG vinculada a Mariana Galante. Homonima em SP (publicidade) descartada.",
+        "homonima": "Mariana Galante De Carvalho - SP - publicidade/comunicacao - NAO E a mesma pessoa"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch + CNPJ Services",
+      "fetched_at": "2026-04-08T00:19:08.712835+00:00"
+    },
+    {
+      "category": "professional_registry",
+      "label": "CAU (Conselho de Arquitetura e Urbanismo)",
+      "value": "Nao encontrado via busca web",
+      "detail": {
+        "note": "Registro CAU nao localizado via WebSearch. Portal acheumarquiteto.caubr.gov.br requer busca direta no formulario.",
+        "provavel": true,
+        "motivo": "Arquiteta com 8 anos de experiencia provavelmente tem CAU ativo mas numero nao e publico nas buscas"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:19:08.712835+00:00"
+    },
+    {
+      "category": "website",
+      "label": "Website",
+      "value": "Nao possui site",
+      "detail": {
+        "status": "sem_site",
+        "note": "Lead usa apenas Instagram e LinkTree como presenca digital. Oportunidade alta para venda de site."
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-08T00:19:39.183293+00:00"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Plataformas de arquitetura",
+      "value": "Nenhuma presenca encontrada",
+      "detail": {
+        "archdaily": "Nao encontrado",
+        "vivadecora": "Nao encontrado",
+        "houzz": "Nao encontrado",
+        "homify": "Nao encontrado",
+        "behance": "Nao encontrado",
+        "casacor": "Nao encontrado",
+        "reclameaqui": "Nao encontrado",
+        "note": "Lead nao tem presenca em plataformas especializadas de arquitetura"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:20:47.205751+00:00"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Pinterest",
+      "value": "Perfil encontrado mas nao confirmado",
+      "detail": {
+        "url": "https://www.pinterest.com/marianagalante/",
+        "note": "Perfil pinterest.com/marianagalante existe mas nao foi possivel confirmar se e a mesma pessoa (conteudo nao acessivel via WebFetch)",
+        "platform": "pinterest"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:20:47.205751+00:00"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Presenca digital resumo",
+      "value": "Apenas Instagram + Facebook + LinkTree",
+      "detail": {
+        "instagram": "@mg.arqdecor (principal)",
+        "facebook": "Mariana Galante Interiorista",
+        "linktree": "Presente na bio do Instagram",
+        "oportunidade": "Lead com presenca digital limitada - grande oportunidade de site profissional"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-08T00:20:47.205751+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Perfil Instagram (referencia)",
+      "value": "https://www.instagram.com/mg.arqdecor/",
+      "detail": {
+        "urls": [
+          "https://www.instagram.com/mg.arqdecor/"
+        ],
+        "tipo": "profile_pic",
+        "fonte": "WebSearch (Instagram)",
+        "note": "URL do perfil - imagem real requer Playwright para extrair og:image. Playwright indisponivel nesta sessao.",
+        "playwright_unavailable": true
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:22:17.194000+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Facebook Mariana Galante Interiorista",
+      "value": "https://www.facebook.com/marianagalante.interiorista/",
+      "detail": {
+        "urls": [
+          "https://www.facebook.com/marianagalante.interiorista/"
+        ],
+        "tipo": "profile_pic",
+        "fonte": "WebSearch (Facebook)",
+        "note": "Perfil Facebook - imagem real requer navegacao"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:22:17.194000+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Instagram posts referencia",
+      "value": "153 posts no Instagram @mg.arqdecor",
+      "detail": {
+        "urls": [],
+        "tipo": "post",
+        "fonte": "WebSearch (Instagram)",
+        "note": "153 posts de projetos de arquitetura e decoracao disponiveis no perfil. Imagens reais requerem Playwright para extracao.",
+        "total_posts": 153,
+        "instagram_username": "mg.arqdecor",
+        "playwright_unavailable": true
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:22:17.194000+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Bio Instagram completa",
+      "value": "Eu transformo o seu SONHO em REALIDADE! Projetos online para todo Brasil! 08 anos transformando espacos",
+      "detail": {
+        "bio_full": "Eu transformo o seu SONHO em REALIDADE! Projetos online para todo Brasil! 08 anos transformando espacos",
+        "followers": 4042,
+        "following": 2732,
+        "posts": 153,
+        "tipo": "bio_data",
+        "fonte": "WebSearch"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:22:17.194000+00:00"
+    },
+    {
+      "category": "brand",
+      "label": "Padroes da marca",
+      "value": "Arquitetura e decoracao com tom aspiracional e acessivel",
+      "detail": {
+        "cores": [
+          "nao identificadas - sem site, apenas Instagram"
+        ],
+        "tom": "informal-aspiracional",
+        "publico_alvo": "Proprietarios de imoveis em todo Brasil que buscam projetos de arquitetura e decoracao online, classe media-alta",
+        "estilo_visual": "Profissional com toque pessoal, foco em transformacao de espacos",
+        "slogan": "Eu transformo o seu SONHO em REALIDADE!",
+        "nome_marca": "MG ArqDecor"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-08T00:23:27.220075+00:00"
+    },
+    {
+      "category": "competitors",
+      "label": "Concorrentes com site",
+      "value": "5 encontrados",
+      "detail": [
+        "Papo de Arquiteta - https://papodearquiteta.com.br/",
+        "MCampos Arquitetura - https://www.mcamposarquitetura.com/",
+        "Doppio Arquitetura e Interiores - LinkedIn",
+        "Ana Flavia Arquiteta - Facebook (sem site)",
+        "Landhi Profissionais - https://www.landhi.com.br/profissionais/arquitetos/"
+      ],
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T00:23:27.220075+00:00"
+    }
+  ],
+  "phases": {
+    "phase_1": {
+      "status": "complete"
+    },
+    "phase_2": {
+      "status": "complete",
+      "result": "2 URLs descobertas (Instagram, Facebook), 7 data_points coletados"
+    },
+    "phase_3": {
+      "status": "complete",
+      "result": "CNPJ nao encontrado, CAU nao localizado via web. 2 data_points registrados."
+    },
+    "phase_4": {
+      "status": "complete",
+      "result": "Sem site - 1 data_point registrado"
+    },
+    "phase_5": {
+      "status": "complete",
+      "result": "Nenhuma plataforma especializada encontrada. Presenca limitada a Instagram + Facebook + LinkTree."
+    },
+    "phase_6": {
+      "status": "complete",
+      "result": "Playwright indisponivel. 4 data_points de imagem/referencia coletados via WebSearch. Instagram @mg.arqdecor com 153 posts identificados para extracao futura.",
+      "playwright_unavailable": true
+    },
+    "phase_7": {
+      "status": "complete",
+      "result": "Briefing salvo no vendedor.db. Sales score: 7/10. 19 data_points."
+    }
+  },
+  "started_at": "2026-04-07T21:15:52.416674",
+  "completed_at": "2026-04-07T21:23:27.221642"
+}

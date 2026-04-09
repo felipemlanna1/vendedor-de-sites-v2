@@ -17,7 +17,7 @@ i18n
     interpolation: { escapeValue: false },
     detection: {
       order: ['querystring', 'localStorage', 'navigator'],
-      lookupQuerystring: 'lang',
+      lookupQuerystring: 'lng',
       caches: ['localStorage'],
     },
   })

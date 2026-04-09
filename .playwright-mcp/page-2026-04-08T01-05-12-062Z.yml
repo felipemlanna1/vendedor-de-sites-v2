@@ -1,0 +1,145 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e88] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e93]
+        - link "Foto do perfil de _pipelinestudio" [ref=e99] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e104]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e105]
+      - generic [ref=e106]:
+        - link "Configurações" [ref=e109] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e114]
+        - link "Também da Meta" [ref=e117] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e122]
+    - main [ref=e126]:
+      - generic [active] [ref=e127]:
+        - generic [ref=e130]:
+          - generic [ref=e132]:
+            - img
+            - group "Video player" [ref=e139]:
+              - generic [ref=e140]:
+                - button "0 Vídeos do Reels de dra_giovannalima Vídeos do Reels de dra_giovannalima Imagem do áudio Marília Mendonça · Leão Marília Mendonça · Leão Seguir “Vamos ver o passo a passo de um implante dentário🦷✨" [ref=e141] [cursor=pointer]:
+                  - slider "Ajustar volume" [ref=e142]:
+                    - button "O áudio está silenciado" [ref=e146]:
+                      - img "O áudio está silenciado" [ref=e147]
+                  - generic [ref=e152]:
+                    - generic [ref=e153]:
+                      - generic [ref=e155]:
+                        - link "Vídeos do Reels de dra_giovannalima" [ref=e156]:
+                          - /url: /dra_giovannalima/reels/
+                          - link "Foto do perfil de dra_giovannalima" [ref=e159]:
+                            - img "Foto do perfil de dra_giovannalima" [ref=e160]
+                        - generic [ref=e161]:
+                          - link "Vídeos do Reels de dra_giovannalima" [ref=e163]:
+                            - /url: /dra_giovannalima/reels/
+                            - generic [ref=e164]: dra_giovannalima
+                          - link "Imagem do áudio Marília Mendonça · Leão Marília Mendonça · Leão" [ref=e169]:
+                            - /url: /reels/audio/534553978571792/
+                            - generic [ref=e170]:
+                              - img "Imagem do áudio" [ref=e172]
+                              - generic [ref=e174]:
+                                - generic [ref=e177]: Marília Mendonça · Leão
+                                - generic [ref=e181]: Marília Mendonça · Leão
+                      - button "Seguir" [ref=e185]
+                    - button "“Vamos ver o passo a passo de um implante dentário🦷✨" [ref=e186]:
+                      - generic [ref=e188]:
+                        - generic [ref=e189]: “Vamos ver o passo a passo de um implante dentário🦷✨
+                        - generic [ref=e190]: … mais
+                - button "Pressionar para reproduzir" [ref=e192] [cursor=pointer]:
+                  - img "Ícone do botão Reproduzir" [ref=e194]
+          - generic [ref=e196]:
+            - generic [ref=e197] [cursor=pointer]:
+              - button "Curtir" [ref=e200]:
+                - img "Curtir" [ref=e203]
+              - button "39" [ref=e205]:
+                - generic [ref=e209]: "39"
+            - button "Comentar" [ref=e211] [cursor=pointer]:
+              - img "Comentar" [ref=e213]
+            - button "Compartilhar" [ref=e216] [cursor=pointer]:
+              - img "Compartilhar" [ref=e217]
+            - button "Salvar" [ref=e222] [cursor=pointer]:
+              - button "Salvar" [ref=e223]:
+                - img "Salvar" [ref=e225]
+            - button "Mais" [ref=e228] [cursor=pointer]:
+              - img "Mais" [ref=e230]
+            - link "Imagem do áudio" [ref=e235] [cursor=pointer]:
+              - /url: /reels/audio/534553978571792/
+              - img "Imagem do áudio" [ref=e238]
+        - generic [ref=e242]:
+          - generic [ref=e244]:
+            - img
+            - group "Video player" [ref=e251]:
+              - generic [ref=e252]:
+                - button "0 Vídeos do Reels de saborcasal_ Vídeos do Reels de saborcasal_ Seguir ❄️🌍 Curiosidades sobre o Polo Norte que parecem irreais! 🌍❄️" [ref=e253] [cursor=pointer]:
+                  - slider "Ajustar volume" [ref=e254]:
+                    - button "O áudio está silenciado" [ref=e258]:
+                      - img "O áudio está silenciado" [ref=e259]
+                  - generic [ref=e264]:
+                    - generic [ref=e265]:
+                      - generic [ref=e267]:
+                        - link "Vídeos do Reels de saborcasal_" [ref=e268]:
+                          - /url: /saborcasal_/reels/
+                          - link "Foto do perfil de saborcasal_" [ref=e271]:
+                            - img "Foto do perfil de saborcasal_" [ref=e272]
+                        - link "Vídeos do Reels de saborcasal_" [ref=e275]:
+                          - /url: /saborcasal_/reels/
+                          - generic [ref=e276]: saborcasal_
+                      - button "Seguir" [ref=e279]
+                    - button "❄️🌍 Curiosidades sobre o Polo Norte que parecem irreais! 🌍❄️" [ref=e280]:
+                      - generic [ref=e282]:
+                        - generic [ref=e283]: ❄️🌍 Curiosidades sobre o Polo Norte que parecem irreais! 🌍❄️
+                        - generic [ref=e284]: … mais
+                - button "Pressionar para reproduzir" [ref=e286] [cursor=pointer]:
+                  - img "Ícone do botão Reproduzir" [ref=e288]
+          - generic [ref=e290]:
+            - generic [ref=e291] [cursor=pointer]:
+              - button "Curtir" [ref=e294]:
+                - img "Curtir" [ref=e297]
+              - button "103 mil" [ref=e299]:
+                - generic [ref=e303]: 103 mil
+            - button "Comentar 1.182" [ref=e305] [cursor=pointer]:
+              - generic [ref=e306]:
+                - img "Comentar" [ref=e307]
+                - generic [ref=e312]: "1.182"
+            - button "Compartilhar" [ref=e314] [cursor=pointer]:
+              - img "Compartilhar" [ref=e315]
+            - button "Salvar" [ref=e320] [cursor=pointer]:
+              - button "Salvar" [ref=e321]:
+                - img "Salvar" [ref=e323]
+            - button "Mais" [ref=e326] [cursor=pointer]:
+              - img "Mais" [ref=e328]
+            - link "Imagem do áudio" [ref=e333] [cursor=pointer]:
+              - /url: /reels/audio/26168255316117190/
+              - img "Imagem do áudio" [ref=e336]
+      - toolbar "Reels navigation controls" [ref=e338]:
+        - button "Navegar para o reel anterior" [ref=e339] [cursor=pointer]:
+          - img [ref=e341]
+        - button "Navegar para o próximo reel" [ref=e343] [cursor=pointer]:
+          - img [ref=e345]
+  - button "Mensagens Mensagens" [ref=e348] [cursor=pointer]:
+    - generic [ref=e350]:
+      - img "Mensagens" [ref=e352]
+      - generic [ref=e355]: Mensagens

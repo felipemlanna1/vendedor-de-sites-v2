@@ -1,0 +1,126 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "services": "Serviços",
+    "portfolio": "Projetos",
+    "credentials": "Credenciais",
+    "contact": "Contato",
+    "cta": "Solicitar Orçamento"
+  },
+  "hero": {
+    "title": "Ambientes que envelhecem com você",
+    "subtitle": "Arquitetura de interiores residencial em Florianópolis",
+    "cta": "Orçamento Gratuito",
+    "scroll": "Explore"
+  },
+  "about": {
+    "label": "Sobre",
+    "title": "20 anos criando espaços que contam a história da sua família",
+    "description": "Formada em Arquitetura e Urbanismo pela UFSC em 1999, iniciei minha trajetória em escritórios de Joinville e Florianópolis antes de fundar meu próprio estúdio em 2006. Ao longo de duas décadas, desenvolvi uma abordagem que vai além da estética: cada projeto nasce de uma conversa profunda sobre como você vive, como sua família cresce e o que faz um espaço sentir-se verdadeiramente seu.",
+    "philosophy": "Meu método é colaborativo. Você expressa suas aspirações, eu combino com conhecimento técnico para criar um trabalho exclusivo. O resultado são ambientes atemporais que evoluem com a sua vida.",
+    "credentials": "CAU-SC A29242-7",
+    "cta": "Conheça meu trabalho"
+  },
+  "statement": {
+    "text": "Criar ambientes atemporais que evoluam com a família"
+  },
+  "services": {
+    "label": "Serviços",
+    "title": "Como posso transformar o seu espaço",
+    "items": {
+      "interiores": {
+        "name": "Projeto de Interiores",
+        "description": "Projeto completo de arquitetura de interiores residencial. Do conceito à execução, cada detalhe é pensado para criar um ambiente que reflete a sua personalidade e o ritmo da sua família."
+      },
+      "consultoria": {
+        "name": "Consultoria Personalizada",
+        "description": "Sessão consultiva para orientação sobre layout, materiais, iluminação e soluções que valorizam seu espaço. Ideal para quem busca direcionamento profissional antes de iniciar uma reforma."
+      },
+      "acompanhamento": {
+        "name": "Acompanhamento de Obra",
+        "description": "Supervisão técnica durante toda a execução do projeto, garantindo que cada material, acabamento e detalhe seja implementado conforme o planejado, sem surpresas."
+      }
+    }
+  },
+  "portfolio": {
+    "label": "Projetos",
+    "title": "Cada espaço conta uma história",
+    "project": {
+      "name": "Costa Azul",
+      "location": "Apartamento no Estreito, Florianópolis",
+      "year": "2025",
+      "description": "Diálogo entre o mar e os interiores. O projeto combina materiais nobres como MDF na tonalidade Cação e Calacata, com mobiliário de designers como Ibanez Razzera e Ricardo Vidigal, criando um ambiente atemporal que integra sala, jantar e cozinha com vista para a baía.",
+      "photographer": "Fotografia: Ivan Araújo",
+      "materials": "MDF Beige e Cação (Arauco) | Ultracompact Calacata",
+      "furniture": "Mesa Marin | Cadeiras Laz | Poltrona Costela"
+    }
+  },
+  "numbers": {
+    "years": "anos de experiência",
+    "projects": "projetos residenciais",
+    "followers": "seguidores no Instagram",
+    "ufsc": "formada pela UFSC"
+  },
+  "credentials": {
+    "label": "Credenciais",
+    "title": "Confiança construída ao longo de duas décadas",
+    "items": {
+      "cau": {
+        "name": "CAU-SC",
+        "detail": "Registro A29242-7",
+        "description": "Conselho de Arquitetura e Urbanismo de Santa Catarina"
+      },
+      "healthy": {
+        "name": "Healthy Building",
+        "detail": "Profissional Certificada",
+        "description": "Certificação em construções saudáveis, focada em bem-estar e qualidade do ar"
+      },
+      "ufsc": {
+        "name": "UFSC",
+        "detail": "Arquitetura e Urbanismo",
+        "description": "Universidade Federal de Santa Catarina, turma de 1999"
+      },
+      "contti": {
+        "name": "Contti Design",
+        "detail": "Publicação Editorial",
+        "description": "Projeto Costa Azul publicado na revista Contti Design"
+      }
+    }
+  },
+  "cta_section": {
+    "title": "Vamos conversar sobre o seu espaço",
+    "subtitle": "Orçamento gratuito, sem compromisso. Conte-me como você imagina o seu lar.",
+    "button": "Fale comigo no WhatsApp"
+  },
+  "contact": {
+    "label": "Contato",
+    "title": "Entre em contato",
+    "subtitle": "Estou em Florianópolis e pronta para conhecer o seu projeto.",
+    "phone": "+55 48 99923-5973",
+    "email": "arquitetaelainecastanheira@gmail.com",
+    "whatsapp_cta": "Enviar mensagem no WhatsApp",
+    "location": "Florianópolis, SC",
+    "form": {
+      "name": "Seu nome",
+      "email": "Seu e-mail",
+      "message": "Conte-me sobre o seu projeto",
+      "submit": "Enviar mensagem"
+    }
+  },
+  "footer": {
+    "copyright": "2026 Elaine Castanheira Arquitetura. Todos os direitos reservados.",
+    "cau": "CAU-SC A29242-7",
+    "instagram": "Instagram",
+    "pinterest": "Pinterest",
+    "developed": "Site desenvolvido com carinho"
+  },
+  "lang": {
+    "pt": "Português",
+    "en": "English"
+  },
+  "whatsapp": {
+    "tooltip": "Fale comigo",
+    "message": "Olá Elaine, gostaria de saber mais sobre seus serviços de arquitetura de interiores."
+  }
+}

@@ -1,0 +1,309 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e88] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e93]
+        - link "Foto do perfil de _pipelinestudio" [ref=e99] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e104]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e105]
+      - generic [ref=e106]:
+        - link "Configurações" [ref=e109] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e114]
+        - link "Também da Meta" [ref=e117] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e122]
+    - generic [ref=e125]:
+      - main [ref=e126]:
+        - generic [ref=e127]:
+          - generic [ref=e129]:
+            - button [ref=e134]:
+              - group [ref=e144]:
+                - slider [ref=e146]:
+                  - button [ref=e150] [cursor=pointer]:
+                    - img [ref=e151]
+                - button [ref=e154] [cursor=pointer]:
+                  - img [ref=e156]
+            - generic [ref=e159]:
+              - generic [ref=e161]:
+                - generic [ref=e163]:
+                  - link "Foto do perfil de ibcclinicmooca" [ref=e164]:
+                    - img "Foto do perfil de ibcclinicmooca" [ref=e165]
+                  - link "Foto do perfil de dra.camilalucarello" [ref=e168]:
+                    - img "Foto do perfil de dra.camilalucarello" [ref=e169]
+                - generic [ref=e173]:
+                  - generic [ref=e176]:
+                    - link "dra.camilalucarello" [ref=e180] [cursor=pointer]:
+                      - /url: /dra.camilalucarello/
+                      - generic [ref=e183]: dra.camilalucarello
+                    - text: e
+                    - link "ibcclinicmooca" [ref=e187] [cursor=pointer]:
+                      - /url: /ibcclinicmooca/
+                      - generic [ref=e190]: ibcclinicmooca
+                  - link "Áudio original" [ref=e194] [cursor=pointer]:
+                    - /url: /reels/audio/25439187252414051/
+                    - generic [ref=e197]: Áudio original
+                - button "Mais opções" [ref=e200] [cursor=pointer]:
+                  - img "Mais opções" [ref=e203]
+              - separator [ref=e207]
+              - generic [ref=e209]:
+                - generic [ref=e211]:
+                  - link "Foto do perfil de dra.camilalucarello" [ref=e216] [cursor=pointer]:
+                    - /url: /dra.camilalucarello/
+                    - img "Foto do perfil de dra.camilalucarello" [ref=e217]
+                  - generic [ref=e221]:
+                    - generic [ref=e222]:
+                      - link "dra.camilalucarello" [ref=e226] [cursor=pointer]:
+                        - /url: /dra.camilalucarello/
+                        - generic [ref=e229]: dra.camilalucarello
+                      - time [ref=e231]: 13 sem
+                    - generic [ref=e232]:
+                      - text: Vejam o antes e depois dessa paciente!
+                      - text: Ficou incrível, não é mesmo, gente?
+                      - text: Resultado que fala por si! ✨🩶
+                      - link "#mooca" [ref=e233] [cursor=pointer]:
+                        - /url: /explore/tags/mooca/
+                      - link "#estetica" [ref=e234] [cursor=pointer]:
+                        - /url: /explore/tags/estetica/
+                      - link "#esteticamooca" [ref=e235] [cursor=pointer]:
+                        - /url: /explore/tags/esteticamooca/
+                - generic [ref=e236]:
+                  - generic [ref=e239]:
+                    - link "Foto do perfil de fatima_khristian" [ref=e245] [cursor=pointer]:
+                      - /url: /fatima_khristian/
+                      - img "Foto do perfil de fatima_khristian" [ref=e246]
+                    - generic [ref=e247]:
+                      - generic [ref=e248]:
+                        - generic [ref=e250]:
+                          - generic [ref=e251]:
+                            - link "fatima_khristian" [ref=e256] [cursor=pointer]:
+                              - /url: /fatima_khristian/
+                              - generic [ref=e259]: fatima_khristian
+                            - link "13 sem" [ref=e261] [cursor=pointer]:
+                              - /url: /p/DTAzbHfj23S/c/18306587365265419/
+                              - time [ref=e262]: 13 sem
+                          - generic [ref=e264]: Perfeito!👏👏👏❤️
+                        - generic [ref=e265]:
+                          - button "1 curtida" [ref=e266] [cursor=pointer]:
+                            - generic [ref=e268]: 1 curtida
+                          - button "Responder" [ref=e269] [cursor=pointer]:
+                            - generic [ref=e271]: Responder
+                      - button "Curtir" [ref=e276] [cursor=pointer]:
+                        - img "Curtir" [ref=e279]
+                  - generic [ref=e283]:
+                    - link "Foto do perfil de fatimalucarello" [ref=e289] [cursor=pointer]:
+                      - /url: /fatimalucarello/
+                      - img "Foto do perfil de fatimalucarello" [ref=e290]
+                    - generic [ref=e291]:
+                      - generic [ref=e292]:
+                        - generic [ref=e294]:
+                          - generic [ref=e295]:
+                            - link "fatimalucarello" [ref=e300] [cursor=pointer]:
+                              - /url: /fatimalucarello/
+                              - generic [ref=e303]: fatimalucarello
+                            - link "13 sem" [ref=e305] [cursor=pointer]:
+                              - /url: /p/DTAzbHfj23S/c/17908503249293254/
+                              - time [ref=e306]: 13 sem
+                          - generic [ref=e308]: 👏👏👏😍
+                        - generic [ref=e309]:
+                          - button "1 curtida" [ref=e310] [cursor=pointer]:
+                            - generic [ref=e312]: 1 curtida
+                          - button "Responder" [ref=e313] [cursor=pointer]:
+                            - generic [ref=e315]: Responder
+                      - button "Curtir" [ref=e320] [cursor=pointer]:
+                        - img "Curtir" [ref=e323]
+              - generic [ref=e325]:
+                - generic [ref=e326]:
+                  - generic [ref=e327]:
+                    - button "Curtir" [ref=e330] [cursor=pointer]:
+                      - img "Curtir" [ref=e333]
+                    - button "Comentar" [ref=e336] [cursor=pointer]:
+                      - img "Comentar" [ref=e338]
+                    - button "2" [ref=e340] [cursor=pointer]
+                    - button "Compartilhar" [ref=e341] [cursor=pointer]:
+                      - img "Compartilhar" [ref=e342]
+                  - button "Salvar" [ref=e347] [cursor=pointer]:
+                    - button "Salvar" [ref=e348]:
+                      - img "Salvar" [ref=e350]
+                - link "2 de janeiro" [ref=e354] [cursor=pointer]:
+                  - /url: /dra.camilalucarello/reel/DTAzbHfj23S/
+                  - time [ref=e356]: 2 de janeiro
+              - generic [ref=e359]:
+                - link [ref=e360]
+                - generic [ref=e362]:
+                  - button "Emoji" [ref=e364] [cursor=pointer]:
+                    - img "Emoji" [ref=e366]
+                  - textbox "Adicione um comentário..." [ref=e368]
+          - separator [ref=e370]
+          - generic [ref=e371]:
+            - generic [ref=e373]:
+              - text: Mais posts de
+              - link "dra.camilalucarello" [ref=e374] [cursor=pointer]:
+                - /url: /dra.camilalucarello/
+            - generic [ref=e377]:
+              - generic [ref=e378]:
+                - link "Photo by Dra. Camila Lucarello in camilalucarelloestetica." [ref=e380] [cursor=pointer]:
+                  - /url: /dra.camilalucarello/p/DGeLz7BvaZ8/
+                  - img "Photo by Dra. Camila Lucarello in camilalucarelloestetica." [ref=e383]
+                - link "Photo by Dra. Camila Lucarello in camilalucarelloestetica." [ref=e386] [cursor=pointer]:
+                  - /url: /dra.camilalucarello/p/Cdn7yhCOgKC/
+                  - img "Photo by Dra. Camila Lucarello in camilalucarelloestetica." [ref=e389]
+                - 'link "✨Harmony light Devolvemos contorno, disfarçamos alguns sulcos e o resultado foi esse! Incrível e natural 🤩 . #harmonizacaofacial #embelezamentofacial Carrossel" [ref=e392] [cursor=pointer]':
+                  - /url: /dra.camilalucarello/p/CxQP33Uutq5/
+                  - 'img "✨Harmony light Devolvemos contorno, disfarçamos alguns sulcos e o resultado foi esse! Incrível e natural 🤩 . #harmonizacaofacial #embelezamentofacial" [ref=e395]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+              - generic [ref=e397]:
+                - link "Um photodump pra lá de especial… Um breve resumo dos últimos dias, muito aprendizado, risadas, uma visão diferente de tanta coisa! Visitei a Suíça, Mônaco, Nice, Roma, Vaticano e Londres! Trago na mala uma bagagem cheia de carinho, cultura, novidades e umas guloseimas também! Carrossel" [ref=e399] [cursor=pointer]:
+                  - /url: /dra.camilalucarello/p/DWq9leIEXMq/
+                  - img "Um photodump pra lá de especial… Um breve resumo dos últimos dias, muito aprendizado, risadas, uma visão diferente de tanta coisa! Visitei a Suíça, Mônaco, Nice, Roma, Vaticano e Londres! Trago na mala uma bagagem cheia de carinho, cultura, novidades e umas guloseimas também!" [ref=e402]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - 'link "Direto de MÔNACO 🇲🇨 Algumas novidades não chegam anunciando Elas simplesmente chegam para mudar tudo #amwc #amwc2026 #mooca #sculptra #peptideos Clipe" [ref=e405] [cursor=pointer]':
+                  - /url: /dra.camilalucarello/reel/DWmUedRiB2c/
+                  - 'img "Direto de MÔNACO 🇲🇨 Algumas novidades não chegam anunciando Elas simplesmente chegam para mudar tudo #amwc #amwc2026 #mooca #sculptra #peptideos" [ref=e408]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - 'link "✨Entre tudo o que estou vivendo aqui… existe uma parte de mim que ficou em casa. Ser mãe do João Ricardo é, sem dúvida, o papel mais importante da minha vida, e também o que mais me ensina sobre amor, presença e saudade. Estar aqui, é a realização de um sonho… mas também é uma escolha que exige equilíbrio, força e uma rede de apoio que eu nunca deixo de valorizar. Hoje, meu coração só tem gratidão, em especial ao meu marido @eugarciafaria, à minha mãe @fatimalucarello e a minha sogra @zulmira.depaula.9, que estão cuidando do meu maior bem com tanto amor nesses dias. É por ele… e por tudo o que eu acredito… que eu sigo, não é fácil, mas é necessário e valioso! #amwc #maternidade #sculptra #botox #harmonizacaofacial Clipe" [ref=e411] [cursor=pointer]':
+                  - /url: /dra.camilalucarello/reel/DWceejzs_f3/
+                  - 'img "✨Entre tudo o que estou vivendo aqui… existe uma parte de mim que ficou em casa. Ser mãe do João Ricardo é, sem dúvida, o papel mais importante da minha vida, e também o que mais me ensina sobre amor, presença e saudade. Estar aqui, é a realização de um sonho… mas também é uma escolha que exige equilíbrio, força e uma rede de apoio que eu nunca deixo de valorizar. Hoje, meu coração só tem gratidão, em especial ao meu marido @eugarciafaria, à minha mãe @fatimalucarello e a minha sogra @zulmira.depaula.9, que estão cuidando do meu maior bem com tanto amor nesses dias. É por ele… e por tudo o que eu acredito… que eu sigo, não é fácil, mas é necessário e valioso! #amwc #maternidade #sculptra #botox #harmonizacaofacial" [ref=e414]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+      - contentinfo [ref=e416]:
+        - generic [ref=e417]:
+          - generic [ref=e419]:
+            - link "Meta" [ref=e421] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e422]: Meta
+            - link "Sobre" [ref=e424] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e425]: Sobre
+            - link "Blog" [ref=e427] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e428]: Blog
+            - link "Carreiras" [ref=e430] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e431]: Carreiras
+            - link "Ajuda" [ref=e433] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e434]: Ajuda
+            - link "API" [ref=e436] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e437]: API
+            - link "Privacidade" [ref=e439] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e440]: Privacidade
+            - link "Termos" [ref=e442] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e443]: Termos
+            - link "Localizações" [ref=e445] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e446]: Localizações
+            - link "Instagram Lite" [ref=e448] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e449]: Instagram Lite
+            - link "Meta AI" [ref=e451] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e452]: Meta AI
+            - link "Threads" [ref=e454] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e455]: Threads
+            - link "Upload de contatos e não usuários" [ref=e457] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e458]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e460] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e461]: Meta Verified
+          - generic [ref=e462]:
+            - generic [ref=e463] [cursor=pointer]:
+              - generic [ref=e464]:
+                - generic [ref=e465]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e468]
+              - combobox "Trocar idioma de exibição" [ref=e470]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e472]: © 2026 Instagram from Meta
+  - button "Mensagens Mensagens" [ref=e474] [cursor=pointer]:
+    - generic [ref=e476]:
+      - img "Mensagens" [ref=e478]
+      - generic [ref=e481]: Mensagens

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arielcordova-dermato.pages.dev/sitemap.xml

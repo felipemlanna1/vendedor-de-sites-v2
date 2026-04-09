@@ -1,0 +1,628 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e88] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e93]
+        - link "Foto do perfil de _pipelinestudio" [ref=e99] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e104]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e105]
+      - generic [ref=e106]:
+        - link "Configurações" [ref=e109] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e114]
+        - link "Também da Meta" [ref=e117] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e122]
+    - main [ref=e126]:
+      - generic [active] [ref=e127]:
+        - generic [ref=e130]:
+          - generic [ref=e132]:
+            - img
+            - group "Video player" [ref=e139]:
+              - generic [ref=e140]:
+                - button "0 Vídeos do Reels de dra_giovannalima Vídeos do Reels de dra_giovannalima Imagem do áudio Marília Mendonça · Leão Marília Mendonça · Leão Seguir “Vamos ver o passo a passo de um implante dentário🦷✨" [ref=e141] [cursor=pointer]:
+                  - slider "Ajustar volume" [ref=e142]:
+                    - button "O áudio está silenciado" [ref=e146]:
+                      - img "O áudio está silenciado" [ref=e147]
+                  - generic [ref=e152]:
+                    - generic [ref=e153]:
+                      - generic [ref=e155]:
+                        - link "Vídeos do Reels de dra_giovannalima" [ref=e156]:
+                          - /url: /dra_giovannalima/reels/
+                          - link "Foto do perfil de dra_giovannalima" [ref=e159]:
+                            - img "Foto do perfil de dra_giovannalima" [ref=e160]
+                        - generic [ref=e161]:
+                          - link "Vídeos do Reels de dra_giovannalima" [ref=e163]:
+                            - /url: /dra_giovannalima/reels/
+                            - generic [ref=e164]: dra_giovannalima
+                          - link "Imagem do áudio Marília Mendonça · Leão Marília Mendonça · Leão" [ref=e169]:
+                            - /url: /reels/audio/534553978571792/
+                            - generic [ref=e170]:
+                              - img "Imagem do áudio" [ref=e172]
+                              - generic [ref=e174]:
+                                - generic [ref=e177]: Marília Mendonça · Leão
+                                - generic [ref=e181]: Marília Mendonça · Leão
+                      - button "Seguir" [ref=e185]
+                    - button "“Vamos ver o passo a passo de um implante dentário🦷✨" [ref=e186]:
+                      - generic [ref=e188]:
+                        - generic [ref=e189]: “Vamos ver o passo a passo de um implante dentário🦷✨
+                        - generic [ref=e190]: … mais
+                - generic:
+                  - button "Pressionar para reproduzir":
+                    - generic:
+                      - img "Ícone do botão Reproduzir"
+          - generic [ref=e196]:
+            - generic [ref=e197] [cursor=pointer]:
+              - button "Curtir" [ref=e200]:
+                - img "Curtir" [ref=e203]
+              - button "39" [ref=e205]:
+                - generic [ref=e209]: "39"
+            - button "Comentar" [ref=e211] [cursor=pointer]:
+              - img "Comentar" [ref=e213]
+            - button "Compartilhar" [ref=e216] [cursor=pointer]:
+              - img "Compartilhar" [ref=e217]
+            - button "Salvar" [ref=e222] [cursor=pointer]:
+              - button "Salvar" [ref=e223]:
+                - img "Salvar" [ref=e225]
+            - button "Mais" [ref=e228] [cursor=pointer]:
+              - img "Mais" [ref=e230]
+            - link "Imagem do áudio" [ref=e235] [cursor=pointer]:
+              - /url: /reels/audio/534553978571792/
+              - img "Imagem do áudio" [ref=e238]
+        - generic [ref=e242]:
+          - generic [ref=e244]:
+            - img
+            - group "Video player" [ref=e251]:
+              - generic [ref=e252]:
+                - button "0 Vídeos do Reels de saborcasal_ Vídeos do Reels de saborcasal_ Seguir ❄️🌍 Curiosidades sobre o Polo Norte que parecem irreais! 🌍❄️" [ref=e253] [cursor=pointer]:
+                  - slider "Ajustar volume" [ref=e254]:
+                    - button "O áudio está silenciado" [ref=e258]:
+                      - img "O áudio está silenciado" [ref=e259]
+                  - generic [ref=e264]:
+                    - generic [ref=e265]:
+                      - generic [ref=e267]:
+                        - link "Vídeos do Reels de saborcasal_" [ref=e268]:
+                          - /url: /saborcasal_/reels/
+                          - link "Foto do perfil de saborcasal_" [ref=e271]:
+                            - img "Foto do perfil de saborcasal_" [ref=e272]
+                        - link "Vídeos do Reels de saborcasal_" [ref=e275]:
+                          - /url: /saborcasal_/reels/
+                          - generic [ref=e276]: saborcasal_
+                      - button "Seguir" [ref=e279]
+                    - button "❄️🌍 Curiosidades sobre o Polo Norte que parecem irreais! 🌍❄️" [ref=e280]:
+                      - generic [ref=e282]:
+                        - generic [ref=e283]: ❄️🌍 Curiosidades sobre o Polo Norte que parecem irreais! 🌍❄️
+                        - generic [ref=e284]: … mais
+                - generic:
+                  - button "Pressionar para reproduzir":
+                    - generic:
+                      - img "Ícone do botão Reproduzir"
+          - generic [ref=e290]:
+            - generic [ref=e291] [cursor=pointer]:
+              - button "Curtir" [ref=e294]:
+                - img "Curtir" [ref=e297]
+              - button "103 mil" [ref=e299]:
+                - generic [ref=e303]: 103 mil
+            - button "Comentar 1.182" [ref=e305] [cursor=pointer]:
+              - generic [ref=e306]:
+                - img "Comentar" [ref=e307]
+                - generic [ref=e312]: "1.182"
+            - button "Compartilhar" [ref=e314] [cursor=pointer]:
+              - img "Compartilhar" [ref=e315]
+            - button "Salvar" [ref=e320] [cursor=pointer]:
+              - button "Salvar" [ref=e321]:
+                - img "Salvar" [ref=e323]
+            - button "Mais" [ref=e326] [cursor=pointer]:
+              - img "Mais" [ref=e328]
+            - link "Imagem do áudio" [ref=e333] [cursor=pointer]:
+              - /url: /reels/audio/26168255316117190/
+              - img "Imagem do áudio" [ref=e336]
+        - generic [ref=e358]:
+          - generic [ref=e360]:
+            - img
+            - group "Video player" [ref=e367]:
+              - generic [ref=e368]:
+                - button "0 Vídeos do Reels de dra_giovannalima Vídeos do Reels de dra_giovannalima Imagem do áudio Marília Mendonça · Leão Marília Mendonça · Leão Seguir “Vamos ver o passo a passo de um implante dentário🦷✨" [ref=e369] [cursor=pointer]:
+                  - slider "Ajustar volume" [ref=e370]:
+                    - button "O áudio está silenciado" [ref=e374]:
+                      - img "O áudio está silenciado" [ref=e375]
+                  - generic [ref=e380]:
+                    - generic [ref=e381]:
+                      - generic [ref=e383]:
+                        - link "Vídeos do Reels de dra_giovannalima" [ref=e384]:
+                          - /url: /dra_giovannalima/reels/
+                          - link "Foto do perfil de dra_giovannalima" [ref=e387]:
+                            - img "Foto do perfil de dra_giovannalima" [ref=e388]
+                        - generic [ref=e389]:
+                          - link "Vídeos do Reels de dra_giovannalima" [ref=e391]:
+                            - /url: /dra_giovannalima/reels/
+                            - generic [ref=e392]: dra_giovannalima
+                          - link "Imagem do áudio Marília Mendonça · Leão Marília Mendonça · Leão" [ref=e397]:
+                            - /url: /reels/audio/534553978571792/
+                            - generic [ref=e398]:
+                              - img "Imagem do áudio" [ref=e400]
+                              - generic [ref=e402]:
+                                - generic [ref=e405]: Marília Mendonça · Leão
+                                - generic [ref=e409]: Marília Mendonça · Leão
+                      - button "Seguir" [ref=e413]
+                    - button "“Vamos ver o passo a passo de um implante dentário🦷✨" [ref=e414]:
+                      - generic [ref=e416]:
+                        - generic [ref=e417]: “Vamos ver o passo a passo de um implante dentário🦷✨
+                        - generic [ref=e418]: … mais
+                - button "Pressionar para reproduzir" [ref=e420] [cursor=pointer]:
+                  - img "Ícone do botão Reproduzir" [ref=e422]
+          - generic [ref=e424]:
+            - generic [ref=e425] [cursor=pointer]:
+              - button "Curtir" [ref=e428]:
+                - img "Curtir" [ref=e431]
+              - button "39" [ref=e433]:
+                - generic [ref=e437]: "39"
+            - button "Comentar" [ref=e439] [cursor=pointer]:
+              - img "Comentar" [ref=e441]
+            - button "Compartilhar" [ref=e444] [cursor=pointer]:
+              - img "Compartilhar" [ref=e445]
+            - button "Salvar" [ref=e450] [cursor=pointer]:
+              - button "Salvar" [ref=e451]:
+                - img "Salvar" [ref=e453]
+            - button "Mais" [ref=e456] [cursor=pointer]:
+              - img "Mais" [ref=e458]
+            - link "Imagem do áudio" [ref=e463] [cursor=pointer]:
+              - /url: /reels/audio/534553978571792/
+              - img "Imagem do áudio" [ref=e466]
+        - generic [ref=e470]:
+          - generic [ref=e472]:
+            - img
+            - group "Video player" [ref=e479]:
+              - generic [ref=e480]:
+                - button "0 Vídeos do Reels de pinotei Vídeos do Reels de pinotei Seguir 🤣🤣🤣" [ref=e481] [cursor=pointer]:
+                  - slider "Ajustar volume" [ref=e482]:
+                    - button "O áudio está silenciado" [ref=e486]:
+                      - img "O áudio está silenciado" [ref=e487]
+                  - generic [ref=e492]:
+                    - generic [ref=e493]:
+                      - generic [ref=e495]:
+                        - link "Vídeos do Reels de pinotei" [ref=e496]:
+                          - /url: /pinotei/reels/
+                          - link "Foto do perfil de pinotei" [ref=e499]:
+                            - img "Foto do perfil de pinotei" [ref=e500]
+                        - link "Vídeos do Reels de pinotei" [ref=e503]:
+                          - /url: /pinotei/reels/
+                          - generic [ref=e504]: pinotei
+                      - button "Seguir" [ref=e507]
+                    - button "🤣🤣🤣" [ref=e508]:
+                      - generic [ref=e510]:
+                        - generic [ref=e511]: 🤣🤣🤣
+                        - generic [ref=e512]: … mais
+                - button "Pressionar para reproduzir" [ref=e514] [cursor=pointer]:
+                  - img "Ícone do botão Reproduzir" [ref=e516]
+          - generic [ref=e518]:
+            - generic [ref=e519] [cursor=pointer]:
+              - button "Curtir" [ref=e522]:
+                - img "Curtir" [ref=e525]
+              - button "94,5 mil" [ref=e527]:
+                - generic [ref=e531]: 94,5 mil
+            - button "Comentar 1.156" [ref=e533] [cursor=pointer]:
+              - generic [ref=e534]:
+                - img "Comentar" [ref=e535]
+                - generic [ref=e540]: "1.156"
+            - button "Compartilhar" [ref=e542] [cursor=pointer]:
+              - img "Compartilhar" [ref=e543]
+            - button "Salvar" [ref=e548] [cursor=pointer]:
+              - button "Salvar" [ref=e549]:
+                - img "Salvar" [ref=e551]
+            - button "Mais" [ref=e554] [cursor=pointer]:
+              - img "Mais" [ref=e556]
+            - link "Imagem do áudio" [ref=e561] [cursor=pointer]:
+              - /url: /reels/audio/25764667089871962/
+              - img "Imagem do áudio" [ref=e564]
+        - generic [ref=e568]:
+          - generic [ref=e570]:
+            - img
+            - group "Video player" [ref=e577]:
+              - generic [ref=e578]:
+                - button "0 Vídeos do Reels de souassim.br Vídeos do Reels de souassim.br Seguir Os CDs chegaram no Brasil em 1985 e mudaram para sempre a forma de ouvir música. Até então, a fita K7 era a queridinha das gerações!" [ref=e579] [cursor=pointer]:
+                  - slider "Ajustar volume" [ref=e580]:
+                    - button "O áudio está silenciado" [ref=e584]:
+                      - img "O áudio está silenciado" [ref=e585]
+                  - generic [ref=e590]:
+                    - generic [ref=e591]:
+                      - generic [ref=e593]:
+                        - link "Vídeos do Reels de souassim.br" [ref=e594]:
+                          - /url: /souassim.br/reels/
+                          - link "Foto do perfil de souassim.br" [ref=e597]:
+                            - img "Foto do perfil de souassim.br" [ref=e598]
+                        - link "Vídeos do Reels de souassim.br" [ref=e601]:
+                          - /url: /souassim.br/reels/
+                          - generic [ref=e602]: souassim.br
+                      - button "Seguir" [ref=e605]
+                    - button "Os CDs chegaram no Brasil em 1985 e mudaram para sempre a forma de ouvir música. Até então, a fita K7 era a queridinha das gerações!" [ref=e606]:
+                      - generic [ref=e608]:
+                        - generic [ref=e609]: Os CDs chegaram no Brasil em 1985 e mudaram para sempre a forma de ouvir música. Até então, a fita K7 era a queridinha das gerações!
+                        - generic [ref=e610]: … mais
+                - button "Pressionar para reproduzir" [ref=e612] [cursor=pointer]:
+                  - img "Ícone do botão Reproduzir" [ref=e614]
+          - generic [ref=e616]:
+            - generic [ref=e617] [cursor=pointer]:
+              - button "Curtir" [ref=e620]:
+                - img "Curtir" [ref=e623]
+              - button "128 mil" [ref=e625]:
+                - generic [ref=e629]: 128 mil
+            - button "Comentar 2.496" [ref=e631] [cursor=pointer]:
+              - generic [ref=e632]:
+                - img "Comentar" [ref=e633]
+                - generic [ref=e638]: "2.496"
+            - button "Compartilhar" [ref=e640] [cursor=pointer]:
+              - img "Compartilhar" [ref=e641]
+            - button "Salvar" [ref=e646] [cursor=pointer]:
+              - button "Salvar" [ref=e647]:
+                - img "Salvar" [ref=e649]
+            - button "Mais" [ref=e652] [cursor=pointer]:
+              - img "Mais" [ref=e654]
+            - link "Imagem do áudio" [ref=e659] [cursor=pointer]:
+              - /url: /reels/audio/33588144864133125/
+              - img "Imagem do áudio" [ref=e662]
+        - generic [ref=e666]:
+          - generic [ref=e668]:
+            - img
+            - group "Video player" [ref=e675]:
+              - generic [ref=e676]:
+                - 'button "0 Vídeos do Reels de _mpereira11 Vídeos do Reels de _mpereira11 Localização Brasil (País) Seguir No vídeo, o ex-jogador e agora político Romário expressa sua opinião contundente sobre a importância de Neymar para a Seleção Brasileira. Ao ser questionado se convocaria o craque mesmo em condições físicas precárias, o “Baixinho” não hesita: afirma que Neymar, mesmo “de muleta, sem joelho e só com uma perna”, ainda seria uma opção superior a qualquer outro jogador que pudesse ser colocado em seu lugar. A fala reforça a confiança de um dos maiores nomes da história do futebol na capacidade técnica diferenciada do atual camisa 10." [ref=e677] [cursor=pointer]':
+                  - slider "Ajustar volume" [ref=e678]:
+                    - button "O áudio está silenciado" [ref=e682]:
+                      - img "O áudio está silenciado" [ref=e683]
+                  - generic [ref=e688]:
+                    - generic [ref=e689]:
+                      - generic [ref=e691]:
+                        - link "Vídeos do Reels de _mpereira11" [ref=e692]:
+                          - /url: /_mpereira11/reels/
+                          - link "Foto do perfil de _mpereira11" [ref=e695]:
+                            - img "Foto do perfil de _mpereira11" [ref=e696]
+                        - generic [ref=e697]:
+                          - link "Vídeos do Reels de _mpereira11" [ref=e699]:
+                            - /url: /_mpereira11/reels/
+                            - generic [ref=e700]: _mpereira11
+                          - link "Localização Brasil (País)" [ref=e706]:
+                            - /url: /explore/locations/167267413401439/
+                            - generic [ref=e707]:
+                              - img "Localização" [ref=e709]
+                              - generic [ref=e712]: Brasil (País)
+                      - button "Seguir" [ref=e715]
+                    - 'button "No vídeo, o ex-jogador e agora político Romário expressa sua opinião contundente sobre a importância de Neymar para a Seleção Brasileira. Ao ser questionado se convocaria o craque mesmo em condições físicas precárias, o “Baixinho” não hesita: afirma que Neymar, mesmo “de muleta, sem joelho e só com uma perna”, ainda seria uma opção superior a qualquer outro jogador que pudesse ser colocado em seu lugar. A fala reforça a confiança de um dos maiores nomes da história do futebol na capacidade técnica diferenciada do atual camisa 10." [ref=e716]':
+                      - generic [ref=e718]:
+                        - generic [ref=e719]: "No vídeo, o ex-jogador e agora político Romário expressa sua opinião contundente sobre a importância de Neymar para a Seleção Brasileira. Ao ser questionado se convocaria o craque mesmo em condições físicas precárias, o “Baixinho” não hesita: afirma que Neymar, mesmo “de muleta, sem joelho e só com uma perna”, ainda seria uma opção superior a qualquer outro jogador que pudesse ser colocado em seu lugar. A fala reforça a confiança de um dos maiores nomes da história do futebol na capacidade técnica diferenciada do atual camisa 10."
+                        - generic [ref=e720]: … mais
+                - button "Pressionar para reproduzir" [ref=e722] [cursor=pointer]:
+                  - img "Ícone do botão Reproduzir" [ref=e724]
+          - generic [ref=e726]:
+            - generic [ref=e727] [cursor=pointer]:
+              - button "Curtir" [ref=e730]:
+                - img "Curtir" [ref=e733]
+              - button "240 mil" [ref=e735]:
+                - generic [ref=e739]: 240 mil
+            - button "Comentar 3.019" [ref=e741] [cursor=pointer]:
+              - generic [ref=e742]:
+                - img "Comentar" [ref=e743]
+                - generic [ref=e748]: "3.019"
+            - button "Compartilhar" [ref=e750] [cursor=pointer]:
+              - img "Compartilhar" [ref=e751]
+            - button "Salvar" [ref=e756] [cursor=pointer]:
+              - button "Salvar" [ref=e757]:
+                - img "Salvar" [ref=e759]
+            - button "Mais" [ref=e762] [cursor=pointer]:
+              - img "Mais" [ref=e764]
+            - link "Imagem do áudio" [ref=e769] [cursor=pointer]:
+              - /url: /reels/audio/34934851052796263/
+              - img "Imagem do áudio" [ref=e772]
+        - generic [ref=e776]:
+          - generic [ref=e778]:
+            - img
+            - group "Video player" [ref=e785]:
+              - generic [ref=e786]:
+                - button "0 Vídeos do Reels de carcaramemes Vídeos do Reels de carcaramemes Seguir CLIQUE EM SEGUIR 👆👆" [ref=e787] [cursor=pointer]:
+                  - slider "Ajustar volume" [ref=e788]:
+                    - button "O áudio está silenciado" [ref=e792]:
+                      - img "O áudio está silenciado" [ref=e793]
+                  - generic [ref=e798]:
+                    - generic [ref=e799]:
+                      - generic [ref=e801]:
+                        - link "Vídeos do Reels de carcaramemes" [ref=e802]:
+                          - /url: /carcaramemes/reels/
+                          - link "Foto do perfil de carcaramemes" [ref=e805]:
+                            - img "Foto do perfil de carcaramemes" [ref=e806]
+                        - link "Vídeos do Reels de carcaramemes" [ref=e809]:
+                          - /url: /carcaramemes/reels/
+                          - generic [ref=e810]: carcaramemes
+                      - button "Seguir" [ref=e813]
+                    - button "CLIQUE EM SEGUIR 👆👆" [ref=e814]:
+                      - generic [ref=e816]:
+                        - generic [ref=e817]: CLIQUE EM SEGUIR 👆👆
+                        - generic [ref=e818]: … mais
+                - button "Pressionar para reproduzir" [ref=e820] [cursor=pointer]:
+                  - img "Ícone do botão Reproduzir" [ref=e822]
+          - generic [ref=e824]:
+            - generic [ref=e825] [cursor=pointer]:
+              - button "Curtir" [ref=e828]:
+                - img "Curtir" [ref=e831]
+              - button "558 mil" [ref=e833]:
+                - generic [ref=e837]: 558 mil
+            - button "Comentar 13,4 mil" [ref=e839] [cursor=pointer]:
+              - generic [ref=e840]:
+                - img "Comentar" [ref=e841]
+                - generic [ref=e846]: 13,4 mil
+            - button "Compartilhar" [ref=e848] [cursor=pointer]:
+              - img "Compartilhar" [ref=e849]
+            - button "Salvar" [ref=e854] [cursor=pointer]:
+              - button "Salvar" [ref=e855]:
+                - img "Salvar" [ref=e857]
+            - button "Mais" [ref=e860] [cursor=pointer]:
+              - img "Mais" [ref=e862]
+            - link "Imagem do áudio" [ref=e867] [cursor=pointer]:
+              - /url: /reels/audio/26515498501403345/
+              - img "Imagem do áudio" [ref=e870]
+        - generic [ref=e874]:
+          - generic [ref=e876]:
+            - img
+            - group "Video player" [ref=e883]:
+              - generic [ref=e884]:
+                - button "0 Vídeos do Reels de mari_maksimavic Vídeos do Reels de mari_maksimavic Seguir Kkkk vai aonde kkkk🤣🤣🤣" [ref=e885] [cursor=pointer]:
+                  - slider "Ajustar volume" [ref=e886]:
+                    - button "O áudio está silenciado" [ref=e890]:
+                      - img "O áudio está silenciado" [ref=e891]
+                  - generic [ref=e896]:
+                    - generic [ref=e897]:
+                      - generic [ref=e899]:
+                        - link "Vídeos do Reels de mari_maksimavic" [ref=e900]:
+                          - /url: /mari_maksimavic/reels/
+                          - link "Foto do perfil de mari_maksimavic" [ref=e903]:
+                            - img "Foto do perfil de mari_maksimavic" [ref=e904]
+                        - link "Vídeos do Reels de mari_maksimavic" [ref=e907]:
+                          - /url: /mari_maksimavic/reels/
+                          - generic [ref=e908]: mari_maksimavic
+                      - button "Seguir" [ref=e911]
+                    - button "Kkkk vai aonde kkkk🤣🤣🤣" [ref=e912]:
+                      - generic [ref=e914]:
+                        - generic [ref=e915]: Kkkk vai aonde kkkk🤣🤣🤣
+                        - generic [ref=e916]: … mais
+                - button "Pressionar para reproduzir" [ref=e918] [cursor=pointer]:
+                  - img "Ícone do botão Reproduzir" [ref=e920]
+          - generic [ref=e922]:
+            - generic [ref=e923] [cursor=pointer]:
+              - button "Curtir" [ref=e926]:
+                - img "Curtir" [ref=e929]
+              - button "158 mil" [ref=e931]:
+                - generic [ref=e935]: 158 mil
+            - button "Comentar 2.805" [ref=e937] [cursor=pointer]:
+              - generic [ref=e938]:
+                - img "Comentar" [ref=e939]
+                - generic [ref=e944]: "2.805"
+            - button "Compartilhar" [ref=e946] [cursor=pointer]:
+              - img "Compartilhar" [ref=e947]
+            - button "Salvar" [ref=e952] [cursor=pointer]:
+              - button "Salvar" [ref=e953]:
+                - img "Salvar" [ref=e955]
+            - button "Mais" [ref=e958] [cursor=pointer]:
+              - img "Mais" [ref=e960]
+            - link "Imagem do áudio" [ref=e965] [cursor=pointer]:
+              - /url: /reels/audio/25805497675779466/
+              - img "Imagem do áudio" [ref=e968]
+        - generic [ref=e972]:
+          - generic [ref=e974]:
+            - img
+            - group "Video player" [ref=e981]:
+              - generic [ref=e982]:
+                - 'button "0 Vídeos do Reels de povloira Vídeos do Reels de povloira Seguir 🐟 ESSES PEIXES SÓ EXISTEM NO JAPÃO: 🇯🇵" [ref=e983] [cursor=pointer]':
+                  - slider "Ajustar volume" [ref=e984]:
+                    - button "O áudio está silenciado" [ref=e988]:
+                      - img "O áudio está silenciado" [ref=e989]
+                  - generic [ref=e994]:
+                    - generic [ref=e995]:
+                      - generic [ref=e997]:
+                        - link "Vídeos do Reels de povloira" [ref=e998]:
+                          - /url: /povloira/reels/
+                          - link "Foto do perfil de povloira" [ref=e1001]:
+                            - img "Foto do perfil de povloira" [ref=e1002]
+                        - link "Vídeos do Reels de povloira" [ref=e1005]:
+                          - /url: /povloira/reels/
+                          - generic [ref=e1006]: povloira
+                      - button "Seguir" [ref=e1009]
+                    - 'button "🐟 ESSES PEIXES SÓ EXISTEM NO JAPÃO: 🇯🇵" [ref=e1010]':
+                      - generic [ref=e1012]:
+                        - generic [ref=e1013]: "🐟 ESSES PEIXES SÓ EXISTEM NO JAPÃO: 🇯🇵"
+                        - generic [ref=e1014]: … mais
+                - button "Pressionar para reproduzir" [ref=e1016] [cursor=pointer]:
+                  - img "Ícone do botão Reproduzir" [ref=e1018]
+          - generic [ref=e1020]:
+            - generic [ref=e1021] [cursor=pointer]:
+              - button "Curtir" [ref=e1024]:
+                - img "Curtir" [ref=e1027]
+              - button "558 mil" [ref=e1029]:
+                - generic [ref=e1033]: 558 mil
+            - button "Comentar 6.551" [ref=e1035] [cursor=pointer]:
+              - generic [ref=e1036]:
+                - img "Comentar" [ref=e1037]
+                - generic [ref=e1042]: "6.551"
+            - button "Compartilhar" [ref=e1044] [cursor=pointer]:
+              - img "Compartilhar" [ref=e1045]
+            - button "Salvar" [ref=e1050] [cursor=pointer]:
+              - button "Salvar" [ref=e1051]:
+                - img "Salvar" [ref=e1053]
+            - button "Mais" [ref=e1056] [cursor=pointer]:
+              - img "Mais" [ref=e1058]
+            - link "Imagem do áudio" [ref=e1063] [cursor=pointer]:
+              - /url: /reels/audio/26306869368946767/
+              - img "Imagem do áudio" [ref=e1066]
+        - generic [ref=e1070]:
+          - generic [ref=e1072]:
+            - img
+            - group "Video player" [ref=e1079]:
+              - generic [ref=e1080]:
+                - button "0 Vídeos do Reels de jovemdaia Vídeos do Reels de jovemdaia Usuários marcados remekeira Seguir Ninguém tem paciência comigo 🤦" [ref=e1081] [cursor=pointer]:
+                  - slider "Ajustar volume" [ref=e1082]:
+                    - button "O áudio está silenciado" [ref=e1086]:
+                      - img "O áudio está silenciado" [ref=e1087]
+                  - generic [ref=e1092]:
+                    - generic [ref=e1093]:
+                      - generic [ref=e1095]:
+                        - link "Vídeos do Reels de jovemdaia" [ref=e1096]:
+                          - /url: /jovemdaia/reels/
+                          - link "Foto do perfil de jovemdaia" [ref=e1099]:
+                            - img "Foto do perfil de jovemdaia" [ref=e1100]
+                        - generic [ref=e1101]:
+                          - link "Vídeos do Reels de jovemdaia" [ref=e1103]:
+                            - /url: /jovemdaia/reels/
+                            - generic [ref=e1104]: jovemdaia
+                          - link "Usuários marcados remekeira" [ref=e1110]:
+                            - /url: "#"
+                            - generic [ref=e1111]:
+                              - img "Usuários marcados" [ref=e1113]
+                              - generic [ref=e1116]: remekeira
+                      - button "Seguir" [ref=e1119]
+                    - button "Ninguém tem paciência comigo 🤦" [ref=e1120]:
+                      - generic [ref=e1122]:
+                        - generic [ref=e1123]: Ninguém tem paciência comigo 🤦
+                        - generic [ref=e1124]: … mais
+                - button "Pressionar para reproduzir" [ref=e1126] [cursor=pointer]:
+                  - img "Ícone do botão Reproduzir" [ref=e1128]
+          - generic [ref=e1130]:
+            - generic [ref=e1131] [cursor=pointer]:
+              - button "Curtir" [ref=e1134]:
+                - img "Curtir" [ref=e1137]
+              - button "725 mil" [ref=e1139]:
+                - generic [ref=e1143]: 725 mil
+            - button "Comentar 12,8 mil" [ref=e1145] [cursor=pointer]:
+              - generic [ref=e1146]:
+                - img "Comentar" [ref=e1147]
+                - generic [ref=e1152]: 12,8 mil
+            - button "Compartilhar" [ref=e1154] [cursor=pointer]:
+              - img "Compartilhar" [ref=e1155]
+            - button "Salvar" [ref=e1160] [cursor=pointer]:
+              - button "Salvar" [ref=e1161]:
+                - img "Salvar" [ref=e1163]
+            - button "Mais" [ref=e1166] [cursor=pointer]:
+              - img "Mais" [ref=e1168]
+            - link "Imagem do áudio" [ref=e1173] [cursor=pointer]:
+              - /url: /reels/audio/26051353084486456/
+              - img "Imagem do áudio" [ref=e1176]
+        - generic [ref=e1180]:
+          - generic [ref=e1182]:
+            - img
+            - group "Video player" [ref=e1189]:
+              - generic [ref=e1190]:
+                - button "0 Vídeos do Reels de andressaloiolalopes Vídeos do Reels de andressaloiolalopes Seguir Uma câmera de segurança registrou o momento em que um caixa eletrônico apresentou uma falha e passou a liberar cédulas de forma descontrolada enquanto um cliente realizava uma operação. As imagens mostram o homem tentando conter o fluxo inesperado de dinheiro, que rapidamente se espalhou pelo espaço antes que o equipamento fosse travado" [ref=e1191] [cursor=pointer]:
+                  - slider "Ajustar volume" [ref=e1192]:
+                    - button "O áudio está silenciado" [ref=e1196]:
+                      - img "O áudio está silenciado" [ref=e1197]
+                  - generic [ref=e1202]:
+                    - generic [ref=e1203]:
+                      - generic [ref=e1205]:
+                        - link "Vídeos do Reels de andressaloiolalopes" [ref=e1206]:
+                          - /url: /andressaloiolalopes/reels/
+                          - link "Foto do perfil de andressaloiolalopes" [ref=e1209]:
+                            - img "Foto do perfil de andressaloiolalopes" [ref=e1210]
+                        - link "Vídeos do Reels de andressaloiolalopes" [ref=e1213]:
+                          - /url: /andressaloiolalopes/reels/
+                          - generic [ref=e1214]: andressaloiolalopes
+                      - button "Seguir" [ref=e1217]
+                    - button "Uma câmera de segurança registrou o momento em que um caixa eletrônico apresentou uma falha e passou a liberar cédulas de forma descontrolada enquanto um cliente realizava uma operação. As imagens mostram o homem tentando conter o fluxo inesperado de dinheiro, que rapidamente se espalhou pelo espaço antes que o equipamento fosse travado" [ref=e1218]:
+                      - generic [ref=e1220]:
+                        - generic [ref=e1221]: Uma câmera de segurança registrou o momento em que um caixa eletrônico apresentou uma falha e passou a liberar cédulas de forma descontrolada enquanto um cliente realizava uma operação. As imagens mostram o homem tentando conter o fluxo inesperado de dinheiro, que rapidamente se espalhou pelo espaço antes que o equipamento fosse travado
+                        - generic [ref=e1222]: … mais
+                - button "Pressionar para reproduzir" [ref=e1224] [cursor=pointer]:
+                  - img "Ícone do botão Reproduzir" [ref=e1226]
+          - generic [ref=e1228]:
+            - generic [ref=e1229] [cursor=pointer]:
+              - button "Curtir" [ref=e1232]:
+                - img "Curtir" [ref=e1235]
+              - button "5.700" [ref=e1237]:
+                - generic [ref=e1241]: "5.700"
+            - button "Comentar 150" [ref=e1243] [cursor=pointer]:
+              - generic [ref=e1244]:
+                - img "Comentar" [ref=e1245]
+                - generic [ref=e1250]: "150"
+            - button "Compartilhar" [ref=e1252] [cursor=pointer]:
+              - img "Compartilhar" [ref=e1253]
+            - button "Salvar" [ref=e1258] [cursor=pointer]:
+              - button "Salvar" [ref=e1259]:
+                - img "Salvar" [ref=e1261]
+            - button "Mais" [ref=e1264] [cursor=pointer]:
+              - img "Mais" [ref=e1266]
+            - link "Imagem do áudio" [ref=e1271] [cursor=pointer]:
+              - /url: /reels/audio/34869918709261802/
+              - img "Imagem do áudio" [ref=e1274]
+        - generic [ref=e1278]:
+          - generic [ref=e1280]:
+            - img
+            - group "Video player" [ref=e1287]:
+              - generic [ref=e1288]:
+                - button "0 Vídeos do Reels de memesbrasilofcbr Vídeos do Reels de memesbrasilofcbr Seguir Renda Oculta do Instagram na BIO" [ref=e1289] [cursor=pointer]:
+                  - slider "Ajustar volume" [ref=e1290]:
+                    - button "O áudio está silenciado" [ref=e1294]:
+                      - img "O áudio está silenciado" [ref=e1295]
+                  - generic [ref=e1300]:
+                    - generic [ref=e1301]:
+                      - generic [ref=e1303]:
+                        - link "Vídeos do Reels de memesbrasilofcbr" [ref=e1304]:
+                          - /url: /memesbrasilofcbr/reels/
+                          - link "Foto do perfil de memesbrasilofcbr" [ref=e1307]:
+                            - img "Foto do perfil de memesbrasilofcbr" [ref=e1308]
+                        - link "Vídeos do Reels de memesbrasilofcbr" [ref=e1311]:
+                          - /url: /memesbrasilofcbr/reels/
+                          - generic [ref=e1312]: memesbrasilofcbr
+                      - button "Seguir" [ref=e1315]
+                    - button "Renda Oculta do Instagram na BIO" [ref=e1316]:
+                      - generic [ref=e1318]:
+                        - generic [ref=e1319]: Renda Oculta do Instagram na BIO
+                        - generic [ref=e1320]: … mais
+                - button "Pressionar para reproduzir" [ref=e1322] [cursor=pointer]:
+                  - img "Ícone do botão Reproduzir" [ref=e1324]
+          - generic [ref=e1326]:
+            - generic [ref=e1327] [cursor=pointer]:
+              - button "Curtir" [ref=e1330]:
+                - img "Curtir" [ref=e1333]
+              - button "142 mil" [ref=e1335]:
+                - generic [ref=e1339]: 142 mil
+            - button "Comentar 597" [ref=e1341] [cursor=pointer]:
+              - generic [ref=e1342]:
+                - img "Comentar" [ref=e1343]
+                - generic [ref=e1348]: "597"
+            - button "Compartilhar" [ref=e1350] [cursor=pointer]:
+              - img "Compartilhar" [ref=e1351]
+            - button "Salvar" [ref=e1356] [cursor=pointer]:
+              - button "Salvar" [ref=e1357]:
+                - img "Salvar" [ref=e1359]
+            - button "Mais" [ref=e1362] [cursor=pointer]:
+              - img "Mais" [ref=e1364]
+            - link "Imagem do áudio" [ref=e1369] [cursor=pointer]:
+              - /url: /reels/audio/26555647564072862/
+              - img "Imagem do áudio" [ref=e1372]
+      - toolbar "Reels navigation controls" [ref=e338]:
+        - button "Navegar para o reel anterior" [ref=e339] [cursor=pointer]:
+          - img [ref=e341]
+        - button "Navegar para o próximo reel" [ref=e343] [cursor=pointer]:
+          - img [ref=e345]
+  - button "Mensagens" [ref=e1376] [cursor=pointer]:
+    - generic "Mensagens" [ref=e1377]:
+      - generic [ref=e1378]:
+        - img "Mensagens" [ref=e1381]
+        - generic [ref=e1384]: Mensagens

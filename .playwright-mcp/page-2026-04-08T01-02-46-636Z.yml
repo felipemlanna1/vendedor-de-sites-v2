@@ -1,0 +1,383 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Ir para o conteúdo principal" [ref=e2] [cursor=pointer]
+      - link "Desativar a rolagem contínua" [ref=e3] [cursor=pointer]:
+        - /url: "#"
+      - link "Ajuda sobre acessibilidade" [ref=e4] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=pt-BR
+      - link "Feedback de acessibilidade" [ref=e5] [cursor=pointer]
+  - generic [ref=e10]:
+    - search [ref=e11]:
+      - generic [ref=e13]:
+        - link "Ir para a página inicial do Google" [ref=e15] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=pt-BR&sa=X&ved=0ahUKEwjlz7Kph92TAxU5XEEAHRxSGKEQPAgK
+          - img [ref=e16]
+        - generic [ref=e18]:
+          - generic [ref=e19]:
+            - combobox "Pesquisar" [ref=e22]: dra_giovannalima site:instagram.com dra_giovannalima site:instagram.com
+            - generic [ref=e23]:
+              - button "Limpar" [ref=e25] [cursor=pointer]:
+                - img [ref=e27]
+              - generic [ref=e30]:
+                - button "Ferramentas de inserção de texto" [ref=e31] [cursor=pointer]:
+                  - img [ref=e33]
+                - button "Pesquisar por voz" [ref=e35] [cursor=pointer]:
+                  - img [ref=e36]
+                - button "Pesquisa por imagem" [ref=e38] [cursor=pointer]:
+                  - img [ref=e39]
+          - button "Pesquisar" [ref=e41] [cursor=pointer]:
+            - img [ref=e44]
+    - generic [ref=e46]:
+      - button "Configurações" [ref=e48] [cursor=pointer]:
+        - img [ref=e51]
+      - generic [ref=e54]:
+        - button "Google Apps" [ref=e56] [cursor=pointer]:
+          - img [ref=e57]
+        - link "Fazer login" [ref=e61] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=pt-BR&passive=true&continue=https://www.google.com/search%3Fq%3Ddra_giovannalima%2Bsite:instagram.com%26udm%3D2&ec=futura_srp_og_si_72236_p
+  - generic [ref=e63]:
+    - navigation [ref=e68]:
+      - generic [ref=e69]:
+        - list [ref=e70]:
+          - listitem [ref=e71]:
+            - link "Modo IA" [ref=e74] [cursor=pointer]:
+              - /url: /search?q=dra_giovannalima+site:instagram.com&sca_esv=91f788fc0d48d683&udm=50&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB056b93wKmVeAAORa3GINFZT67RHmD8tBnhEcNAi-9cSkyUOnfW1dj70A8r-7Qd4s_sdVzBjEPQTM-e7jn02dSpjVryr0orHEWWj2G7_A1WYF-QAL3O5XftuUj2SmGsvMkxlybL3b8JS55HgIkHIZDdD-Wew6CYA0bUKlqzvCs99HSZDLjx54BidxQ4GJHdBCXpuahoWM&aep=1&ntc=1&sa=X&ved=2ahUKEwjlz7Kph92TAxU5XEEAHRxSGKEQ2J8OegQICxAD
+              - generic [ref=e77]: Modo IA
+          - listitem [ref=e78]:
+            - link "Tudo" [ref=e79] [cursor=pointer]:
+              - /url: /search?sca_esv=91f788fc0d48d683&q=dra_giovannalima+site:instagram.com&source=lnms&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB056b93wKmVeAAORa3GINFZT67RHmD8tBnhEcNAi-9cSkyUOnfW1dj70A8r-7Qd4s_sdVzBjEPQTM-e7jn02dSpjVryr0orHEWWj2G7_A1WYF-QAL3O5XftuUj2SmGsvMkxlybL3b8JS55HgIkHIZDdD-Wew6CYA0bUKlqzvCs99HSZDLjx54BidxQ4GJHdBCXpuahoWM&sa=X&ved=2ahUKEwjlz7Kph92TAxU5XEEAHRxSGKEQ0pQJegQIERAB
+              - generic [ref=e81]: Tudo
+          - listitem [ref=e82]:
+            - link "Imagens" [disabled] [ref=e83]:
+              - generic [ref=e85]: Imagens
+          - listitem [ref=e86]:
+            - link "Shopping" [ref=e87] [cursor=pointer]:
+              - /url: /search?sca_esv=91f788fc0d48d683&udm=28&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB056b93wKmVeAAORa3GINFZT67RHmD8tBnhEcNAi-9cSkyUOnfW1dj70A8r-7Qd4s_sdVzBjEPQTM-e7jn02dSpjVryr0orHEWWj2G7_A1WYF-QAL3O5XftuUj2SmGsvMkxlybL3b8JS55HgIkHIZDdD-Wew6CYA0bUKlqzvCs99HSZDLjx54BidxQ4GJHdBCXpuahoWM&q=dra_giovannalima+site:instagram.com&ved=1t:220175&ictx=111
+              - generic [ref=e89]: Shopping
+          - listitem [ref=e90]:
+            - link "Vídeos" [ref=e91] [cursor=pointer]:
+              - /url: /search?sca_esv=91f788fc0d48d683&udm=7&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB056b93wKmVeAAORa3GINFZT67RHmD8tBnhEcNAi-9cSkyUOnfW1dj70A8r-7Qd4s_sdVzBjEPQTM-e7jn02dSpjVryr0orHEWWj2G7_A1WYF-QAL3O5XftuUj2SmGsvMkxlybL3b8JS55HgIkHIZDdD-Wew6CYA0bUKlqzvCs99HSZDLjx54BidxQ4GJHdBCXpuahoWM&q=dra_giovannalima+site:instagram.com&sa=X&ved=2ahUKEwjlz7Kph92TAxU5XEEAHRxSGKEQtKgLegQIDhAB
+              - generic [ref=e93]: Vídeos
+          - listitem [ref=e94]:
+            - link "Maps" [ref=e95] [cursor=pointer]:
+              - /url: https://maps.google.com/maps?sca_esv=91f788fc0d48d683&output=search&q=dra_giovannalima+site:instagram.com&source=lnms&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB056b93wKmVeAAORa3GINFZT67RHmD8tBnhEcNAi-9cSkyUOnfW1dj70A8r-7Qd4s_sdVzBjEPQTM-e7jn02dSpjVryr0orHEWWj2G7_A1WYF-QAL3O5XftuUj2SmGsvMkxlybL3b8JS55HgIkHIZDdD-Wew6CYA0bUKlqzvCs99HSZDLjx54BidxQ4GJHdBCXpuahoWM&entry=mc&ved=1t:200715&ictx=111
+              - generic [ref=e97]: Maps
+          - listitem [ref=e98]:
+            - link "Notícias" [ref=e99] [cursor=pointer]:
+              - /url: /search?sca_esv=91f788fc0d48d683&q=dra_giovannalima+site:instagram.com&tbm=nws&source=lnms&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB056b93wKmVeAAORa3GINFZT67RHmD8tBnhEcNAi-9cSkyUOnfW1dj70A8r-7Qd4s_sdVzBjEPQTM-e7jn02dSpjVryr0orHEWWj2G7_A1WYF-QAL3O5XftuUj2SmGsvMkxlybL3b8JS55HgIkHIZDdD-Wew6CYA0bUKlqzvCs99HSZDLjx54BidxQ4GJHdBCXpuahoWM&sa=X&ved=2ahUKEwjlz7Kph92TAxU5XEEAHRxSGKEQ0pQJegQIEBAB
+              - generic [ref=e101]: Notícias
+          - listitem [ref=e102]:
+            - button "Mais filtros" [ref=e103] [cursor=pointer]:
+              - generic "Mais filtros" [ref=e104]:
+                - generic [ref=e105]:
+                  - generic [ref=e106]: Mais
+                  - img [ref=e108]
+        - button "Ferramentas" [ref=e111] [cursor=pointer]:
+          - generic [ref=e113]:
+            - generic [ref=e114]: Ferramentas
+            - img [ref=e116]
+    - heading "Resultados da pesquisa" [level=1] [ref=e118]
+    - main [ref=e120]:
+      - 'heading "Você quis dizer: dra giovanna lima site:instagram.com" [level=2] [ref=e124]':
+        - text: "Você quis dizer:"
+        - link "dra giovanna lima site:instagram.com" [ref=e125] [cursor=pointer]:
+          - /url: /search?sca_esv=91f788fc0d48d683&udm=2&q=dra+giovanna+lima+site:instagram.com&spell=1&sa=X&ved=2ahUKEwjlz7Kph92TAxU5XEEAHRxSGKEQBSgAegQIChAB
+          - generic [ref=e126]: dra giovanna lima
+          - text: site:instagram.com
+      - generic [ref=e132]:
+        - generic [ref=e135]:
+          - generic [ref=e136] [cursor=pointer]:
+            - heading "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [level=3] [ref=e138]:
+              - button "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e140]:
+                - img "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e143]
+            - link "Instagram Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e145]:
+              - /url: https://www.instagram.com/dra_giovannalima/
+              - generic [ref=e150]: Instagram
+              - generic [ref=e152]: Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos
+          - generic [ref=e153] [cursor=pointer]:
+            - generic [ref=e154]:
+              - heading "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [level=3] [ref=e155]:
+                - button "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e157]:
+                  - img "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e160]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e162]:
+              - /url: https://www.instagram.com/dra_giovannalima/reels/
+              - generic [ref=e167]: Instagram
+              - generic [ref=e169]: Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos
+          - generic [ref=e170] [cursor=pointer]:
+            - heading "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [level=3] [ref=e172]:
+              - button "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e174]:
+                - img "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e177]
+            - link "Instagram Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e179]:
+              - /url: https://www.instagram.com/dra_giovannalima/reels/
+              - generic [ref=e184]: Instagram
+              - generic [ref=e186]: Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos
+          - generic [ref=e187] [cursor=pointer]:
+            - heading "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [level=3] [ref=e189]:
+              - button "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e191]:
+                - img "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e194]
+            - link "Instagram Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e196]:
+              - /url: https://www.instagram.com/dra_giovannalima/
+              - generic [ref=e201]: Instagram
+              - generic [ref=e203]: Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos
+          - generic [ref=e204] [cursor=pointer]:
+            - heading "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [level=3] [ref=e206]:
+              - button "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e208]:
+                - img "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e211]
+            - link "Instagram Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e213]:
+              - /url: https://www.instagram.com/dra_giovannalima/
+              - generic [ref=e218]: Instagram
+              - generic [ref=e220]: Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos
+          - generic [ref=e221] [cursor=pointer]:
+            - heading "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [level=3] [ref=e223]:
+              - button "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e225]:
+                - img "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e228]
+            - link "Instagram Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e230]:
+              - /url: https://www.instagram.com/dra_giovannalima/
+              - generic [ref=e235]: Instagram
+              - generic [ref=e237]: Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos
+          - generic [ref=e238] [cursor=pointer]:
+            - heading "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [level=3] [ref=e240]:
+              - button "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e242]:
+                - img "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e245]
+            - link "Instagram Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e247]:
+              - /url: https://www.instagram.com/dra_giovannalima/
+              - generic [ref=e252]: Instagram
+              - generic [ref=e254]: Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos
+          - generic [ref=e255] [cursor=pointer]:
+            - heading "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [level=3] [ref=e257]:
+              - button "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e259]:
+                - img "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e262]
+            - link "Instagram Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e264]:
+              - /url: https://www.instagram.com/dra_giovannalima/
+              - generic [ref=e269]: Instagram
+              - generic [ref=e271]: Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos
+          - generic [ref=e272] [cursor=pointer]:
+            - heading "Dra. Giovanna Lima | Harmonização Facial (@dragiovannalima) • Instagram photos and videos" [level=3] [ref=e274]:
+              - button "Dra. Giovanna Lima | Harmonização Facial (@dragiovannalima) • Instagram photos and videos" [ref=e276]:
+                - img "Dra. Giovanna Lima | Harmonização Facial (@dragiovannalima) • Instagram photos and videos" [ref=e279]
+            - link "Instagram Dra. Giovanna Lima | Harmonização Facial (@dragiovannalima) • Instagram photos and videos" [ref=e281]:
+              - /url: https://www.instagram.com/dragiovannalima/
+              - generic [ref=e286]: Instagram
+              - generic [ref=e288]: Dra. Giovanna Lima | Harmonização Facial (@dragiovannalima) • Instagram photos and videos
+          - generic [ref=e289] [cursor=pointer]:
+            - heading "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [level=3] [ref=e291]:
+              - button "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e293]:
+                - img "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e296]
+            - link "Instagram Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e298]:
+              - /url: https://www.instagram.com/dra_giovannalima/
+              - generic [ref=e303]: Instagram
+              - generic [ref=e305]: Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos
+          - generic [ref=e306] [cursor=pointer]:
+            - 'heading "Um antes e depois de tirar o fôlego 🤤🥰 ✨facetas de resina associada a gengivoplastia ✨ Alguém que pode sorrir com segurança, pode mudar o mundo ❤️ . . . . . . . . . . . . #" [level=3] [ref=e308]':
+              - 'button "Um antes e depois de tirar o fôlego 🤤🥰 ✨facetas de resina associada a gengivoplastia ✨ Alguém que pode sorrir com segurança, pode mudar o mundo ❤️ . . . . . . . . . . . . #" [ref=e310]':
+                - 'img "Um antes e depois de tirar o fôlego 🤤🥰 ✨facetas de resina associada a gengivoplastia ✨ Alguém que pode sorrir com segurança, pode mudar o mundo ❤️ . . . . . . . . . . . . #" [ref=e313]'
+            - 'link "Instagram Um antes e depois de tirar o fôlego 🤤🥰 ✨facetas de resina associada a gengivoplastia ✨ Alguém que pode sorrir com segurança, pode mudar o mundo ❤️ . . . . . . . . . . . . #" [ref=e315]':
+              - /url: https://www.instagram.com/p/CwV_SMOpfQH/
+              - generic [ref=e320]: Instagram
+              - generic [ref=e322]: "Um antes e depois de tirar o fôlego 🤤🥰 ✨facetas de resina associada a gengivoplastia ✨ Alguém que pode sorrir com segurança, pode mudar o mundo ❤️ . . . . . . . . . . . . #"
+          - generic [ref=e323] [cursor=pointer]:
+            - heading "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [level=3] [ref=e325]:
+              - button "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e327]:
+                - img "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e330]
+            - link "Instagram Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e332]:
+              - /url: https://www.instagram.com/dra_giovannalima/reels/
+              - generic [ref=e337]: Instagram
+              - generic [ref=e339]: Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos
+          - generic [ref=e340] [cursor=pointer]:
+            - generic [ref=e341]:
+              - heading "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [level=3] [ref=e342]:
+                - button "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e344]:
+                  - img "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e347]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e349]:
+              - /url: https://www.instagram.com/dra_giovannalima/reels/
+              - generic [ref=e354]: Instagram
+              - generic [ref=e356]: Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos
+          - generic [ref=e357] [cursor=pointer]:
+            - heading "Rejuvenescer sem perder a naturalidade é possível ✨🤌🏼 Nesse caso realizamos um protocolo de rejuvenescimento facial completo, focado em suavizar linhas, melhorar a qualidade da pele e devolver sustentação ao rosto. O" [level=3] [ref=e359]:
+              - button "Rejuvenescer sem perder a naturalidade é possível ✨🤌🏼 Nesse caso realizamos um protocolo de rejuvenescimento facial completo, focado em suavizar linhas, melhorar a qualidade da pele e devolver sustentação ao rosto. O" [ref=e361]:
+                - img "Rejuvenescer sem perder a naturalidade é possível ✨🤌🏼 Nesse caso realizamos um protocolo de rejuvenescimento facial completo, focado em suavizar linhas, melhorar a qualidade da pele e devolver sustentação ao rosto. O" [ref=e364]
+            - link "Instagram Rejuvenescer sem perder a naturalidade é possível ✨🤌🏼 Nesse caso realizamos um protocolo de rejuvenescimento facial completo, focado em suavizar linhas, melhorar a qualidade da pele e devolver sustentação ao rosto. O" [ref=e366]:
+              - /url: https://www.instagram.com/p/DV1aPvJjsvp/
+              - generic [ref=e371]: Instagram
+              - generic [ref=e373]: Rejuvenescer sem perder a naturalidade é possível ✨🤌🏼 Nesse caso realizamos um protocolo de rejuvenescimento facial completo, focado em suavizar linhas, melhorar a qualidade da pele e devolver sustentação ao rosto. O
+          - generic [ref=e374] [cursor=pointer]:
+            - generic [ref=e375]:
+              - 'heading "Vamos ver o passo a passo de um implante dentário🦷✨ . . . . . . . #implantesdentarios #implantedentario #implante #dente #dentes #sorrisolindo #sorrisoperfeito #dentessaudaveis #oclusao #ourofino #ourofinomg #inconfidentes #fy #viral #viralvideos #viral" [level=3] [ref=e376]':
+                - 'button "Vamos ver o passo a passo de um implante dentário🦷✨ . . . . . . . #implantesdentarios #implantedentario #implante #dente #dentes #sorrisolindo #sorrisoperfeito #dentessaudaveis #oclusao #ourofino #ourofinomg #inconfidentes #fy #viral #viralvideos #viral" [ref=e378]':
+                  - 'img "Vamos ver o passo a passo de um implante dentário🦷✨ . . . . . . . #implantesdentarios #implantedentario #implante #dente #dentes #sorrisolindo #sorrisoperfeito #dentessaudaveis #oclusao #ourofino #ourofinomg #inconfidentes #fy #viral #viralvideos #viral" [ref=e381]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Vamos ver o passo a passo de um implante dentário🦷✨ . . . . . . . #implantesdentarios #implantedentario #implante #dente #dentes #sorrisolindo #sorrisoperfeito #dentessaudaveis #oclusao #ourofino #ourofinomg #inconfidentes #fy #viral #viralvideos #viral" [ref=e383]':
+              - /url: https://www.instagram.com/reel/CoN3gG0jGrr/?hl=ar
+              - generic [ref=e388]: Instagram
+              - generic [ref=e390]: "Vamos ver o passo a passo de um implante dentário🦷✨ . . . . . . . #implantesdentarios #implantedentario #implante #dente #dentes #sorrisolindo #sorrisoperfeito #dentessaudaveis #oclusao #ourofino #ourofinomg #inconfidentes #fy #viral #viralvideos #viral"
+          - generic [ref=e391] [cursor=pointer]:
+            - 'heading "Protocolo superior e inferior imediato ✨ Mudança de vida, função e estética reestabelecida ✨ . . . . . . . #protocolodentario #implantes #implantedentario #sorriso #sorria #sorrindo #ourofino #minasgerais #ourofinomg #dentista" [level=3] [ref=e393]':
+              - 'button "Protocolo superior e inferior imediato ✨ Mudança de vida, função e estética reestabelecida ✨ . . . . . . . #protocolodentario #implantes #implantedentario #sorriso #sorria #sorrindo #ourofino #minasgerais #ourofinomg #dentista" [ref=e395]':
+                - 'img "Protocolo superior e inferior imediato ✨ Mudança de vida, função e estética reestabelecida ✨ . . . . . . . #protocolodentario #implantes #implantedentario #sorriso #sorria #sorrindo #ourofino #minasgerais #ourofinomg #dentista" [ref=e398]'
+            - 'link "Instagram Protocolo superior e inferior imediato ✨ Mudança de vida, função e estética reestabelecida ✨ . . . . . . . #protocolodentario #implantes #implantedentario #sorriso #sorria #sorrindo #ourofino #minasgerais #ourofinomg #dentista" [ref=e400]':
+              - /url: https://www.instagram.com/p/DDvH__9vDR4/
+              - generic [ref=e405]: Instagram
+              - generic [ref=e407]: "Protocolo superior e inferior imediato ✨ Mudança de vida, função e estética reestabelecida ✨ . . . . . . . #protocolodentario #implantes #implantedentario #sorriso #sorria #sorrindo #ourofino #minasgerais #ourofinomg #dentista"
+          - generic [ref=e408] [cursor=pointer]:
+            - 'heading "Perfiloplastia: o procedimento perfeito que vai mudar sua autoestima ❤️" [level=3] [ref=e410]':
+              - 'button "Perfiloplastia: o procedimento perfeito que vai mudar sua autoestima ❤️" [ref=e412]':
+                - 'img "Perfiloplastia: o procedimento perfeito que vai mudar sua autoestima ❤️" [ref=e415]'
+            - 'link "Instagram Perfiloplastia: o procedimento perfeito que vai mudar sua autoestima ❤️" [ref=e417]':
+              - /url: https://www.instagram.com/p/DPM_m7ijmrw/
+              - generic [ref=e422]: Instagram
+              - generic [ref=e424]: "Perfiloplastia: o procedimento perfeito que vai mudar sua autoestima ❤️"
+          - generic [ref=e425] [cursor=pointer]:
+            - 'heading "Perfiloplastia: o procedimento perfeito que vai mudar sua autoestima ❤️" [level=3] [ref=e427]':
+              - 'button "Perfiloplastia: o procedimento perfeito que vai mudar sua autoestima ❤️" [ref=e429]':
+                - 'img "Perfiloplastia: o procedimento perfeito que vai mudar sua autoestima ❤️" [ref=e432]'
+            - 'link "Instagram Perfiloplastia: o procedimento perfeito que vai mudar sua autoestima ❤️" [ref=e434]':
+              - /url: https://www.instagram.com/p/DPM_m7ijmrw/
+              - generic [ref=e439]: Instagram
+              - generic [ref=e441]: "Perfiloplastia: o procedimento perfeito que vai mudar sua autoestima ❤️"
+          - generic [ref=e442] [cursor=pointer]:
+            - 'heading "Vamos ver o passo a passo de um implante dentário🦷✨ . . . . . . . #implantesdentarios #implantedentario #implante #dente #dentes #sorrisolindo #sorrisoperfeito #dentessaudaveis #oclusao #ourofino #ourofinomg #inconfidentes #fy #viral #viralvideos #viral" [level=3] [ref=e444]':
+              - 'button "Vamos ver o passo a passo de um implante dentário🦷✨ . . . . . . . #implantesdentarios #implantedentario #implante #dente #dentes #sorrisolindo #sorrisoperfeito #dentessaudaveis #oclusao #ourofino #ourofinomg #inconfidentes #fy #viral #viralvideos #viral" [ref=e446]':
+                - 'img "Vamos ver o passo a passo de um implante dentário🦷✨ . . . . . . . #implantesdentarios #implantedentario #implante #dente #dentes #sorrisolindo #sorrisoperfeito #dentessaudaveis #oclusao #ourofino #ourofinomg #inconfidentes #fy #viral #viralvideos #viral" [ref=e449]'
+            - 'link "Instagram Vamos ver o passo a passo de um implante dentário🦷✨ . . . . . . . #implantesdentarios #implantedentario #implante #dente #dentes #sorrisolindo #sorrisoperfeito #dentessaudaveis #oclusao #ourofino #ourofinomg #inconfidentes #fy #viral #viralvideos #viral" [ref=e451]':
+              - /url: https://www.instagram.com/reel/CoN3gG0jGrr/?hl=ar
+              - generic [ref=e456]: Instagram
+              - generic [ref=e458]: "Vamos ver o passo a passo de um implante dentário🦷✨ . . . . . . . #implantesdentarios #implantedentario #implante #dente #dentes #sorrisolindo #sorrisoperfeito #dentessaudaveis #oclusao #ourofino #ourofinomg #inconfidentes #fy #viral #viralvideos #viral"
+          - generic [ref=e459] [cursor=pointer]:
+            - heading "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [level=3] [ref=e461]:
+              - button "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e463]:
+                - img "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e466]
+            - link "Instagram Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e468]:
+              - /url: https://www.instagram.com/dra_giovannalima/reels/
+              - generic [ref=e473]: Instagram
+              - generic [ref=e475]: Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos
+          - generic [ref=e476] [cursor=pointer]:
+            - heading "Drª Giovanna| Endodontia | HOF| Cuiabá|4 Marcos 📍 (@dra.giovannalima) • Instagram photos and videos" [level=3] [ref=e478]:
+              - button "Drª Giovanna| Endodontia | HOF| Cuiabá|4 Marcos 📍 (@dra.giovannalima) • Instagram photos and videos" [ref=e480]:
+                - img "Drª Giovanna| Endodontia | HOF| Cuiabá|4 Marcos 📍 (@dra.giovannalima) • Instagram photos and videos" [ref=e483]
+            - link "Instagram Drª Giovanna| Endodontia | HOF| Cuiabá|4 Marcos 📍 (@dra.giovannalima) • Instagram photos and videos" [ref=e485]:
+              - /url: https://www.instagram.com/dra.giovannalima/
+              - generic [ref=e490]: Instagram
+              - generic [ref=e492]: Drª Giovanna| Endodontia | HOF| Cuiabá|4 Marcos 📍 (@dra.giovannalima) • Instagram photos and videos
+          - generic [ref=e493] [cursor=pointer]:
+            - 'heading "Vamos ver o passo a passo de um implante dentário🦷✨ . . . . . . . #implantesdentarios #implantedentario #implante #dente #dentes #sorrisolindo #sorrisoperfeito #dentessaudaveis #oclusao #ourofino #ourofinomg #inconfidentes #fy #viral #viralvideos #viral" [level=3] [ref=e495]':
+              - 'button "Vamos ver o passo a passo de um implante dentário🦷✨ . . . . . . . #implantesdentarios #implantedentario #implante #dente #dentes #sorrisolindo #sorrisoperfeito #dentessaudaveis #oclusao #ourofino #ourofinomg #inconfidentes #fy #viral #viralvideos #viral" [ref=e497]':
+                - 'img "Vamos ver o passo a passo de um implante dentário🦷✨ . . . . . . . #implantesdentarios #implantedentario #implante #dente #dentes #sorrisolindo #sorrisoperfeito #dentessaudaveis #oclusao #ourofino #ourofinomg #inconfidentes #fy #viral #viralvideos #viral" [ref=e500]'
+            - 'link "Instagram Vamos ver o passo a passo de um implante dentário🦷✨ . . . . . . . #implantesdentarios #implantedentario #implante #dente #dentes #sorrisolindo #sorrisoperfeito #dentessaudaveis #oclusao #ourofino #ourofinomg #inconfidentes #fy #viral #viralvideos #viral" [ref=e502]':
+              - /url: https://www.instagram.com/reel/CoN3gG0jGrr/?hl=ar
+              - generic [ref=e507]: Instagram
+              - generic [ref=e509]: "Vamos ver o passo a passo de um implante dentário🦷✨ . . . . . . . #implantesdentarios #implantedentario #implante #dente #dentes #sorrisolindo #sorrisoperfeito #dentessaudaveis #oclusao #ourofino #ourofinomg #inconfidentes #fy #viral #viralvideos #viral"
+          - generic [ref=e510] [cursor=pointer]:
+            - 'heading "Vamos ver o passo a passo de um implante dentário🦷✨ . . . . . . . #implantesdentarios #implantedentario #implante #dente #dentes #sorrisolindo #sorrisoperfeito #dentessaudaveis #oclusao #ourofino #ourofinomg #inconfidentes #fy #viral #viralvideos #viral" [level=3] [ref=e512]':
+              - 'button "Vamos ver o passo a passo de um implante dentário🦷✨ . . . . . . . #implantesdentarios #implantedentario #implante #dente #dentes #sorrisolindo #sorrisoperfeito #dentessaudaveis #oclusao #ourofino #ourofinomg #inconfidentes #fy #viral #viralvideos #viral" [ref=e514]':
+                - 'img "Vamos ver o passo a passo de um implante dentário🦷✨ . . . . . . . #implantesdentarios #implantedentario #implante #dente #dentes #sorrisolindo #sorrisoperfeito #dentessaudaveis #oclusao #ourofino #ourofinomg #inconfidentes #fy #viral #viralvideos #viral" [ref=e517]'
+            - 'link "Instagram Vamos ver o passo a passo de um implante dentário🦷✨ . . . . . . . #implantesdentarios #implantedentario #implante #dente #dentes #sorrisolindo #sorrisoperfeito #dentessaudaveis #oclusao #ourofino #ourofinomg #inconfidentes #fy #viral #viralvideos #viral" [ref=e519]':
+              - /url: https://www.instagram.com/reel/CoN3gG0jGrr/?hl=ar
+              - generic [ref=e524]: Instagram
+              - generic [ref=e526]: "Vamos ver o passo a passo de um implante dentário🦷✨ . . . . . . . #implantesdentarios #implantedentario #implante #dente #dentes #sorrisolindo #sorrisoperfeito #dentessaudaveis #oclusao #ourofino #ourofinomg #inconfidentes #fy #viral #viralvideos #viral"
+          - generic [ref=e527] [cursor=pointer]:
+            - heading "Dra. Giovanna Lima | Harmonização Facial (@dragiovannalima) • Instagram photos and videos" [level=3] [ref=e529]:
+              - button "Dra. Giovanna Lima | Harmonização Facial (@dragiovannalima) • Instagram photos and videos" [ref=e531]:
+                - img "Dra. Giovanna Lima | Harmonização Facial (@dragiovannalima) • Instagram photos and videos" [ref=e534]
+            - link "Instagram Dra. Giovanna Lima | Harmonização Facial (@dragiovannalima) • Instagram photos and videos" [ref=e536]:
+              - /url: https://www.instagram.com/dragiovannalima/
+              - generic [ref=e541]: Instagram
+              - generic [ref=e543]: Dra. Giovanna Lima | Harmonização Facial (@dragiovannalima) • Instagram photos and videos
+          - generic [ref=e544] [cursor=pointer]:
+            - heading "O rejuvenescimento facial vai muito além da estética. É sobre devolver autoestima, confiança e leveza ✨ Cada paciente é única, e por isso criamos protocolos personalizados, respeitando a beleza natural de cada" [level=3] [ref=e546]:
+              - button "O rejuvenescimento facial vai muito além da estética. É sobre devolver autoestima, confiança e leveza ✨ Cada paciente é única, e por isso criamos protocolos personalizados, respeitando a beleza natural de cada" [ref=e548]:
+                - img "O rejuvenescimento facial vai muito além da estética. É sobre devolver autoestima, confiança e leveza ✨ Cada paciente é única, e por isso criamos protocolos personalizados, respeitando a beleza natural de cada" [ref=e551]
+            - link "Instagram O rejuvenescimento facial vai muito além da estética. É sobre devolver autoestima, confiança e leveza ✨ Cada paciente é única, e por isso criamos protocolos personalizados, respeitando a beleza natural de cada" [ref=e553]:
+              - /url: https://www.instagram.com/p/DWR7qxjgND9/
+              - generic [ref=e558]: Instagram
+              - generic [ref=e560]: O rejuvenescimento facial vai muito além da estética. É sobre devolver autoestima, confiança e leveza ✨ Cada paciente é única, e por isso criamos protocolos personalizados, respeitando a beleza natural de cada
+          - generic [ref=e561] [cursor=pointer]:
+            - heading "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [level=3] [ref=e563]:
+              - button "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e565]:
+                - img "Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e568]
+            - link "Instagram Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos" [ref=e570]:
+              - /url: https://www.instagram.com/dra_giovannalima/
+              - generic [ref=e575]: Instagram
+              - generic [ref=e577]: Dra. Giovanna Lima | Dentista Ouro Fino | Implante | Facetas ⚜️ (@ dra_giovannalima) • Instagram photos and videos
+          - generic [ref=e578] [cursor=pointer]:
+            - heading "Muitas vezes, a busca pelo “preço” acaba escondendo o que realmente importa para um resultado seguro e natural. No meu consultório, o valor de cada procedimento é construído sobre pilares que garantem" [level=3] [ref=e580]:
+              - button "Muitas vezes, a busca pelo “preço” acaba escondendo o que realmente importa para um resultado seguro e natural. No meu consultório, o valor de cada procedimento é construído sobre pilares que garantem" [ref=e582]:
+                - img "Muitas vezes, a busca pelo “preço” acaba escondendo o que realmente importa para um resultado seguro e natural. No meu consultório, o valor de cada procedimento é construído sobre pilares que garantem" [ref=e585]
+            - link "Instagram Muitas vezes, a busca pelo “preço” acaba escondendo o que realmente importa para um resultado seguro e natural. No meu consultório, o valor de cada procedimento é construído sobre pilares que garantem" [ref=e587]:
+              - /url: https://www.instagram.com/p/DWG9xlpgGYL/
+              - generic [ref=e592]: Instagram
+              - generic [ref=e594]: Muitas vezes, a busca pelo “preço” acaba escondendo o que realmente importa para um resultado seguro e natural. No meu consultório, o valor de cada procedimento é construído sobre pilares que garantem
+          - generic [ref=e595] [cursor=pointer]:
+            - heading "Drª Giovanna| Endodontia | HOF| Cuiabá|4 Marcos 📍 (@dra.giovannalima) • Instagram photos and videos" [level=3] [ref=e597]:
+              - button "Drª Giovanna| Endodontia | HOF| Cuiabá|4 Marcos 📍 (@dra.giovannalima) • Instagram photos and videos" [ref=e599]:
+                - img "Drª Giovanna| Endodontia | HOF| Cuiabá|4 Marcos 📍 (@dra.giovannalima) • Instagram photos and videos" [ref=e602]
+            - link "Instagram Drª Giovanna| Endodontia | HOF| Cuiabá|4 Marcos 📍 (@dra.giovannalima) • Instagram photos and videos" [ref=e604]:
+              - /url: https://www.instagram.com/dra.giovannalima/
+              - generic [ref=e609]: Instagram
+              - generic [ref=e611]: Drª Giovanna| Endodontia | HOF| Cuiabá|4 Marcos 📍 (@dra.giovannalima) • Instagram photos and videos
+          - generic [ref=e612] [cursor=pointer]:
+            - generic [ref=e613]:
+              - 'heading "Quebrou seu dente ? Eu tenho a solução para você!!! ✨ #dentes #nadadebanguela #sorriso #ourofino #dentista" [level=3] [ref=e614]':
+                - 'button "Quebrou seu dente ? Eu tenho a solução para você!!! ✨ #dentes #nadadebanguela #sorriso #ourofino #dentista" [ref=e616]':
+                  - 'img "Quebrou seu dente ? Eu tenho a solução para você!!! ✨ #dentes #nadadebanguela #sorriso #ourofino #dentista" [ref=e619]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Quebrou seu dente ? Eu tenho a solução para você!!! ✨ #dentes #nadadebanguela #sorriso #ourofino #dentista" [ref=e621]':
+              - /url: https://www.instagram.com/reel/Cbnoal8DAga/?hl=ar
+              - generic [ref=e626]: Instagram
+              - generic [ref=e628]: "Quebrou seu dente ? Eu tenho a solução para você!!! ✨ #dentes #nadadebanguela #sorriso #ourofino #dentista"
+          - generic [ref=e629] [cursor=pointer]:
+            - generic [ref=e630]:
+              - heading "Dra. Giovanna Lima | Harmonização Facial (@dragiovannalima) • Instagram photos and videos" [level=3] [ref=e631]:
+                - button "Dra. Giovanna Lima | Harmonização Facial (@dragiovannalima) • Instagram photos and videos" [ref=e633]:
+                  - img "Dra. Giovanna Lima | Harmonização Facial (@dragiovannalima) • Instagram photos and videos" [ref=e636]
+              - generic:
+                - generic: 5 dias atrás
+            - link "Instagram Dra. Giovanna Lima | Harmonização Facial (@dragiovannalima) • Instagram photos and videos" [ref=e638]:
+              - /url: https://www.instagram.com/dragiovannalima/
+              - generic [ref=e643]: Instagram
+              - generic [ref=e645]: Dra. Giovanna Lima | Harmonização Facial (@dragiovannalima) • Instagram photos and videos
+          - generic [ref=e646] [cursor=pointer]:
+            - heading "Dra. Giovanna Lima | Harmonização Facial (@dragiovannalima) • Instagram photos and videos" [level=3] [ref=e648]:
+              - button "Dra. Giovanna Lima | Harmonização Facial (@dragiovannalima) • Instagram photos and videos" [ref=e650]:
+                - img "Dra. Giovanna Lima | Harmonização Facial (@dragiovannalima) • Instagram photos and videos" [ref=e653]
+            - link "Instagram Dra. Giovanna Lima | Harmonização Facial (@dragiovannalima) • Instagram photos and videos" [ref=e655]:
+              - /url: https://www.instagram.com/dragiovannalima/
+              - generic [ref=e660]: Instagram
+              - generic [ref=e662]: Dra. Giovanna Lima | Harmonização Facial (@dragiovannalima) • Instagram photos and videos
+          - generic [ref=e663] [cursor=pointer]:
+            - heading "Olhar renovado, autoestima em alta. 💉✨" [level=3] [ref=e665]:
+              - button "Olhar renovado, autoestima em alta. 💉✨" [ref=e667]:
+                - img "Olhar renovado, autoestima em alta. 💉✨" [ref=e670]
+            - link "Instagram Olhar renovado, autoestima em alta. 💉✨" [ref=e672]:
+              - /url: https://www.instagram.com/p/DPwqvDPjiHI/
+              - generic [ref=e677]: Instagram
+              - generic [ref=e679]: Olhar renovado, autoestima em alta. 💉✨
+          - generic [ref=e680] [cursor=pointer]:
+            - 'heading "Perfiloplastia: o procedimento perfeito que vai mudar sua autoestima ❤️" [level=3] [ref=e682]':
+              - 'button "Perfiloplastia: o procedimento perfeito que vai mudar sua autoestima ❤️" [ref=e684]':
+                - 'img "Perfiloplastia: o procedimento perfeito que vai mudar sua autoestima ❤️" [ref=e687]'
+            - 'link "Instagram Perfiloplastia: o procedimento perfeito que vai mudar sua autoestima ❤️" [ref=e689]':
+              - /url: https://www.instagram.com/p/DPM_m7ijmrw/
+              - generic [ref=e694]: Instagram
+              - generic [ref=e696]: "Perfiloplastia: o procedimento perfeito que vai mudar sua autoestima ❤️"
+        - generic [ref=e699]:
+          - heading "Page Navigation" [level=1] [ref=e700]
+          - generic [ref=e701]:
+            - text: O restante dos resultados pode não ser o que você procura.
+            - link "Conferir mais mesmo assim" [ref=e702] [cursor=pointer]:
+              - /url: "#"
+      - navigation

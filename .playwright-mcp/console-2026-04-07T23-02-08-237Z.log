@@ -1,0 +1,21 @@
+[     656ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:8081/packages/frontend/index.bundle?platform=web&dev=true&hot=false&lazy=true&transform.engine=hermes&transform.routerRoot=app&unstable_transformProfile=hermes-stable:17372
+[     686ms] [LOG] Running application "main" with appParams:
+ {rootTag: #root, hydrate: undefined} 
+Development-level warnings: ON.
+Performance optimizations: OFF. @ http://localhost:8081/packages/frontend/index.bundle?platform=web&dev=true&hot=false&lazy=true&transform.engine=hermes&transform.routerRoot=app&unstable_transformProfile=hermes-stable:65434
+[  638548ms] Error: UnableToResolveError Unable to resolve module @react-native-community/slider from /Users/felipemoreiralanna/Documents/GitHub/arena-app/packages/frontend/src/components/ui/ArenaSlider/index.tsx: @react-native-community/slider could not be found within the project or in these directories:
+  node_modules
+  ../../node_modules
+  node_modules
+  ../../node_modules
+[0m [90m 1 |[39m [36mimport[39m { useCallback } [36mfrom[39m [32m'react'[39m[33m;[39m
+ [90m 2 |[39m [36mimport[39m { [33mView[39m } [36mfrom[39m [32m'react-native'[39m[33m;[39m
+[31m[1m>[22m[39m[90m 3 |[39m [36mimport[39m [33mSlider[39m [36mfrom[39m [32m'@react-native-community/slider'[39m[33m;[39m
+ [90m   |[39m                     [31m[1m^[22m[39m
+ [90m 4 |[39m [36mimport[39m { [33mArenaText[39m } [36mfrom[39m [32m'@/components/ui/ArenaText'[39m[33m;[39m
+ [90m 5 |[39m [36mimport[39m { useTheme } [36mfrom[39m [32m'@/theme'[39m[33m;[39m
+ [90m 6 |[39m [36mimport[39m { createStyles } [36mfrom[39m [32m'@/components/ui/ArenaSlider/ArenaSlider.styles'[39m[33m;[39m[0m
+    at showCompileError (http://localhost:8081/packages/frontend/index.bundle?platform=web&dev=true&hot=false&lazy=true&transform.engine=hermes&transform.routerRoot=app&unstable_transformProfile=hermes-stable:71595:19)
+    at HMRClient.<anonymous> (http://localhost:8081/packages/frontend/index.bundle?platform=web&dev=true&hot=false&lazy=true&transform.engine=hermes&transform.routerRoot=app&unstable_transformProfile=hermes-stable:71515:13)
+    at HMRClient.emit (http://localhost:8081/packages/frontend/index.bundle?platform=web&dev=true&hot=false&lazy=true&transform.engine=hermes&transform.routerRoot=app&unstable_transformProfile=hermes-stable:71846:31)
+    at HMRClient._ws.onmessage (http://localhost:8081/packages/frontend/index.bundle?platform=web&dev=true&hot=false&lazy=true&transform.engine=hermes&transform.routerRoot=app&unstable_transformProfile=hermes-stable:71661:18)

@@ -1,0 +1,362 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e86] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e91]
+        - link "Foto do perfil de _pipelinestudio" [ref=e97] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e102]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e103]
+      - generic [ref=e104]:
+        - link "Configurações" [ref=e107] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e112]
+        - link "Também da Meta" [ref=e115] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e120]
+    - generic [ref=e123]:
+      - main [ref=e124]:
+        - generic [ref=e125]:
+          - generic [ref=e127]:
+            - button [ref=e132]:
+              - generic [ref=e136] [cursor=pointer]:
+                - button [ref=e137]:
+                  - img [ref=e139]
+                - button [ref=e142]:
+                  - img [ref=e144]
+            - generic [ref=e147]:
+              - generic [ref=e149]:
+                - button "Foto do perfil de adv_polianaandrade" [ref=e154] [cursor=pointer]:
+                  - link "Foto do perfil de adv_polianaandrade" [ref=e156]:
+                    - img "Foto do perfil de adv_polianaandrade" [ref=e157]
+                - generic [ref=e160]:
+                  - generic [ref=e161]:
+                    - link "adv_polianaandrade" [ref=e169] [cursor=pointer]:
+                      - /url: /adv_polianaandrade/
+                      - generic [ref=e172]: adv_polianaandrade
+                    - link "Taguatinga Distrito Federal" [ref=e176] [cursor=pointer]:
+                      - /url: /explore/locations/104999831027690/taguatinga-distrito-federal/
+                  - button "Seguir" [ref=e178] [cursor=pointer]
+                - button "Mais opções" [ref=e181] [cursor=pointer]:
+                  - img "Mais opções" [ref=e184]
+              - separator [ref=e188]
+              - generic [ref=e190]:
+                - generic [ref=e192]:
+                  - link "Foto do perfil de adv_polianaandrade" [ref=e197] [cursor=pointer]:
+                    - /url: /adv_polianaandrade/
+                    - img "Foto do perfil de adv_polianaandrade" [ref=e198]
+                  - generic [ref=e202]:
+                    - generic [ref=e203]:
+                      - link "adv_polianaandrade" [ref=e207] [cursor=pointer]:
+                        - /url: /adv_polianaandrade/
+                        - generic [ref=e210]: adv_polianaandrade
+                      - time [ref=e212]: 151 sem
+                    - generic [ref=e213]:
+                      - text: Ser a sua mãe é o maior de todos os prazeres da minha vida.
+                      - text: .
+                      - text: .
+                      - text: Eu te amo cada dia mais, impressionante!
+                      - link "#felizdiadasmaes" [ref=e214] [cursor=pointer]:
+                        - /url: /explore/tags/felizdiadasmaes/
+                      - link "#amorverdadeiro" [ref=e215] [cursor=pointer]:
+                        - /url: /explore/tags/amorverdadeiro/
+                      - link "#amormaiordomundo" [ref=e216] [cursor=pointer]:
+                        - /url: /explore/tags/amormaiordomundo/
+                      - link "#advogadafamiliarista" [ref=e217] [cursor=pointer]:
+                        - /url: /explore/tags/advogadafamiliarista/
+                      - link "#maedemenina" [ref=e218] [cursor=pointer]:
+                        - /url: /explore/tags/maedemenina/
+                - generic [ref=e219]:
+                  - generic [ref=e222]:
+                    - link "Foto do perfil de alinemoaraprado" [ref=e228] [cursor=pointer]:
+                      - /url: /alinemoaraprado/
+                      - img "Foto do perfil de alinemoaraprado" [ref=e229]
+                    - generic [ref=e230]:
+                      - generic [ref=e231]:
+                        - generic [ref=e233]:
+                          - generic [ref=e234]:
+                            - link "alinemoaraprado" [ref=e239] [cursor=pointer]:
+                              - /url: /alinemoaraprado/
+                              - generic [ref=e242]: alinemoaraprado
+                            - link "147 sem" [ref=e244] [cursor=pointer]:
+                              - /url: /p/CsOxIgyLXrh/c/18037082785489636/
+                              - time [ref=e245]: 147 sem
+                          - generic [ref=e247]: Lindas😍
+                        - button "Responder" [ref=e249] [cursor=pointer]:
+                          - generic [ref=e251]: Responder
+                      - button "Curtir" [ref=e256] [cursor=pointer]:
+                        - img "Curtir" [ref=e259]
+                  - generic [ref=e263]:
+                    - link "Foto do perfil de raquel_resolvi" [ref=e269] [cursor=pointer]:
+                      - /url: /raquel_resolvi/
+                      - img "Foto do perfil de raquel_resolvi" [ref=e270]
+                    - generic [ref=e271]:
+                      - generic [ref=e272]:
+                        - generic [ref=e274]:
+                          - generic [ref=e275]:
+                            - link "raquel_resolvi" [ref=e280] [cursor=pointer]:
+                              - /url: /raquel_resolvi/
+                              - generic [ref=e283]: raquel_resolvi
+                            - link "149 sem" [ref=e285] [cursor=pointer]:
+                              - /url: /p/CsOxIgyLXrh/c/18004391914634097/
+                              - time [ref=e286]: 149 sem
+                          - generic [ref=e288]:
+                            - text: Dra
+                            - link "@adv_polianaandrade" [ref=e289] [cursor=pointer]:
+                              - /url: /adv_polianaandrade/
+                            - text: 🌷 deixei uma msg no seu direct. Assim que conseguir me responder, ficarei agradecida minha querida 😃❣️ Abraçoo 😘
+                        - button "Responder" [ref=e291] [cursor=pointer]:
+                          - generic [ref=e293]: Responder
+                      - button "Curtir" [ref=e298] [cursor=pointer]:
+                        - img "Curtir" [ref=e301]
+                  - generic [ref=e305]:
+                    - link "Foto do perfil de misgomes1" [ref=e311] [cursor=pointer]:
+                      - /url: /misgomes1/
+                      - img "Foto do perfil de misgomes1" [ref=e312]
+                    - generic [ref=e313]:
+                      - generic [ref=e314]:
+                        - generic [ref=e316]:
+                          - generic [ref=e317]:
+                            - link "misgomes1" [ref=e322] [cursor=pointer]:
+                              - /url: /misgomes1/
+                              - generic [ref=e325]: misgomes1
+                            - link "151 sem" [ref=e327] [cursor=pointer]:
+                              - /url: /p/CsOxIgyLXrh/c/18084914815353174/
+                              - time [ref=e328]: 151 sem
+                          - generic [ref=e330]: Lindas ❤️❤️ feliz dia das mães poli
+                        - button "Responder" [ref=e332] [cursor=pointer]:
+                          - generic [ref=e334]: Responder
+                      - button "Curtir" [ref=e339] [cursor=pointer]:
+                        - img "Curtir" [ref=e342]
+                  - generic [ref=e346]:
+                    - link "Foto do perfil de gabesandrade_" [ref=e352] [cursor=pointer]:
+                      - /url: /gabesandrade_/
+                      - img "Foto do perfil de gabesandrade_" [ref=e353]
+                    - generic [ref=e354]:
+                      - generic [ref=e355]:
+                        - generic [ref=e357]:
+                          - generic [ref=e358]:
+                            - link "gabesandrade_" [ref=e363] [cursor=pointer]:
+                              - /url: /gabesandrade_/
+                              - generic [ref=e366]: gabesandrade_
+                            - link "151 sem" [ref=e368] [cursor=pointer]:
+                              - /url: /p/CsOxIgyLXrh/c/18211171996241898/
+                              - time [ref=e369]: 151 sem
+                          - generic [ref=e371]: perfeição do meu viver
+                        - button "Responder" [ref=e373] [cursor=pointer]:
+                          - generic [ref=e375]: Responder
+                      - button "Curtir" [ref=e380] [cursor=pointer]:
+                        - img "Curtir" [ref=e383]
+                  - generic [ref=e387]:
+                    - link "Foto do perfil de gabesandrade_" [ref=e393] [cursor=pointer]:
+                      - /url: /gabesandrade_/
+                      - img "Foto do perfil de gabesandrade_" [ref=e394]
+                    - generic [ref=e395]:
+                      - generic [ref=e396]:
+                        - generic [ref=e398]:
+                          - generic [ref=e399]:
+                            - link "gabesandrade_" [ref=e404] [cursor=pointer]:
+                              - /url: /gabesandrade_/
+                              - generic [ref=e407]: gabesandrade_
+                            - link "151 sem" [ref=e409] [cursor=pointer]:
+                              - /url: /p/CsOxIgyLXrh/c/17866266080923791/
+                              - time [ref=e410]: 151 sem
+                          - generic [ref=e412]: meu orgulho e inspiração! te amo cada dia mais. 🩷
+                        - button "Responder" [ref=e414] [cursor=pointer]:
+                          - generic [ref=e416]: Responder
+                      - button "Curtir" [ref=e421] [cursor=pointer]:
+                        - img "Curtir" [ref=e424]
+              - generic [ref=e426]:
+                - generic [ref=e427]:
+                  - generic [ref=e428]:
+                    - button "Curtir" [ref=e431] [cursor=pointer]:
+                      - img "Curtir" [ref=e434]
+                    - button "Comentar" [ref=e437] [cursor=pointer]:
+                      - img "Comentar" [ref=e439]
+                    - button "7" [ref=e441] [cursor=pointer]
+                    - button "Compartilhar" [ref=e442] [cursor=pointer]:
+                      - img "Compartilhar" [ref=e443]
+                  - button "Salvar" [ref=e448] [cursor=pointer]:
+                    - button "Salvar" [ref=e449]:
+                      - img "Salvar" [ref=e451]
+                - link "14 de maio de 2023" [ref=e455] [cursor=pointer]:
+                  - /url: /adv_polianaandrade/p/CsOxIgyLXrh/
+                  - time [ref=e457]: 14 de maio de 2023
+              - generic [ref=e460]:
+                - link [ref=e461]
+                - generic [ref=e463]:
+                  - button "Emoji" [ref=e465] [cursor=pointer]:
+                    - img "Emoji" [ref=e467]
+                  - textbox "Adicione um comentário..." [ref=e469]
+          - separator [ref=e471]
+          - generic [ref=e472]:
+            - generic [ref=e474]:
+              - text: Mais posts de
+              - link "adv_polianaandrade" [ref=e475] [cursor=pointer]:
+                - /url: /adv_polianaandrade/
+            - generic [ref=e478]:
+              - generic [ref=e479]:
+                - link [ref=e481] [cursor=pointer]:
+                  - /url: /adv_polianaandrade/reel/DNQzm5kud4m/
+                  - img [ref=e484]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - link "Photo by Andrade e Bispo Advogados Associados in Brasília DF with @dra.lalescabispo, and @adv_polianaandrade." [ref=e487] [cursor=pointer]:
+                  - /url: /andradeebispo_/p/Cz4suQAL6L2/
+                  - img "Photo by Andrade e Bispo Advogados Associados in Brasília DF with @dra.lalescabispo, and @adv_polianaandrade." [ref=e490]
+                - link "Photo by Poliana Andrade | Advogada de inventários in Connect Towers." [ref=e493] [cursor=pointer]:
+                  - /url: /adv_polianaandrade/p/DNOfbOkOHhQ/
+                  - img "Photo by Poliana Andrade | Advogada de inventários in Connect Towers." [ref=e496]
+              - generic [ref=e498]:
+                - link "Carta aberta para 2025. Carrossel" [ref=e500] [cursor=pointer]:
+                  - /url: /adv_polianaandrade/p/DS8HkAbjhF9/
+                  - img "Carta aberta para 2025." [ref=e503]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - 'link "Hoje tive a honra de tomar posse como Vice-Presidente da Comissão de Direito Imobiliário da OAB/DF, subseção de Taguatinga. . . Assumo essa missão com imensa gratidão e senso de responsabilidade, consciente da importância de fortalecer o debate jurídico e promover o aprimoramento técnico e ético de nossa advocacia. . . Agradeço à diretoria da subseção, aos colegas de comissão e a todos que confiam em meu trabalho. Que esta nova jornada seja marcada por aprendizado, cooperação e conquistas coletivas! #OABTaguatinga #DireitoImobiliário #Advocacia #ComissãoDeDireitoImobiliário #Posse #Ética Carrossel" [ref=e506] [cursor=pointer]':
+                  - /url: /adv_polianaandrade/p/DQvC2vCDoKT/
+                  - 'img "Hoje tive a honra de tomar posse como Vice-Presidente da Comissão de Direito Imobiliário da OAB/DF, subseção de Taguatinga. . . Assumo essa missão com imensa gratidão e senso de responsabilidade, consciente da importância de fortalecer o debate jurídico e promover o aprimoramento técnico e ético de nossa advocacia. . . Agradeço à diretoria da subseção, aos colegas de comissão e a todos que confiam em meu trabalho. Que esta nova jornada seja marcada por aprendizado, cooperação e conquistas coletivas! #OABTaguatinga #DireitoImobiliário #Advocacia #ComissãoDeDireitoImobiliário #Posse #Ética" [ref=e509]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - link "Noite de celebração . Baile de meio jaleco . Fisioterapia Todo sucesso do mundo @m.velozo__ ♥️ Carrossel" [ref=e512] [cursor=pointer]:
+                  - /url: /adv_polianaandrade/p/DQk5kgqDpLy/
+                  - img "Noite de celebração . Baile de meio jaleco . Fisioterapia Todo sucesso do mundo @m.velozo__ ♥️" [ref=e515]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+      - contentinfo [ref=e517]:
+        - generic [ref=e518]:
+          - generic [ref=e520]:
+            - link "Meta" [ref=e522] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e523]: Meta
+            - link "Sobre" [ref=e525] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e526]: Sobre
+            - link "Blog" [ref=e528] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e529]: Blog
+            - link "Carreiras" [ref=e531] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e532]: Carreiras
+            - link "Ajuda" [ref=e534] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e535]: Ajuda
+            - link "API" [ref=e537] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e538]: API
+            - link "Privacidade" [ref=e540] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e541]: Privacidade
+            - link "Termos" [ref=e543] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e544]: Termos
+            - link "Localizações" [ref=e546] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e547]: Localizações
+            - link "Instagram Lite" [ref=e549] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e550]: Instagram Lite
+            - link "Meta AI" [ref=e552] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e553]: Meta AI
+            - link "Threads" [ref=e555] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e556]: Threads
+            - link "Upload de contatos e não usuários" [ref=e558] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e559]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e561] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e562]: Meta Verified
+          - generic [ref=e563]:
+            - generic [ref=e564] [cursor=pointer]:
+              - generic [ref=e565]:
+                - generic [ref=e566]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e569]
+              - combobox "Trocar idioma de exibição" [ref=e571]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e573]: © 2026 Instagram from Meta
+  - button "Mensagens Mensagens" [ref=e575] [cursor=pointer]:
+    - generic [ref=e577]:
+      - img "Mensagens" [ref=e579]
+      - generic [ref=e582]: Mensagens

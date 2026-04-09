@@ -1,0 +1,271 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e88] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e93]
+        - link "Foto do perfil de _pipelinestudio" [ref=e99] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e104]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e105]
+      - generic [ref=e106]:
+        - link "Configurações" [ref=e109] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e114]
+        - link "Também da Meta" [ref=e117] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e122]
+    - generic [ref=e125]:
+      - main [ref=e126]:
+        - generic [ref=e127]:
+          - generic [ref=e129]:
+            - button [ref=e134]:
+              - group [ref=e144]:
+                - slider [ref=e146]:
+                  - button [ref=e150] [cursor=pointer]:
+                    - img [ref=e151]
+                - button [ref=e154] [cursor=pointer]:
+                  - img [ref=e156]
+            - generic [ref=e159]:
+              - generic [ref=e161]:
+                - button "Foto do perfil de joanac_fadadodente" [ref=e166] [cursor=pointer]:
+                  - link "Foto do perfil de joanac_fadadodente" [ref=e168]:
+                    - img "Foto do perfil de joanac_fadadodente" [ref=e169]
+                - generic [ref=e172]:
+                  - generic [ref=e173]:
+                    - link "joanac_fadadodente" [ref=e181] [cursor=pointer]:
+                      - /url: /joanac_fadadodente/
+                      - generic [ref=e184]: joanac_fadadodente
+                    - link "Áudio original" [ref=e188] [cursor=pointer]:
+                      - /url: /reels/audio/26086711487633035/
+                      - generic [ref=e191]: Áudio original
+                  - button "Seguir" [ref=e193] [cursor=pointer]
+                - button "Mais opções" [ref=e196] [cursor=pointer]:
+                  - img "Mais opções" [ref=e199]
+              - separator [ref=e203]
+              - generic [ref=e205]:
+                - generic [ref=e207]:
+                  - link "Foto do perfil de joanac_fadadodente" [ref=e212] [cursor=pointer]:
+                    - /url: /joanac_fadadodente/
+                    - img "Foto do perfil de joanac_fadadodente" [ref=e213]
+                  - generic [ref=e217]:
+                    - generic [ref=e218]:
+                      - link "joanac_fadadodente" [ref=e222] [cursor=pointer]:
+                        - /url: /joanac_fadadodente/
+                        - generic [ref=e225]: joanac_fadadodente
+                      - generic [ref=e226]: Editado
+                      - generic [ref=e227]: •
+                      - time [ref=e229]: 7 sem
+                    - generic [ref=e230]:
+                      - text: Sabemos que a chucha tem um papel muito importantes na relação emocional… mas também pode ter consequências.
+                      - text: As Fadas Inês Pereira🧚 e Joana Luís🧚‍♀️ explicam-lhe tudo. 👆🏼
+                      - link "#odontopediatria" [ref=e231] [cursor=pointer]:
+                        - /url: /explore/tags/odontopediatria/
+                      - link "#oprojectodafada" [ref=e232] [cursor=pointer]:
+                        - /url: /explore/tags/oprojectodafada/
+                      - link "#afadadodente" [ref=e233] [cursor=pointer]:
+                        - /url: /explore/tags/afadadodente/
+                      - link "#equipadafadadodente" [ref=e234] [cursor=pointer]:
+                        - /url: /explore/tags/equipadafadadodente/
+                      - link "#pediatricdentistry" [ref=e235] [cursor=pointer]:
+                        - /url: /explore/tags/pediatricdentistry/
+                - generic [ref=e238]:
+                  - heading "Ainda não há nenhum comentário." [level=2] [ref=e240]
+                  - generic [ref=e242]: Inicie a conversa.
+              - generic [ref=e243]:
+                - generic [ref=e244]:
+                  - generic [ref=e245]:
+                    - button "Curtir" [ref=e248] [cursor=pointer]:
+                      - img "Curtir" [ref=e251]
+                    - button "90" [ref=e253] [cursor=pointer]
+                    - button "Comentar" [ref=e255] [cursor=pointer]:
+                      - img "Comentar" [ref=e257]
+                    - button "Compartilhar" [ref=e259] [cursor=pointer]:
+                      - img "Compartilhar" [ref=e260]
+                  - button "Salvar" [ref=e265] [cursor=pointer]:
+                    - button "Salvar" [ref=e266]:
+                      - img "Salvar" [ref=e268]
+                - link "16 de fevereiro" [ref=e272] [cursor=pointer]:
+                  - /url: /joanac_fadadodente/reel/DU1CW8FjGjC/
+                  - time [ref=e274]: 16 de fevereiro
+              - generic [ref=e277]:
+                - link [ref=e278]
+                - generic [ref=e280]:
+                  - button "Emoji" [ref=e282] [cursor=pointer]:
+                    - img "Emoji" [ref=e284]
+                  - textbox "Adicione um comentário..." [ref=e286]
+          - separator [ref=e288]
+          - generic [ref=e289]:
+            - generic [ref=e291]:
+              - text: Mais posts de
+              - link "joanac_fadadodente" [ref=e292] [cursor=pointer]:
+                - /url: /joanac_fadadodente/
+            - generic [ref=e295]:
+              - generic [ref=e296]:
+                - link "Photo by Joana Costa on November 29, 2022." [ref=e298] [cursor=pointer]:
+                  - /url: /joanac_fadadodente/p/Cljd396sDGM/
+                  - img "Photo by Joana Costa on November 29, 2022." [ref=e301]
+                - link "Chegou o Boletim de saúde oral! Pois é, depois de muito pensar como poderia deixar-vos com toda a informação relativa a boquinha dos vossos bebés, resolvi criar um boletim de saúde oral em muito guiado pelo boletim de saúde já existente no SNS. A comunicação entre as diferentes especialidades médicas fica assim mais fácil e ainda com algumas dicas a mistura para as diferentes etapas de desenvolvimento do bebé/criança. Tanta coisa na minha cabeça para colocar em prática, não fosse eu uma sonhadora nata. Gostaram da novidade? Eu sou suspeita mas está para além de funcional e prático , lindo lindo lindo 🧚🏽‍♀️ Ao infinito e mais além 💥 Clipe" [ref=e304] [cursor=pointer]:
+                  - /url: /joanac_fadadodente/reel/CjnxRkGM1g7/
+                  - img "Chegou o Boletim de saúde oral! Pois é, depois de muito pensar como poderia deixar-vos com toda a informação relativa a boquinha dos vossos bebés, resolvi criar um boletim de saúde oral em muito guiado pelo boletim de saúde já existente no SNS. A comunicação entre as diferentes especialidades médicas fica assim mais fácil e ainda com algumas dicas a mistura para as diferentes etapas de desenvolvimento do bebé/criança. Tanta coisa na minha cabeça para colocar em prática, não fosse eu uma sonhadora nata. Gostaram da novidade? Eu sou suspeita mas está para além de funcional e prático , lindo lindo lindo 🧚🏽‍♀️ Ao infinito e mais além 💥" [ref=e307]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - 'link "A primavera traz dias mais longos, mais luz e aquela energia boa que parece mudar tudo. Que este sol vos traga leveza, motivação e uma semana bonita, cheia de coisas boas.🧚🏻 #drajoanacosta #odontopediatria #oprojectodafada #afadadodente #pediatricdentistry Clipe" [ref=e310] [cursor=pointer]':
+                  - /url: /joanac_fadadodente/reel/DWhK3JjjBj0/
+                  - 'img "A primavera traz dias mais longos, mais luz e aquela energia boa que parece mudar tudo. Que este sol vos traga leveza, motivação e uma semana bonita, cheia de coisas boas.🧚🏻 #drajoanacosta #odontopediatria #oprojectodafada #afadadodente #pediatricdentistry" [ref=e313]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+              - generic [ref=e315]:
+                - 'link "Papás, atenção! 🚨 Há frases que parecem inofensivas… mas que muitas vezes transformam a ida ao dentista num momento de medo para uma criança. Mesmo com boa intenção, estas frases podem criar ansiedade e uma ideia negativa da consulta. Na Casa da Fada, queremos exatamente o contrário. Queremos que os mini-pacientes sintam que estão a vir a um lugar seguro, tranquilo… e até divertido. 🧚‍♀️ #drajoanacosta #odontopediatria #oprojectodafada #afadadodente #equipadafadadodente Clipe" [ref=e317] [cursor=pointer]':
+                  - /url: /joanac_fadadodente/reel/DWZcfKbjFqp/
+                  - 'img "Papás, atenção! 🚨 Há frases que parecem inofensivas… mas que muitas vezes transformam a ida ao dentista num momento de medo para uma criança. Mesmo com boa intenção, estas frases podem criar ansiedade e uma ideia negativa da consulta. Na Casa da Fada, queremos exatamente o contrário. Queremos que os mini-pacientes sintam que estão a vir a um lugar seguro, tranquilo… e até divertido. 🧚‍♀️ #drajoanacosta #odontopediatria #oprojectodafada #afadadodente #equipadafadadodente" [ref=e320]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - 'link "Ainda sobre sexta-feira, no @doisas10tvi 🧚 A falar de prevenção e do sorriso dos mini pacientes. Quem assistiu? #drajoanacosta #fadadodente #sic Carrossel" [ref=e323] [cursor=pointer]':
+                  - /url: /joanac_fadadodente/p/DWOmtDejGlb/
+                  - 'img "Ainda sobre sexta-feira, no @doisas10tvi 🧚 A falar de prevenção e do sorriso dos mini pacientes. Quem assistiu? #drajoanacosta #fadadodente #sic" [ref=e326]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - 'link "Missão cumprida. 🤍 Hoje fui ao programa @doisas10tvi com a @oralbpt e, mesmo com aquele nervosinho bom, foquei-me no que realmente importa: o meu propósito. Levar mais saúde oral às crianças, de forma leve, próxima e bonita. ✨ Porque quando cuidamos cedo, mudamos tudo. E é mesmo isso que quero continuar a fazer, todos os dias, dentro e fora do consultório. 🧚‍♀️❤️ #saudeoral #fadadodente #oralb #odontopediatria #saudeinfantil Clipe" [ref=e329] [cursor=pointer]':
+                  - /url: /joanac_fadadodente/reel/DWHCmTADP_Y/
+                  - 'img "Missão cumprida. 🤍 Hoje fui ao programa @doisas10tvi com a @oralbpt e, mesmo com aquele nervosinho bom, foquei-me no que realmente importa: o meu propósito. Levar mais saúde oral às crianças, de forma leve, próxima e bonita. ✨ Porque quando cuidamos cedo, mudamos tudo. E é mesmo isso que quero continuar a fazer, todos os dias, dentro e fora do consultório. 🧚‍♀️❤️ #saudeoral #fadadodente #oralb #odontopediatria #saudeinfantil" [ref=e332]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+      - contentinfo [ref=e334]:
+        - generic [ref=e335]:
+          - generic [ref=e337]:
+            - link "Meta" [ref=e339] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e340]: Meta
+            - link "Sobre" [ref=e342] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e343]: Sobre
+            - link "Blog" [ref=e345] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e346]: Blog
+            - link "Carreiras" [ref=e348] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e349]: Carreiras
+            - link "Ajuda" [ref=e351] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e352]: Ajuda
+            - link "API" [ref=e354] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e355]: API
+            - link "Privacidade" [ref=e357] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e358]: Privacidade
+            - link "Termos" [ref=e360] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e361]: Termos
+            - link "Localizações" [ref=e363] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e364]: Localizações
+            - link "Instagram Lite" [ref=e366] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e367]: Instagram Lite
+            - link "Meta AI" [ref=e369] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e370]: Meta AI
+            - link "Threads" [ref=e372] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e373]: Threads
+            - link "Upload de contatos e não usuários" [ref=e375] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e376]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e378] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e379]: Meta Verified
+          - generic [ref=e380]:
+            - generic [ref=e381] [cursor=pointer]:
+              - generic [ref=e382]:
+                - generic [ref=e383]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e386]
+              - combobox "Trocar idioma de exibição" [ref=e388]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e390]: © 2026 Instagram from Meta
+  - button "Mensagens Mensagens" [ref=e392] [cursor=pointer]:
+    - generic [ref=e394]:
+      - img "Mensagens" [ref=e396]
+      - generic [ref=e399]: Mensagens

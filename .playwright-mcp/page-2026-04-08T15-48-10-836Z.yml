@@ -1,0 +1,268 @@
+- generic [ref=e3]:
+  - navigation [ref=e4]:
+    - generic [ref=e6]:
+      - link "Dr. David Amaral" [ref=e7] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e8]:
+          - img [ref=e9]
+          - generic [ref=e20]: Dr. David Amaral
+      - generic [ref=e21]:
+        - button "Sobre" [ref=e22] [cursor=pointer]
+        - button "Serviços" [ref=e23] [cursor=pointer]
+        - button "Tecnologia" [ref=e24] [cursor=pointer]
+        - button "Locais" [ref=e25] [cursor=pointer]
+        - button "Contato" [ref=e26] [cursor=pointer]
+        - button "Switch to English" [ref=e27] [cursor=pointer]:
+          - generic [ref=e28]: PT
+          - generic [ref=e31]: EN
+        - link "Agende sua Consulta" [ref=e33] [cursor=pointer]:
+          - /url: https://wa.me/message/JRYVYA4DDXJPF1
+  - main [ref=e34]:
+    - generic [ref=e37]:
+      - generic [ref=e38]:
+        - heading "Precisão que alivia." [level=1] [ref=e39]:
+          - generic [ref=e40]: Precisão
+          - generic [ref=e41]: que
+          - generic [ref=e42]: alivia.
+        - paragraph [ref=e43]: Ortopedia e Traumatologia com tecnologia guiada por ultrassom.
+        - generic [ref=e44]:
+          - link "Agende sua consulta" [ref=e45] [cursor=pointer]:
+            - /url: https://wa.me/message/JRYVYA4DDXJPF1
+          - link "Especialidades" [ref=e46] [cursor=pointer]:
+            - /url: "#servicos"
+        - generic [ref=e49]: CRM 68037/MG | RQE 44243
+      - generic [ref=e51]:
+        - img "Dr. David Amaral - Ortopedista e Traumatologista" [ref=e54]
+        - generic [ref=e56]:
+          - img [ref=e57]
+          - generic [ref=e68]: Dr. David Amaral
+    - generic:
+      - img
+    - generic [ref=e74]:
+      - img "Dr. David Amaral em seu consultório" [ref=e78]
+      - generic [ref=e80]:
+        - generic [ref=e81]: Sobre o Médico
+        - heading "Dr. David Amaral" [level=2] [ref=e82]:
+          - generic [ref=e83]: Dr.
+          - generic [ref=e84]: David
+          - generic [ref=e85]: Amaral
+        - paragraph [ref=e87]: Ortopedista e traumatologista dedicado a devolver movimento e qualidade de vida aos seus pacientes. Com formação sólida e atualização constante, cada tratamento é planejado de forma individualizada, combinando tecnologia de ponta com cuidado genuíno.
+        - generic [ref=e89]:
+          - generic [ref=e90]:
+            - img [ref=e92]
+            - generic [ref=e94]:
+              - paragraph [ref=e95]: CRM
+              - paragraph [ref=e96]: 68037/MG
+          - generic [ref=e97]:
+            - img [ref=e99]
+            - generic [ref=e102]:
+              - paragraph [ref=e103]: RQE
+              - paragraph [ref=e104]: "44243"
+          - generic [ref=e105]:
+            - img [ref=e107]
+            - paragraph [ref=e111]: Ortopedia e Traumatologia
+        - link "Converse com o Dr. David" [ref=e113] [cursor=pointer]:
+          - /url: https://wa.me/message/JRYVYA4DDXJPF1
+    - generic [ref=e116]:
+      - generic [ref=e118]:
+        - generic [ref=e119]: 0+
+        - paragraph [ref=e120]: Anos de experiência
+      - generic [ref=e122]:
+        - generic [ref=e123]: 0+
+        - paragraph [ref=e124]: Procedimentos realizados
+      - generic [ref=e126]:
+        - generic [ref=e127]: 0+
+        - paragraph [ref=e128]: Pacientes atendidos
+    - generic [ref=e130]:
+      - generic [ref=e131]:
+        - generic [ref=e132]: Especialidades
+        - heading "Serviços" [level=2] [ref=e133]:
+          - generic [ref=e134]: Serviços
+        - paragraph [ref=e136]: Soluções precisas para cada caso
+      - generic [ref=e137]:
+        - generic [ref=e140]:
+          - img [ref=e142]
+          - heading "Consulta Ortopédica" [level=3] [ref=e146]
+          - paragraph [ref=e147]: Avaliação completa do sistema musculoesquelético com diagnóstico preciso e plano de tratamento personalizado.
+        - generic [ref=e150]:
+          - img [ref=e152]
+          - heading "Infiltrações Guiadas por Ultrassom" [level=3] [ref=e159]
+          - paragraph [ref=e160]: Procedimento minimamente invasivo com precisão máxima, permitindo aplicação exata no local da dor.
+          - generic [ref=e161]:
+            - img [ref=e162]
+            - text: Mais precisão. Menos dor.
+        - generic [ref=e168]:
+          - img [ref=e170]
+          - heading "Viscossuplementação" [level=3] [ref=e173]
+          - paragraph [ref=e174]: Tratamento para artrose que restaura a lubrificação articular, reduzindo dor e melhorando a mobilidade.
+          - generic [ref=e175]:
+            - img [ref=e176]
+            - text: Mais precisão. Menos dor.
+        - generic [ref=e182]:
+          - img [ref=e184]
+          - heading "Artrocentese" [level=3] [ref=e188]
+          - paragraph [ref=e189]: Punção articular para diagnóstico ou alívio de derrames articulares, realizada com segurança e precisão.
+          - generic [ref=e190]:
+            - img [ref=e191]
+            - text: Mais precisão. Menos dor.
+        - generic [ref=e197]:
+          - img [ref=e199]
+          - heading "Densitometria Óssea" [level=3] [ref=e201]
+          - paragraph [ref=e202]: Exame para avaliação da saúde óssea e diagnóstico de osteoporose, essencial para prevenção de fraturas.
+        - generic [ref=e205]:
+          - img [ref=e207]
+          - heading "Cirurgia de Fraturas" [level=3] [ref=e213]
+          - paragraph [ref=e214]: Tratamento cirúrgico especializado em fraturas de tornozelo e membros, com técnicas modernas de fixação.
+      - link "Saiba qual procedimento é ideal para você" [ref=e216] [cursor=pointer]:
+        - /url: https://wa.me/message/JRYVYA4DDXJPF1
+    - generic [ref=e219]:
+      - generic [ref=e220]:
+        - generic [ref=e221]: Diferencial
+        - heading "Guiado por Ultrassom" [level=2] [ref=e222]:
+          - generic [ref=e223]: Guiado
+          - generic [ref=e224]: por
+          - generic [ref=e225]: Ultrassom
+        - paragraph [ref=e227]: Mais precisão. Menos dor.
+        - paragraph [ref=e229]: Procedimentos guiados por ultrassonografia oferecem visualização em tempo real, garantindo maior precisão na aplicação, menor risco de complicações e recuperação mais rápida. Essa tecnologia permite que cada infiltração e viscossuplementação seja realizada com a exatidão que seu tratamento merece.
+        - generic [ref=e230]:
+          - generic [ref=e232]:
+            - img [ref=e234]
+            - generic [ref=e236]:
+              - heading "Precisão milimétrica" [level=4] [ref=e237]
+              - paragraph [ref=e238]: Visualização em tempo real do ponto exato de aplicação
+          - generic [ref=e240]:
+            - img [ref=e242]
+            - generic [ref=e245]:
+              - heading "Maior segurança" [level=4] [ref=e246]
+              - paragraph [ref=e247]: Menor risco de atingir estruturas adjacentes
+          - generic [ref=e249]:
+            - img [ref=e251]
+            - generic [ref=e253]:
+              - heading "Recuperação rápida" [level=4] [ref=e254]
+              - paragraph [ref=e255]: Procedimento ambulatorial com retorno imediato às atividades
+        - link "Agende seu procedimento guiado por ultrassom" [ref=e257] [cursor=pointer]:
+          - /url: https://wa.me/message/JRYVYA4DDXJPF1
+      - img "Procedimento guiado por ultrassom - Dr. David Amaral" [ref=e261]
+    - paragraph [ref=e267]:
+      - generic [ref=e268]: Cada
+      - generic [ref=e269]: movimento
+      - generic [ref=e270]: importa.
+      - generic [ref=e271]: Cada
+      - generic [ref=e272]: tratamento
+      - generic [ref=e273]: é
+      - generic [ref=e274]: único.
+    - generic [ref=e276]:
+      - generic [ref=e277]:
+        - generic [ref=e278]: Onde Atendemos
+        - heading "Locais de Atendimento" [level=2] [ref=e279]:
+          - generic [ref=e280]: Locais
+          - generic [ref=e281]: de
+          - generic [ref=e282]: Atendimento
+        - paragraph [ref=e284]: Perto de você
+      - generic [ref=e285]:
+        - generic [ref=e287]:
+          - generic [ref=e288]:
+            - img [ref=e291]
+            - generic [ref=e295]:
+              - heading "Lagoa da Prata" [level=3] [ref=e296]
+              - generic [ref=e297]:
+                - img [ref=e298]
+                - text: Centro Médico
+          - generic [ref=e303]:
+            - img [ref=e304]
+            - generic [ref=e306]:
+              - paragraph [ref=e307]: Av. Getúlio Vargas, 997
+              - paragraph [ref=e308]: Lagoa da Prata — MG
+          - link "Ver no Google Maps" [ref=e309] [cursor=pointer]:
+            - /url: https://www.google.com/maps/search/?api=1&query=Av.%20Get%C3%BAlio%20Vargas%2C%20997%2C%20Lagoa%20da%20Prata%2C%20MG
+            - img [ref=e310]
+            - text: Ver no Google Maps
+        - generic [ref=e314]:
+          - generic [ref=e315]:
+            - img [ref=e318]
+            - generic [ref=e322]:
+              - heading "Arcos" [level=3] [ref=e323]
+              - generic [ref=e324]:
+                - img [ref=e325]
+                - text: Clínica
+          - generic [ref=e330]:
+            - img [ref=e331]
+            - generic [ref=e333]:
+              - paragraph [ref=e334]: Cemear — Rua Arcos S/N, Centro
+              - paragraph [ref=e335]: Arcos — MG
+          - link "Ver no Google Maps" [ref=e336] [cursor=pointer]:
+            - /url: https://www.google.com/maps/search/?api=1&query=Rua%20Arcos%20S%2FN%2C%20Centro%2C%20Arcos%2C%20MG
+            - img [ref=e337]
+            - text: Ver no Google Maps
+      - link "Agende na unidade mais próxima" [ref=e341] [cursor=pointer]:
+        - /url: https://wa.me/message/JRYVYA4DDXJPF1
+    - generic [ref=e345]:
+      - generic [ref=e346]: Contato
+      - heading "Vamos Cuidar de Você" [level=2] [ref=e347]:
+        - generic [ref=e348]: Vamos
+        - generic [ref=e349]: Cuidar
+        - generic [ref=e350]: de
+        - generic [ref=e351]: Você
+      - paragraph [ref=e353]: Agende sua consulta e dê o primeiro passo para voltar a se movimentar sem dor.
+      - link "Agende agora pelo WhatsApp" [ref=e355] [cursor=pointer]:
+        - /url: https://wa.me/message/JRYVYA4DDXJPF1
+        - img [ref=e356]
+        - text: Agende agora pelo WhatsApp
+      - generic [ref=e359]:
+        - generic [ref=e360]:
+          - img [ref=e361]
+          - generic [ref=e363]: WhatsApp
+        - generic [ref=e364]: "|"
+        - link "Agende pela Doctoralia" [ref=e365] [cursor=pointer]:
+          - /url: https://www.doctoralia.com.br/david-antonio-ferreira-amaral/ortopedista-traumatologista/lagoa-da-prata
+          - img [ref=e366]
+          - text: Agende pela Doctoralia
+  - contentinfo [ref=e370]:
+    - generic [ref=e371]:
+      - generic [ref=e372]:
+        - generic [ref=e373]:
+          - img [ref=e376]
+          - heading "Dr. David Amaral" [level=3] [ref=e386]
+          - paragraph [ref=e387]: Ortopedia e Traumatologia
+          - paragraph [ref=e388]: CRM 68037/MG | RQE 44243
+        - generic [ref=e389]:
+          - heading "Navegação" [level=4] [ref=e390]
+          - navigation [ref=e391]:
+            - button "Sobre" [ref=e392] [cursor=pointer]
+            - button "Serviços" [ref=e393] [cursor=pointer]
+            - button "Tecnologia" [ref=e394] [cursor=pointer]
+            - button "Locais" [ref=e395] [cursor=pointer]
+            - button "Contato" [ref=e396] [cursor=pointer]
+        - generic [ref=e397]:
+          - heading "Encontre-me em" [level=4] [ref=e398]
+          - generic [ref=e399]:
+            - link "Doctoralia" [ref=e400] [cursor=pointer]:
+              - /url: https://www.doctoralia.com.br/david-antonio-ferreira-amaral/ortopedista-traumatologista/lagoa-da-prata
+              - img [ref=e401]
+              - text: Doctoralia
+            - link "BoaConsulta" [ref=e405] [cursor=pointer]:
+              - /url: https://www.boaconsulta.com/especialista/david-antonio-ferreira-amaral-6105a7a8ba32c31b820014b5
+              - img [ref=e406]
+              - text: BoaConsulta
+            - link "CatálogoMed" [ref=e410] [cursor=pointer]:
+              - /url: https://www.catalogo.med.br/doutor/david-antonio-ferreira-amaral-2533665.htm
+              - img [ref=e411]
+              - text: CatálogoMed
+            - link "Instagram" [ref=e415] [cursor=pointer]:
+              - /url: https://www.instagram.com/drdavidamaral/
+              - img [ref=e416]
+              - text: Instagram
+        - generic [ref=e419]:
+          - heading "Contato" [level=4] [ref=e420]
+          - generic [ref=e421]:
+            - link "Agende agora pelo WhatsApp" [ref=e422] [cursor=pointer]:
+              - /url: https://wa.me/message/JRYVYA4DDXJPF1
+            - paragraph [ref=e423]: Atendimento particular
+      - generic [ref=e424]:
+        - paragraph [ref=e425]: © 2026 Dr. David Amaral. Todos os direitos reservados.
+        - paragraph [ref=e426]:
+          - text: Desenvolvido com cuidado
+          - img [ref=e427]
+  - link "Agendar consulta pelo WhatsApp":
+    - /url: https://wa.me/message/JRYVYA4DDXJPF1
+    - img

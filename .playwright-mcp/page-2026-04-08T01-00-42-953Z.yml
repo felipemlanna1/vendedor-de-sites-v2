@@ -1,0 +1,410 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e88] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e93]
+        - link "Foto do perfil de _pipelinestudio" [ref=e99] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e104]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e105]
+      - generic [ref=e106]:
+        - link "Configurações" [ref=e109] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e114]
+        - link "Também da Meta" [ref=e117] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e122]
+    - generic [ref=e125]:
+      - main [ref=e126]:
+        - generic [ref=e127]:
+          - generic [ref=e129]:
+            - button [ref=e134]:
+              - generic [ref=e138] [cursor=pointer]:
+                - button [ref=e139]:
+                  - img [ref=e141]
+                - button [ref=e144]:
+                  - img [ref=e146]
+            - generic [ref=e149]:
+              - generic [ref=e151]:
+                - button "Foto do perfil de dramarcela_pediatra" [ref=e156] [cursor=pointer]:
+                  - link "Foto do perfil de dramarcela_pediatra" [ref=e158]:
+                    - img "Foto do perfil de dramarcela_pediatra" [ref=e159]
+                - generic [ref=e162]:
+                  - link "dramarcela_pediatra" [ref=e171] [cursor=pointer]:
+                    - /url: /dramarcela_pediatra/
+                    - generic [ref=e174]: dramarcela_pediatra
+                  - button "Seguir" [ref=e176] [cursor=pointer]
+                - button "Mais opções" [ref=e179] [cursor=pointer]:
+                  - img "Mais opções" [ref=e182]
+              - separator [ref=e186]
+              - generic [ref=e188]:
+                - generic [ref=e190]:
+                  - link "Foto do perfil de dramarcela_pediatra" [ref=e195] [cursor=pointer]:
+                    - /url: /dramarcela_pediatra/
+                    - img "Foto do perfil de dramarcela_pediatra" [ref=e196]
+                  - generic [ref=e200]:
+                    - generic [ref=e201]:
+                      - link "dramarcela_pediatra" [ref=e205] [cursor=pointer]:
+                        - /url: /dramarcela_pediatra/
+                        - generic [ref=e208]: dramarcela_pediatra
+                      - time [ref=e210]: 78 sem
+                    - generic [ref=e211]:
+                      - text: Completamente apaixonada pelo material que estou entregando para as famílias dos meus pacientes na consulta de introdução alimentar! Dicas práticas que deixam todos mais confiantes para esse momento tão lindo ( e tão cheio de desafios 🙈🤣)!!!
+                      - text: Curtiram?! Alguém passando por esse momento de introdução alimentar??
+                      - text: Me dê notícias! 🙏🏻❤️🥰
+                      - text: Dra Marcela Braz
+                      - link "@dramarcela_pediatra" [ref=e212] [cursor=pointer]:
+                        - /url: /dramarcela_pediatra/
+                      - text: CRM/SC 16065
+                      - link "#dramarcela_pediatra" [ref=e213] [cursor=pointer]:
+                        - /url: /explore/tags/dramarcela_pediatra/
+                      - link "#puericultura" [ref=e214] [cursor=pointer]:
+                        - /url: /explore/tags/puericultura/
+                      - link "#pediatra" [ref=e215] [cursor=pointer]:
+                        - /url: /explore/tags/pediatra/
+                      - link "#pediatria" [ref=e216] [cursor=pointer]:
+                        - /url: /explore/tags/pediatria/
+                      - link "#maternidade" [ref=e217] [cursor=pointer]:
+                        - /url: /explore/tags/maternidade/
+                      - link "#filhos" [ref=e218] [cursor=pointer]:
+                        - /url: /explore/tags/filhos/
+                      - link "#infancia" [ref=e219] [cursor=pointer]:
+                        - /url: /explore/tags/infancia/
+                      - link "#criança" [ref=e220] [cursor=pointer]:
+                        - /url: /explore/tags/crian%C3%A7a/
+                      - link "#saúde" [ref=e221] [cursor=pointer]:
+                        - /url: /explore/tags/sa%C3%BAde/
+                      - link "#itajaí" [ref=e222] [cursor=pointer]:
+                        - /url: /explore/tags/itaja%C3%AD/
+                      - link "#balneariocamboriu" [ref=e223] [cursor=pointer]:
+                        - /url: /explore/tags/balneariocamboriu/
+                      - link "#santacatarina" [ref=e224] [cursor=pointer]:
+                        - /url: /explore/tags/santacatarina/
+                      - link "#curumim" [ref=e225] [cursor=pointer]:
+                        - /url: /explore/tags/curumim/
+                - generic [ref=e226]:
+                  - generic [ref=e229]:
+                    - link "Foto do perfil de dralucianacerqueira" [ref=e235] [cursor=pointer]:
+                      - /url: /dralucianacerqueira/
+                      - img "Foto do perfil de dralucianacerqueira" [ref=e236]
+                    - generic [ref=e237]:
+                      - generic [ref=e238]:
+                        - generic [ref=e240]:
+                          - generic [ref=e241]:
+                            - link "dralucianacerqueira" [ref=e246] [cursor=pointer]:
+                              - /url: /dralucianacerqueira/
+                              - generic [ref=e249]: dralucianacerqueira
+                            - link "78 sem" [ref=e251] [cursor=pointer]:
+                              - /url: /p/DArLCjqPT5j/c/17990650649555498/
+                              - time [ref=e252]: 78 sem
+                          - generic [ref=e254]: Maravilhoso 👏👏👏
+                        - button "Responder" [ref=e256] [cursor=pointer]:
+                          - generic [ref=e258]: Responder
+                      - button "Curtir" [ref=e263] [cursor=pointer]:
+                        - img "Curtir" [ref=e266]
+                  - generic [ref=e270]:
+                    - link "Foto do perfil de mello.pri.82" [ref=e276] [cursor=pointer]:
+                      - /url: /mello.pri.82/
+                      - img "Foto do perfil de mello.pri.82" [ref=e277]
+                    - generic [ref=e278]:
+                      - generic [ref=e279]:
+                        - generic [ref=e281]:
+                          - generic [ref=e282]:
+                            - link "mello.pri.82" [ref=e287] [cursor=pointer]:
+                              - /url: /mello.pri.82/
+                              - generic [ref=e290]: mello.pri.82
+                            - link "78 sem" [ref=e292] [cursor=pointer]:
+                              - /url: /p/DArLCjqPT5j/c/18064112116642367/
+                              - time [ref=e293]: 78 sem
+                          - generic [ref=e295]: 👏👏demais!!
+                        - generic [ref=e296]:
+                          - button "1 curtida" [ref=e297] [cursor=pointer]:
+                            - generic [ref=e299]: 1 curtida
+                          - button "Responder" [ref=e300] [cursor=pointer]:
+                            - generic [ref=e302]: Responder
+                      - button "Curtir" [ref=e307] [cursor=pointer]:
+                        - img "Curtir" [ref=e310]
+                  - generic [ref=e314]:
+                    - link "Foto do perfil de mariamahfuz.nutri" [ref=e320] [cursor=pointer]:
+                      - /url: /mariamahfuz.nutri/
+                      - img "Foto do perfil de mariamahfuz.nutri" [ref=e321]
+                    - generic [ref=e322]:
+                      - generic [ref=e323]:
+                        - generic [ref=e325]:
+                          - generic [ref=e326]:
+                            - link "mariamahfuz.nutri" [ref=e331] [cursor=pointer]:
+                              - /url: /mariamahfuz.nutri/
+                              - generic [ref=e334]: mariamahfuz.nutri
+                            - link "78 sem" [ref=e336] [cursor=pointer]:
+                              - /url: /p/DArLCjqPT5j/c/18244212166273152/
+                              - time [ref=e337]: 78 sem
+                          - generic [ref=e339]: Vc arrasa! 👏👏👏😍
+                        - generic [ref=e340]:
+                          - button "1 curtida" [ref=e341] [cursor=pointer]:
+                            - generic [ref=e343]: 1 curtida
+                          - button "Responder" [ref=e344] [cursor=pointer]:
+                            - generic [ref=e346]: Responder
+                      - button "Curtir" [ref=e351] [cursor=pointer]:
+                        - img "Curtir" [ref=e354]
+                  - generic [ref=e358]:
+                    - link "Foto do perfil de dralucianacerqueira" [ref=e364] [cursor=pointer]:
+                      - /url: /dralucianacerqueira/
+                      - img "Foto do perfil de dralucianacerqueira" [ref=e365]
+                    - generic [ref=e366]:
+                      - generic [ref=e367]:
+                        - generic [ref=e369]:
+                          - generic [ref=e370]:
+                            - link "dralucianacerqueira" [ref=e375] [cursor=pointer]:
+                              - /url: /dralucianacerqueira/
+                              - generic [ref=e378]: dralucianacerqueira
+                            - link "78 sem" [ref=e380] [cursor=pointer]:
+                              - /url: /p/DArLCjqPT5j/c/17990650649555498/
+                              - time [ref=e381]: 78 sem
+                          - generic [ref=e383]: Maravilhoso 👏👏👏
+                        - button "Responder" [ref=e385] [cursor=pointer]:
+                          - generic [ref=e387]: Responder
+                      - button "Curtir" [ref=e392] [cursor=pointer]:
+                        - img "Curtir" [ref=e395]
+                  - generic [ref=e399]:
+                    - link "Foto do perfil de mariamahfuz.nutri" [ref=e405] [cursor=pointer]:
+                      - /url: /mariamahfuz.nutri/
+                      - img "Foto do perfil de mariamahfuz.nutri" [ref=e406]
+                    - generic [ref=e407]:
+                      - generic [ref=e408]:
+                        - generic [ref=e410]:
+                          - generic [ref=e411]:
+                            - link "mariamahfuz.nutri" [ref=e416] [cursor=pointer]:
+                              - /url: /mariamahfuz.nutri/
+                              - generic [ref=e419]: mariamahfuz.nutri
+                            - link "78 sem" [ref=e421] [cursor=pointer]:
+                              - /url: /p/DArLCjqPT5j/c/18244212166273152/
+                              - time [ref=e422]: 78 sem
+                          - generic [ref=e424]: Vc arrasa! 👏👏👏😍
+                        - generic [ref=e425]:
+                          - button "1 curtida" [ref=e426] [cursor=pointer]:
+                            - generic [ref=e428]: 1 curtida
+                          - button "Responder" [ref=e429] [cursor=pointer]:
+                            - generic [ref=e431]: Responder
+                      - button "Curtir" [ref=e436] [cursor=pointer]:
+                        - img "Curtir" [ref=e439]
+                  - generic [ref=e443]:
+                    - link "Foto do perfil de mello.pri.82" [ref=e449] [cursor=pointer]:
+                      - /url: /mello.pri.82/
+                      - img "Foto do perfil de mello.pri.82" [ref=e450]
+                    - generic [ref=e451]:
+                      - generic [ref=e452]:
+                        - generic [ref=e454]:
+                          - generic [ref=e455]:
+                            - link "mello.pri.82" [ref=e460] [cursor=pointer]:
+                              - /url: /mello.pri.82/
+                              - generic [ref=e463]: mello.pri.82
+                            - link "78 sem" [ref=e465] [cursor=pointer]:
+                              - /url: /p/DArLCjqPT5j/c/18064112116642367/
+                              - time [ref=e466]: 78 sem
+                          - generic [ref=e468]: 👏👏demais!!
+                        - generic [ref=e469]:
+                          - button "1 curtida" [ref=e470] [cursor=pointer]:
+                            - generic [ref=e472]: 1 curtida
+                          - button "Responder" [ref=e473] [cursor=pointer]:
+                            - generic [ref=e475]: Responder
+                      - button "Curtir" [ref=e480] [cursor=pointer]:
+                        - img "Curtir" [ref=e483]
+              - generic [ref=e485]:
+                - generic [ref=e486]:
+                  - generic [ref=e487]:
+                    - button "Curtir" [ref=e490] [cursor=pointer]:
+                      - img "Curtir" [ref=e493]
+                    - button "46" [ref=e495] [cursor=pointer]
+                    - button "Comentar" [ref=e497] [cursor=pointer]:
+                      - img "Comentar" [ref=e499]
+                    - button "3" [ref=e501] [cursor=pointer]
+                    - button "Compartilhar" [ref=e502] [cursor=pointer]:
+                      - img "Compartilhar" [ref=e503]
+                  - button "Salvar" [ref=e508] [cursor=pointer]:
+                    - button "Salvar" [ref=e509]:
+                      - img "Salvar" [ref=e511]
+                - link "3 de outubro de 2024" [ref=e515] [cursor=pointer]:
+                  - /url: /dramarcela_pediatra/p/DArLCjqPT5j/
+                  - time [ref=e517]: 3 de outubro de 2024
+              - generic [ref=e520]:
+                - link [ref=e521]
+                - generic [ref=e523]:
+                  - button "Emoji" [ref=e525] [cursor=pointer]:
+                    - img "Emoji" [ref=e527]
+                  - textbox "Adicione um comentário..." [ref=e529]
+          - separator [ref=e531]
+          - generic [ref=e532]:
+            - generic [ref=e534]:
+              - text: Mais posts de
+              - link "dramarcela_pediatra" [ref=e535] [cursor=pointer]:
+                - /url: /dramarcela_pediatra/
+            - generic [ref=e538]:
+              - generic [ref=e539]:
+                - 'link "O cuidado pediátrico vai muito além de acompanhar o crescimento. Ele começa na escuta, no olhar atento e na construção de confiança com cada família. Aqui na You Can, a Dra. Marcela Braz acompanha crianças e famílias com atenção às necessidades de cada fase do desenvolvimento. Se você busca um acompanhamento pediátrico cuidadoso e próximo, nossa equipe está pronta para receber sua família. 💛👩🏼‍⚕️ #clínicayoucan #pediatria #itajaísc Clipe" [ref=e541] [cursor=pointer]':
+                  - /url: /clinicayoucan/reel/DVt3DOaRpyU/
+                  - 'img "O cuidado pediátrico vai muito além de acompanhar o crescimento. Ele começa na escuta, no olhar atento e na construção de confiança com cada família. Aqui na You Can, a Dra. Marcela Braz acompanha crianças e famílias com atenção às necessidades de cada fase do desenvolvimento. Se você busca um acompanhamento pediátrico cuidadoso e próximo, nossa equipe está pronta para receber sua família. 💛👩🏼‍⚕️ #clínicayoucan #pediatria #itajaísc" [ref=e544]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - link "Afinal, o que é a suplementação individualizada?! Nesse vídeo eu resumi para vocês o que mudou na minha prática no consultório pediátrico e todos os benefícios que esse novo olhar traz para os nossos pequenos pacientes. Clipe" [ref=e547] [cursor=pointer]:
+                  - /url: /dramarcela_pediatra/reel/DNTrkaoxyW3/
+                  - img "Afinal, o que é a suplementação individualizada?! Nesse vídeo eu resumi para vocês o que mudou na minha prática no consultório pediátrico e todos os benefícios que esse novo olhar traz para os nossos pequenos pacientes." [ref=e550]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - link "Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas informações, dicas, desabafos, incentivos e trocas de experiências! É um canal aberto de comunicação, repleto de carinho e dedicação! Conte comigo e, como eu sempre digo para os pais dos meus pacientes, “me dê notícias” 🙏🏻🥰❤️ Carrossel" [ref=e553] [cursor=pointer]:
+                  - /url: /dramarcela_pediatra/p/C20Uaj9RzY3/
+                  - img "Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas informações, dicas, desabafos, incentivos e trocas de experiências! É um canal aberto de comunicação, repleto de carinho e dedicação! Conte comigo e, como eu sempre digo para os pais dos meus pacientes, “me dê notícias” 🙏🏻🥰❤️" [ref=e556]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+              - generic [ref=e558]:
+                - link [ref=e560] [cursor=pointer]:
+                  - /url: /marcelapratesbraz/p/DWxLuw2DjFGn_2EnCMM2eBUmqOFgSR7kx7CJSk0/
+                  - img [ref=e563]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - 'link "No autismo, o acompanhamento pediátrico continua sendo essencial. É ele que permite acompanhar o crescimento, a alimentação, o sono, a saúde geral e outras necessidades que fazem parte do desenvolvimento da criança. Esse cuidado também integra o trabalho da equipe, contribuindo para um acompanhamento mais completo, seguro e alinhado em cada etapa do desenvolvimento. Abril Azul é um convite para ampliar o olhar e fortalecer o cuidado em cada fase da infância. 💙 #abrilazul #autismo #neurodesenvolvimento #clinicayoucan #itajai Clipe" [ref=e566] [cursor=pointer]':
+                  - /url: /clinicayoucan/reel/DWmiFwCCbmg/
+                  - 'img "No autismo, o acompanhamento pediátrico continua sendo essencial. É ele que permite acompanhar o crescimento, a alimentação, o sono, a saúde geral e outras necessidades que fazem parte do desenvolvimento da criança. Esse cuidado também integra o trabalho da equipe, contribuindo para um acompanhamento mais completo, seguro e alinhado em cada etapa do desenvolvimento. Abril Azul é um convite para ampliar o olhar e fortalecer o cuidado em cada fase da infância. 💙 #abrilazul #autismo #neurodesenvolvimento #clinicayoucan #itajai" [ref=e569]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - link "Photo shared by Dra Marcela Braz Pediatra on March 26, 2026 tagging @larissafps, @clinica.curumim, and @clinicayoucan. May be an image of child, ossobuco and text." [ref=e572] [cursor=pointer]:
+                  - /url: /dramarcela_pediatra/p/DWWpFJ9jcIr/
+                  - img "Photo shared by Dra Marcela Braz Pediatra on March 26, 2026 tagging @larissafps, @clinica.curumim, and @clinicayoucan. May be an image of child, ossobuco and text." [ref=e575]
+      - contentinfo [ref=e577]:
+        - generic [ref=e578]:
+          - generic [ref=e580]:
+            - link "Meta" [ref=e582] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e583]: Meta
+            - link "Sobre" [ref=e585] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e586]: Sobre
+            - link "Blog" [ref=e588] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e589]: Blog
+            - link "Carreiras" [ref=e591] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e592]: Carreiras
+            - link "Ajuda" [ref=e594] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e595]: Ajuda
+            - link "API" [ref=e597] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e598]: API
+            - link "Privacidade" [ref=e600] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e601]: Privacidade
+            - link "Termos" [ref=e603] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e604]: Termos
+            - link "Localizações" [ref=e606] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e607]: Localizações
+            - link "Instagram Lite" [ref=e609] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e610]: Instagram Lite
+            - link "Meta AI" [ref=e612] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e613]: Meta AI
+            - link "Threads" [ref=e615] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e616]: Threads
+            - link "Upload de contatos e não usuários" [ref=e618] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e619]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e621] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e622]: Meta Verified
+          - generic [ref=e623]:
+            - generic [ref=e624] [cursor=pointer]:
+              - generic [ref=e625]:
+                - generic [ref=e626]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e629]
+              - combobox "Trocar idioma de exibição" [ref=e631]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e633]: © 2026 Instagram from Meta
+  - button "Mensagens Mensagens" [ref=e635] [cursor=pointer]:
+    - generic [ref=e637]:
+      - img "Mensagens" [ref=e639]
+      - generic [ref=e642]: Mensagens

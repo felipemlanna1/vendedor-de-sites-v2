@@ -1,0 +1,122 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "differentials": "Why Us",
+    "instagram": "Instagram",
+    "contact": "Contact",
+    "cta": "Schedule your appointment"
+  },
+  "hero": {
+    "headline": "Oral health connected to the whole",
+    "subheadline": "Your mouth reveals what your body needs — and I listen.",
+    "cta": "Schedule your appointment",
+    "scroll": "Scroll to discover"
+  },
+  "manifesto": {
+    "title": "The philosophy",
+    "text": "Your mouth reveals what your body is asking for — and I listen.",
+    "description": "In integrative dentistry, every oral symptom is a clue about the health of the entire body. We don't just treat teeth — we investigate causes, connect signals, and build a path of care that respects who you are.",
+    "cta": "I want to learn about this approach"
+  },
+  "about": {
+    "title": "Who listens",
+    "subtitle": "Dra. Marcella Melro",
+    "description": "Dental surgeon with a degree from UNESP and specialization in integrative dentistry. Over more than a decade of practice, I developed an approach that connects oral health to the whole body — integrating dentistry, medicine, nutrition, and psychology.",
+    "philosophy": "Each patient is a unique organism. My role is not just to treat what appears — it is to listen to what the mouth is revealing about overall health.",
+    "credentials": "CRO-SC • UNESP • Member of ABM Funcional Integrativa",
+    "quote": "I don't treat teeth. I listen to what they're saying."
+  },
+  "services": {
+    "title": "The care",
+    "subtitle": "Each service is an integrative look at your health",
+    "items": {
+      "avaliacao": {
+        "name": "Integrative Assessment",
+        "description": "A comprehensive consultation where we listen to what your mouth is revealing about your body. Detailed anamnesis connecting oral health, metabolism, and lifestyle habits."
+      },
+      "radiografia": {
+        "name": "Diagnostic Panoramic X-ray",
+        "description": "Panoramic X-rays go far beyond the teeth. They allow us to see the body as a whole, identifying signs that other exams don't reveal."
+      },
+      "periodontal": {
+        "name": "Systemic Periodontal Treatment",
+        "description": "Healthy gums don't bleed. We treat periodontal disease by investigating systemic causes — inflammation, nutrition, metabolism — not just local symptoms."
+      },
+      "harmonizacao": {
+        "name": "Orofacial Harmonization",
+        "description": "Balance and naturalness. Procedures that respect facial harmony, without excess, with an integrative look at health as a whole."
+      },
+      "odontopediatria": {
+        "name": "Integrative Pediatric Dentistry",
+        "description": "Welcoming care for little ones, from birth. Guidance for parents on nutrition, breathing, and habits that build oral health for life."
+      },
+      "preventivo": {
+        "name": "Preventive Care",
+        "description": "Individualized prevention focused on maintaining the body's balance. Regular cleanings, nutritional guidance, and continuous monitoring."
+      }
+    },
+    "cta": "Discover how I can help you"
+  },
+  "impact": {
+    "phrase": "The smile is the gateway to the health of the entire body"
+  },
+  "differentials": {
+    "title": "Why here",
+    "subtitle": "What makes this approach unique",
+    "stats": {
+      "years": {
+        "number": "10",
+        "suffix": "+",
+        "label": "Years of integrative dentistry"
+      },
+      "followers": {
+        "number": "1691",
+        "suffix": "",
+        "label": "Instagram followers"
+      },
+      "specialties": {
+        "number": "6",
+        "suffix": "",
+        "label": "Integrated specialties"
+      }
+    },
+    "badges": {
+      "integrativa": "Integrative approach",
+      "unesp": "UNESP graduate",
+      "abm": "ABM Funcional Integrativa member",
+      "holistica": "Holistic health vision"
+    }
+  },
+  "instagram": {
+    "title": "Day to day",
+    "subtitle": "Follow the practice and integrative approach on Instagram",
+    "cta": "Follow on Instagram @dramarcellamelro"
+  },
+  "contact": {
+    "title": "The invitation",
+    "subtitle": "Ready to start your integrative health journey?",
+    "address": "Blumenau, SC",
+    "hours": "Monday to Friday, 8am to 6pm",
+    "whatsapp_cta": "Let's talk?",
+    "cta_journey": "Start your health journey",
+    "phone_label": "WhatsApp",
+    "address_label": "Location",
+    "hours_label": "Office hours"
+  },
+  "footer": {
+    "copyright": "© 2026 Dra. Marcella Melro. All rights reserved.",
+    "instagram": "Instagram",
+    "privacy": "Privacy Policy",
+    "social": "Follow us"
+  },
+  "lang": {
+    "pt": "Português",
+    "en": "English"
+  },
+  "whatsapp": {
+    "float_label": "Chat on WhatsApp",
+    "default_message": "Hello, Dra. Marcella! I'd like to schedule an appointment."
+  }
+}

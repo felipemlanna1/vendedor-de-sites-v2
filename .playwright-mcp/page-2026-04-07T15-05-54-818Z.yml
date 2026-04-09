@@ -1,0 +1,312 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e88] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e93]
+        - link "Foto do perfil de _pipelinestudio" [ref=e99] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e104]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e105]
+      - generic [ref=e106]:
+        - link "Configurações" [ref=e109] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e114]
+        - link "Também da Meta" [ref=e117] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e122]
+    - generic [ref=e125]:
+      - main [ref=e126]:
+        - generic [ref=e127]:
+          - generic [ref=e129]:
+            - button [ref=e134]:
+              - generic [ref=e138] [cursor=pointer]:
+                - button [ref=e139]:
+                  - img [ref=e141]
+                - button [ref=e144]:
+                  - img [ref=e146]
+            - generic [ref=e149]:
+              - generic [ref=e151]:
+                - button "Foto do perfil de dramarcellamelro" [ref=e156] [cursor=pointer]:
+                  - link "Foto do perfil de dramarcellamelro" [ref=e158]:
+                    - img "Foto do perfil de dramarcellamelro" [ref=e159]
+                - generic [ref=e162]:
+                  - link "dramarcellamelro" [ref=e171] [cursor=pointer]:
+                    - /url: /dramarcellamelro/
+                    - generic [ref=e174]: dramarcellamelro
+                  - button "Seguir" [ref=e176] [cursor=pointer]
+                - button "Mais opções" [ref=e179] [cursor=pointer]:
+                  - img "Mais opções" [ref=e182]
+              - separator [ref=e186]
+              - generic [ref=e188]:
+                - generic [ref=e190]:
+                  - link "Foto do perfil de dramarcellamelro" [ref=e195] [cursor=pointer]:
+                    - /url: /dramarcellamelro/
+                    - img "Foto do perfil de dramarcellamelro" [ref=e196]
+                  - generic [ref=e200]:
+                    - generic [ref=e201]:
+                      - link "dramarcellamelro" [ref=e205] [cursor=pointer]:
+                        - /url: /dramarcellamelro/
+                        - generic [ref=e208]: dramarcellamelro
+                      - time [ref=e210]: 484 sem
+                    - generic [ref=e211]: preciso dizer que a frase "para estar junto não é preciso estar perto, e sim do lado de dentro" hoje faz mto sentido, porque mesmo passando esse dia em lugares diferentes, eu sei que estamos juntinhos❤️ além de véspera de natal, é aniver da pessoa mais cheia de amor do mundo todinho, que mesmo quando faço as maiores burradas (como de costume 🙈🙄) ta ali pra ser minha mãe e me dar bronca até ñ aguentar mais rsrsrs - brinks à parte. Obrigada por ser quem és, o natal é nosso, mas como sempre, o presente é meu todos os dias 😊
+                - generic [ref=e212]:
+                  - generic [ref=e215]:
+                    - link "Foto do perfil de gduuarte" [ref=e221] [cursor=pointer]:
+                      - /url: /gduuarte/
+                      - img "Foto do perfil de gduuarte" [ref=e222]
+                    - generic [ref=e223]:
+                      - generic [ref=e224]:
+                        - generic [ref=e226]:
+                          - generic [ref=e227]:
+                            - link "gduuarte" [ref=e232] [cursor=pointer]:
+                              - /url: /gduuarte/
+                              - generic [ref=e235]: gduuarte
+                            - link "482 sem" [ref=e237] [cursor=pointer]:
+                              - /url: /p/BOaqSgyBUbn/c/17858309770107256/
+                              - time [ref=e238]: 482 sem
+                          - generic [ref=e240]: Amo ❤
+                        - button "Responder" [ref=e242] [cursor=pointer]:
+                          - generic [ref=e244]: Responder
+                      - button "Curtir" [ref=e249] [cursor=pointer]:
+                        - img "Curtir" [ref=e252]
+                  - generic [ref=e256]:
+                    - link "Foto do perfil de dramarcellamelro" [ref=e262] [cursor=pointer]:
+                      - /url: /dramarcellamelro/
+                      - img "Foto do perfil de dramarcellamelro" [ref=e263]
+                    - generic [ref=e264]:
+                      - generic [ref=e265]:
+                        - generic [ref=e267]:
+                          - generic [ref=e268]:
+                            - link "dramarcellamelro" [ref=e273] [cursor=pointer]:
+                              - /url: /dramarcellamelro/
+                              - generic [ref=e276]: dramarcellamelro
+                            - link "484 sem" [ref=e278] [cursor=pointer]:
+                              - /url: /p/BOaqSgyBUbn/c/17857520053115267/
+                              - time [ref=e279]: 484 sem
+                          - generic [ref=e281]:
+                            - link "@les_maries" [ref=e282] [cursor=pointer]:
+                              - /url: /les_maries/
+                            - text: assim é mais diverr..entre tapas e beijos❤️ te amo mamis
+                        - button "Responder" [ref=e284] [cursor=pointer]:
+                          - generic [ref=e286]: Responder
+                      - button "Curtir" [ref=e291] [cursor=pointer]:
+                        - img "Curtir" [ref=e294]
+                  - generic [ref=e298]:
+                    - link "Foto do perfil de les_maries" [ref=e304] [cursor=pointer]:
+                      - /url: /les_maries/
+                      - img "Foto do perfil de les_maries" [ref=e305]
+                    - generic [ref=e306]:
+                      - generic [ref=e307]:
+                        - generic [ref=e309]:
+                          - generic [ref=e310]:
+                            - link "les_maries" [ref=e315] [cursor=pointer]:
+                              - /url: /les_maries/
+                              - generic [ref=e318]: les_maries
+                            - link "484 sem" [ref=e320] [cursor=pointer]:
+                              - /url: /p/BOaqSgyBUbn/c/17867888209013988/
+                              - time [ref=e321]: 484 sem
+                          - generic [ref=e323]:
+                            - text: Aissidiquinenêmaissidifofoooooo te amo pututunguinha ♥️ se não fizesse burrada não teria graça, ia ser muito fácil né, assim tem mais emotion 😄🆘Obrigada por ser essa guriazinha que (shiu) também me atura com todas as minhas cabeçudices (mas não esquece que eu mando e tenho razão até você fazer 91 anos, ok?) Bj fiiiii
+                            - link "@mamelro" [ref=e324] [cursor=pointer]:
+                              - /url: /mamelro/
+                        - generic [ref=e325]:
+                          - button "1 curtida" [ref=e326] [cursor=pointer]:
+                            - generic [ref=e328]: 1 curtida
+                          - button "Responder" [ref=e329] [cursor=pointer]:
+                            - generic [ref=e331]: Responder
+                      - button "Curtir" [ref=e336] [cursor=pointer]:
+                        - img "Curtir" [ref=e339]
+              - generic [ref=e341]:
+                - generic [ref=e342]:
+                  - generic [ref=e343]:
+                    - button "Curtir" [ref=e346] [cursor=pointer]:
+                      - img "Curtir" [ref=e349]
+                    - button "Comentar" [ref=e352] [cursor=pointer]:
+                      - img "Comentar" [ref=e354]
+                    - button "3" [ref=e356] [cursor=pointer]
+                    - button "Compartilhar" [ref=e357] [cursor=pointer]:
+                      - img "Compartilhar" [ref=e358]
+                  - button "Salvar" [ref=e363] [cursor=pointer]:
+                    - button "Salvar" [ref=e364]:
+                      - img "Salvar" [ref=e366]
+                - link "24 de dezembro de 2016" [ref=e370] [cursor=pointer]:
+                  - /url: /dramarcellamelro/p/BOaqSgyBUbn/
+                  - time [ref=e372]: 24 de dezembro de 2016
+              - generic [ref=e375]:
+                - link [ref=e376]
+                - generic [ref=e378]:
+                  - button "Emoji" [ref=e380] [cursor=pointer]:
+                    - img "Emoji" [ref=e382]
+                  - textbox "Adicione um comentário..." [ref=e384]
+          - separator [ref=e386]
+          - generic [ref=e387]:
+            - generic [ref=e389]:
+              - text: Mais posts de
+              - link "dramarcellamelro" [ref=e390] [cursor=pointer]:
+                - /url: /dramarcellamelro/
+            - generic [ref=e393]:
+              - generic [ref=e394]:
+                - link "Photo by Marcella Melro on March 31, 2026. May be an image of one or more people, people smiling, jewelry and text." [ref=e396] [cursor=pointer]:
+                  - /url: /dramarcellamelro/p/DWkS1VsjPHu/
+                  - img "Photo by Marcella Melro on March 31, 2026. May be an image of one or more people, people smiling, jewelry and text." [ref=e399]
+                - link "💙 Cuidar da boca faz parte de cuidar do todo — e cada escolha metabólica precisa de um olhar integrativo, consciente e individualizado. Clipe" [ref=e402] [cursor=pointer]:
+                  - /url: /dramarcellamelro/reel/DQpqrv1EqnY/
+                  - img "💙 Cuidar da boca faz parte de cuidar do todo — e cada escolha metabólica precisa de um olhar integrativo, consciente e individualizado." [ref=e405]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - 'link "A radiografia panorâmica vai muito além de “ver os dentes”. Ela nos permite enxergar o organismo como um todo — estruturas ósseas, articulações, possíveis focos de inflamação e até sinais de desequilíbrios sistêmicos. Cada imagem é uma janela para compreender o corpo de forma completa 💫 #odontologiaintegrativa Carrossel" [ref=e408] [cursor=pointer]':
+                  - /url: /dramarcellamelro/p/DQZeI_djbIr/
+                  - 'img "A radiografia panorâmica vai muito além de “ver os dentes”. Ela nos permite enxergar o organismo como um todo — estruturas ósseas, articulações, possíveis focos de inflamação e até sinais de desequilíbrios sistêmicos. Cada imagem é uma janela para compreender o corpo de forma completa 💫 #odontologiaintegrativa" [ref=e411]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+              - generic [ref=e413]:
+                - 'link "O futuro é integrativo! Muitas vezes escutei “Por que um dentista iria em um congresso de medicina (integrativa)?” e eu devolvo a pergunta “Por que não?”. Todo conhecimento é válido e valioso. Ao longo desses dias conheci muitas pessoas e profissionais incríveis, tive a oportunidade de aprender com palestrantes extremamente inteligentes e confirmei o que eu já sabia: o corpo está todo ligado. Nem sempre é sobre evoluir só como dentista mas sim como profissional da SAÚDE. Entender como o corpo funciona e saber como a odontologia, medicina, nutrição e psicologia se completam é incrível. Muito feliz por aproveitar as oportunidades que a vida oferece 💙 @abmfuncionalintegrativa @drvictorsorrentino Carrossel" [ref=e415] [cursor=pointer]':
+                  - /url: /dramarcellamelro/p/DQSfhIlkmBd/
+                  - 'img "O futuro é integrativo! Muitas vezes escutei “Por que um dentista iria em um congresso de medicina (integrativa)?” e eu devolvo a pergunta “Por que não?”. Todo conhecimento é válido e valioso. Ao longo desses dias conheci muitas pessoas e profissionais incríveis, tive a oportunidade de aprender com palestrantes extremamente inteligentes e confirmei o que eu já sabia: o corpo está todo ligado. Nem sempre é sobre evoluir só como dentista mas sim como profissional da SAÚDE. Entender como o corpo funciona e saber como a odontologia, medicina, nutrição e psicologia se completam é incrível. Muito feliz por aproveitar as oportunidades que a vida oferece 💙 @abmfuncionalintegrativa @drvictorsorrentino" [ref=e418]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - link "Gengiva saudável NÃO sangra 🚨 Mesmo com uma boa escovação em casa, apenas o dentista consegue remover a placa e o tártaro acumulados nos locais de difícil acesso. Manter as limpezas periódicas evita gengivite, mau hálito e outros problemas que podem afetar a saúde geral. E aí, quando foi sua última limpeza? Clipe" [ref=e421] [cursor=pointer]:
+                  - /url: /dramarcellamelro/reel/DPxBAC_Debb/
+                  - img "Gengiva saudável NÃO sangra 🚨 Mesmo com uma boa escovação em casa, apenas o dentista consegue remover a placa e o tártaro acumulados nos locais de difícil acesso. Manter as limpezas periódicas evita gengivite, mau hálito e outros problemas que podem afetar a saúde geral. E aí, quando foi sua última limpeza?" [ref=e424]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - link "Photo by Marcella Melro on October 05, 2025." [ref=e427] [cursor=pointer]:
+                  - /url: /dramarcellamelro/p/DPcn2uxDS47/
+                  - img "Photo by Marcella Melro on October 05, 2025." [ref=e430]
+      - contentinfo [ref=e432]:
+        - generic [ref=e433]:
+          - generic [ref=e435]:
+            - link "Meta" [ref=e437] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e438]: Meta
+            - link "Sobre" [ref=e440] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e441]: Sobre
+            - link "Blog" [ref=e443] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e444]: Blog
+            - link "Carreiras" [ref=e446] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e447]: Carreiras
+            - link "Ajuda" [ref=e449] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e450]: Ajuda
+            - link "API" [ref=e452] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e453]: API
+            - link "Privacidade" [ref=e455] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e456]: Privacidade
+            - link "Termos" [ref=e458] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e459]: Termos
+            - link "Localizações" [ref=e461] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e462]: Localizações
+            - link "Instagram Lite" [ref=e464] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e465]: Instagram Lite
+            - link "Meta AI" [ref=e467] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e468]: Meta AI
+            - link "Threads" [ref=e470] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e471]: Threads
+            - link "Upload de contatos e não usuários" [ref=e473] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e474]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e476] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e477]: Meta Verified
+          - generic [ref=e478]:
+            - generic [ref=e479] [cursor=pointer]:
+              - generic [ref=e480]:
+                - generic [ref=e481]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e484]
+              - combobox "Trocar idioma de exibição" [ref=e486]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e488]: © 2026 Instagram from Meta
+  - button "Mensagens Mensagens" [ref=e490] [cursor=pointer]:
+    - generic [ref=e492]:
+      - img "Mensagens" [ref=e494]
+      - generic [ref=e497]: Mensagens

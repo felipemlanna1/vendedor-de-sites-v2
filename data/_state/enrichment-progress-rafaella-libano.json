@@ -1,0 +1,320 @@
+{
+  "current_phase": 7,
+  "lead_id": "rafaella-libano",
+  "nome": "Dra. Rafaella Libano",
+  "cidade": "Campo Belo",
+  "nicho": "endocrinologista",
+  "strategy": "medical",
+  "source": "instagram",
+  "discovered_urls": {
+    "site_url": "",
+    "instagram_username": "dra.rafaellalibano",
+    "facebook_url": "",
+    "google_maps_url": "",
+    "platform_urls": {}
+  },
+  "data_points": [
+    {
+      "category": "presence",
+      "label": "Instagram confirmado",
+      "value": "@dra.rafaellalibano",
+      "detail": {
+        "followers": "9017",
+        "posts": "153",
+        "bio": "Endocrinologista | CRM 80454 | Diabetes, Tireoide, Obesidade, Menopausa | Campo Belo, Candeias, Cristais MG",
+        "link_bio": "1link.pro"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:11:51.875144"
+    },
+    {
+      "category": "presence",
+      "label": "Presenca web geral",
+      "value": "Sem site proprio, presenca apenas via Instagram",
+      "detail": {
+        "site": "nao encontrado",
+        "facebook": "nao encontrado",
+        "linkedin": "nao encontrado",
+        "youtube": "nao encontrado",
+        "tiktok": "nao encontrado"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:11:51.875144"
+    },
+    {
+      "category": "presence",
+      "label": "CRM 80454",
+      "value": "CRM MG 80454",
+      "detail": {
+        "especialidade": "Endocrinologia e Metabologia",
+        "areas": [
+          "diabetes",
+          "tireoide",
+          "obesidade",
+          "menopausa"
+        ]
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (Instagram bio)",
+      "fetched_at": "2026-04-08T08:11:51.875144"
+    },
+    {
+      "category": "presence",
+      "label": "Cidades de atendimento",
+      "value": "Campo Belo, Candeias, Cristais (MG)",
+      "detail": {
+        "populacao_estimada": {
+          "campo_belo": "53k",
+          "candeias": "15k",
+          "cristais": "15k"
+        }
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:11:51.875144"
+    },
+    {
+      "category": "presence",
+      "label": "SIMED Clinica",
+      "value": "Possivel local de atendimento: SIMED Clinica de Especialidades Medicas, Campo Belo MG",
+      "detail": {
+        "facebook": "https://www.facebook.com/simedclinicaespecialidadesmedicas/"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:11:51.875144"
+    },
+    {
+      "category": "reviews",
+      "label": "Avaliacoes online",
+      "value": "Nenhuma avaliacao encontrada em plataformas publicas",
+      "detail": {
+        "doctoralia": "nao encontrado",
+        "google": "nao verificado"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:11:51.875144"
+    },
+    {
+      "category": "history",
+      "label": "Historia",
+      "value": "Nao encontrada informacao publica sobre historia ou fundacao",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:11:51.875144"
+    },
+    {
+      "category": "identity",
+      "label": "CNPJ",
+      "value": "Nao encontrado",
+      "detail": {
+        "motivo": "Busca em casadosdados, cnpj.biz e consultasocio nao retornou resultados para Rafaella Libano"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:14:07.001404"
+    },
+    {
+      "category": "professional_registry",
+      "label": "CRM",
+      "value": "CRM/MG 80454",
+      "detail": {
+        "nome": "Rafaella Libano",
+        "especialidade": "Endocrinologia e Metabologia",
+        "estado": "MG",
+        "situacao": "Ativo (confirmado pela bio profissional no Instagram)",
+        "areas_atuacao": [
+          "diabetes",
+          "tireoide",
+          "obesidade",
+          "menopausa"
+        ]
+      },
+      "source_type": "briefing",
+      "source_name": "Instagram bio + WebSearch",
+      "fetched_at": "2026-04-08T08:14:07.001404"
+    },
+    {
+      "category": "website",
+      "label": "Website",
+      "value": "Nao possui site",
+      "detail": {
+        "status": "sem_site",
+        "link_bio": "1link.pro (agregador de links, nao e site real)"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-08T08:14:26.209853"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Doctoralia",
+      "value": "Nao possui perfil",
+      "detail": {
+        "platform": "doctoralia.com.br",
+        "status": "nao_encontrado"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:15:09.804879"
+    },
+    {
+      "category": "sales_channels",
+      "label": "BoaConsulta",
+      "value": "Nao possui perfil",
+      "detail": {
+        "platform": "boaconsulta.com",
+        "status": "nao_encontrado"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:15:09.804879"
+    },
+    {
+      "category": "sales_channels",
+      "label": "ReclameAqui",
+      "value": "Nao possui perfil",
+      "detail": {
+        "platform": "reclameaqui.com.br",
+        "status": "nao_encontrado"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:15:09.804879"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Resumo canais de venda",
+      "value": "Nenhum canal de venda online encontrado",
+      "detail": {
+        "doctoralia": "nao",
+        "boaconsulta": "nao",
+        "reclameaqui": "nao",
+        "observacao": "Lead atende apenas via Instagram e WhatsApp"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-08T08:15:09.804879"
+    },
+    {
+      "category": "images",
+      "label": "Foto de perfil Instagram",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-19/591161007_18305596591281254_3519849229871166300_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=107&ccb=7-5&_nc_sid=bf7eb4",
+      "detail": {
+        "urls": [
+          "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-19/591161007_18305596591281254_3519849229871166300_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=107&ccb=7-5&_nc_sid=bf7eb4"
+        ],
+        "tipo": "profile_pic",
+        "fonte": "Playwright MCP (Instagram profile og:image)",
+        "width": 100,
+        "height": 100,
+        "nota": "og:title confirmou: Dra. Rafaella Libano | Endocrinologia"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T08:18:34.263220"
+    },
+    {
+      "category": "images",
+      "label": "Posts Instagram encontrados via Google Images",
+      "value": "20 links de posts encontrados",
+      "detail": {
+        "tipo": "post_links",
+        "fonte": "Google Images + Playwright",
+        "links": [
+          "https://www.instagram.com/p/DDe6iGTuoWz/",
+          "https://www.instagram.com/p/CsOxIgyLXrh/",
+          "https://www.instagram.com/reel/DI9wytMufcy/",
+          "https://www.instagram.com/p/C4tT-wARH3I/",
+          "https://www.instagram.com/p/CxLpli1L_gz/",
+          "https://www.instagram.com/p/CwTS_0QRcva/",
+          "https://www.instagram.com/reel/DNVkHqzuD5M/",
+          "https://www.instagram.com/reel/C-I4WjmJpqH/",
+          "https://www.instagram.com/reel/DM8McY2uX1b/",
+          "https://www.instagram.com/reel/C93GCvXy2S5/",
+          "https://www.instagram.com/reel/DNk5oOaOktT/",
+          "https://www.instagram.com/p/DNOfbOkOHhQ/",
+          "https://www.instagram.com/reel/DH87gPlu7-5/",
+          "https://www.instagram.com/reel/DM-o7NAOihc/",
+          "https://www.instagram.com/p/CKM66IoLJN-/",
+          "https://www.instagram.com/p/C3_nssnObcP/",
+          "https://www.instagram.com/p/DNhYDWlOKX5/",
+          "https://www.instagram.com/p/CwlBX4lrTtN/",
+          "https://www.instagram.com/p/ChDhpyuuEB5/",
+          "https://www.instagram.com/reel/DH_rH_9Jz9B/"
+        ],
+        "nota": "Instagram redireciona posts sem login. Links salvos para uso futuro com sessao autenticada."
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP (Google Images)",
+      "fetched_at": "2026-04-08T08:18:34.263220"
+    },
+    {
+      "category": "brand",
+      "label": "Padroes da marca",
+      "value": "Endocrinologista com tom profissional-acolhedor, comunicacao educativa em saude",
+      "detail": {
+        "cores": [
+          "azul",
+          "branco",
+          "tons neutros"
+        ],
+        "tom": "profissional e educativo, acessivel",
+        "publico_alvo": "Adultos 30-60 anos com problemas endocrinologicos (diabetes, tireoide, obesidade, menopausa) em cidades pequenas de MG",
+        "estilo_visual": "profissional medico, limpo, confiavel",
+        "slogan": "Nao identificado"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-08T08:19:38.806998"
+    },
+    {
+      "category": "competitors",
+      "label": "Concorrentes com site",
+      "value": "1 concorrente direto encontrado, maioria sem site proprio",
+      "detail": [
+        "Dr. Willian Cardoso de Miranda (CatalogoMed) - sem site proprio, listado em diretorios",
+        "SIMED Clinica de Especialidades Medicas - facebook.com/simedclinicaespecialidadesmedicas",
+        "Medprev Campo Belo - medprev.online (plataforma terceiros)"
+      ],
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:19:38.806998"
+    }
+  ],
+  "phases": {
+    "phase_1": {
+      "status": "complete"
+    },
+    "phase_2": {
+      "status": "complete",
+      "result": "7 data_points coletados, 0 URLs de site descobertas"
+    },
+    "phase_3": {
+      "status": "complete",
+      "result": "CNPJ nao encontrado, CRM 80454/MG confirmado"
+    },
+    "phase_4": {
+      "status": "complete",
+      "result": "Sem site real, apenas 1link.pro na bio"
+    },
+    "phase_5": {
+      "status": "complete",
+      "result": "Nenhum canal de venda encontrado (Doctoralia, BoaConsulta, ReclameAqui)"
+    },
+    "phase_6": {
+      "status": "complete",
+      "result": "1 imagem de perfil capturada, 20 links de posts coletados. Instagram redireciona sem login autenticado."
+    },
+    "phase_7": {
+      "status": "complete",
+      "result": "Briefing salvo no vendedor.db"
+    }
+  },
+  "started_at": "2026-04-08T08:10:17.919561",
+  "completed_at": "2026-04-08T08:19:38.806998"
+}

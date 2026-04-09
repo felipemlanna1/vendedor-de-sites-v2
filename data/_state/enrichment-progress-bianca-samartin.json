@@ -1,0 +1,315 @@
+{
+  "current_phase": 7,
+  "lead_id": "bianca-samartin",
+  "nome": "Bianca R Samartin",
+  "cidade": "Triângulo Mineiro",
+  "nicho": "dentista",
+  "strategy": "dental",
+  "source": "instagram",
+  "discovered_urls": {
+    "site_url": "",
+    "instagram_username": "_afadadodente",
+    "facebook_url": "",
+    "google_maps_url": "",
+    "platform_urls": {}
+  },
+  "data_points": [
+    {
+      "category": "presence",
+      "label": "Instagram confirmado",
+      "value": "@_afadadodente",
+      "detail": {
+        "url": "https://www.instagram.com/_afadadodente/",
+        "nome_perfil": "Dra. Bianca R Samartin",
+        "seguidores": 855,
+        "posts": 42
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T22:57:49.076057"
+    },
+    {
+      "category": "history",
+      "label": "Formação acadêmica",
+      "value": "Graduação em Odontologia - Universidade de Uberaba (UNIUBE)",
+      "detail": {
+        "universidade": "Universidade de Uberaba (UNIUBE)",
+        "curso": "Odontologia",
+        "tcc_titulo": "Cárie Precoce de Infância - Revisão de Literatura",
+        "tcc_ano": "2022",
+        "orientadora": "Profa. Dra. Maria Angélica Hueb de Menezes Oliveira",
+        "coautora": "Eduarda Vitória Sousa de Carvalho"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch + WebFetch (repositorio.uniube.br)",
+      "fetched_at": "2026-04-07T22:57:49.076057"
+    },
+    {
+      "category": "presence",
+      "label": "Especialidade",
+      "value": "Odontopediatria",
+      "detail": {
+        "marca": "A Fada do Dente",
+        "publico": "Crianças/bebês",
+        "CRO": "MG 63888"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (Instagram bio)",
+      "fetched_at": "2026-04-07T22:57:49.076057"
+    },
+    {
+      "category": "presence",
+      "label": "Sem site próprio",
+      "value": "Não possui website",
+      "detail": {
+        "nota": "Nenhum site encontrado nas buscas"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T22:57:49.076057"
+    },
+    {
+      "category": "presence",
+      "label": "Sem Doctoralia/BoaConsulta",
+      "value": "Não encontrada em plataformas de saúde",
+      "detail": {
+        "plataformas_buscadas": [
+          "Doctoralia",
+          "BoaConsulta",
+          "CatalogoMed"
+        ]
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T22:57:49.076057"
+    },
+    {
+      "category": "presence",
+      "label": "Sem Facebook/LinkedIn",
+      "value": "Não encontrada em Facebook ou LinkedIn",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T22:57:49.076057"
+    },
+    {
+      "category": "presence",
+      "label": "Região de atuação",
+      "value": "Triângulo Mineiro (DDD 34), Minas Gerais",
+      "detail": {
+        "formada_em": "Uberaba"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T22:57:49.076057"
+    },
+    {
+      "category": "identity",
+      "label": "CNPJ",
+      "value": "Não encontrado",
+      "detail": {
+        "nota": "Buscas por CNPJ com nome completo e variações não retornaram resultado. Possível MEI ou autônoma sem CNPJ indexado."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T22:58:54.188217"
+    },
+    {
+      "category": "professional_registry",
+      "label": "CRO",
+      "value": "CRO MG 63888",
+      "detail": {
+        "conselho": "CRO-MG",
+        "numero": "63888",
+        "estado": "MG",
+        "nome_completo": "Bianca Ribas Samartin",
+        "especialidade": "Odontopediatria",
+        "nota": "CRO informado pelo lead, confirmado via Instagram bio"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch + Instagram bio",
+      "fetched_at": "2026-04-07T22:58:54.188217"
+    },
+    {
+      "category": "website",
+      "label": "Website",
+      "value": "Não possui site",
+      "detail": {
+        "status": "sem_site"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-07T22:59:21.307014"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Doctoralia",
+      "value": "Não encontrada",
+      "detail": {
+        "plataforma": "Doctoralia",
+        "status": "sem_perfil"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T23:00:19.085034"
+    },
+    {
+      "category": "sales_channels",
+      "label": "BoaConsulta",
+      "value": "Não encontrada",
+      "detail": {
+        "plataforma": "BoaConsulta",
+        "status": "sem_perfil"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T23:00:19.085034"
+    },
+    {
+      "category": "sales_channels",
+      "label": "ReclameAqui",
+      "value": "Não encontrada",
+      "detail": {
+        "plataforma": "ReclameAqui",
+        "status": "sem_perfil"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T23:00:19.085034"
+    },
+    {
+      "category": "images",
+      "label": "Foto de perfil Instagram (og:image indireto)",
+      "value": "https://www.instagram.com/_afadadodente/",
+      "detail": {
+        "urls": [
+          "https://www.instagram.com/_afadadodente/"
+        ],
+        "tipo": "profile_pic",
+        "fonte": "Instagram (perfil público, imagem não acessível sem login)",
+        "nota": "Instagram requer login para acessar imagens CDN. Playwright sem sessão ativa."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T23:05:16.331437"
+    },
+    {
+      "category": "images",
+      "label": "TCC Repositório UNIUBE",
+      "value": "https://repositorio.uniube.br/bitstream/123456789/1871/1/C%C3%81RIE%20PRECOCE%20DE%20INF%C3%82NCIA%20-%20%20REVIS%C3%83O%20DE%20LITERATURA.pdf",
+      "detail": {
+        "urls": [
+          "https://repositorio.uniube.br/bitstream/123456789/1871/1/C%C3%81RIE%20PRECOCE%20DE%20INF%C3%82NCIA%20-%20%20REVIS%C3%83O%20DE%20LITERATURA.pdf"
+        ],
+        "tipo": "outro",
+        "fonte": "Repositório acadêmico UNIUBE",
+        "nota": "TCC de Bianca Ribas Samartin - documento acadêmico"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T23:05:16.331437"
+    },
+    {
+      "category": "images",
+      "label": "Links de posts Instagram coletados",
+      "value": "20 links de posts coletados via Google Images",
+      "detail": {
+        "urls": [
+          "https://www.instagram.com/p/DU1CW8FjGjC/",
+          "https://www.instagram.com/p/DL7wTr-sAe-/",
+          "https://www.instagram.com/reel/C80aByROSN5/",
+          "https://www.instagram.com/reel/DLVKal8ydJa/",
+          "https://www.instagram.com/reel/CuIFawBvE5K/",
+          "https://www.instagram.com/reel/DWhK3JjjBj0/",
+          "https://www.instagram.com/reel/DVRdp0wjDBd/",
+          "https://www.instagram.com/p/DJq4n-vvgAh/",
+          "https://www.instagram.com/reel/DUlrM2jDvd5/",
+          "https://www.instagram.com/reel/C534cZfMi56/",
+          "https://www.instagram.com/p/DD0OA-USUQY/",
+          "https://www.instagram.com/reel/DWZcfKbjFqp/",
+          "https://www.instagram.com/p/DUXxjomjIzl/",
+          "https://www.instagram.com/p/DSeyudAjRSU/",
+          "https://www.instagram.com/reel/DNyO8yDWBXH/",
+          "https://www.instagram.com/p/DWTkldyiFe-/",
+          "https://www.instagram.com/p/DUnzu9MDRAS/",
+          "https://www.instagram.com/reel/CtuJluZsZWi/",
+          "https://www.instagram.com/reel/DMQnCHyMSLf/",
+          "https://www.instagram.com/p/DRzwvAPjhV-/"
+        ],
+        "tipo": "post",
+        "fonte": "Google Images + Playwright link extraction",
+        "nota": "Links coletados para uso futuro na imersão (site-phase-2). Imagens CDN requerem login Instagram."
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP (Google Images)",
+      "fetched_at": "2026-04-07T23:05:16.331437"
+    },
+    {
+      "category": "brand",
+      "label": "Padrões da marca",
+      "value": "Marca infantil 'A Fada do Dente', tom lúdico e acolhedor, foco em odontopediatria",
+      "detail": {
+        "cores": [
+          "rosa",
+          "lilás",
+          "branco",
+          "tons pastéis"
+        ],
+        "tom": "acolhedor e lúdico, voltado para mães e crianças",
+        "publico_alvo": "Mães com filhos pequenos (0-12 anos) no Triângulo Mineiro",
+        "estilo_visual": "Infantil, delicado, com elementos de fantasia (fada, dente)",
+        "slogan": "A Fada do Dente (marca/persona)",
+        "nome_marca": "A Fada do Dente",
+        "nome_profissional": "Dra. Bianca R Samartin"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-07T23:06:24.412059"
+    },
+    {
+      "category": "competitors",
+      "label": "Concorrentes com site",
+      "value": "3 encontrados",
+      "detail": [
+        "Dentista UDI (Odontopediatria Uberlândia) - https://www.dentistaudi.com.br/",
+        "Be Clinic Odontologia (Odontopediatria Uberlândia) - https://beclinicodontologia.com.br/",
+        "Perfil Clínica Odontológica (desde 1994, Triângulo Mineiro) - https://perfilclinica.com.br/"
+      ],
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T23:06:24.412059"
+    }
+  ],
+  "phases": {
+    "phase_1": {
+      "status": "complete"
+    },
+    "phase_2": {
+      "status": "complete",
+      "result": "0 URLs novas, 7 data_points. Sem site, sem plataformas, apenas Instagram."
+    },
+    "phase_3": {
+      "status": "complete",
+      "result": "2 data_points: CNPJ não encontrado, CRO MG 63888 confirmado"
+    },
+    "phase_4": {
+      "status": "complete",
+      "result": "Sem site. 1 data_point registrado."
+    },
+    "phase_5": {
+      "status": "complete",
+      "result": "Sem Doctoralia, sem BoaConsulta, sem ReclameAqui. 3 data_points registrados."
+    },
+    "phase_6": {
+      "status": "complete",
+      "result": "3 data_points de imagem. 20 links de posts IG coletados. Instagram sem login bloqueou acesso a imagens CDN.",
+      "playwright_note": "Sessão Instagram expirada/indisponível. Links de posts salvos para uso posterior."
+    },
+    "phase_7": {
+      "status": "complete",
+      "result": "Briefing salvo no vendedor.db. Score: 8/10. 18 data_points."
+    }
+  },
+  "started_at": "2026-04-07T22:55:52.135066",
+  "completed_at": "2026-04-07T23:06:24.412059"
+}

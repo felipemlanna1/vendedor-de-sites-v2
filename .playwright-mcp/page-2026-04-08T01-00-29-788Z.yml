@@ -1,0 +1,569 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e88] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e93]
+        - link "Foto do perfil de _pipelinestudio" [ref=e99] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e104]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e105]
+      - generic [ref=e106]:
+        - link "Configurações" [ref=e109] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e114]
+        - link "Também da Meta" [ref=e117] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e122]
+    - generic [ref=e125]:
+      - main [ref=e126]:
+        - generic [ref=e127]:
+          - generic [ref=e129]:
+            - button [ref=e134]:
+              - generic [ref=e141]:
+                - list [ref=e143]:
+                  - listitem [ref=e144]
+                  - listitem [ref=e145]:
+                    - img [ref=e152]
+                  - listitem [ref=e154]:
+                    - img [ref=e161]
+                - button [ref=e163] [cursor=pointer]
+            - generic [ref=e166]:
+              - generic [ref=e168]:
+                - button "Foto do perfil de dramarcela_pediatra" [ref=e173] [cursor=pointer]:
+                  - link "Foto do perfil de dramarcela_pediatra" [ref=e175]:
+                    - img "Foto do perfil de dramarcela_pediatra" [ref=e176]
+                - generic [ref=e179]:
+                  - generic [ref=e180]:
+                    - link "dramarcela_pediatra" [ref=e188] [cursor=pointer]:
+                      - /url: /dramarcela_pediatra/
+                      - generic [ref=e191]: dramarcela_pediatra
+                    - link "Curumim Clínica Pediátrica" [ref=e195] [cursor=pointer]:
+                      - /url: /explore/locations/237247196/curumim-clinica-pediatrica/
+                  - button "Seguir" [ref=e197] [cursor=pointer]
+                - button "Mais opções" [ref=e200] [cursor=pointer]:
+                  - img "Mais opções" [ref=e203]
+              - separator [ref=e207]
+              - generic [ref=e209]:
+                - generic [ref=e211]:
+                  - link "Foto do perfil de dramarcela_pediatra" [ref=e216] [cursor=pointer]:
+                    - /url: /dramarcela_pediatra/
+                    - img "Foto do perfil de dramarcela_pediatra" [ref=e217]
+                  - generic [ref=e221]:
+                    - generic [ref=e222]:
+                      - link "dramarcela_pediatra" [ref=e226] [cursor=pointer]:
+                        - /url: /dramarcela_pediatra/
+                        - generic [ref=e229]: dramarcela_pediatra
+                      - time [ref=e231]: 113 sem
+                    - generic [ref=e232]:
+                      - text: Olá!
+                      - text: Que bom ter você por aqui!
+                      - text: Sou Marcela, esposa do Gu e mamãe da Laura!
+                      - text: Sou pediatra e tenho um orgulho enorme da minha profissão!
+                      - text: Por aqui, você vai encontrar muitas informações, dicas, desabafos, incentivos e trocas de experiências!
+                      - text: É um canal aberto de comunicação, repleto de carinho e dedicação!
+                      - text: Conte comigo e, como eu sempre digo para os pais dos meus pacientes, “me dê notícias” 🙏🏻🥰❤️
+                - generic [ref=e233]:
+                  - generic [ref=e236]:
+                    - link "Foto do perfil de joelmamendonca1" [ref=e242] [cursor=pointer]:
+                      - /url: /joelmamendonca1/
+                      - img "Foto do perfil de joelmamendonca1" [ref=e243]
+                    - generic [ref=e244]:
+                      - generic [ref=e245]:
+                        - generic [ref=e247]:
+                          - generic [ref=e248]:
+                            - link "joelmamendonca1" [ref=e253] [cursor=pointer]:
+                              - /url: /joelmamendonca1/
+                              - generic [ref=e256]: joelmamendonca1
+                            - link "24 sem" [ref=e258] [cursor=pointer]:
+                              - /url: /p/C20Uaj9RzY3/c/18101271022576482/
+                              - time [ref=e259]: 24 sem
+                          - generic [ref=e261]: Uma ótima profissional 👏👏👏👏 Trabalha por ❤️ Que Deus e Nossa Senhora abençoe sempre 🙏📿🌹
+                        - button "Responder" [ref=e263] [cursor=pointer]:
+                          - generic [ref=e265]: Responder
+                      - button "Curtir" [ref=e270] [cursor=pointer]:
+                        - img "Curtir" [ref=e273]
+                  - generic [ref=e277]:
+                    - link "Foto do perfil de vane.assistente" [ref=e283] [cursor=pointer]:
+                      - /url: /vane.assistente/
+                      - img "Foto do perfil de vane.assistente" [ref=e284]
+                    - generic [ref=e285]:
+                      - generic [ref=e286]:
+                        - generic [ref=e288]:
+                          - generic [ref=e289]:
+                            - link "vane.assistente" [ref=e294] [cursor=pointer]:
+                              - /url: /vane.assistente/
+                              - generic [ref=e297]: vane.assistente
+                            - link "24 sem" [ref=e299] [cursor=pointer]:
+                              - /url: /p/C20Uaj9RzY3/c/18077293292027222/
+                              - time [ref=e300]: 24 sem
+                          - generic [ref=e302]: Seu amor pela profissão é nítido em cada detalhe do seu trabalho 🩺💛
+                        - button "Responder" [ref=e304] [cursor=pointer]:
+                          - generic [ref=e306]: Responder
+                      - button "Curtir" [ref=e311] [cursor=pointer]:
+                        - img "Curtir" [ref=e314]
+                  - generic [ref=e318]:
+                    - link "Foto do perfil de jaqueline_silva_itj" [ref=e324] [cursor=pointer]:
+                      - /url: /jaqueline_silva_itj/
+                      - img "Foto do perfil de jaqueline_silva_itj" [ref=e325]
+                    - generic [ref=e326]:
+                      - generic [ref=e327]:
+                        - generic [ref=e329]:
+                          - generic [ref=e330]:
+                            - link "jaqueline_silva_itj" [ref=e335] [cursor=pointer]:
+                              - /url: /jaqueline_silva_itj/
+                              - generic [ref=e338]: jaqueline_silva_itj
+                            - link "75 sem" [ref=e340] [cursor=pointer]:
+                              - /url: /p/C20Uaj9RzY3/c/18040717304149183/
+                              - time [ref=e341]: 75 sem
+                          - generic [ref=e343]: Ah Dra Marcela que saudades da senhora na nossa UBS jamais será esquecida por mim e pelos meus filhos uma excelente profissional um anjo de Deus na nossa vida
+                        - button "Responder" [ref=e345] [cursor=pointer]:
+                          - generic [ref=e347]: Responder
+                      - button "Curtir" [ref=e352] [cursor=pointer]:
+                        - img "Curtir" [ref=e355]
+                  - generic [ref=e359]:
+                    - link "Foto do perfil de fabiofestas.bc" [ref=e365] [cursor=pointer]:
+                      - /url: /fabiofestas.bc/
+                      - img "Foto do perfil de fabiofestas.bc" [ref=e366]
+                    - generic [ref=e367]:
+                      - generic [ref=e368]:
+                        - generic [ref=e370]:
+                          - generic [ref=e371]:
+                            - link "fabiofestas.bc" [ref=e376] [cursor=pointer]:
+                              - /url: /fabiofestas.bc/
+                              - generic [ref=e379]: fabiofestas.bc
+                            - link "100 sem" [ref=e381] [cursor=pointer]:
+                              - /url: /p/C20Uaj9RzY3/c/17930829698846522/
+                              - time [ref=e382]: 100 sem
+                          - generic [ref=e384]: 👏👏👏❤️
+                        - button "Responder" [ref=e386] [cursor=pointer]:
+                          - generic [ref=e388]: Responder
+                      - button "Curtir" [ref=e393] [cursor=pointer]:
+                        - img "Curtir" [ref=e396]
+                  - generic [ref=e400]:
+                    - link "Foto do perfil de silvestreegrazi" [ref=e406] [cursor=pointer]:
+                      - /url: /silvestreegrazi/
+                      - img "Foto do perfil de silvestreegrazi" [ref=e407]
+                    - generic [ref=e408]:
+                      - generic [ref=e409]:
+                        - generic [ref=e411]:
+                          - generic [ref=e412]:
+                            - link "silvestreegrazi" [ref=e417] [cursor=pointer]:
+                              - /url: /silvestreegrazi/
+                              - generic [ref=e420]: silvestreegrazi
+                            - link "100 sem" [ref=e422] [cursor=pointer]:
+                              - /url: /p/C20Uaj9RzY3/c/17979992360677447/
+                              - time [ref=e423]: 100 sem
+                          - generic [ref=e425]: Boa noite vc atende pela Pladisa?
+                        - button "Responder" [ref=e427] [cursor=pointer]:
+                          - generic [ref=e429]: Responder
+                      - button "Curtir" [ref=e434] [cursor=pointer]:
+                        - img "Curtir" [ref=e437]
+                  - generic [ref=e441]:
+                    - link "Foto do perfil de biabeltran" [ref=e447] [cursor=pointer]:
+                      - /url: /biabeltran/
+                      - img "Foto do perfil de biabeltran" [ref=e448]
+                    - generic [ref=e449]:
+                      - generic [ref=e450]:
+                        - generic [ref=e452]:
+                          - generic [ref=e453]:
+                            - link "biabeltran" [ref=e458] [cursor=pointer]:
+                              - /url: /biabeltran/
+                              - generic [ref=e461]: biabeltran
+                            - link "113 sem" [ref=e463] [cursor=pointer]:
+                              - /url: /p/C20Uaj9RzY3/c/18018342770097704/
+                              - time [ref=e464]: 113 sem
+                          - generic [ref=e466]: Maravilhosa ❤️
+                        - button "Responder" [ref=e468] [cursor=pointer]:
+                          - generic [ref=e470]: Responder
+                      - button "Curtir" [ref=e475] [cursor=pointer]:
+                        - img "Curtir" [ref=e478]
+                  - generic [ref=e482]:
+                    - link "Foto do perfil de francieelle1" [ref=e488] [cursor=pointer]:
+                      - /url: /francieelle1/
+                      - img "Foto do perfil de francieelle1" [ref=e489]
+                    - generic [ref=e490]:
+                      - generic [ref=e491]:
+                        - generic [ref=e493]:
+                          - generic [ref=e494]:
+                            - link "francieelle1" [ref=e499] [cursor=pointer]:
+                              - /url: /francieelle1/
+                              - generic [ref=e502]: francieelle1
+                            - link "113 sem" [ref=e504] [cursor=pointer]:
+                              - /url: /p/C20Uaj9RzY3/c/17974023296657205/
+                              - time [ref=e505]: 113 sem
+                          - generic [ref=e507]: Somos gratos a Deus por ter conhecido vc Dra. 🥹🙏🏻 melhor pediatra ❤️
+                        - button "Responder" [ref=e509] [cursor=pointer]:
+                          - generic [ref=e511]: Responder
+                      - button "Curtir" [ref=e516] [cursor=pointer]:
+                        - img "Curtir" [ref=e519]
+                  - generic [ref=e523]:
+                    - link "Foto do perfil de ale.fxavier" [ref=e529] [cursor=pointer]:
+                      - /url: /ale.fxavier/
+                      - img "Foto do perfil de ale.fxavier" [ref=e530]
+                    - generic [ref=e531]:
+                      - generic [ref=e532]:
+                        - generic [ref=e534]:
+                          - generic [ref=e535]:
+                            - link "ale.fxavier" [ref=e540] [cursor=pointer]:
+                              - /url: /ale.fxavier/
+                              - generic [ref=e543]: ale.fxavier
+                            - link "113 sem" [ref=e545] [cursor=pointer]:
+                              - /url: /p/C20Uaj9RzY3/c/17943576836668263/
+                              - time [ref=e546]: 113 sem
+                          - generic [ref=e548]: A melhor 🙌pena que não atende pela Unimed 😢
+                        - button "Responder" [ref=e550] [cursor=pointer]:
+                          - generic [ref=e552]: Responder
+                      - button "Curtir" [ref=e557] [cursor=pointer]:
+                        - img "Curtir" [ref=e560]
+                  - generic [ref=e564]:
+                    - link "Foto do perfil de fralbino" [ref=e570] [cursor=pointer]:
+                      - /url: /fralbino/
+                      - img "Foto do perfil de fralbino" [ref=e571]
+                    - generic [ref=e572]:
+                      - generic [ref=e573]:
+                        - generic [ref=e575]:
+                          - generic [ref=e576]:
+                            - link "fralbino" [ref=e581] [cursor=pointer]:
+                              - /url: /fralbino/
+                              - generic [ref=e584]: fralbino
+                            - link "113 sem" [ref=e586] [cursor=pointer]:
+                              - /url: /p/C20Uaj9RzY3/c/18021700465968170/
+                              - time [ref=e587]: 113 sem
+                          - generic [ref=e589]: "Vou complementar: Nosso anjo since 2021! ❤️🙌!! Obrigada por tudo sempre! 🫶🏽"
+                        - button "Responder" [ref=e591] [cursor=pointer]:
+                          - generic [ref=e593]: Responder
+                      - button "Curtir" [ref=e598] [cursor=pointer]:
+                        - img "Curtir" [ref=e601]
+                  - generic [ref=e605]:
+                    - link "Foto do perfil de nandabfim" [ref=e611] [cursor=pointer]:
+                      - /url: /nandabfim/
+                      - img "Foto do perfil de nandabfim" [ref=e612]
+                    - generic [ref=e613]:
+                      - generic [ref=e614]:
+                        - generic [ref=e616]:
+                          - generic [ref=e617]:
+                            - link "nandabfim" [ref=e622] [cursor=pointer]:
+                              - /url: /nandabfim/
+                              - generic [ref=e625]: nandabfim
+                            - link "113 sem" [ref=e627] [cursor=pointer]:
+                              - /url: /p/C20Uaj9RzY3/c/18008692415195509/
+                              - time [ref=e628]: 113 sem
+                          - generic [ref=e630]: Você é a melhor que existe!
+                        - button "Responder" [ref=e632] [cursor=pointer]:
+                          - generic [ref=e634]: Responder
+                      - button "Curtir" [ref=e639] [cursor=pointer]:
+                        - img "Curtir" [ref=e642]
+                  - generic [ref=e646]:
+                    - link "Foto do perfil de giselle_bellini" [ref=e652] [cursor=pointer]:
+                      - /url: /giselle_bellini/
+                      - img "Foto do perfil de giselle_bellini" [ref=e653]
+                    - generic [ref=e654]:
+                      - generic [ref=e655]:
+                        - generic [ref=e657]:
+                          - generic [ref=e658]:
+                            - link "giselle_bellini" [ref=e663] [cursor=pointer]:
+                              - /url: /giselle_bellini/
+                              - generic [ref=e666]: giselle_bellini
+                            - link "113 sem" [ref=e668] [cursor=pointer]:
+                              - /url: /p/C20Uaj9RzY3/c/17904164834928480/
+                              - time [ref=e669]: 113 sem
+                          - generic [ref=e671]: Super profissional!! Nossa doctor !!!
+                        - button "Responder" [ref=e673] [cursor=pointer]:
+                          - generic [ref=e675]: Responder
+                      - button "Curtir" [ref=e680] [cursor=pointer]:
+                        - img "Curtir" [ref=e683]
+                  - generic [ref=e687]:
+                    - link "Foto do perfil de tamarasrebelo" [ref=e693] [cursor=pointer]:
+                      - /url: /tamarasrebelo/
+                      - img "Foto do perfil de tamarasrebelo" [ref=e694]
+                    - generic [ref=e695]:
+                      - generic [ref=e696]:
+                        - generic [ref=e698]:
+                          - generic [ref=e699]:
+                            - link "tamarasrebelo" [ref=e704] [cursor=pointer]:
+                              - /url: /tamarasrebelo/
+                              - generic [ref=e707]: tamarasrebelo
+                            - link "113 sem" [ref=e709] [cursor=pointer]:
+                              - /url: /p/C20Uaj9RzY3/c/18023339083823847/
+                              - time [ref=e710]: 113 sem
+                          - generic [ref=e712]: Se eu tivesse que descrevê-la, diria que eh a melhor pediatra do mundo, que exerce seu dom com excelência, carinho e mt dedicação. Nos transmite além de conhecimento, mt paz. Nossa gratidão eterna a Dra. ❤️
+                        - button "Responder" [ref=e714] [cursor=pointer]:
+                          - generic [ref=e716]: Responder
+                      - button "Curtir" [ref=e721] [cursor=pointer]:
+                        - img "Curtir" [ref=e724]
+                  - generic [ref=e728]:
+                    - link "Foto do perfil de marjoryesantos_" [ref=e734] [cursor=pointer]:
+                      - /url: /marjoryesantos_/
+                      - img "Foto do perfil de marjoryesantos_" [ref=e735]
+                    - generic [ref=e736]:
+                      - generic [ref=e737]:
+                        - generic [ref=e739]:
+                          - generic [ref=e740]:
+                            - link "marjoryesantos_" [ref=e745] [cursor=pointer]:
+                              - /url: /marjoryesantos_/
+                              - generic [ref=e748]: marjoryesantos_
+                            - link "113 sem" [ref=e750] [cursor=pointer]:
+                              - /url: /p/C20Uaj9RzY3/c/17900033453943891/
+                              - time [ref=e751]: 113 sem
+                          - generic [ref=e753]: Maravilhosaaaaaa ❤️❤️❤️❤️
+                        - button "Responder" [ref=e755] [cursor=pointer]:
+                          - generic [ref=e757]: Responder
+                      - button "Curtir" [ref=e762] [cursor=pointer]:
+                        - img "Curtir" [ref=e765]
+                  - generic [ref=e767]:
+                    - generic [ref=e769]:
+                      - link "Foto do perfil de josinha.mendes" [ref=e775] [cursor=pointer]:
+                        - /url: /josinha.mendes/
+                        - img "Foto do perfil de josinha.mendes" [ref=e776]
+                      - generic [ref=e777]:
+                        - generic [ref=e778]:
+                          - generic [ref=e780]:
+                            - generic [ref=e781]:
+                              - link "josinha.mendes" [ref=e786] [cursor=pointer]:
+                                - /url: /josinha.mendes/
+                                - generic [ref=e789]: josinha.mendes
+                              - link "113 sem" [ref=e791] [cursor=pointer]:
+                                - /url: /p/C20Uaj9RzY3/c/17913395243887645/
+                                - time [ref=e792]: 113 sem
+                            - generic [ref=e794]: Melhor médica ❤️ amor no que faz 😍 muito carinho e admiração por vc Dra querida. Inclusive, saudades hehe
+                          - generic [ref=e795]:
+                            - button "1 curtida" [ref=e796] [cursor=pointer]:
+                              - generic [ref=e798]: 1 curtida
+                            - button "Responder" [ref=e799] [cursor=pointer]:
+                              - generic [ref=e801]: Responder
+                        - button "Curtir" [ref=e806] [cursor=pointer]:
+                          - img "Curtir" [ref=e809]
+                    - button "Ver todas as 1 respostas" [ref=e812] [cursor=pointer]:
+                      - generic [ref=e815]: Ver todas as 1 respostas
+                  - generic [ref=e816]:
+                    - generic [ref=e818]:
+                      - link "Foto do perfil de patriciacfalb" [ref=e824] [cursor=pointer]:
+                        - /url: /patriciacfalb/
+                        - img "Foto do perfil de patriciacfalb" [ref=e825]
+                      - generic [ref=e826]:
+                        - generic [ref=e827]:
+                          - generic [ref=e829]:
+                            - generic [ref=e830]:
+                              - link "patriciacfalb" [ref=e835] [cursor=pointer]:
+                                - /url: /patriciacfalb/
+                                - generic [ref=e838]: patriciacfalb
+                              - link "113 sem" [ref=e840] [cursor=pointer]:
+                                - /url: /p/C20Uaj9RzY3/c/17887951358986860/
+                                - time [ref=e841]: 113 sem
+                            - generic [ref=e843]:
+                              - text: ❤️❤️
+                              - text: Adoramos vc!
+                              - text: Beijos Gaia e Eros 😍😍
+                          - generic [ref=e844]:
+                            - button "1 curtida" [ref=e845] [cursor=pointer]:
+                              - generic [ref=e847]: 1 curtida
+                            - button "Responder" [ref=e848] [cursor=pointer]:
+                              - generic [ref=e850]: Responder
+                        - button "Curtir" [ref=e855] [cursor=pointer]:
+                          - img "Curtir" [ref=e858]
+                    - button "Ver todas as 1 respostas" [ref=e861] [cursor=pointer]:
+                      - generic [ref=e864]: Ver todas as 1 respostas
+                  - generic [ref=e866]:
+                    - img [ref=e868]
+                    - generic [ref=e872]: 2 comentários no Facebook
+                  - progressbar [ref=e875]:
+                    - img "Carregando..." [ref=e876]
+              - generic [ref=e889]:
+                - generic [ref=e890]:
+                  - generic [ref=e891]:
+                    - button "Curtir" [ref=e894] [cursor=pointer]:
+                      - img "Curtir" [ref=e897]
+                    - button "606" [ref=e899] [cursor=pointer]
+                    - button "Comentar" [ref=e901] [cursor=pointer]:
+                      - img "Comentar" [ref=e903]
+                    - button "93" [ref=e905] [cursor=pointer]
+                    - button "Compartilhar" [ref=e906] [cursor=pointer]:
+                      - img "Compartilhar" [ref=e907]
+                  - button "Salvar" [ref=e912] [cursor=pointer]:
+                    - button "Salvar" [ref=e913]:
+                      - img "Salvar" [ref=e915]
+                - link "1 de fevereiro de 2024" [ref=e919] [cursor=pointer]:
+                  - /url: /dramarcela_pediatra/p/C20Uaj9RzY3/
+                  - time [ref=e921]: 1 de fevereiro de 2024
+              - generic [ref=e924]:
+                - link [ref=e925]
+                - generic [ref=e927]:
+                  - button "Emoji" [ref=e929] [cursor=pointer]:
+                    - img "Emoji" [ref=e931]
+                  - textbox "Adicione um comentário..." [ref=e933]
+          - separator [ref=e935]
+          - generic [ref=e936]:
+            - generic [ref=e938]:
+              - text: Mais posts de
+              - link "dramarcela_pediatra" [ref=e939] [cursor=pointer]:
+                - /url: /dramarcela_pediatra/
+            - generic [ref=e942]:
+              - generic [ref=e943]:
+                - 'link "O cuidado pediátrico vai muito além de acompanhar o crescimento. Ele começa na escuta, no olhar atento e na construção de confiança com cada família. Aqui na You Can, a Dra. Marcela Braz acompanha crianças e famílias com atenção às necessidades de cada fase do desenvolvimento. Se você busca um acompanhamento pediátrico cuidadoso e próximo, nossa equipe está pronta para receber sua família. 💛👩🏼‍⚕️ #clínicayoucan #pediatria #itajaísc Clipe" [ref=e945] [cursor=pointer]':
+                  - /url: /clinicayoucan/reel/DVt3DOaRpyU/
+                  - 'img "O cuidado pediátrico vai muito além de acompanhar o crescimento. Ele começa na escuta, no olhar atento e na construção de confiança com cada família. Aqui na You Can, a Dra. Marcela Braz acompanha crianças e famílias com atenção às necessidades de cada fase do desenvolvimento. Se você busca um acompanhamento pediátrico cuidadoso e próximo, nossa equipe está pronta para receber sua família. 💛👩🏼‍⚕️ #clínicayoucan #pediatria #itajaísc" [ref=e948]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - link "Afinal, o que é a suplementação individualizada?! Nesse vídeo eu resumi para vocês o que mudou na minha prática no consultório pediátrico e todos os benefícios que esse novo olhar traz para os nossos pequenos pacientes. Clipe" [ref=e951] [cursor=pointer]:
+                  - /url: /dramarcela_pediatra/reel/DNTrkaoxyW3/
+                  - img "Afinal, o que é a suplementação individualizada?! Nesse vídeo eu resumi para vocês o que mudou na minha prática no consultório pediátrico e todos os benefícios que esse novo olhar traz para os nossos pequenos pacientes." [ref=e954]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - link [ref=e957] [cursor=pointer]:
+                  - /url: /marcelapratesbraz/p/DWxLuw2DjFGn_2EnCMM2eBUmqOFgSR7kx7CJSk0/
+                  - img [ref=e960]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+              - generic [ref=e962]:
+                - 'link "No autismo, o acompanhamento pediátrico continua sendo essencial. É ele que permite acompanhar o crescimento, a alimentação, o sono, a saúde geral e outras necessidades que fazem parte do desenvolvimento da criança. Esse cuidado também integra o trabalho da equipe, contribuindo para um acompanhamento mais completo, seguro e alinhado em cada etapa do desenvolvimento. Abril Azul é um convite para ampliar o olhar e fortalecer o cuidado em cada fase da infância. 💙 #abrilazul #autismo #neurodesenvolvimento #clinicayoucan #itajai Clipe" [ref=e964] [cursor=pointer]':
+                  - /url: /clinicayoucan/reel/DWmiFwCCbmg/
+                  - 'img "No autismo, o acompanhamento pediátrico continua sendo essencial. É ele que permite acompanhar o crescimento, a alimentação, o sono, a saúde geral e outras necessidades que fazem parte do desenvolvimento da criança. Esse cuidado também integra o trabalho da equipe, contribuindo para um acompanhamento mais completo, seguro e alinhado em cada etapa do desenvolvimento. Abril Azul é um convite para ampliar o olhar e fortalecer o cuidado em cada fase da infância. 💙 #abrilazul #autismo #neurodesenvolvimento #clinicayoucan #itajai" [ref=e967]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - link "Photo shared by Dra Marcela Braz Pediatra on March 26, 2026 tagging @larissafps, @clinica.curumim, and @clinicayoucan. May be an image of child, ossobuco and text." [ref=e970] [cursor=pointer]:
+                  - /url: /dramarcela_pediatra/p/DWWpFJ9jcIr/
+                  - img "Photo shared by Dra Marcela Braz Pediatra on March 26, 2026 tagging @larissafps, @clinica.curumim, and @clinicayoucan. May be an image of child, ossobuco and text." [ref=e973]
+                - 'link "Muito se fala sobre o momento certo de tirar as fraldas, mas você sabe em quais circunstâncias devemos adiá-lo? Listamos algumas situações que merecem a sua atenção! Acompanhe o vídeo! #desfralde #urologistapediatrico Clipe" [ref=e976] [cursor=pointer]':
+                  - /url: /drmarcelobraz_uropediatria/reel/DWSCoHmEXhz/
+                  - 'img "Muito se fala sobre o momento certo de tirar as fraldas, mas você sabe em quais circunstâncias devemos adiá-lo? Listamos algumas situações que merecem a sua atenção! Acompanhe o vídeo! #desfralde #urologistapediatrico" [ref=e979]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+      - contentinfo [ref=e981]:
+        - generic [ref=e982]:
+          - generic [ref=e984]:
+            - link "Meta" [ref=e986] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e987]: Meta
+            - link "Sobre" [ref=e989] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e990]: Sobre
+            - link "Blog" [ref=e992] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e993]: Blog
+            - link "Carreiras" [ref=e995] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e996]: Carreiras
+            - link "Ajuda" [ref=e998] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e999]: Ajuda
+            - link "API" [ref=e1001] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e1002]: API
+            - link "Privacidade" [ref=e1004] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e1005]: Privacidade
+            - link "Termos" [ref=e1007] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e1008]: Termos
+            - link "Localizações" [ref=e1010] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e1011]: Localizações
+            - link "Instagram Lite" [ref=e1013] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e1014]: Instagram Lite
+            - link "Meta AI" [ref=e1016] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e1017]: Meta AI
+            - link "Threads" [ref=e1019] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e1020]: Threads
+            - link "Upload de contatos e não usuários" [ref=e1022] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e1023]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e1025] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e1026]: Meta Verified
+          - generic [ref=e1027]:
+            - generic [ref=e1028] [cursor=pointer]:
+              - generic [ref=e1029]:
+                - generic [ref=e1030]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e1033]
+              - combobox "Trocar idioma de exibição" [ref=e1035]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e1037]: © 2026 Instagram from Meta
+  - button "Mensagens Mensagens" [ref=e1039] [cursor=pointer]:
+    - generic [ref=e1041]:
+      - img "Mensagens" [ref=e1043]
+      - generic [ref=e1046]: Mensagens

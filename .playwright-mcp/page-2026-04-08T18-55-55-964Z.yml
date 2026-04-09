@@ -1,0 +1,102 @@
+- generic [ref=e2]:
+  - link "Pular para o conteúdo" [ref=e3] [cursor=pointer]:
+    - /url: "#main-content"
+  - banner [ref=e4]:
+    - navigation [ref=e5]:
+      - link "Dra. Milena Grossi Germiniani" [ref=e6] [cursor=pointer]:
+        - /url: "#"
+        - img "Monograma MG — Dra. Milena Grossi" [ref=e7]
+        - generic [ref=e10]: Dra. Milena
+      - generic [ref=e11]:
+        - link "Sobre" [ref=e12] [cursor=pointer]:
+          - /url: "#sobre"
+        - link "Tratamentos" [ref=e13] [cursor=pointer]:
+          - /url: "#tratamentos-hof"
+        - link "Resultados" [ref=e14] [cursor=pointer]:
+          - /url: "#resultados"
+        - link "Infantil" [ref=e15] [cursor=pointer]:
+          - /url: "#infantil"
+        - link "Localização" [ref=e16] [cursor=pointer]:
+          - /url: "#localizacao"
+        - link "Contato" [ref=e17] [cursor=pointer]:
+          - /url: "#contato"
+        - button "Trocar idioma" [ref=e18] [cursor=pointer]: EN
+        - link "Agende sua consulta" [ref=e19] [cursor=pointer]:
+          - /url: https://wa.me/5535997255631?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20consulta%20com%20a%20Dra.%20Milena.
+  - main [ref=e20]:
+    - generic [ref=e23]:
+      - generic [ref=e24]:
+        - img "Monograma MG — Dra. Milena Grossi" [ref=e26]
+        - paragraph [ref=e29]: CRO MG 26.171
+        - heading "A arte da naturalidade" [level=1] [ref=e30]:
+          - generic [ref=e31]: A
+          - generic [ref=e32]: arte
+          - generic [ref=e33]: da
+          - generic [ref=e34]: naturalidade
+        - paragraph [ref=e35]: Onde a ciência encontra a delicadeza — cada sorriso é uma obra de arte natural
+        - paragraph [ref=e36]: Harmonização Orofacial · Ortodontia · Invisalign
+        - link "Agende sua consulta" [ref=e38] [cursor=pointer]:
+          - /url: https://wa.me/5535997255631?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20consulta%20com%20a%20Dra.%20Milena.
+      - generic [ref=e39]:
+        - img "Dra. Milena Grossi Germiniani — campanha de cuidados com a pele" [ref=e41]
+        - generic [ref=e43]:
+          - paragraph [ref=e44]: Especialista
+          - paragraph [ref=e45]: HOF + Ortodontia
+    - heading "Quem cuida de você" [level=2] [ref=e52]:
+      - generic [ref=e53]: Quem
+      - generic [ref=e54]: cuida
+      - generic [ref=e55]: de
+      - generic [ref=e56]: você
+    - heading "A arte do natural" [level=2] [ref=e60]:
+      - generic [ref=e61]: A
+      - generic [ref=e62]: arte
+      - generic [ref=e63]: do
+      - generic [ref=e64]: natural
+    - generic [ref=e71]:
+      - heading "Ciência do sorriso" [level=2] [ref=e72]:
+        - generic [ref=e73]: Ciência
+        - generic [ref=e74]: do
+        - generic [ref=e75]: sorriso
+      - generic [ref=e76]:
+        - generic [ref=e77] [cursor=pointer]:
+          - img [ref=e79]
+          - heading "Ortodontia" [level=3] [ref=e82]
+        - generic [ref=e83] [cursor=pointer]:
+          - img [ref=e85]
+          - heading "Ortopedia Funcional dos Maxilares" [level=3] [ref=e88]
+        - generic [ref=e89] [cursor=pointer]:
+          - img [ref=e91]
+          - heading "Invisalign First" [level=3] [ref=e93]
+        - generic [ref=e94] [cursor=pointer]:
+          - img [ref=e96]
+          - heading "Clareamento Dental" [level=3] [ref=e102]
+        - generic [ref=e103] [cursor=pointer]:
+          - img [ref=e105]
+          - heading "Odontopediatria" [level=3] [ref=e107]
+        - generic [ref=e108] [cursor=pointer]:
+          - img [ref=e110]
+          - heading "Bruxismo e DTM" [level=3] [ref=e112]
+        - generic [ref=e113] [cursor=pointer]:
+          - img [ref=e115]
+          - heading "Megatriagem" [level=3] [ref=e118]
+    - heading "Sorrisos pequenos, cuidados grandes" [level=2] [ref=e122]:
+      - generic [ref=e123]: Sorrisos
+      - generic [ref=e124]: pequenos,
+      - generic [ref=e125]: cuidados
+      - generic [ref=e126]: grandes
+    - heading "Por que a Dra. Milena" [level=2] [ref=e130]:
+      - generic [ref=e131]: Por
+      - generic [ref=e132]: que
+      - generic [ref=e133]: a
+      - generic [ref=e134]: Dra.
+      - generic [ref=e135]: Milena
+    - heading "Encontre a Dra. Milena" [level=2] [ref=e139]:
+      - generic [ref=e140]: Encontre
+      - generic [ref=e141]: a
+      - generic [ref=e142]: Dra.
+      - generic [ref=e143]: Milena
+    - heading "Comece sua transformação" [level=2] [ref=e148]:
+      - generic [ref=e149]: Comece
+      - generic [ref=e150]: sua
+      - generic [ref=e151]: transformação
+  - contentinfo [ref=e152]

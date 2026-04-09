@@ -1,0 +1,145 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e146] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e151]
+        - link "Novo post" [ref=e86] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e91]
+        - link "Foto do perfil de _pipelinestudio" [ref=e97] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e102]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e103]
+      - generic [ref=e104]:
+        - link "Configurações" [ref=e107] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e112]
+        - link "Também da Meta" [ref=e115] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e120]
+    - main [ref=e124]:
+      - generic [active] [ref=e153]:
+        - generic [ref=e156]:
+          - generic [ref=e158]:
+            - img
+            - group "Video player" [ref=e165]:
+              - generic [ref=e166]:
+                - button "0 Vídeos do Reels de dra.rafaellalibano Vídeos do Reels de dra.rafaellalibano Localização Campo Belo - Minas Gerais Seguir :" [ref=e167] [cursor=pointer]:
+                  - slider "Ajustar volume" [ref=e168]:
+                    - button "O áudio está silenciado" [ref=e172]:
+                      - img "O áudio está silenciado" [ref=e173]
+                  - generic [ref=e178]:
+                    - generic [ref=e179]:
+                      - generic [ref=e181]:
+                        - link "Vídeos do Reels de dra.rafaellalibano" [ref=e182]:
+                          - /url: /dra.rafaellalibano/reels/
+                          - link "Foto do perfil de dra.rafaellalibano" [ref=e185]:
+                            - img "Foto do perfil de dra.rafaellalibano" [ref=e186]
+                        - generic [ref=e187]:
+                          - link "Vídeos do Reels de dra.rafaellalibano" [ref=e189]:
+                            - /url: /dra.rafaellalibano/reels/
+                            - generic [ref=e190]: dra.rafaellalibano
+                          - link "Localização Campo Belo - Minas Gerais" [ref=e196]:
+                            - /url: /explore/locations/219325094/
+                            - generic [ref=e197]:
+                              - img "Localização" [ref=e199]
+                              - generic [ref=e202]: Campo Belo - Minas Gerais
+                      - button "Seguir" [ref=e205]
+                    - button ":" [ref=e206]:
+                      - generic [ref=e208]:
+                        - generic [ref=e209]: ":"
+                        - generic [ref=e210]: … mais
+                - button "Pressionar para reproduzir" [ref=e212] [cursor=pointer]:
+                  - img "Ícone do botão Reproduzir" [ref=e214]
+          - generic [ref=e216]:
+            - generic [ref=e217] [cursor=pointer]:
+              - button "Curtir" [ref=e220]:
+                - img "Curtir" [ref=e223]
+              - button "174" [ref=e225]:
+                - generic [ref=e229]: "174"
+            - button "Comentar 10" [ref=e231] [cursor=pointer]:
+              - generic [ref=e232]:
+                - img "Comentar" [ref=e233]
+                - generic [ref=e238]: "10"
+            - button "Compartilhar" [ref=e240] [cursor=pointer]:
+              - img "Compartilhar" [ref=e241]
+            - button "Salvar" [ref=e246] [cursor=pointer]:
+              - button "Salvar" [ref=e247]:
+                - img "Salvar" [ref=e249]
+            - button "Mais" [ref=e252] [cursor=pointer]:
+              - img "Mais" [ref=e254]
+            - link "Imagem do áudio" [ref=e259] [cursor=pointer]:
+              - /url: /reels/audio/388021634252030/
+              - img "Imagem do áudio" [ref=e262]
+        - generic [ref=e266]:
+          - generic [ref=e268]:
+            - img
+            - group "Video player" [ref=e275]:
+              - generic [ref=e276]:
+                - button "0 Vídeos do Reels de andressaloiolalopes Vídeos do Reels de andressaloiolalopes Seguir Uma câmera de segurança registrou o momento em que um caixa eletrônico apresentou uma falha e passou a liberar cédulas de forma descontrolada enquanto um cliente realizava uma operação. As imagens mostram o homem tentando conter o fluxo inesperado de dinheiro, que rapidamente se espalhou pelo espaço antes que o equipamento fosse travado" [ref=e277] [cursor=pointer]:
+                  - slider "Ajustar volume" [ref=e278]:
+                    - button "O áudio está silenciado" [ref=e282]:
+                      - img "O áudio está silenciado" [ref=e283]
+                  - generic [ref=e288]:
+                    - generic [ref=e289]:
+                      - generic [ref=e291]:
+                        - link "Vídeos do Reels de andressaloiolalopes" [ref=e292]:
+                          - /url: /andressaloiolalopes/reels/
+                          - link "Foto do perfil de andressaloiolalopes" [ref=e295]:
+                            - img "Foto do perfil de andressaloiolalopes" [ref=e296]
+                        - link "Vídeos do Reels de andressaloiolalopes" [ref=e299]:
+                          - /url: /andressaloiolalopes/reels/
+                          - generic [ref=e300]: andressaloiolalopes
+                      - button "Seguir" [ref=e303]
+                    - button "Uma câmera de segurança registrou o momento em que um caixa eletrônico apresentou uma falha e passou a liberar cédulas de forma descontrolada enquanto um cliente realizava uma operação. As imagens mostram o homem tentando conter o fluxo inesperado de dinheiro, que rapidamente se espalhou pelo espaço antes que o equipamento fosse travado" [ref=e304]:
+                      - generic [ref=e306]:
+                        - generic [ref=e307]: Uma câmera de segurança registrou o momento em que um caixa eletrônico apresentou uma falha e passou a liberar cédulas de forma descontrolada enquanto um cliente realizava uma operação. As imagens mostram o homem tentando conter o fluxo inesperado de dinheiro, que rapidamente se espalhou pelo espaço antes que o equipamento fosse travado
+                        - generic [ref=e308]: … mais
+                - button "Pressionar para reproduzir" [ref=e310] [cursor=pointer]:
+                  - img "Ícone do botão Reproduzir" [ref=e312]
+          - generic [ref=e314]:
+            - generic [ref=e315] [cursor=pointer]:
+              - button "Curtir" [ref=e318]:
+                - img "Curtir" [ref=e321]
+              - button "5.794" [ref=e323]:
+                - generic [ref=e327]: "5.794"
+            - button "Comentar 158" [ref=e329] [cursor=pointer]:
+              - generic [ref=e330]:
+                - img "Comentar" [ref=e331]
+                - generic [ref=e336]: "158"
+            - button "Compartilhar" [ref=e338] [cursor=pointer]:
+              - img "Compartilhar" [ref=e339]
+            - button "Salvar" [ref=e344] [cursor=pointer]:
+              - button "Salvar" [ref=e345]:
+                - img "Salvar" [ref=e347]
+            - button "Mais" [ref=e350] [cursor=pointer]:
+              - img "Mais" [ref=e352]
+            - link "Imagem do áudio" [ref=e357] [cursor=pointer]:
+              - /url: /reels/audio/34869918709261802/
+              - img "Imagem do áudio" [ref=e360]
+      - toolbar "Reels navigation controls" [ref=e362]:
+        - button "Navegar para o reel anterior" [ref=e363] [cursor=pointer]:
+          - img [ref=e365]
+        - button "Navegar para o próximo reel" [ref=e367] [cursor=pointer]:
+          - img [ref=e369]
+  - button "Mensagens Mensagens" [ref=e372] [cursor=pointer]:
+    - generic [ref=e374]:
+      - img "Mensagens" [ref=e376]
+      - generic [ref=e379]: Mensagens

@@ -1,0 +1,272 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e88] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e93]
+        - link "Foto do perfil de _pipelinestudio" [ref=e99] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e104]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e105]
+      - generic [ref=e106]:
+        - link "Configurações" [ref=e109] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e114]
+        - link "Também da Meta" [ref=e117] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e122]
+    - generic [ref=e125]:
+      - main [ref=e126]:
+        - generic [ref=e127]:
+          - generic [ref=e129]:
+            - button [ref=e134]:
+              - generic [ref=e141]:
+                - list [ref=e143]:
+                  - listitem [ref=e144]
+                  - listitem [ref=e145]:
+                    - img [ref=e152]
+                  - listitem [ref=e154]:
+                    - img [ref=e161]
+                - button [ref=e163] [cursor=pointer]
+            - generic [ref=e166]:
+              - generic [ref=e168]:
+                - button "Foto do perfil de dra.patricia.ribeiro" [disabled] [ref=e173]:
+                  - link "Foto do perfil de dra.patricia.ribeiro" [disabled] [ref=e175] [cursor=pointer]:
+                    - img "Foto do perfil de dra.patricia.ribeiro" [ref=e176]
+                - generic [ref=e179]:
+                  - generic [ref=e180]:
+                    - link "dra.patricia.ribeiro" [ref=e188] [cursor=pointer]:
+                      - /url: /dra.patricia.ribeiro/
+                      - generic [ref=e191]: dra.patricia.ribeiro
+                    - link "Santa Rita do Sapucaí MG - A Nossa Cidade" [ref=e195] [cursor=pointer]:
+                      - /url: /explore/locations/288240192/santa-rita-do-sapucai-mg-a-nossa-cidade/
+                  - button "Seguir" [ref=e197] [cursor=pointer]
+                - button "Mais opções" [ref=e200] [cursor=pointer]:
+                  - img "Mais opções" [ref=e203]
+              - separator [ref=e207]
+              - generic [ref=e209]:
+                - generic [ref=e211]:
+                  - link "Foto do perfil de dra.patricia.ribeiro" [ref=e216] [cursor=pointer]:
+                    - /url: /dra.patricia.ribeiro/
+                    - img "Foto do perfil de dra.patricia.ribeiro" [ref=e217]
+                  - generic [ref=e221]:
+                    - generic [ref=e222]:
+                      - link "dra.patricia.ribeiro" [ref=e226] [cursor=pointer]:
+                        - /url: /dra.patricia.ribeiro/
+                        - generic [ref=e229]: dra.patricia.ribeiro
+                      - time [ref=e231]: 24 sem
+                    - generic [ref=e232]:
+                      - text: Uma restauração pode se tornar um tratamento de canal? 🤔
+                      - text: Sim! Todo procedimento da restauração, mesmo seguindo todo cuidado necessário, é um trauma para a polpa e ela pode responder a esse processo.
+                      - text: Ela tenta se proteger criando uma barreira de proteção, dentina reacional, no local com mais proximidade a essa restauração. Mas com o passar do tempo pode acontecer da polpa não suportar e iniciar uma morte celular.
+                      - text: Esse processo pode demorar a acontecer ou pode ser rapidamente. Pode apresentar sintomas e pode ser silencioso. Por isso fazer o acompanhamento radiográfico e clínico após restaurações profundas é sempre muito importante.🦷🙌🏻
+                      - link "#dente" [ref=e233] [cursor=pointer]:
+                        - /url: /explore/tags/dente/
+                      - link "#boca" [ref=e234] [cursor=pointer]:
+                        - /url: /explore/tags/boca/
+                      - link "#dor" [ref=e235] [cursor=pointer]:
+                        - /url: /explore/tags/dor/
+                      - link "#santaritadosapucaí" [ref=e236] [cursor=pointer]:
+                        - /url: /explore/tags/santaritadosapuca%C3%AD/
+                      - link "#consultorioodontologico" [ref=e237] [cursor=pointer]:
+                        - /url: /explore/tags/consultorioodontologico/
+                      - link "#srs" [ref=e238] [cursor=pointer]:
+                        - /url: /explore/tags/srs/
+                      - link "#restauração" [ref=e239] [cursor=pointer]:
+                        - /url: /explore/tags/restaura%C3%A7%C3%A3o/
+                      - link "#canal" [ref=e240] [cursor=pointer]:
+                        - /url: /explore/tags/canal/
+                      - link "#tratamentodecanal" [ref=e241] [cursor=pointer]:
+                        - /url: /explore/tags/tratamentodecanal/
+                - generic [ref=e244]:
+                  - heading "Ainda não há nenhum comentário." [level=2] [ref=e246]
+                  - generic [ref=e248]: Inicie a conversa.
+              - generic [ref=e249]:
+                - generic [ref=e250]:
+                  - generic [ref=e251]:
+                    - button "Curtir" [ref=e254] [cursor=pointer]:
+                      - img "Curtir" [ref=e257]
+                    - button "5" [ref=e259] [cursor=pointer]
+                    - button "Comentar" [ref=e261] [cursor=pointer]:
+                      - img "Comentar" [ref=e263]
+                    - button "Compartilhar" [ref=e265] [cursor=pointer]:
+                      - img "Compartilhar" [ref=e266]
+                  - button "Salvar" [ref=e271] [cursor=pointer]:
+                    - button "Salvar" [ref=e272]:
+                      - img "Salvar" [ref=e274]
+                - link "17 de outubro de 2025" [ref=e278] [cursor=pointer]:
+                  - /url: /dra.patricia.ribeiro/p/DP6jMh3jb1x/
+                  - time [ref=e280]: 17 de outubro de 2025
+              - generic [ref=e283]:
+                - link [ref=e284]
+                - generic [ref=e286]:
+                  - button "Emoji" [ref=e288] [cursor=pointer]:
+                    - img "Emoji" [ref=e290]
+                  - textbox "Adicione um comentário..." [ref=e292]
+          - separator [ref=e294]
+          - generic [ref=e295]:
+            - generic [ref=e297]:
+              - text: Mais posts de
+              - link "dra.patricia.ribeiro" [ref=e298] [cursor=pointer]:
+                - /url: /dra.patricia.ribeiro/
+            - generic [ref=e301]:
+              - generic [ref=e302]:
+                - link "Canal tira a raiz do dente? Assiste essa animação que te mostro a verdade! Canal é um procedimento de desinfecção e limpeza mecânica dos canais das raízes do dente. No fim do tratamento temos paciente sem dor, com o dente em boca e a saúde restabelecida. Clipe" [ref=e304] [cursor=pointer]:
+                  - /url: /dra.patricia.ribeiro/reel/CvpaF1Zghxq/
+                  - img "Canal tira a raiz do dente? Assiste essa animação que te mostro a verdade! Canal é um procedimento de desinfecção e limpeza mecânica dos canais das raízes do dente. No fim do tratamento temos paciente sem dor, com o dente em boca e a saúde restabelecida." [ref=e307]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - link "Photo shared by Canal especializado | Santa Rita on August 02, 2023 tagging @clinica.vitality." [ref=e310] [cursor=pointer]:
+                  - /url: /dra.patricia.ribeiro/p/CvckusKuOTB/
+                  - img "Photo shared by Canal especializado | Santa Rita on August 02, 2023 tagging @clinica.vitality." [ref=e313]
+                - link "Photo by Canal especializado | Santa Rita on January 01, 2026." [ref=e316] [cursor=pointer]:
+                  - /url: /dra.patricia.ribeiro/p/DS-KmPkEZaA/
+                  - img "Photo by Canal especializado | Santa Rita on January 01, 2026." [ref=e319]
+              - generic [ref=e321]:
+                - link "Photo by Canal especializado | Santa Rita on December 25, 2025." [ref=e323] [cursor=pointer]:
+                  - /url: /dra.patricia.ribeiro/p/DSr9KJ0jcOp/
+                  - img "Photo by Canal especializado | Santa Rita on December 25, 2025." [ref=e326]
+                - link "Paciente com dor, fístula e uma certeza, NÃO QUERIA EXTRAIR O DENTE SISO! 👏🏻 Todo mundo acha que siso = extração, mas nem sempre é esse é o caminho. Se o dente estiver em função e estiver sendo possível higienizá-lo, o tratamento de canal é a solução para eliminar o foco infeccioso. Nesse caso fizemos em 3 sessões por conta da limitação de abertura do paciente (é uma canseira trabalhar nessa região 😅, mas vale a pena). Optei por obturar com cimento biocerâmico InRoot da @cimmobioceramicos sem gutapercha. Paciente sem sintomatologia dolorosa, sem infecção e com seu dente em boca! A Odontologia que acredito é a de salvar dentes! 👏🏻🦷🙏🏻✨️ Carrossel" [ref=e329] [cursor=pointer]:
+                  - /url: /dra.patricia.ribeiro/p/DRKCTVkjBSz/
+                  - img "Paciente com dor, fístula e uma certeza, NÃO QUERIA EXTRAIR O DENTE SISO! 👏🏻 Todo mundo acha que siso = extração, mas nem sempre é esse é o caminho. Se o dente estiver em função e estiver sendo possível higienizá-lo, o tratamento de canal é a solução para eliminar o foco infeccioso. Nesse caso fizemos em 3 sessões por conta da limitação de abertura do paciente (é uma canseira trabalhar nessa região 😅, mas vale a pena). Optei por obturar com cimento biocerâmico InRoot da @cimmobioceramicos sem gutapercha. Paciente sem sintomatologia dolorosa, sem infecção e com seu dente em boca! A Odontologia que acredito é a de salvar dentes! 👏🏻🦷🙏🏻✨️" [ref=e332]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - link "Quando se tem como missão ser instrumento de cura, você, automaticamente, precisa estar disposto a evoluir sempre! 🙏🏻🤍🦷 Tive a honra de participar do curso ministrado pela dentista russa Olga Zemliakova, referência mundial para os endodontistas. O curso abordava as técnicas mais atualizadas para remoção segura e previsível de instrumentos fraturados. Fui a única profissional do Sul de Minas Gerais a estar presente nesse evento, estando ao lado de colegas do Brasil todo. Foi um dia de grande aprendizado e de muito networking valioso. 🤍🙏🏻✨️ Deus tem me honrado todos os dias com sua graça e devo a Ele gratidão pelo sustento e por ter me dado esse sonho de fazer a diferença na vida dos meus pacientes! 🙏🏻🙏🏻🦷🦷 Carrossel" [ref=e335] [cursor=pointer]:
+                  - /url: /dra.patricia.ribeiro/p/DRCT3GVDL-B/
+                  - img "Quando se tem como missão ser instrumento de cura, você, automaticamente, precisa estar disposto a evoluir sempre! 🙏🏻🤍🦷 Tive a honra de participar do curso ministrado pela dentista russa Olga Zemliakova, referência mundial para os endodontistas. O curso abordava as técnicas mais atualizadas para remoção segura e previsível de instrumentos fraturados. Fui a única profissional do Sul de Minas Gerais a estar presente nesse evento, estando ao lado de colegas do Brasil todo. Foi um dia de grande aprendizado e de muito networking valioso. 🤍🙏🏻✨️ Deus tem me honrado todos os dias com sua graça e devo a Ele gratidão pelo sustento e por ter me dado esse sonho de fazer a diferença na vida dos meus pacientes! 🙏🏻🙏🏻🦷🦷" [ref=e338]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+      - contentinfo [ref=e340]:
+        - generic [ref=e341]:
+          - generic [ref=e343]:
+            - link "Meta" [ref=e345] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e346]: Meta
+            - link "Sobre" [ref=e348] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e349]: Sobre
+            - link "Blog" [ref=e351] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e352]: Blog
+            - link "Carreiras" [ref=e354] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e355]: Carreiras
+            - link "Ajuda" [ref=e357] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e358]: Ajuda
+            - link "API" [ref=e360] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e361]: API
+            - link "Privacidade" [ref=e363] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e364]: Privacidade
+            - link "Termos" [ref=e366] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e367]: Termos
+            - link "Localizações" [ref=e369] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e370]: Localizações
+            - link "Instagram Lite" [ref=e372] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e373]: Instagram Lite
+            - link "Meta AI" [ref=e375] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e376]: Meta AI
+            - link "Threads" [ref=e378] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e379]: Threads
+            - link "Upload de contatos e não usuários" [ref=e381] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e382]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e384] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e385]: Meta Verified
+          - generic [ref=e386]:
+            - generic [ref=e387] [cursor=pointer]:
+              - generic [ref=e388]:
+                - generic [ref=e389]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e392]
+              - combobox "Trocar idioma de exibição" [ref=e394]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e396]: © 2026 Instagram from Meta
+  - button "Mensagens Mensagens" [ref=e398] [cursor=pointer]:
+    - generic [ref=e400]:
+      - img "Mensagens" [ref=e402]
+      - generic [ref=e405]: Mensagens

@@ -1,0 +1,150 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e86] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e91]
+        - link "Foto do perfil de _pipelinestudio" [ref=e97] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e102]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e103]
+      - generic [ref=e104]:
+        - link "Configurações" [ref=e107] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e112]
+        - link "Também da Meta" [ref=e115] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e120]
+    - main [ref=e124]:
+      - generic [active] [ref=e125]:
+        - generic [ref=e128]:
+          - generic [ref=e130]:
+            - img
+            - group "Video player" [ref=e137]:
+              - generic [ref=e138]:
+                - 'button "0 Vídeos do Reels de adv_polianaandrade Vídeos do Reels de adv_polianaandrade Imagem do áudio Relŭm · Dreamland Relŭm · Dreamland Seguir Uma dúvida muito comum entre casais em crise é: “Se eu sair de casa antes do divórcio, perco meus direitos?”" [ref=e139] [cursor=pointer]':
+                  - slider "Ajustar volume" [ref=e140]:
+                    - button "O áudio está silenciado" [ref=e144]:
+                      - img "O áudio está silenciado" [ref=e145]
+                  - generic [ref=e150]:
+                    - generic [ref=e151]:
+                      - generic [ref=e153]:
+                        - link "Vídeos do Reels de adv_polianaandrade" [ref=e154]:
+                          - /url: /adv_polianaandrade/reels/
+                          - link "Foto do perfil de adv_polianaandrade" [ref=e157]:
+                            - img "Foto do perfil de adv_polianaandrade" [ref=e158]
+                        - generic [ref=e159]:
+                          - link "Vídeos do Reels de adv_polianaandrade" [ref=e161]:
+                            - /url: /adv_polianaandrade/reels/
+                            - generic [ref=e162]: adv_polianaandrade
+                          - link "Imagem do áudio Relŭm · Dreamland Relŭm · Dreamland" [ref=e167]:
+                            - /url: /reels/audio/667530242680217/
+                            - generic [ref=e168]:
+                              - img "Imagem do áudio" [ref=e170]
+                              - generic [ref=e172]:
+                                - generic [ref=e175]: Relŭm · Dreamland
+                                - generic [ref=e179]: Relŭm · Dreamland
+                      - button "Seguir" [ref=e183]
+                    - 'button "Uma dúvida muito comum entre casais em crise é: “Se eu sair de casa antes do divórcio, perco meus direitos?”" [ref=e184]':
+                      - generic [ref=e186]:
+                        - generic [ref=e187]: "Uma dúvida muito comum entre casais em crise é: “Se eu sair de casa antes do divórcio, perco meus direitos?”"
+                        - generic [ref=e188]: … mais
+                - button "Pressionar para reproduzir" [ref=e190] [cursor=pointer]:
+                  - img "Ícone do botão Reproduzir" [ref=e192]
+          - generic [ref=e194]:
+            - generic [ref=e195] [cursor=pointer]:
+              - button "Curtir" [ref=e198]:
+                - img "Curtir" [ref=e201]
+              - button "21" [ref=e203]:
+                - generic [ref=e207]: "21"
+            - button "Comentar 1" [ref=e209] [cursor=pointer]:
+              - generic [ref=e210]:
+                - img "Comentar" [ref=e211]
+                - generic [ref=e216]: "1"
+            - button "Compartilhar" [ref=e218] [cursor=pointer]:
+              - img "Compartilhar" [ref=e219]
+            - button "Salvar" [ref=e224] [cursor=pointer]:
+              - button "Salvar" [ref=e225]:
+                - img "Salvar" [ref=e227]
+            - button "Mais" [ref=e230] [cursor=pointer]:
+              - img "Mais" [ref=e232]
+            - link "Imagem do áudio" [ref=e237] [cursor=pointer]:
+              - /url: /reels/audio/667530242680217/
+              - img "Imagem do áudio" [ref=e240]
+        - generic [ref=e244]:
+          - generic [ref=e246]:
+            - img
+            - group "Video player" [ref=e253]:
+              - generic [ref=e254]:
+                - 'button "0 Vídeos do Reels de zurix__zu Vídeos do Reels de zurix__zu Seguir #🇯🇵Japan is turning footsteps into electricity! Using piezoelectric tiles, every step you take generates a small amount of energy. Millions of steps together can power LED lights and displays in busy places like Shibuya Station." [ref=e255] [cursor=pointer]':
+                  - slider "Ajustar volume" [ref=e256]:
+                    - button "O áudio está silenciado" [ref=e260]:
+                      - img "O áudio está silenciado" [ref=e261]
+                  - generic [ref=e266]:
+                    - generic [ref=e267]:
+                      - generic [ref=e269]:
+                        - link "Vídeos do Reels de zurix__zu" [ref=e270]:
+                          - /url: /zurix__zu/reels/
+                          - link "Foto do perfil de zurix__zu" [ref=e273]:
+                            - img "Foto do perfil de zurix__zu" [ref=e274]
+                        - link "Vídeos do Reels de zurix__zu" [ref=e277]:
+                          - /url: /zurix__zu/reels/
+                          - generic [ref=e278]: zurix__zu
+                      - button "Seguir" [ref=e281]
+                    - button "#🇯🇵Japan is turning footsteps into electricity! Using piezoelectric tiles, every step you take generates a small amount of energy. Millions of steps together can power LED lights and displays in busy places like Shibuya Station." [ref=e282]:
+                      - generic [ref=e284]:
+                        - generic [ref=e285]:
+                          - link "#🇯🇵Japan" [ref=e286]:
+                            - /url: /explore/tags/%F0%9F%87%AF%F0%9F%87%B5japan/
+                          - text: is turning footsteps into electricity! Using piezoelectric tiles, every step you take generates a small amount of energy. Millions of steps together can power LED lights and displays in busy places like Shibuya Station.
+                        - generic [ref=e287]: … mais
+                - button "Pressionar para reproduzir" [ref=e289] [cursor=pointer]:
+                  - img "Ícone do botão Reproduzir" [ref=e291]
+          - generic [ref=e293]:
+            - generic [ref=e294] [cursor=pointer]:
+              - button "Curtir" [ref=e297]:
+                - img "Curtir" [ref=e300]
+              - button "Curtidas" [ref=e302]:
+                - generic [ref=e306]: Curtidas
+            - button "Comentar 417" [ref=e308] [cursor=pointer]:
+              - generic [ref=e309]:
+                - img "Comentar" [ref=e310]
+                - generic [ref=e315]: "417"
+            - button "Compartilhar" [ref=e317] [cursor=pointer]:
+              - img "Compartilhar" [ref=e318]
+            - button "Salvar" [ref=e323] [cursor=pointer]:
+              - button "Salvar" [ref=e324]:
+                - img "Salvar" [ref=e326]
+            - button "Mais" [ref=e329] [cursor=pointer]:
+              - img "Mais" [ref=e331]
+            - link "Imagem do áudio" [ref=e336] [cursor=pointer]:
+              - /url: /reels/audio/26386879504268806/
+              - img "Imagem do áudio" [ref=e339]
+      - toolbar "Reels navigation controls" [ref=e341]:
+        - button "Navegar para o reel anterior" [ref=e342] [cursor=pointer]:
+          - img [ref=e344]
+        - button "Navegar para o próximo reel" [ref=e346] [cursor=pointer]:
+          - img [ref=e348]
+  - button "Mensagens Mensagens" [ref=e351] [cursor=pointer]:
+    - generic [ref=e353]:
+      - img "Mensagens" [ref=e355]
+      - generic [ref=e358]: Mensagens

@@ -1,0 +1,325 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Ir para o conteúdo principal" [ref=e2] [cursor=pointer]
+      - link "Desativar a rolagem contínua" [ref=e3] [cursor=pointer]:
+        - /url: "#"
+      - link "Ajuda sobre acessibilidade" [ref=e4] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=pt-BR
+      - link "Feedback de acessibilidade" [ref=e5] [cursor=pointer]
+  - generic [ref=e10]:
+    - search [ref=e11]:
+      - generic [ref=e13]:
+        - link "Ir para a página inicial do Google" [ref=e15] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=pt-BR&sa=X&ved=0ahUKEwib9qbkkN6TAxWor5UCHTW7GOAQPAgK
+          - img [ref=e16]
+        - generic [ref=e18]:
+          - generic [ref=e19]:
+            - combobox "Pesquisar" [ref=e22]: aymmeoliver site:instagram.com aymmeoliver site:instagram.com
+            - generic [ref=e23]:
+              - button "Limpar" [ref=e25] [cursor=pointer]:
+                - img [ref=e27]
+              - generic [ref=e30]:
+                - button "Ferramentas de inserção de texto" [ref=e31] [cursor=pointer]:
+                  - img [ref=e33]
+                - button "Pesquisar por voz" [ref=e35] [cursor=pointer]:
+                  - img [ref=e36]
+                - button "Pesquisa por imagem" [ref=e38] [cursor=pointer]:
+                  - img [ref=e39]
+          - button "Pesquisar" [ref=e41] [cursor=pointer]:
+            - img [ref=e44]
+    - generic [ref=e46]:
+      - button "Configurações" [ref=e48] [cursor=pointer]:
+        - img [ref=e51]
+      - generic [ref=e54]:
+        - button "Google Apps" [ref=e56] [cursor=pointer]:
+          - img [ref=e57]
+        - link "Fazer login" [ref=e61] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=pt-BR&passive=true&continue=https://www.google.com/search%3Fq%3Daymmeoliver%2Bsite:instagram.com%26udm%3D2&ec=futura_srp_og_si_72236_p
+  - generic [ref=e63]:
+    - navigation [ref=e68]:
+      - generic [ref=e69]:
+        - list [ref=e70]:
+          - listitem [ref=e71]:
+            - link "Modo IA" [ref=e74] [cursor=pointer]:
+              - /url: /search?q=aymmeoliver+site:instagram.com&sca_esv=869c6e12a1f785e8&udm=50&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB056b93wKmVeAAORa3GINFZT67RHmD8tBnhEcNAi-9cSkyUOnfW1dj70A8r-7Qd4s_sdVzBjEPQTM-e7jn02dSpjVryr0orHEWWj2G7_A1WYF-QAL3O5XftuUj2SmGsvMkxlybL3b8JS55HgIkHIZDdD-Wew6CYA0bUKlqzvCs99HSZDLjx54BidxQ4GJHdBCXpuahoWM&aep=1&ntc=1&sa=X&ved=2ahUKEwib9qbkkN6TAxWor5UCHTW7GOAQ2J8OegQIChAD
+              - generic [ref=e77]: Modo IA
+          - listitem [ref=e78]:
+            - link "Tudo" [ref=e79] [cursor=pointer]:
+              - /url: /search?sca_esv=869c6e12a1f785e8&q=aymmeoliver+site:instagram.com&source=lnms&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB056b93wKmVeAAORa3GINFZT67RHmD8tBnhEcNAi-9cSkyUOnfW1dj70A8r-7Qd4s_sdVzBjEPQTM-e7jn02dSpjVryr0orHEWWj2G7_A1WYF-QAL3O5XftuUj2SmGsvMkxlybL3b8JS55HgIkHIZDdD-Wew6CYA0bUKlqzvCs99HSZDLjx54BidxQ4GJHdBCXpuahoWM&sa=X&ved=2ahUKEwib9qbkkN6TAxWor5UCHTW7GOAQ0pQJegQIDRAB
+              - generic [ref=e81]: Tudo
+          - listitem [ref=e82]:
+            - link "Imagens" [disabled] [ref=e83]:
+              - generic [ref=e85]: Imagens
+          - listitem [ref=e86]:
+            - link "Shopping" [ref=e87] [cursor=pointer]:
+              - /url: /search?sca_esv=869c6e12a1f785e8&udm=28&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB056b93wKmVeAAORa3GINFZT67RHmD8tBnhEcNAi-9cSkyUOnfW1dj70A8r-7Qd4s_sdVzBjEPQTM-e7jn02dSpjVryr0orHEWWj2G7_A1WYF-QAL3O5XftuUj2SmGsvMkxlybL3b8JS55HgIkHIZDdD-Wew6CYA0bUKlqzvCs99HSZDLjx54BidxQ4GJHdBCXpuahoWM&q=aymmeoliver+site:instagram.com&ved=1t:220175&ictx=111
+              - generic [ref=e89]: Shopping
+          - listitem [ref=e90]:
+            - link "Vídeos" [ref=e91] [cursor=pointer]:
+              - /url: /search?sca_esv=869c6e12a1f785e8&udm=7&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB056b93wKmVeAAORa3GINFZT67RHmD8tBnhEcNAi-9cSkyUOnfW1dj70A8r-7Qd4s_sdVzBjEPQTM-e7jn02dSpjVryr0orHEWWj2G7_A1WYF-QAL3O5XftuUj2SmGsvMkxlybL3b8JS55HgIkHIZDdD-Wew6CYA0bUKlqzvCs99HSZDLjx54BidxQ4GJHdBCXpuahoWM&q=aymmeoliver+site:instagram.com&sa=X&ved=2ahUKEwib9qbkkN6TAxWor5UCHTW7GOAQtKgLegQIDBAB
+              - generic [ref=e93]: Vídeos
+          - listitem [ref=e94]:
+            - link "Maps" [ref=e95] [cursor=pointer]:
+              - /url: https://maps.google.com/maps?sca_esv=869c6e12a1f785e8&output=search&q=aymmeoliver+site:instagram.com&source=lnms&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB056b93wKmVeAAORa3GINFZT67RHmD8tBnhEcNAi-9cSkyUOnfW1dj70A8r-7Qd4s_sdVzBjEPQTM-e7jn02dSpjVryr0orHEWWj2G7_A1WYF-QAL3O5XftuUj2SmGsvMkxlybL3b8JS55HgIkHIZDdD-Wew6CYA0bUKlqzvCs99HSZDLjx54BidxQ4GJHdBCXpuahoWM&entry=mc&ved=1t:200715&ictx=111
+              - generic [ref=e97]: Maps
+          - listitem [ref=e98]:
+            - link "Notícias" [ref=e99] [cursor=pointer]:
+              - /url: /search?sca_esv=869c6e12a1f785e8&q=aymmeoliver+site:instagram.com&tbm=nws&source=lnms&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB056b93wKmVeAAORa3GINFZT67RHmD8tBnhEcNAi-9cSkyUOnfW1dj70A8r-7Qd4s_sdVzBjEPQTM-e7jn02dSpjVryr0orHEWWj2G7_A1WYF-QAL3O5XftuUj2SmGsvMkxlybL3b8JS55HgIkHIZDdD-Wew6CYA0bUKlqzvCs99HSZDLjx54BidxQ4GJHdBCXpuahoWM&sa=X&ved=2ahUKEwib9qbkkN6TAxWor5UCHTW7GOAQ0pQJegQIDxAB
+              - generic [ref=e101]: Notícias
+          - listitem [ref=e102]:
+            - button "Mais filtros" [ref=e103] [cursor=pointer]:
+              - generic "Mais filtros" [ref=e104]:
+                - generic [ref=e105]:
+                  - generic [ref=e106]: Mais
+                  - img [ref=e108]
+        - button "Ferramentas" [ref=e111] [cursor=pointer]:
+          - generic [ref=e113]:
+            - generic [ref=e114]: Ferramentas
+            - img [ref=e116]
+    - heading "Resultados da pesquisa" [level=1] [ref=e118]
+    - main [ref=e120]:
+      - generic [ref=e129]:
+        - generic [ref=e130] [cursor=pointer]:
+          - heading "Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos" [level=3] [ref=e132]:
+            - button "Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos" [ref=e134]:
+              - img "Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos" [ref=e137]
+          - link "Instagram Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos" [ref=e139]:
+            - /url: https://www.instagram.com/aymmeoliver/
+            - generic [ref=e144]: Instagram
+            - generic [ref=e146]: Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos
+        - generic [ref=e147] [cursor=pointer]:
+          - heading "Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024" [level=3] [ref=e149]:
+            - button "Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024" [ref=e151]:
+              - img "Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024" [ref=e154]
+          - link "Instagram Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024" [ref=e156]:
+            - /url: https://www.instagram.com/p/C-kl-8igpnB/
+            - generic [ref=e161]: Instagram
+            - generic [ref=e163]: Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024
+        - generic [ref=e164] [cursor=pointer]:
+          - heading "Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025" [level=3] [ref=e166]:
+            - button "Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025" [ref=e168]:
+              - img "Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025" [ref=e171]
+          - link "Instagram Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025" [ref=e173]:
+            - /url: https://www.instagram.com/p/DKFp3Hnpl4K/
+            - generic [ref=e178]: Instagram
+            - generic [ref=e180]: Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025
+        - generic [ref=e181] [cursor=pointer]:
+          - heading "Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025" [level=3] [ref=e183]:
+            - button "Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025" [ref=e185]:
+              - img "Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025" [ref=e188]
+          - link "Instagram Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025" [ref=e190]:
+            - /url: https://www.instagram.com/p/DKFp3Hnpl4K/
+            - generic [ref=e195]: Instagram
+            - generic [ref=e197]: Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025
+        - generic [ref=e198] [cursor=pointer]:
+          - heading "Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024" [level=3] [ref=e200]:
+            - button "Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024" [ref=e202]:
+              - img "Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024" [ref=e205]
+          - link "Instagram Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024" [ref=e207]:
+            - /url: https://www.instagram.com/p/C-kl-8igpnB/
+            - generic [ref=e212]: Instagram
+            - generic [ref=e214]: Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024
+        - generic [ref=e215] [cursor=pointer]:
+          - heading "Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024" [level=3] [ref=e217]:
+            - button "Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024" [ref=e219]:
+              - img "Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024" [ref=e222]
+          - link "Instagram Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024" [ref=e224]:
+            - /url: https://www.instagram.com/p/C-kl-8igpnB/
+            - generic [ref=e229]: Instagram
+            - generic [ref=e231]: Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024
+        - generic [ref=e232] [cursor=pointer]:
+          - heading "Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025" [level=3] [ref=e234]:
+            - button "Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025" [ref=e236]:
+              - img "Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025" [ref=e239]
+          - link "Instagram Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025" [ref=e241]:
+            - /url: https://www.instagram.com/p/DKFp3Hnpl4K/
+            - generic [ref=e246]: Instagram
+            - generic [ref=e248]: Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025
+        - generic [ref=e249] [cursor=pointer]:
+          - heading "Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025" [level=3] [ref=e251]:
+            - button "Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025" [ref=e253]:
+              - img "Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025" [ref=e256]
+          - link "Instagram Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025" [ref=e258]:
+            - /url: https://www.instagram.com/p/DKFp3Hnpl4K/
+            - generic [ref=e263]: Instagram
+            - generic [ref=e265]: Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025
+        - generic [ref=e266] [cursor=pointer]:
+          - heading "Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024" [level=3] [ref=e268]:
+            - button "Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024" [ref=e270]:
+              - img "Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024" [ref=e273]
+          - link "Instagram Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024" [ref=e275]:
+            - /url: https://www.instagram.com/p/C-kl-8igpnB/
+            - generic [ref=e280]: Instagram
+            - generic [ref=e282]: Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024
+        - generic [ref=e283] [cursor=pointer]:
+          - heading "Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025" [level=3] [ref=e285]:
+            - button "Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025" [ref=e287]:
+              - img "Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025" [ref=e290]
+          - link "Instagram Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025" [ref=e292]:
+            - /url: https://www.instagram.com/p/DKFp3Hnpl4K/
+            - generic [ref=e297]: Instagram
+            - generic [ref=e299]: Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025
+        - generic [ref=e300] [cursor=pointer]:
+          - generic [ref=e301]:
+            - heading "Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025" [level=3] [ref=e302]:
+              - button "Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025" [ref=e304]:
+                - img "Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025" [ref=e307]
+            - generic:
+              - generic:
+                - generic:
+                  - img
+          - link "Instagram Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025" [ref=e309]:
+            - /url: https://www.instagram.com/p/DKFp3Hnpl4K/
+            - generic [ref=e314]: Instagram
+            - generic [ref=e316]: Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025
+        - generic [ref=e317] [cursor=pointer]:
+          - heading "Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos" [level=3] [ref=e319]:
+            - button "Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos" [ref=e321]:
+              - img "Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos" [ref=e324]
+          - link "Instagram Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos" [ref=e326]:
+            - /url: https://www.instagram.com/aymmeoliver/
+            - generic [ref=e331]: Instagram
+            - generic [ref=e333]: Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos
+        - generic [ref=e334] [cursor=pointer]:
+          - heading "Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024" [level=3] [ref=e336]:
+            - button "Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024" [ref=e338]:
+              - img "Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024" [ref=e341]
+          - link "Instagram Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024" [ref=e343]:
+            - /url: https://www.instagram.com/p/C-kl-8igpnB/
+            - generic [ref=e348]: Instagram
+            - generic [ref=e350]: Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024
+        - generic [ref=e351] [cursor=pointer]:
+          - heading "Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024" [level=3] [ref=e353]:
+            - button "Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024" [ref=e355]:
+              - img "Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024" [ref=e358]
+          - link "Instagram Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024" [ref=e360]:
+            - /url: https://www.instagram.com/p/C-kl-8igpnB/
+            - generic [ref=e365]: Instagram
+            - generic [ref=e367]: Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024
+        - generic [ref=e368] [cursor=pointer]:
+          - heading "Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025" [level=3] [ref=e370]:
+            - button "Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025" [ref=e372]:
+              - img "Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025" [ref=e375]
+          - link "Instagram Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025" [ref=e377]:
+            - /url: https://www.instagram.com/p/DKFp3Hnpl4K/
+            - generic [ref=e382]: Instagram
+            - generic [ref=e384]: Photos by Aymme Oliver | Advogada (@aymmeoliver) · May 25, 2025
+        - generic [ref=e385] [cursor=pointer]:
+          - generic [ref=e386]:
+            - heading "Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos" [level=3] [ref=e387]:
+              - button "Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos" [ref=e389]:
+                - img "Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos" [ref=e392]
+            - generic:
+              - generic:
+                - generic:
+                  - img
+          - link "Instagram Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos" [ref=e394]:
+            - /url: https://www.instagram.com/aymmeoliver/
+            - generic [ref=e399]: Instagram
+            - generic [ref=e401]: Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos
+        - generic [ref=e402] [cursor=pointer]:
+          - generic [ref=e403]:
+            - heading "Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024" [level=3] [ref=e404]:
+              - button "Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024" [ref=e406]:
+                - img "Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024" [ref=e409]
+            - generic:
+              - generic:
+                - generic:
+                  - img
+          - link "Instagram Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024" [ref=e411]:
+            - /url: https://www.instagram.com/p/C-kl-8igpnB/
+            - generic [ref=e416]: Instagram
+            - generic [ref=e418]: Photos by Aymme Oliver | Advogada (@aymmeoliver) · August 12, 2024
+        - generic [ref=e419] [cursor=pointer]:
+          - heading "Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos" [level=3] [ref=e421]:
+            - button "Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos" [ref=e423]:
+              - img "Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos" [ref=e426]
+          - link "Instagram Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos" [ref=e428]:
+            - /url: https://www.instagram.com/aymmeoliver/
+            - generic [ref=e433]: Instagram
+            - generic [ref=e435]: Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos
+        - generic [ref=e436] [cursor=pointer]:
+          - heading "Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos" [level=3] [ref=e438]:
+            - button "Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos" [ref=e440]:
+              - img "Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos" [ref=e443]
+          - link "Instagram Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos" [ref=e445]:
+            - /url: https://www.instagram.com/aymmeoliver/
+            - generic [ref=e450]: Instagram
+            - generic [ref=e452]: Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos
+        - generic [ref=e453] [cursor=pointer]:
+          - heading "Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos" [level=3] [ref=e455]:
+            - button "Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos" [ref=e457]:
+              - img "Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos" [ref=e460]
+          - link "Instagram Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos" [ref=e462]:
+            - /url: https://www.instagram.com/aymmeoliver/
+            - generic [ref=e467]: Instagram
+            - generic [ref=e469]: Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos
+        - generic [ref=e470] [cursor=pointer]:
+          - heading "Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos" [level=3] [ref=e472]:
+            - button "Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos" [ref=e474]:
+              - img "Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos" [ref=e477]
+          - link "Instagram Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos" [ref=e479]:
+            - /url: https://www.instagram.com/aymmeoliver/
+            - generic [ref=e484]: Instagram
+            - generic [ref=e486]: Aymme Oliver | Advogada (@aymmeoliver) • Instagram photos and videos
+        - generic [ref=e487] [cursor=pointer]:
+          - heading "📢 DEPRESSÃO TAMBÉM É DOENÇA! E DEMITIR POR ISSO É DISCRIMINAÇÃO. ⠀ Uma vendedora foi demitida por um frigorífico menos de dois meses após retornar de licença médica por transtorno depressivo. A" [level=3] [ref=e489]:
+            - button "📢 DEPRESSÃO TAMBÉM É DOENÇA! E DEMITIR POR ISSO É DISCRIMINAÇÃO. ⠀ Uma vendedora foi demitida por um frigorífico menos de dois meses após retornar de licença médica por transtorno depressivo. A" [ref=e491]:
+              - img "📢 DEPRESSÃO TAMBÉM É DOENÇA! E DEMITIR POR ISSO É DISCRIMINAÇÃO. ⠀ Uma vendedora foi demitida por um frigorífico menos de dois meses após retornar de licença médica por transtorno depressivo. A" [ref=e494]
+          - link "Instagram 📢 DEPRESSÃO TAMBÉM É DOENÇA! E DEMITIR POR ISSO É DISCRIMINAÇÃO. ⠀ Uma vendedora foi demitida por um frigorífico menos de dois meses após retornar de licença médica por transtorno depressivo. A" [ref=e496]:
+            - /url: https://www.instagram.com/p/DKwndhqOiHw/
+            - generic [ref=e501]: Instagram
+            - generic [ref=e503]: 📢 DEPRESSÃO TAMBÉM É DOENÇA! E DEMITIR POR ISSO É DISCRIMINAÇÃO. ⠀ Uma vendedora foi demitida por um frigorífico menos de dois meses após retornar de licença médica por transtorno depressivo. A
+        - generic [ref=e504] [cursor=pointer]:
+          - 'heading "Duvido vocês acertaram o que chegou aqui! 🫵🫵🫵😨 Que venha o próximo devedor! Kkkkkkkk (brincadeira pessoal) #viral #fyp #katana #espada #reels" [level=3] [ref=e506]':
+            - 'button "Duvido vocês acertaram o que chegou aqui! 🫵🫵🫵😨 Que venha o próximo devedor! Kkkkkkkk (brincadeira pessoal) #viral #fyp #katana #espada #reels" [ref=e508]':
+              - 'img "Duvido vocês acertaram o que chegou aqui! 🫵🫵🫵😨 Que venha o próximo devedor! Kkkkkkkk (brincadeira pessoal) #viral #fyp #katana #espada #reels" [ref=e511]'
+          - 'link "Instagram Duvido vocês acertaram o que chegou aqui! 🫵🫵🫵😨 Que venha o próximo devedor! Kkkkkkkk (brincadeira pessoal) #viral #fyp #katana #espada #reels" [ref=e513]':
+            - /url: https://www.instagram.com/p/DUtsmU6kiX6/
+            - generic [ref=e518]: Instagram
+            - generic [ref=e520]: "Duvido vocês acertaram o que chegou aqui! 🫵🫵🫵😨 Que venha o próximo devedor! Kkkkkkkk (brincadeira pessoal) #viral #fyp #katana #espada #reels"
+        - generic [ref=e521] [cursor=pointer]:
+          - 'heading "Duvido vocês acertaram o que chegou aqui! 🫵🫵🫵😨 Que venha o próximo devedor! Kkkkkkkk (brincadeira pessoal) #viral #fyp #katana #espada #reels" [level=3] [ref=e523]':
+            - 'button "Duvido vocês acertaram o que chegou aqui! 🫵🫵🫵😨 Que venha o próximo devedor! Kkkkkkkk (brincadeira pessoal) #viral #fyp #katana #espada #reels" [ref=e525]':
+              - 'img "Duvido vocês acertaram o que chegou aqui! 🫵🫵🫵😨 Que venha o próximo devedor! Kkkkkkkk (brincadeira pessoal) #viral #fyp #katana #espada #reels" [ref=e528]'
+          - 'link "Instagram Duvido vocês acertaram o que chegou aqui! 🫵🫵🫵😨 Que venha o próximo devedor! Kkkkkkkk (brincadeira pessoal) #viral #fyp #katana #espada #reels" [ref=e530]':
+            - /url: https://www.instagram.com/p/DUtsmU6kiX6/
+            - generic [ref=e535]: Instagram
+            - generic [ref=e537]: "Duvido vocês acertaram o que chegou aqui! 🫵🫵🫵😨 Que venha o próximo devedor! Kkkkkkkk (brincadeira pessoal) #viral #fyp #katana #espada #reels"
+        - generic [ref=e538] [cursor=pointer]:
+          - generic [ref=e539]:
+            - 'heading "Duvido vocês acertaram o que chegou aqui! 🫵🫵🫵😨 Que venha o próximo devedor! Kkkkkkkk (brincadeira pessoal) #viral #fyp #katana #espada #reels" [level=3] [ref=e540]':
+              - 'button "Duvido vocês acertaram o que chegou aqui! 🫵🫵🫵😨 Que venha o próximo devedor! Kkkkkkkk (brincadeira pessoal) #viral #fyp #katana #espada #reels" [ref=e542]':
+                - 'img "Duvido vocês acertaram o que chegou aqui! 🫵🫵🫵😨 Que venha o próximo devedor! Kkkkkkkk (brincadeira pessoal) #viral #fyp #katana #espada #reels" [ref=e545]'
+            - generic:
+              - generic:
+                - generic:
+                  - img
+          - 'link "Instagram Duvido vocês acertaram o que chegou aqui! 🫵🫵🫵😨 Que venha o próximo devedor! Kkkkkkkk (brincadeira pessoal) #viral #fyp #katana #espada #reels" [ref=e547]':
+            - /url: https://www.instagram.com/p/DUtsmU6kiX6/
+            - generic [ref=e552]: Instagram
+            - generic [ref=e554]: "Duvido vocês acertaram o que chegou aqui! 🫵🫵🫵😨 Que venha o próximo devedor! Kkkkkkkk (brincadeira pessoal) #viral #fyp #katana #espada #reels"
+      - navigation
+    - contentinfo [ref=e555]:
+      - heading "Links do rodapé" [level=1] [ref=e556]
+      - generic [ref=e559]:
+        - generic [ref=e561]:
+          - text: Brasil
+          - generic [ref=e563]:
+            - button "88062 - Lagoa da Conceição, Florianópolis - SC - Com base na sua atividade anterior" [ref=e565] [cursor=pointer]:
+              - generic [ref=e566]: 88062 - Lagoa da Conceição, Florianópolis - SC
+              - generic [ref=e568]:
+                - text: "-"
+                - generic [ref=e569]: Com base na sua atividade anterior
+            - text: "-"
+            - button "Atualizar local" [ref=e571] [cursor=pointer]: Atualizar local
+        - generic [ref=e574]:
+          - link "Ajuda" [ref=e575] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=pt-BR&fg=1
+          - link "Enviar feedback" [ref=e576] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacidade" [ref=e577] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=pt-BR&fg=1
+          - link "Termos" [ref=e578] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=pt-BR&fg=1

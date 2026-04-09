@@ -1,0 +1,304 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e86] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e91]
+        - link "Foto do perfil de _pipelinestudio" [ref=e97] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e102]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e103]
+      - generic [ref=e104]:
+        - link "Configurações" [ref=e107] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e112]
+        - link "Também da Meta" [ref=e115] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e120]
+    - generic [ref=e123]:
+      - main [ref=e124]:
+        - generic [ref=e126]:
+          - generic [ref=e127]:
+            - generic [ref=e128]:
+              - button "Foto do perfil de dramilenagrossigerminiani" [ref=e133] [cursor=pointer]:
+                - link "Foto do perfil de dramilenagrossigerminiani" [ref=e135]:
+                  - img "Foto do perfil de dramilenagrossigerminiani" [ref=e136]
+              - generic [ref=e137]:
+                - generic [ref=e138]:
+                  - generic [ref=e139]:
+                    - link "dramilenagrossigerminiani" [ref=e141] [cursor=pointer]:
+                      - /url: "#"
+                      - heading "dramilenagrossigerminiani" [level=2] [ref=e142]:
+                        - generic [ref=e143]: dramilenagrossigerminiani
+                    - button "Opções" [ref=e145] [cursor=pointer]:
+                      - img "Opções" [ref=e147]
+                  - generic [ref=e152]: Dra. Milena Grossi Germiniani
+                  - generic [ref=e153]:
+                    - generic [ref=e155]:
+                      - generic [ref=e156]: "56"
+                      - text: posts
+                    - link "2.873 seguidores" [ref=e158] [cursor=pointer]:
+                      - /url: /dramilenagrossigerminiani/followers/
+                      - generic [ref=e159]:
+                        - generic "2.873" [ref=e160]
+                        - text: seguidores
+                    - link "3.962 seguindo" [ref=e162] [cursor=pointer]:
+                      - /url: /dramilenagrossigerminiani/following/
+                      - generic [ref=e163]:
+                        - generic [ref=e164]: "3.962"
+                        - text: seguindo
+                - generic [ref=e166]:
+                  - generic [ref=e167]:
+                    - 'button "CRO: MG 26.171 Cirurgiã-dentista | Especialista em Harmonização Orofacial | Especialista em Ortodontia/Ortopedia |" [ref=e168] [cursor=pointer]':
+                      - generic [ref=e169]:
+                        - text: "CRO: MG 26.171"
+                        - text: Cirurgiã-dentista | Especialista em Harmonização Orofacial | Especialista em Ortodontia/Ortopedia |
+                    - generic [ref=e170]:
+                      - text: ...
+                      - button "mais" [ref=e171] [cursor=pointer]:
+                        - generic [ref=e172]: mais
+                  - heading "Rua Prefeito José Serra, 228, Ouro Fino 37570000" [level=1] [ref=e173]
+                  - generic [ref=e175]:
+                    - img "Ícone de link" [ref=e177]
+                    - link "wa.me/5535997255631" [ref=e181] [cursor=pointer]:
+                      - /url: https://l.instagram.com/?u=http%3A%2F%2Fwa.me%2F5535997255631%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnd1i7YqM4mb0eH-ryPHeiP2TPs5qDsFgPRjK2Kuv5ChX7RGclP2VNulc2zDg_aem_8pXivZw_JSN880xpZs4lBQ&e=AT5waIn0fAavnd2VZs2unybaOtEqriku20bifYR_4HskD9c2RO1UuNwL1WJWvIlZ5n2mBWq4VjbJrBNZCZ2oSKoQB48EZQ7L-YxKorlrQYv2D7_yQX7VfLmjYQ
+                      - generic [ref=e182]: wa.me/5535997255631
+            - generic [ref=e187]:
+              - button "Seguir" [ref=e189] [cursor=pointer]:
+                - generic [ref=e191]: Seguir
+              - button "Enviar mensagem" [ref=e193] [cursor=pointer]
+              - button "Contas semelhantes" [ref=e195] [cursor=pointer]:
+                - img "Contas semelhantes" [ref=e197]
+            - menu [ref=e201]:
+              - generic [ref=e203]:
+                - list [ref=e205]:
+                  - listitem [ref=e206]
+                  - listitem [ref=e207]
+                  - listitem [ref=e208]:
+                    - link "Ver destaque de HIPRO" [ref=e211] [cursor=pointer]:
+                      - /url: /stories/highlights/18082377065015911/
+                      - button "Foto do story no destaque de dramilenagrossigerminiani HIPRO" [ref=e212]:
+                        - button "Foto do story no destaque de dramilenagrossigerminiani" [ref=e213]:
+                          - img "Foto do story no destaque de dramilenagrossigerminiani" [ref=e216]
+                        - generic [ref=e219]: HIPRO
+                  - listitem [ref=e220]:
+                    - link "Ver destaque de Ortopedia" [ref=e223] [cursor=pointer]:
+                      - /url: /stories/highlights/18548647882025675/
+                      - button "Foto do story no destaque de dramilenagrossigerminiani Ortopedia" [ref=e224]:
+                        - button "Foto do story no destaque de dramilenagrossigerminiani" [ref=e225]:
+                          - img "Foto do story no destaque de dramilenagrossigerminiani" [ref=e228]
+                        - generic [ref=e231]: Ortopedia
+                  - listitem [ref=e232]:
+                    - link "Ver destaque de Toxina B." [ref=e235] [cursor=pointer]:
+                      - /url: /stories/highlights/18062350255238522/
+                      - button "Foto do story no destaque de dramilenagrossigerminiani Toxina B." [ref=e236]:
+                        - button "Foto do story no destaque de dramilenagrossigerminiani" [ref=e237]:
+                          - img "Foto do story no destaque de dramilenagrossigerminiani" [ref=e240]
+                        - generic [ref=e243]: Toxina B.
+                  - listitem [ref=e244]:
+                    - link "Ver destaque de IOA - SP" [ref=e247] [cursor=pointer]:
+                      - /url: /stories/highlights/17973965650835447/
+                      - button "Foto do story no destaque de dramilenagrossigerminiani IOA - SP" [ref=e248]:
+                        - button "Foto do story no destaque de dramilenagrossigerminiani" [ref=e249]:
+                          - img "Foto do story no destaque de dramilenagrossigerminiani" [ref=e252]
+                        - generic [ref=e255]: IOA - SP
+                  - listitem [ref=e256]:
+                    - link "Ver destaque de Invisalign" [ref=e259] [cursor=pointer]:
+                      - /url: /stories/highlights/18065989697390351/
+                      - button "Foto do story no destaque de dramilenagrossigerminiani Invisalign" [ref=e260]:
+                        - button "Foto do story no destaque de dramilenagrossigerminiani" [ref=e261]:
+                          - img "Foto do story no destaque de dramilenagrossigerminiani" [ref=e264]
+                        - generic [ref=e267]: Invisalign
+                  - listitem [ref=e268]:
+                    - link "Ver destaque de Protocoll" [ref=e271] [cursor=pointer]:
+                      - /url: /stories/highlights/18058972445272498/
+                      - button "Foto do story no destaque de dramilenagrossigerminiani Protocoll" [ref=e272]:
+                        - button "Foto do story no destaque de dramilenagrossigerminiani" [ref=e273]:
+                          - img "Foto do story no destaque de dramilenagrossigerminiani" [ref=e276]
+                        - generic [ref=e279]: Protocoll
+                  - listitem [ref=e280]:
+                    - link "Ver destaque de Lábios" [ref=e283] [cursor=pointer]:
+                      - /url: /stories/highlights/17847364448235735/
+                      - button "Foto do story no destaque de dramilenagrossigerminiani Lábios" [ref=e284]:
+                        - button "Foto do story no destaque de dramilenagrossigerminiani" [ref=e285]:
+                          - img "Foto do story no destaque de dramilenagrossigerminiani" [ref=e288]
+                        - generic [ref=e291]: Lábios
+                  - listitem [ref=e292]:
+                    - link "Ver destaque de Odontopediatria" [ref=e295] [cursor=pointer]:
+                      - /url: /stories/highlights/17896906222580386/
+                      - button "Foto do story no destaque de dramilenagrossigerminiani Odontopediatria" [ref=e296]:
+                        - button "Foto do story no destaque de dramilenagrossigerminiani" [ref=e297]:
+                          - img "Foto do story no destaque de dramilenagrossigerminiani" [ref=e300]
+                        - generic [ref=e303]: Odontopediatria
+                  - listitem [ref=e304]:
+                    - link "Ver destaque de Fada do 🦷" [ref=e307] [cursor=pointer]:
+                      - /url: /stories/highlights/18118639639555692/
+                      - button "Foto do story no destaque de dramilenagrossigerminiani Fada do 🦷" [ref=e308]:
+                        - button "Foto do story no destaque de dramilenagrossigerminiani" [ref=e309]:
+                          - img "Foto do story no destaque de dramilenagrossigerminiani" [ref=e312]
+                        - generic [ref=e315]: Fada do 🦷
+                  - listitem [ref=e316]:
+                    - link "Ver destaque de Cirurgia HOF" [ref=e319] [cursor=pointer]:
+                      - /url: /stories/highlights/17961225371251147/
+                      - button "Foto do story no destaque de dramilenagrossigerminiani Cirurgia HOF" [ref=e320]:
+                        - button "Foto do story no destaque de dramilenagrossigerminiani" [ref=e321]:
+                          - img "Foto do story no destaque de dramilenagrossigerminiani" [ref=e324]
+                        - generic [ref=e327]: Cirurgia HOF
+                  - listitem [ref=e328]:
+                    - link "Ver destaque de Clareamento" [ref=e331] [cursor=pointer]:
+                      - /url: /stories/highlights/17877531949730920/
+                      - button "Foto do story no destaque de dramilenagrossigerminiani Clareamento" [ref=e332]:
+                        - button "Foto do story no destaque de dramilenagrossigerminiani" [ref=e333]:
+                          - img "Foto do story no destaque de dramilenagrossigerminiani" [ref=e336]
+                        - generic [ref=e339]: Clareamento
+                  - listitem [ref=e340]:
+                    - link "Ver destaque de Instituto T.S" [ref=e343] [cursor=pointer]:
+                      - /url: /stories/highlights/18037469341282521/
+                      - button "Foto do story no destaque de dramilenagrossigerminiani Instituto T.S" [ref=e344]:
+                        - button "Foto do story no destaque de dramilenagrossigerminiani" [ref=e345]:
+                          - img "Foto do story no destaque de dramilenagrossigerminiani" [ref=e348]
+                        - generic [ref=e351]: Instituto T.S
+                - button "Avançar" [ref=e352] [cursor=pointer]
+          - generic [ref=e354]:
+            - tablist [ref=e355]:
+              - link "Posts" [ref=e357] [cursor=pointer]:
+                - /url: /dramilenagrossigerminiani/
+                - img "Posts" [ref=e359]
+              - link "Reels" [ref=e370] [cursor=pointer]:
+                - /url: /dramilenagrossigerminiani/reels/
+                - img "Reels" [ref=e372]
+              - link "Marcados" [ref=e375] [cursor=pointer]:
+                - /url: /dramilenagrossigerminiani/tagged/
+                - img "Marcados" [ref=e377]
+            - tabpanel
+          - progressbar [ref=e381]:
+            - img "Carregando..." [ref=e382]
+      - contentinfo [ref=e395]:
+        - generic [ref=e396]:
+          - generic [ref=e398]:
+            - link "Meta" [ref=e400] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e401]: Meta
+            - link "Sobre" [ref=e403] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e404]: Sobre
+            - link "Blog" [ref=e406] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e407]: Blog
+            - link "Carreiras" [ref=e409] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e410]: Carreiras
+            - link "Ajuda" [ref=e412] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e413]: Ajuda
+            - link "API" [ref=e415] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e416]: API
+            - link "Privacidade" [ref=e418] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e419]: Privacidade
+            - link "Termos" [ref=e421] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e422]: Termos
+            - link "Localizações" [ref=e424] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e425]: Localizações
+            - link "Instagram Lite" [ref=e427] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e428]: Instagram Lite
+            - link "Meta AI" [ref=e430] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e431]: Meta AI
+            - link "Threads" [ref=e433] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e434]: Threads
+            - link "Upload de contatos e não usuários" [ref=e436] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e437]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e439] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e440]: Meta Verified
+          - generic [ref=e441]:
+            - generic [ref=e442] [cursor=pointer]:
+              - generic [ref=e443]:
+                - generic [ref=e444]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e447]
+              - combobox "Trocar idioma de exibição" [ref=e449]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e451]: © 2026 Instagram from Meta
+  - button "Mensagens" [ref=e454] [cursor=pointer]:
+    - generic "Mensagens" [ref=e455]:
+      - generic [ref=e456]:
+        - img "Mensagens" [ref=e459]
+        - generic [ref=e462]: Mensagens

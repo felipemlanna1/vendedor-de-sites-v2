@@ -1,0 +1,256 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e88] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e93]
+        - link "Foto do perfil de _pipelinestudio" [ref=e99] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e104]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e105]
+      - generic [ref=e106]:
+        - link "Configurações" [ref=e109] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e114]
+        - link "Também da Meta" [ref=e117] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e122]
+    - generic [ref=e125]:
+      - main [ref=e126]:
+        - generic [ref=e128]:
+          - generic [ref=e129]:
+            - generic [ref=e130]:
+              - link "Foto do perfil de dra.patricia.ribeiro" [ref=e136] [cursor=pointer]:
+                - /url: /dra.patricia.ribeiro/
+                - img "Foto do perfil de dra.patricia.ribeiro" [ref=e137]
+              - generic [ref=e138]:
+                - generic [ref=e139]:
+                  - generic [ref=e140]:
+                    - link "dra.patricia.ribeiro" [ref=e142] [cursor=pointer]:
+                      - /url: "#"
+                      - heading "dra.patricia.ribeiro" [level=2] [ref=e143]:
+                        - generic [ref=e144]: dra.patricia.ribeiro
+                    - button "Opções" [ref=e146] [cursor=pointer]:
+                      - img "Opções" [ref=e148]
+                  - generic [ref=e153]: Canal especializado | Santa Rita
+                  - generic [ref=e154]:
+                    - generic [ref=e156]:
+                      - generic [ref=e157]: "253"
+                      - text: posts
+                    - link "1.624 seguidores" [ref=e159] [cursor=pointer]:
+                      - /url: /dra.patricia.ribeiro/followers/
+                      - generic [ref=e160]:
+                        - generic "1.624" [ref=e161]
+                        - text: seguidores
+                    - link "189 seguindo" [ref=e163] [cursor=pointer]:
+                      - /url: /dra.patricia.ribeiro/following/
+                      - generic [ref=e164]:
+                        - generic [ref=e165]: "189"
+                        - text: seguindo
+                - generic [ref=e167]:
+                  - button "Trato sua dor e devolvo saúde. 🦷 + 1mil pacientes sem dor CRO56979 Agende 🔻" [ref=e169] [cursor=pointer]:
+                    - generic [ref=e170]:
+                      - text: Trato sua dor e devolvo saúde. 🦷
+                      - text: + 1mil pacientes sem dor
+                      - text: CRO56979
+                      - text: Agende 🔻
+                  - heading "Rua Cel Gabriel Capistrano 172, Centro, Santa Rita do Sapucaí 37540000" [level=1] [ref=e171]
+                  - generic [ref=e173]:
+                    - img "Ícone de link" [ref=e175]
+                    - link "wa.me/message/4ZC6A7WWFMNSD1" [ref=e179] [cursor=pointer]:
+                      - /url: https://l.instagram.com/?u=https%3A%2F%2Fwa.me%2Fmessage%2F4ZC6A7WWFMNSD1%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnA8q0nvxTLQc0Omw0xKRY0EN_QaOHR6JZQuGWUn_4ciNeRmJgWfSN74QKqGs_aem_7VYzoHHyjQDh87_U_qZMjw&e=AT4HbbgsQm3CBfW5t-D3lwpr_eCYCYETaOLNo-Lr7eyl40BKlCYge0PMw2_jkZMjelpdK93ikkBMxrxj_NktUWyLwMAynPNdQEOPUbkVTLHyOd0RSeyLl9dzLA
+                      - generic [ref=e180]: wa.me/message/4ZC6A7WWFMNSD1
+            - generic [ref=e185]:
+              - button "Seguir" [ref=e187] [cursor=pointer]:
+                - generic [ref=e189]: Seguir
+              - button "Enviar mensagem" [ref=e191] [cursor=pointer]
+              - button "Contas semelhantes" [ref=e193] [cursor=pointer]:
+                - img "Contas semelhantes" [ref=e195]
+            - menu [ref=e199]:
+              - list [ref=e203]:
+                - listitem [ref=e204]
+                - listitem [ref=e205]
+                - listitem [ref=e206]:
+                  - link "Ver destaque de Curso Olga" [ref=e209] [cursor=pointer]:
+                    - /url: /stories/highlights/18244432501291735/
+                    - button "Foto do story no destaque de dra.patricia.ribeiro Curso Olga" [ref=e210]:
+                      - button "Foto do story no destaque de dra.patricia.ribeiro" [ref=e211]:
+                        - img "Foto do story no destaque de dra.patricia.ribeiro" [ref=e214]
+                      - generic [ref=e217]: Curso Olga
+                - listitem [ref=e218]:
+                  - link "Ver destaque de Canal" [ref=e221] [cursor=pointer]:
+                    - /url: /stories/highlights/17859603833479524/
+                    - button "Foto do story no destaque de dra.patricia.ribeiro Canal" [ref=e222]:
+                      - button "Foto do story no destaque de dra.patricia.ribeiro" [ref=e223]:
+                        - img "Foto do story no destaque de dra.patricia.ribeiro" [ref=e226]
+                      - generic [ref=e229]: Canal
+                - listitem [ref=e230]:
+                  - link "Ver destaque de Feedback" [ref=e233] [cursor=pointer]:
+                    - /url: /stories/highlights/17910425869637976/
+                    - button "Foto do story no destaque de dra.patricia.ribeiro Feedback" [ref=e234]:
+                      - button "Foto do story no destaque de dra.patricia.ribeiro" [ref=e235]:
+                        - img "Foto do story no destaque de dra.patricia.ribeiro" [ref=e238]
+                      - generic [ref=e241]: Feedback
+                - listitem [ref=e242]:
+                  - link "Ver destaque de Sobre mim" [ref=e245] [cursor=pointer]:
+                    - /url: /stories/highlights/18010185115724354/
+                    - button "Foto do story no destaque de dra.patricia.ribeiro Sobre mim" [ref=e246]:
+                      - button "Foto do story no destaque de dra.patricia.ribeiro" [ref=e247]:
+                        - img "Foto do story no destaque de dra.patricia.ribeiro" [ref=e250]
+                      - generic [ref=e253]: Sobre mim
+                - listitem [ref=e254]:
+                  - link "Ver destaque de Urgências" [ref=e257] [cursor=pointer]:
+                    - /url: /stories/highlights/17920530325645630/
+                    - button "Foto do story no destaque de dra.patricia.ribeiro Urgências" [ref=e258]:
+                      - button "Foto do story no destaque de dra.patricia.ribeiro" [ref=e259]:
+                        - img "Foto do story no destaque de dra.patricia.ribeiro" [ref=e262]
+                      - generic [ref=e265]: Urgências
+                - listitem [ref=e266]:
+                  - link "Ver destaque de Trauma" [ref=e269] [cursor=pointer]:
+                    - /url: /stories/highlights/17859244670458597/
+                    - button "Foto do story no destaque de dra.patricia.ribeiro Trauma" [ref=e270]:
+                      - button "Foto do story no destaque de dra.patricia.ribeiro" [ref=e271]:
+                        - img "Foto do story no destaque de dra.patricia.ribeiro" [ref=e274]
+                      - generic [ref=e277]: Trauma
+          - generic [ref=e278]:
+            - tablist [ref=e279]:
+              - link "Posts" [ref=e281] [cursor=pointer]:
+                - /url: /dra.patricia.ribeiro/
+                - img "Posts" [ref=e283]
+              - link "Reels" [ref=e294] [cursor=pointer]:
+                - /url: /dra.patricia.ribeiro/reels/
+                - img "Reels" [ref=e296]
+              - link "Marcados" [ref=e299] [cursor=pointer]:
+                - /url: /dra.patricia.ribeiro/tagged/
+                - img "Marcados" [ref=e301]
+            - tabpanel
+          - progressbar [ref=e305]:
+            - img "Carregando..." [ref=e306]
+      - contentinfo [ref=e319]:
+        - generic [ref=e320]:
+          - generic [ref=e322]:
+            - link "Meta" [ref=e324] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e325]: Meta
+            - link "Sobre" [ref=e327] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e328]: Sobre
+            - link "Blog" [ref=e330] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e331]: Blog
+            - link "Carreiras" [ref=e333] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e334]: Carreiras
+            - link "Ajuda" [ref=e336] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e337]: Ajuda
+            - link "API" [ref=e339] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e340]: API
+            - link "Privacidade" [ref=e342] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e343]: Privacidade
+            - link "Termos" [ref=e345] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e346]: Termos
+            - link "Localizações" [ref=e348] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e349]: Localizações
+            - link "Instagram Lite" [ref=e351] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e352]: Instagram Lite
+            - link "Meta AI" [ref=e354] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e355]: Meta AI
+            - link "Threads" [ref=e357] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e358]: Threads
+            - link "Upload de contatos e não usuários" [ref=e360] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e361]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e363] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e364]: Meta Verified
+          - generic [ref=e365]:
+            - generic [ref=e366] [cursor=pointer]:
+              - generic [ref=e367]:
+                - generic [ref=e368]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e371]
+              - combobox "Trocar idioma de exibição" [ref=e373]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e375]: © 2026 Instagram from Meta
+  - button "Mensagens Mensagens" [ref=e377] [cursor=pointer]:
+    - generic [ref=e379]:
+      - img "Mensagens" [ref=e381]
+      - generic [ref=e384]: Mensagens

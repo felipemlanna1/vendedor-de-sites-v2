@@ -1,0 +1,125 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Ir para o conteúdo principal" [ref=e2] [cursor=pointer]
+      - link "Ajuda sobre acessibilidade" [ref=e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=pt-BR
+      - link "Feedback de acessibilidade" [ref=e4] [cursor=pointer]
+  - generic [ref=e9]:
+    - search [ref=e10]:
+      - generic [ref=e12]:
+        - link "Ir para a página inicial do Google" [ref=e14] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=pt-BR&sa=X&ved=0ahUKEwjEucD3kN6TAxV8ppUCHcvVMzAQPAgJ
+          - img [ref=e15]
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - combobox "Pesquisar" [ref=e26]: site:instagram.com/adv_polianaandrade "instagram.com/p" site:instagram.com/adv_polianaandrade "instagram.com/p"
+            - generic [ref=e27]:
+              - button "Limpar" [ref=e29] [cursor=pointer]:
+                - img [ref=e31]
+              - generic [ref=e34]:
+                - button "Ferramentas de inserção de texto" [ref=e35] [cursor=pointer]:
+                  - img [ref=e37]
+                - button "Pesquisar por voz" [ref=e39] [cursor=pointer]:
+                  - img [ref=e40]
+                - button "Pesquisa por imagem" [ref=e42] [cursor=pointer]:
+                  - img [ref=e43]
+          - button "Pesquisar" [ref=e45] [cursor=pointer]:
+            - img [ref=e48]
+    - generic [ref=e50]:
+      - button "Configurações" [ref=e52] [cursor=pointer]:
+        - img [ref=e55]
+      - generic [ref=e58]:
+        - button "Google Apps" [ref=e60] [cursor=pointer]:
+          - img [ref=e61]
+        - link "Fazer login" [ref=e65] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=pt-BR&passive=true&continue=https://www.google.com/search%3Fq%3Dsite:instagram.com/adv_polianaandrade%2B%2522instagram.com/p%2522&ec=futura_srp_og_si_72236_p
+  - generic [ref=e67]:
+    - navigation [ref=e73]:
+      - generic [ref=e77]:
+        - list [ref=e78]:
+          - listitem [ref=e79]:
+            - link "Modo IA" [ref=e82] [cursor=pointer]:
+              - /url: /search?q=site:instagram.com/adv_polianaandrade+instagram.com/p&sca_esv=869c6e12a1f785e8&udm=50&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB054Dys3s2x_Qm_GJcU2DlSXgtwykOhjc8tZDD70ApjQy2F_7G9F-2oFDI3kA5ZHm8DQQbGM2TuxnoKbI6rCqq--rDtZepdm2-KgFGZk0HXy7oz3qGo9qLnSGp1ISpdMtTvN_60tAy8trX2220pFnXQBmdEXAHuZ4Oo6j9dsW2vEm01ayOdg&aep=1&ntc=1&sa=X&ved=2ahUKEwjEucD3kN6TAxV8ppUCHcvVMzAQ2J8OegQIERAE
+              - generic [ref=e85]: Modo IA
+          - listitem [ref=e86]:
+            - link "Tudo" [disabled] [ref=e87]:
+              - generic [ref=e89]: Tudo
+          - listitem [ref=e90]:
+            - link "Imagens" [ref=e91] [cursor=pointer]:
+              - /url: /search?sca_esv=869c6e12a1f785e8&udm=2&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB054Dys3s2x_Qm_GJcU2DlSXgtwykOhjc8tZDD70ApjQy2F_7G9F-2oFDI3kA5ZHm8DQQbGM2TuxnoKbI6rCqq--rDtZepdm2-KgFGZk0HXy7oz3qGo9qLnSGp1ISpdMtTvN_60tAy8trX2220pFnXQBmdEXAHuZ4Oo6j9dsW2vEm01ayOdg&q=site:instagram.com/adv_polianaandrade+instagram.com/p&sa=X&ved=2ahUKEwjEucD3kN6TAxV8ppUCHcvVMzAQtKgLegQIFBAB
+              - generic [ref=e93]: Imagens
+          - listitem [ref=e94]:
+            - link "Vídeos" [ref=e95] [cursor=pointer]:
+              - /url: /search?sca_esv=869c6e12a1f785e8&udm=7&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB054Dys3s2x_Qm_GJcU2DlSXgtwykOhjc8tZDD70ApjQy2F_7G9F-2oFDI3kA5ZHm8DQQbGM2TuxnoKbI6rCqq--rDtZepdm2-KgFGZk0HXy7oz3qGo9qLnSGp1ISpdMtTvN_60tAy8trX2220pFnXQBmdEXAHuZ4Oo6j9dsW2vEm01ayOdg&q=site:instagram.com/adv_polianaandrade+instagram.com/p&sa=X&ved=2ahUKEwjEucD3kN6TAxV8ppUCHcvVMzAQtKgLegQIFhAB
+              - generic [ref=e97]: Vídeos
+          - listitem [ref=e98]:
+            - link "Shopping" [ref=e99] [cursor=pointer]:
+              - /url: /search?sca_esv=869c6e12a1f785e8&udm=28&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB054Dys3s2x_Qm_GJcU2DlSXgtwykOhjc8tZDD70ApjQy2F_7G9F-2oFDI3kA5ZHm8DQQbGM2TuxnoKbI6rCqq--rDtZepdm2-KgFGZk0HXy7oz3qGo9qLnSGp1ISpdMtTvN_60tAy8trX2220pFnXQBmdEXAHuZ4Oo6j9dsW2vEm01ayOdg&q=site:instagram.com/adv_polianaandrade+instagram.com/p&ved=1t:220175&ictx=111
+              - generic [ref=e101]: Shopping
+          - listitem [ref=e102]:
+            - link "Notícias" [ref=e103] [cursor=pointer]:
+              - /url: /search?sca_esv=869c6e12a1f785e8&q=site:instagram.com/adv_polianaandrade+instagram.com/p&tbm=nws&source=lnms&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB054Dys3s2x_Qm_GJcU2DlSXgtwykOhjc8tZDD70ApjQy2F_7G9F-2oFDI3kA5ZHm8DQQbGM2TuxnoKbI6rCqq--rDtZepdm2-KgFGZk0HXy7oz3qGo9qLnSGp1ISpdMtTvN_60tAy8trX2220pFnXQBmdEXAHuZ4Oo6j9dsW2vEm01ayOdg&sa=X&ved=2ahUKEwjEucD3kN6TAxV8ppUCHcvVMzAQ0pQJegQIExAB
+              - generic [ref=e105]: Notícias
+          - listitem [ref=e106]:
+            - link "Vídeos curtos" [ref=e107] [cursor=pointer]:
+              - /url: /search?sca_esv=869c6e12a1f785e8&udm=39&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB054Dys3s2x_Qm_GJcU2DlSXgtwykOhjc8tZDD70ApjQy2F_7G9F-2oFDI3kA5ZHm8DQQbGM2TuxnoKbI6rCqq--rDtZepdm2-KgFGZk0HXy7oz3qGo9qLnSGp1ISpdMtTvN_60tAy8trX2220pFnXQBmdEXAHuZ4Oo6j9dsW2vEm01ayOdg&q=site:instagram.com/adv_polianaandrade+instagram.com/p&sa=X&ved=2ahUKEwjEucD3kN6TAxV8ppUCHcvVMzAQs6gLegQIFxAB
+              - generic [ref=e109]: Vídeos curtos
+          - listitem [ref=e110]:
+            - button "Mais filtros" [ref=e111] [cursor=pointer]:
+              - generic "Mais filtros" [ref=e112]:
+                - generic [ref=e113]:
+                  - generic [ref=e114]: Mais
+                  - img [ref=e116]
+        - button "Ferramentas" [ref=e119] [cursor=pointer]:
+          - generic [ref=e121]:
+            - generic [ref=e122]: Ferramentas
+            - img [ref=e124]
+    - heading "Resultados da pesquisa" [level=1] [ref=e126]
+    - main [ref=e132]:
+      - generic [ref=e133]:
+        - generic [ref=e137]:
+          - heading "Nenhum resultado encontrado para site:instagram.com/adv_polianaandrade \"instagram.com/p\"." [level=2] [ref=e138]
+          - text: Resultados para
+          - link "site:instagram.com/adv_polianaandrade instagram.com/p" [ref=e139] [cursor=pointer]:
+            - /url: /search?sca_esv=869c6e12a1f785e8&q=site:instagram.com/adv_polianaandrade+instagram.com/p&sa=X&ved=2ahUKEwjEucD3kN6TAxV8ppUCHcvVMzAQgwN6BAgNEAE
+          - text: "(sem aspas):"
+        - generic [ref=e145]:
+          - heading "Resultados da Web" [level=2] [ref=e146]
+          - generic [ref=e147]:
+            - generic [ref=e150]:
+              - link "Ser a sua mãe é o maior de todos os prazeres da minha vida. . . ... Instagram https://www.instagram.com › CsOxIgyLXrh" [ref=e152] [cursor=pointer]:
+                - /url: https://www.instagram.com/adv_polianaandrade/p/CsOxIgyLXrh/
+                - heading "Ser a sua mãe é o maior de todos os prazeres da minha vida. . . ..." [level=3] [ref=e153]
+                - generic [ref=e158]:
+                  - generic [ref=e160]: Instagram
+                  - generic [ref=e162]: https://www.instagram.com › CsOxIgyLXrh
+              - button "Sobre este resultado" [ref=e163] [cursor=pointer]:
+                - img [ref=e166]
+            - generic [ref=e169]: Reconhecemos a singularidade de cada cliente e de seus desafios legais, comprometendo-nos a trabalhar de maneira próxima para compreender suas necessidades ...
+      - generic:
+        - generic:
+          - navigation
+      - navigation
+    - contentinfo [ref=e170]:
+      - heading "Links do rodapé" [level=1] [ref=e171]
+      - generic [ref=e175]:
+        - generic [ref=e177]:
+          - text: Brasil
+          - generic [ref=e179]:
+            - button "88062 - Lagoa da Conceição, Florianópolis - SC - Com base na sua atividade anterior" [ref=e181] [cursor=pointer]:
+              - generic [ref=e182]: 88062 - Lagoa da Conceição, Florianópolis - SC
+              - generic [ref=e184]:
+                - text: "-"
+                - generic [ref=e185]: Com base na sua atividade anterior
+            - text: "-"
+            - button "Atualizar local" [ref=e187] [cursor=pointer]: Atualizar local
+        - generic [ref=e190]:
+          - link "Ajuda" [ref=e191] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=pt-BR&fg=1
+          - link "Enviar feedback" [ref=e192] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacidade" [ref=e193] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=pt-BR&fg=1
+          - link "Termos" [ref=e194] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=pt-BR&fg=1

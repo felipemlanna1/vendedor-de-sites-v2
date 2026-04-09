@@ -1,0 +1,541 @@
+{
+  "current_phase": 7,
+  "lead_id": "dra-milena-grossi",
+  "nome": "Milena Grossi Germiniani",
+  "cidade": "Ouro Fino",
+  "nicho": "dentista",
+  "strategy": "dental",
+  "source": "instagram",
+  "discovered_urls": {
+    "site_url": "",
+    "instagram_username": "dramilenagrossigerminiani",
+    "facebook_url": "https://www.facebook.com/milena.grossi.5/",
+    "google_maps_url": "",
+    "platform_urls": {}
+  },
+  "data_points": [
+    {
+      "category": "presence",
+      "label": "Instagram confirmado",
+      "value": "@dramilenagrossigerminiani",
+      "detail": {
+        "followers": 2872,
+        "posts": 56,
+        "bio": "Dra. Milena Grossi Germiniani (CRO MG 26.171) - Cirurgia-dentista, Harmonizacao Orofacial, Ortodontia e Ortopedia, Invisalign Doctor",
+        "platform": "instagram",
+        "whatsapp_na_bio": true
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T11:12:43.189900+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Site oficial",
+      "value": "Nao encontrado",
+      "detail": {
+        "nota": "Nenhum site proprio identificado em buscas. Presenca digital concentrada no Instagram."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T11:12:43.189900+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Facebook",
+      "value": "facebook.com/milena.grossi.5",
+      "detail": {
+        "url": "https://www.facebook.com/milena.grossi.5/",
+        "nota": "Perfil pessoal encontrado mas conteudo nao acessivel via WebFetch (requer login). Nao parece ser pagina profissional."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T11:12:43.189900+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Google Maps/Business",
+      "value": "Nao encontrado",
+      "detail": {
+        "nota": "Sem perfil no Google Maps/Business identificado nas buscas"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T11:12:43.189900+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "LinkedIn",
+      "value": "Nao encontrado para Milena, mas Wagner Germiniani (cirurgiao dentista) encontrado",
+      "detail": {
+        "url_wagner": "https://www.linkedin.com/in/wagner-germiniani-b127a182/",
+        "nota": "Wagner Germiniani e cirurgiao dentista na Unique Dental Esthetic Clinic. Possivel familiar (mesmo sobrenome, mesma area). Milena nao tem LinkedIn proprio identificado."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T11:12:43.189900+00:00"
+    },
+    {
+      "category": "identity",
+      "label": "Registro profissional",
+      "value": "CRO MG 26.171",
+      "detail": {
+        "conselho": "CRO - Conselho Regional de Odontologia",
+        "estado": "MG",
+        "numero": "26171",
+        "especialidades": [
+          "Harmonizacao Orofacial",
+          "Ortodontia e Ortopedia"
+        ],
+        "certificacao_extra": "Invisalign Doctor"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (Instagram bio)",
+      "fetched_at": "2026-04-08T11:12:43.189900+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Doctoralia",
+      "value": "Nao encontrado",
+      "detail": {
+        "nota": "Milena Grossi nao aparece na lista de dentistas de Ouro Fino na Doctoralia. 4 dentistas listados: Raquel Cyrillo, Julia Coutinho, Geraldo Destefani, Adilson Tamura."
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch (Doctoralia)",
+      "fetched_at": "2026-04-08T11:12:43.189900+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Concorrentes locais",
+      "value": "Dra. Giovanna Lima, Sorria Ouro Fino",
+      "detail": {
+        "concorrentes": [
+          {
+            "nome": "Dra. Giovanna Lima",
+            "instagram": "@dra_giovannalima",
+            "especialidades": "Implante, Facetas, Estetica"
+          },
+          {
+            "nome": "Sorria Ouro Fino",
+            "instagram": "@sorriaourofino",
+            "tipo": "Clinica odontologica"
+          },
+          {
+            "nome": "Raquel Cyrillo de Siqueira",
+            "plataforma": "Doctoralia",
+            "consulta": "R$50"
+          },
+          {
+            "nome": "Julia Coutinho De Siqueira",
+            "plataforma": "Doctoralia",
+            "especialidade": "Implantodontia"
+          }
+        ],
+        "nota": "Cidade pequena (~34k hab), poucos dentistas listados. Mercado limitado mas concorrencia tambem."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch + WebFetch",
+      "fetched_at": "2026-04-08T11:12:43.189900+00:00"
+    },
+    {
+      "category": "presence",
+      "label": "Familia Germiniani em Ouro Fino",
+      "value": "Edificio Vorveno Germiniani, Wagner Germiniani dentista",
+      "detail": {
+        "edificio": "Edificio Vorveno Germiniani - condominio no centro de Ouro Fino (CNPJ 00702842000195, fundado 1995)",
+        "wagner": "Wagner Germiniani - cirurgiao dentista (LinkedIn), Unique Dental Esthetic Clinic",
+        "ademir": "Dr. Ademir Grossi - pagina Facebook em Ouro Fino MG",
+        "nota": "Familia tradicional em Ouro Fino. Sobrenomes Grossi e Germiniani ambos presentes na cidade. Possivel familia de profissionais de saude."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T11:12:43.189900+00:00"
+    },
+    {
+      "category": "reviews",
+      "label": "Avaliacoes publicas",
+      "value": "Nao encontrado",
+      "detail": {
+        "nota": "Sem avaliacoes publicas em Google, Doctoralia, Facebook ou plataformas de review. Lead nao tem presenca em plataformas de avaliacao."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T11:12:43.189900+00:00"
+    },
+    {
+      "category": "history",
+      "label": "Historia profissional",
+      "value": "Informacao limitada",
+      "detail": {
+        "nota": "Nenhum artigo, noticia ou pagina sobre encontrada. Presenca digital concentrada exclusivamente no Instagram. Especialidades: HOF + Ortodontia + Invisalign. Cidade pequena com familia tradicional (Germiniani/Grossi)."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T11:12:43.189900+00:00"
+    },
+    {
+      "category": "identity",
+      "label": "CNPJ",
+      "value": "Nao encontrado",
+      "detail": {
+        "nota": "Buscas extensas em WebSearch, casadosdados, econodata e OpenCNPJ nao retornaram CNPJ para Milena Grossi Germiniani. Pode atender como autonoma (CPF) ou sob CNPJ de clinica familiar.",
+        "buscas_realizadas": [
+          "CNPJ Milena Grossi Germiniani dentista",
+          "CNPJ Milena Grossi Ouro Fino",
+          "Milena Germiniani CNPJ odontologia",
+          "casadosdados Milena Grossi odontologia"
+        ]
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T11:15:25.496949+00:00"
+    },
+    {
+      "category": "professional_registry",
+      "label": "CRO confirmado",
+      "value": "CRO MG 26.171",
+      "detail": {
+        "conselho": "CRO - Conselho Regional de Odontologia de Minas Gerais",
+        "estado": "MG",
+        "numero": "26171",
+        "nome_completo": "Milena Grossi Germiniani",
+        "especialidades": [
+          "Harmonizacao Orofacial",
+          "Ortodontia e Ortopedia Facial"
+        ],
+        "certificacoes": [
+          "Invisalign Doctor",
+          "PROTOCOL"
+        ],
+        "confirmado_via": "Instagram bio + WebSearch retorna perfil consistente",
+        "nota": "Registro confirmado via bio Instagram. Busca no site CROMG nao retornou pagina individual mas o numero e consistente com padrao MG."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch + Instagram bio",
+      "fetched_at": "2026-04-08T11:15:25.496949+00:00"
+    },
+    {
+      "category": "identity",
+      "label": "Familia profissional",
+      "value": "Ademir Tadeu Ribeiro Grossi (pai provavel) - CRO MG 19760",
+      "detail": {
+        "nome": "Ademir Tadeu Ribeiro Grossi",
+        "cro": "CRO MG 19760",
+        "especialidade": "Ortodontia e Ortopedia Facial",
+        "endereco": "Rua Treze de Maio, 1260 - Centro, Ouro Fino MG",
+        "formacao": "Graduacao UNIFAL (1987), Esp. Ortodontia USF (1996), Esp. Radiologia USP (1998), Mestrado UMESP (2005), Doutorado Sao Leopoldo Mandic",
+        "empresa": "ROOF - Radiologia Odontologica Ouro Fino (fundador, 1998)",
+        "docencia": "Professor INAPOS",
+        "facebook": "https://www.facebook.com/DrAdemirGrossi/",
+        "relacao": "Provavel pai de Milena. Mesmo sobrenome Grossi, mesma cidade, mesma especialidade (ortodontia), mesmo endereco provavel.",
+        "nota": "Wagner Germiniani tambem e cirurgiao dentista (LinkedIn) - provavel familia pelo lado materno."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch + Escavador",
+      "fetched_at": "2026-04-08T11:15:25.496949+00:00"
+    },
+    {
+      "category": "website",
+      "label": "Website",
+      "value": "Nao possui site",
+      "detail": {
+        "status": "sem_site"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-08T11:15:57.483003+00:00"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Doctoralia",
+      "value": "Nao encontrado",
+      "detail": {
+        "plataforma": "doctoralia.com.br",
+        "nota": "Milena Grossi Germiniani nao tem perfil na Doctoralia. Dentistas listados em Ouro Fino: Raquel Cyrillo, Julia Coutinho, Geraldo Destefani, Adilson Tamura. Encontrada Milene Ines Trierweiler Germiniani (dentista em Ponta Grossa/PR) - possivel parente pelo sobrenome Germiniani."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T11:16:47.514109+00:00"
+    },
+    {
+      "category": "sales_channels",
+      "label": "BoaConsulta",
+      "value": "Nao encontrado",
+      "detail": {
+        "plataforma": "boaconsulta.com",
+        "nota": "Sem perfil na BoaConsulta"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T11:16:47.514109+00:00"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Reclame Aqui",
+      "value": "Nao encontrado",
+      "detail": {
+        "plataforma": "reclameaqui.com.br",
+        "nota": "Sem reclamacoes registradas. Nome nao aparece no Reclame Aqui."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T11:16:47.514109+00:00"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Resumo canais",
+      "value": "Presenca digital concentrada exclusivamente no Instagram",
+      "detail": {
+        "plataformas_pesquisadas": [
+          "Doctoralia",
+          "BoaConsulta",
+          "Reclame Aqui"
+        ],
+        "plataformas_encontradas": 0,
+        "nota": "Nenhum canal de venda ou plataforma de agendamento identificado. Lead depende 100% do Instagram + WhatsApp para captacao de pacientes. Oportunidade clara para site profissional com agendamento online."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T11:16:47.514109+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Foto de perfil Instagram (@dramilenagrossigerminiani)",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-19/533023767_18276849532263979_3044437937211684502_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=111&ccb=7-5&_nc_sid=bf7eb4",
+      "detail": {
+        "tipo": "profile_pic",
+        "fonte": "Playwright (Instagram perfil)",
+        "conta": "@dramilenagrossigerminiani",
+        "descricao": "2870 seguidores, seguindo 4041, 56 posts. Cirurgia-dentista, HOF, Ortodontia, Invisalign Doctor. CRO MG 26.171",
+        "high_res_url": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-19/533023767_18276849532263979_3044437937211684502_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-poa1-1.cdninstagram.com&_nc_cat=107"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T11:22:47.966741+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Post - HIPRO DAY lifting facial",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/581776732_18287206720263979_3307668337484350951_n.jpg?stp=c270.0.810.810a_dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post)",
+        "post_url": "https://www.instagram.com/dramilenagrossigerminiani/p/DRLJZp8EoqL/",
+        "has_text": true,
+        "descricao": "HIPRO DAY: Tratamento que promove um lifting facial sem injetaveis e com conforto",
+        "likes": 9,
+        "data": "2025-11-17"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T11:22:47.966741+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Post - Servicos selfcare/botox/harmonizacao",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/580562771_18286533424263979_248184764558561384_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post)",
+        "post_url": "https://www.instagram.com/dramilenagrossigerminiani/p/DQ7rPcykQfP/",
+        "has_text": true,
+        "descricao": "Entre em contato! #selfcare #autocuidado #botox #harmonizacaofacial #bioestimulador",
+        "likes": 14,
+        "data": "2025-11-11"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T11:22:47.966741+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Post - Toxina botulinica tratamentos funcionais",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/531425554_18276531094263979_6757681567659585850_n.jpg?stp=c169.0.507.507a_dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post)",
+        "post_url": "https://www.instagram.com/dramilenagrossigerminiani/p/DNT3CJ5vfd7/",
+        "has_text": true,
+        "descricao": "A toxina botulinica aliada a outros tratamentos funcionais, representam uma promissora frente de tratamento",
+        "likes": 17,
+        "data": "2025-08-13"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T11:22:47.966741+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Post - Dia dos Pais (pessoal/emocional)",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/529677521_18276209440263979_2611547555696224427_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post)",
+        "post_url": "https://www.instagram.com/dramilenagrossigerminiani/p/DNL9cFbvc6A/",
+        "has_text": true,
+        "descricao": "Existem herois que nao usam capa, mas que carregam no olhar a forca e no coracao o cuidado. Feliz Dia dos Pais",
+        "likes": 81,
+        "data": "2025-08-10"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T11:22:47.966741+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Post - Ultrassom Microfocado gerenciamento facial",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.75761-15/485087366_18261154639263979_1382177050486608597_n.jpg?stp=c256.0.768.768a_dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post)",
+        "post_url": "https://www.instagram.com/dramilenagrossigerminiani/p/DHZmI7Bvfat/",
+        "has_text": true,
+        "descricao": "Os tratamentos com Ultrassom Microfocado, sao bem vindos aos pacientes que desejam um gerenciamento facial com abordagem mais conservadora",
+        "likes": 45,
+        "data": "2025-03-19"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T11:22:47.966741+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Post - Envelhecimento intrínseco/extrínseco",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/626834852_18091606453840325_1103907671002434351_n.webp?stp=c193.0.579.579a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post)",
+        "post_url": "https://www.instagram.com/dramilenagrossigerminiani/p/CuVYbZrvQeR/",
+        "has_text": true,
+        "descricao": "O nosso processo de envelhecimento divide-se basicamente em fatores intrinsecos e extrinsecos",
+        "likes": 11,
+        "data": "2023-07-05"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T11:22:47.966741+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Reel - Skinbooster hidratacao profunda",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/589134106_18291747268263979_3587450275141659943_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram reel)",
+        "post_url": "https://www.instagram.com/dramilenagrossigerminiani/reel/DSASdxxDRRZ/",
+        "has_text": true,
+        "descricao": "Skinbooster e um tratamento estetico injetavel feito para melhorar a hidratacao profunda da pele. Ele nao muda tracos nem da volume",
+        "likes": 54,
+        "data": "2025-12-08"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T11:22:47.966741+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Reel - HIPRO Day beneficios lifting",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.71878-15/584918791_1376379344193344_4174456792046653207_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram reel)",
+        "post_url": "https://www.instagram.com/dramilenagrossigerminiani/reel/DRVYcmOEpVZ/",
+        "has_text": true,
+        "descricao": "HIPRO day - Principais beneficios: Efeito lifting e rejuvenescimento, Reducao de rugas finas e linhas de expressao, Melhora na firmeza da pele",
+        "likes": 62,
+        "data": "2025-11-21"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T11:22:47.966741+00:00"
+    },
+    {
+      "category": "images",
+      "label": "Descoberta - ROOF Radiologia Odontologica Ouro Fino",
+      "value": "https://www.instagram.com/roof_radiologia/",
+      "detail": {
+        "tipo": "discovery",
+        "nota": "Perfil da ROOF - Radiologia Odontologica Ouro Fino encontrado linkado no feed. Fundada pelo pai (Ademir Grossi) em 1998. Milena compartilhou post da ROOF."
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-08T11:22:47.966741+00:00"
+    },
+    {
+      "category": "brand",
+      "label": "Padroes da marca",
+      "value": "Profissional de saude com tom educativo e acolhedor, foco em HOF e rejuvenescimento",
+      "detail": {
+        "cores": [
+          "branco",
+          "rosa suave",
+          "dourado",
+          "tons neutros"
+        ],
+        "tom": "profissional-acolhedor",
+        "publico_alvo": "Mulheres 25-55 anos, classe media-alta, preocupadas com estetica facial e rejuvenescimento, Ouro Fino e regiao",
+        "estilo_visual": "Clean e profissional, posts com texto educativo sobre procedimentos, mistura conteudo pessoal com profissional",
+        "slogan": "Nao identificado",
+        "servicos_identificados": [
+          "Harmonizacao Orofacial (HOF)",
+          "Ortodontia e Ortopedia Facial",
+          "Invisalign",
+          "HIPRO (lifting facial sem injetaveis)",
+          "Skinbooster (hidratacao profunda)",
+          "Toxina Botulinica (botox funcional)",
+          "Ultrassom Microfocado",
+          "Bioestimulador de colageno"
+        ],
+        "comunicacao": "Posts educativos sobre procedimentos, explica beneficios e diferenciais. Usa hashtags como #selfcare #autocuidado #botox #harmonizacaofacial"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-08T11:24:27.642869+00:00"
+    },
+    {
+      "category": "competitors",
+      "label": "Concorrentes com site",
+      "value": "1 concorrente com site proprio encontrado",
+      "detail": [
+        "Dr. Ricardo B. Gouvea - https://ricgouveajr.com.br/ (dentista em Ouro Fino desde 1993, reabilitacao oral, ronco e apneia)",
+        "Dra. Giovanna Lima - @dra_giovannalima (Instagram, implante e facetas, sem site)",
+        "Sorria Ouro Fino - @sorriaourofino (Instagram, clinica odontologica, sem site)",
+        "Ouro Fino Aradias Clinica Odontologica - sem site proprio"
+      ],
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T11:24:27.642869+00:00"
+    }
+  ],
+  "phases": {
+    "phase_1": {
+      "status": "complete"
+    },
+    "phase_2": {
+      "status": "complete",
+      "result": "1 URL descoberta (Instagram ja conhecido, Facebook pessoal encontrado), 11 data_points coletados. Sem site, sem Doctoralia, sem Google Maps."
+    },
+    "phase_3": {
+      "status": "complete",
+      "result": "CNPJ nao encontrado. CRO MG 26171 confirmado. Familia profissional identificada: Ademir Grossi (CRO MG 19760, ortodontista, provavel pai). 3 data_points adicionados."
+    },
+    "phase_4": {
+      "status": "complete",
+      "result": "Lead sem site - ausencia registrada. Nenhuma analise de website necessaria."
+    },
+    "phase_5": {
+      "status": "complete",
+      "result": "3 plataformas pesquisadas (Doctoralia, BoaConsulta, Reclame Aqui). Nenhum canal encontrado. Presenca 100% Instagram + WhatsApp. 4 data_points adicionados."
+    },
+    "phase_6": {
+      "status": "complete",
+      "result": "10 imagens capturadas via Playwright MCP (1 foto perfil + 8 posts/reels + 1 discovery). Tratamentos identificados: HIPRO Day, Skinbooster, Toxina Botulinica, Ultrassom Microfocado, HOF. 10 data_points adicionados."
+    },
+    "phase_7": {
+      "status": "complete",
+      "result": "Briefing compilado e salvo no vendedor.db. Sales score: 8/10. 31 data_points, 10 imagens."
+    }
+  },
+  "started_at": "2026-04-08T08:10:16.204096",
+  "completed_at": "2026-04-08T08:24:27.647762"
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://una-dermatologia.pages.dev/sitemap.xml

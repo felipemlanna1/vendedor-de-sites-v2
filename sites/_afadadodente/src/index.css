@@ -1,0 +1,75 @@
+@import "tailwindcss";
+@import "./design-system/tokens.css";
+
+/* Tailwind v4 ja inclui Preflight. NAO use * { margin:0; padding:0 } */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: auto; /* Lenis controla o smooth scroll */
+}
+
+body {
+  font-family: var(--font-body);
+  color: var(--color-text-primary);
+  background: var(--color-background);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  cursor: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 48 48' fill='none'%3E%3Cline x1='12' y1='40' x2='30' y2='18' stroke='%239B6B9E' stroke-width='2.5' stroke-linecap='round'/%3E%3Cpolygon points='30,8 32,14 38,15 33,19 34,25 30,21 26,25 27,19 22,15 28,14' fill='%23D4A843'/%3E%3C/svg%3E") 4 4, auto;
+}
+
+/* Cursor pointer tambem tematico */
+a, button, [role="button"] {
+  cursor: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='28' height='28' viewBox='0 0 48 48' fill='none'%3E%3Cline x1='12' y1='40' x2='30' y2='18' stroke='%23D4A843' stroke-width='3' stroke-linecap='round'/%3E%3Cpolygon points='30,6 33,14 40,15 34,20 35,27 30,22 25,27 26,20 20,15 27,14' fill='%23D4A843'/%3E%3Ccircle cx='38' cy='8' r='2' fill='%23D4A843' opacity='0.6'/%3E%3Ccircle cx='24' cy='10' r='1.5' fill='%23D4A843' opacity='0.4'/%3E%3C/svg%3E") 4 4, pointer;
+}
+
+/* Respeitar preferencia de reducao de movimento */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Utility classes usando design tokens */
+.font-display {
+  font-family: var(--font-display);
+}
+
+.font-body {
+  font-family: var(--font-body);
+}
+
+/* Marquee animations for testimonials */
+@keyframes marquee-left {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+@keyframes marquee-right {
+  0% { transform: translateX(-50%); }
+  100% { transform: translateX(0); }
+}
+
+.animate-marquee-left {
+  animation: marquee-left 40s linear infinite;
+}
+
+.animate-marquee-right {
+  animation: marquee-right 40s linear infinite;
+}
+
+/* Explicit hover states for interactive elements */
+a:hover, button:hover {
+  transition: color 0.2s ease, background-color 0.2s ease, transform 0.2s ease;
+}
+
+.service-card:hover,
+.differential-card:hover {
+  box-shadow: 0 0 30px rgba(212, 168, 67, 0.15);
+}
+
+nav a:hover {
+  color: var(--color-primary);
+}

@@ -1,0 +1,276 @@
+- generic [ref=e2]:
+  - navigation [ref=e3]:
+    - generic [ref=e4]:
+      - link "Dra. Ariel Córdova" [ref=e5] [cursor=pointer]:
+        - /url: "#"
+      - button "Open menu" [ref=e7] [cursor=pointer]:
+        - img [ref=e8]
+  - main [ref=e9]:
+    - generic [ref=e12]:
+      - generic [ref=e13]:
+        - paragraph [ref=e14]: CRM 23372 SC • RQE 18753
+        - heading "Dra. Ariel Córdova Rosa" [level=1] [ref=e15]
+        - generic [ref=e16]:
+          - text: Dermatologista
+          - generic [ref=e17]: Clínica • Cirúrgica • Estética
+        - paragraph [ref=e18]: Pesquisadora, preceptora da Residência em Dermatologia do HU-UFSC e membro da diretoria da SBD/SC. Ciência e cuidado para a saúde da sua pele.
+        - generic [ref=e19]:
+          - link "Agendar Consulta" [ref=e20] [cursor=pointer]:
+            - /url: https://wa.me/5548991232270?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20consulta.
+          - link "Conheça meu trabalho" [ref=e21] [cursor=pointer]:
+            - /url: "#about"
+      - generic [ref=e23]:
+        - img "Dra. Ariel Córdova Rosa - Dermatologista" [ref=e25]
+        - generic [ref=e27]:
+          - generic [ref=e28]: "5.0"
+          - generic [ref=e29]: Doctoralia
+    - generic [ref=e33]:
+      - generic [ref=e34]:
+        - paragraph [ref=e36]: Sobre
+        - heading "Ciência que cuida" [level=2] [ref=e37]:
+          - generic [ref=e38]: Ciência
+          - generic [ref=e39]: que
+          - generic [ref=e40]: cuida
+        - generic [ref=e41]:
+          - generic [ref=e43]:
+            - img [ref=e45]
+            - paragraph [ref=e49]: Pesquisadora em melanoma e cirurgia dermatológica
+          - generic [ref=e51]:
+            - img [ref=e53]
+            - paragraph [ref=e56]: Preceptora da Residência HU-UFSC
+          - generic [ref=e58]:
+            - img [ref=e60]
+            - paragraph [ref=e65]: Diretoria SBD/SC
+      - generic [ref=e66]:
+        - paragraph [ref=e68]: Formada em Medicina pela UFSC em 2016, com Residência em Dermatologia no Hospital Universitário da UFSC. Atualmente mestranda em Ciências Médicas, pesquisando psoríase ungueal e artrite psoriásica.
+        - paragraph [ref=e70]: Como preceptora da Residência em Dermatologia do HU-UFSC, formo os dermatologistas do futuro. Lidero o ambulatório de Ultrassonografia de alta frequência e Microscopia confocal.
+        - paragraph [ref=e72]: Membro da diretoria da Sociedade Catarinense de Dermatologia (SBD-SC), participo de congressos internacionais como o EADV em Paris e o Congresso Brasileiro de Dermatologia.
+        - paragraph [ref=e75]: “Sua pele merece ciência”
+    - generic [ref=e77]:
+      - generic [ref=e78]:
+        - paragraph [ref=e80]: Serviços
+        - heading "Três pilares de cuidado" [level=2] [ref=e81]:
+          - generic [ref=e82]: Três
+          - generic [ref=e83]: pilares
+          - generic [ref=e84]: de
+          - generic [ref=e85]: cuidado
+        - paragraph [ref=e87]: Cada área da dermatologia exige conhecimento específico. Atuo nas três frentes para oferecer um cuidado completo.
+      - generic [ref=e88]:
+        - generic [ref=e90]:
+          - img [ref=e92]
+          - heading "Dermatologia Clínica" [level=3] [ref=e94]
+          - paragraph [ref=e95]: Diagnóstico e tratamento de doenças da pele com embasamento científico e tecnologia avançada.
+          - list [ref=e96]:
+            - listitem [ref=e97]: Acne
+            - listitem [ref=e99]: Câncer de Pele
+            - listitem [ref=e101]: Melasma
+            - listitem [ref=e103]: Dermatite
+            - listitem [ref=e105]: Psoríase
+            - listitem [ref=e107]: Alergia Dermatológica
+            - listitem [ref=e109]: Cicatriz
+            - listitem [ref=e111]: Rosácea
+            - listitem [ref=e113]: Melanoma
+            - listitem [ref=e115]: Hiperpigmentação
+            - listitem [ref=e117]: Mapeamento Corporal Total
+        - generic [ref=e120]:
+          - img [ref=e122]
+          - heading "Dermatologia Cirúrgica" [level=3] [ref=e128]
+          - paragraph [ref=e129]: Procedimentos cirúrgicos dermatológicos com precisão e segurança.
+          - list [ref=e130]:
+            - listitem [ref=e131]: Retirada de tumores de pele
+            - listitem [ref=e133]: Cirurgias de unha
+            - listitem [ref=e135]: Lobuloplastia
+            - listitem [ref=e137]: Biópsias de pele
+        - generic [ref=e140]:
+          - img [ref=e142]
+          - heading "Dermatologia Estética" [level=3] [ref=e144]
+          - paragraph [ref=e145]: Tratamentos estéticos com visão médica e resultados naturais.
+          - list [ref=e146]:
+            - listitem [ref=e147]: Ácido hialurônico
+            - listitem [ref=e149]: Preenchedores
+            - listitem [ref=e151]: Toxina botulínica
+            - listitem [ref=e153]: Lasers
+            - listitem [ref=e155]: Peelings químicos
+            - listitem [ref=e157]: Bioestimuladores
+            - listitem [ref=e159]: Rejuvenescimento facial
+      - link "Agendar Consulta" [ref=e163] [cursor=pointer]:
+        - /url: https://wa.me/5548991232270?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20servi%C3%A7os.
+    - generic [ref=e165]:
+      - generic [ref=e166]:
+        - paragraph [ref=e168]: Tecnologia
+        - heading "Tecnologia a serviço da precisão" [level=2] [ref=e169]:
+          - generic [ref=e170]: Tecnologia
+          - generic [ref=e171]: a
+          - generic [ref=e172]: serviço
+          - generic [ref=e173]: da
+          - generic [ref=e174]: precisão
+        - paragraph [ref=e176]: Equipamentos de última geração para diagnósticos mais precisos e acompanhamento detalhado.
+      - generic [ref=e177]:
+        - generic [ref=e179]:
+          - generic [ref=e180]:
+            - img [ref=e182]
+            - generic [ref=e187]: "01"
+          - heading "Mapeamento Corporal Total" [level=3] [ref=e188]
+          - paragraph [ref=e189]: Sistema FotoFinder para mapeamento completo de pintas e lesões, fundamental no acompanhamento de pacientes com risco de melanoma.
+        - generic [ref=e191]:
+          - generic [ref=e192]:
+            - img [ref=e194]
+            - generic [ref=e198]: "02"
+          - heading "Ultrassonografia Dermatológica" [level=3] [ref=e199]
+          - paragraph [ref=e200]: Exame de imagem de alta frequência para avaliação não invasiva de lesões cutâneas, tumores e estruturas da pele.
+        - generic [ref=e202]:
+          - generic [ref=e203]:
+            - img [ref=e205]
+            - generic [ref=e208]: "03"
+          - heading "Microscopia Confocal" [level=3] [ref=e209]
+          - paragraph [ref=e210]: Análise celular in vivo da pele, permitindo diagnóstico sem necessidade de biópsia em muitos casos.
+    - heading "Sua pele merece ciência" [level=2] [ref=e213]:
+      - generic [ref=e214]: Sua
+      - generic [ref=e215]: pele
+      - generic [ref=e216]: merece
+      - generic [ref=e217]: ciência
+    - generic [ref=e221]:
+      - generic [ref=e223]:
+        - generic [ref=e225]:
+          - paragraph [ref=e226]: UNA
+          - paragraph [ref=e227]: Dermatologia
+          - paragraph [ref=e229]: Um novo conceito em tratamento dermatológico
+        - generic [ref=e230]:
+          - paragraph [ref=e231]: Fundada em
+          - paragraph [ref=e232]: "2023"
+      - generic [ref=e233]:
+        - paragraph [ref=e235]: A Clínica
+        - heading "UNA Dermatologia" [level=2] [ref=e236]:
+          - generic [ref=e237]: UNA
+          - generic [ref=e238]: Dermatologia
+        - paragraph [ref=e240]: Fundada em 2023, a UNA Dermatologia nasceu da visão de oferecer dermatologia completa — clínica, estética, cirúrgica, exames e tecnologias — num único espaço pensado para o bem-estar do paciente.
+        - generic [ref=e241]:
+          - generic [ref=e243]:
+            - img [ref=e244]
+            - generic [ref=e247]: Rua Angelo La Porta, 53 - Sala 904, Centro, Florianópolis/SC
+          - generic [ref=e249]:
+            - img [ref=e250]
+            - generic [ref=e252]: (48) 3028-1560
+          - generic [ref=e254]:
+            - img [ref=e255]
+            - generic [ref=e257]: "Segunda a Sexta: 09h - 18h | Sábado: 09h - 13h"
+        - link "@una.dermatologia" [ref=e259] [cursor=pointer]:
+          - /url: https://www.instagram.com/una.dermatologia/
+    - generic [ref=e261]:
+      - generic [ref=e262]:
+        - paragraph [ref=e264]: Credenciais
+        - heading "Formação e reconhecimento" [level=2] [ref=e265]:
+          - generic [ref=e266]: Formação
+          - generic [ref=e267]: e
+          - generic [ref=e268]: reconhecimento
+      - generic [ref=e269]:
+        - generic [ref=e271]:
+          - img [ref=e272]
+          - generic [ref=e274]: "0.0"
+          - paragraph [ref=e275]: Nota no Doctoralia
+        - generic [ref=e277]:
+          - img [ref=e278]
+          - generic [ref=e280]: "0"
+          - paragraph [ref=e281]: Avaliações
+        - generic [ref=e283]:
+          - img [ref=e284]
+          - generic [ref=e287]: "0"
+          - paragraph [ref=e288]: Seguidores
+        - generic [ref=e290]:
+          - img [ref=e291]
+          - generic [ref=e293]: "0"
+          - paragraph [ref=e294]: Medicina desde
+      - generic [ref=e295]:
+        - paragraph [ref=e299]: Medicina - UFSC (2016)
+        - paragraph [ref=e303]: Residência Dermatologia - HU UFSC (2019)
+        - paragraph [ref=e307]: Mestranda Ciências Médicas - UFSC
+        - paragraph [ref=e311]: Preceptora da Residência HU-UFSC
+        - paragraph [ref=e315]: Diretoria SBD/SC
+        - paragraph [ref=e319]: Congressista EADV (Paris)
+        - paragraph [ref=e323]: Congressista Brasileiro de Dermatologia
+        - paragraph [ref=e327]: CRM 23372 SC | RQE 18753
+    - generic [ref=e329]:
+      - generic [ref=e330]:
+        - paragraph [ref=e332]: Galeria
+        - heading "Momentos e trajetória" [level=2] [ref=e333]:
+          - generic [ref=e334]: Momentos
+          - generic [ref=e335]: e
+          - generic [ref=e336]: trajetória
+      - generic [ref=e337]:
+        - img "Dra. Ariel Córdova Rosa - Dermatologista em Florianópolis" [ref=e340]
+        - generic [ref=e342]:
+          - paragraph [ref=e343]: UFSC
+          - paragraph [ref=e344]: Pesquisadora e Preceptora
+          - paragraph [ref=e345]: Hospital Universitário da UFSC
+          - paragraph [ref=e347]: EADV Paris | SBD/SC | CBD
+    - generic [ref=e349]:
+      - generic [ref=e350]:
+        - generic [ref=e351]:
+          - paragraph [ref=e353]: Contato
+          - heading "Agende sua consulta" [level=2] [ref=e354]:
+            - generic [ref=e355]: Agende
+            - generic [ref=e356]: sua
+            - generic [ref=e357]: consulta
+          - paragraph [ref=e359]: Atendimento particular. Agende pelo WhatsApp ou pelo Doctoralia.
+          - generic [ref=e360]:
+            - link "Falar pelo WhatsApp" [ref=e362] [cursor=pointer]:
+              - /url: https://wa.me/5548991232270?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20consulta%20com%20a%20Dra.%20Ariel.
+            - link "Agendar pelo Doctoralia" [ref=e364] [cursor=pointer]:
+              - /url: https://www.doctoralia.com.br/ariel-cordova/dermatologista/florianopolis
+        - generic [ref=e365]:
+          - generic [ref=e367]:
+            - img [ref=e368]
+            - generic [ref=e370]:
+              - paragraph [ref=e371]: Telefone da clínica
+              - link "(48) 3028-1560" [ref=e372] [cursor=pointer]:
+                - /url: tel:+554830281560
+          - generic [ref=e374]:
+            - img [ref=e375]
+            - generic [ref=e378]:
+              - paragraph [ref=e379]: UNA Dermatologia
+              - paragraph [ref=e380]: Rua Angelo La Porta, 53 - Sala 904, Centro, Florianópolis/SC
+          - generic [ref=e382]:
+            - img [ref=e383]
+            - paragraph [ref=e387]: "Segunda a Sexta: 09h - 18h | Sábado: 09h - 13h"
+          - generic [ref=e389]:
+            - img [ref=e390]
+            - paragraph [ref=e393]: Atendimento particular • Transferência bancária
+          - generic [ref=e395]:
+            - img [ref=e396]
+            - paragraph [ref=e400]: Consultas por telemedicina disponíveis
+      - iframe [ref=e403]:
+        
+  - contentinfo [ref=e404]:
+    - generic [ref=e405]:
+      - generic [ref=e406]:
+        - generic [ref=e408]:
+          - paragraph [ref=e409]: Dra. Ariel Córdova Rosa
+          - paragraph [ref=e410]: CRM 23372 SC | RQE 18753
+          - paragraph [ref=e411]: Dermatologista
+        - generic [ref=e413]:
+          - paragraph [ref=e414]: Redes sociais
+          - generic [ref=e415]:
+            - link "@arielcordova.dermato" [ref=e416] [cursor=pointer]:
+              - /url: https://www.instagram.com/arielcordova.dermato/
+              - img [ref=e417]
+              - text: "@arielcordova.dermato"
+            - link "@una.dermatologia" [ref=e420] [cursor=pointer]:
+              - /url: https://www.instagram.com/una.dermatologia/
+              - img [ref=e421]
+              - text: "@una.dermatologia"
+            - link "Facebook" [ref=e424] [cursor=pointer]:
+              - /url: https://www.facebook.com/draarielcordova/
+              - img [ref=e425]
+              - text: Facebook
+            - link "Doctoralia" [ref=e427] [cursor=pointer]:
+              - /url: https://www.doctoralia.com.br/ariel-cordova/dermatologista/florianopolis
+              - img [ref=e428]
+              - text: Doctoralia
+        - generic [ref=e433]:
+          - paragraph [ref=e434]: UNA Dermatologia
+          - paragraph [ref=e435]: Rua Angelo La Porta, 53 - Sala 904, Centro, Florianópolis/SC
+          - paragraph [ref=e436]: (48) 3028-1560
+          - paragraph [ref=e437]: "Segunda a Sexta: 09h - 18h | Sábado: 09h - 13h"
+      - generic [ref=e438]:
+        - paragraph [ref=e439]: As informações contidas neste site têm caráter informativo e não substituem uma consulta médica.
+        - paragraph [ref=e440]: © 2026 Dra. Ariel Córdova Rosa. Todos os direitos reservados.

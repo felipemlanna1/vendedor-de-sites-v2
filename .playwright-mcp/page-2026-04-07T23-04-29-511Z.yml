@@ -1,0 +1,941 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Ir para o conteúdo principal" [ref=e2] [cursor=pointer]
+      - link "Desativar a rolagem contínua" [ref=e3] [cursor=pointer]:
+        - /url: "#"
+      - link "Ajuda sobre acessibilidade" [ref=e4] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=pt-BR
+      - link "Feedback de acessibilidade" [ref=e5] [cursor=pointer]
+  - generic [ref=e10]:
+    - search [ref=e11]:
+      - generic [ref=e13]:
+        - link "Ir para a página inicial do Google" [ref=e15] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=pt-BR&sa=X&ved=0ahUKEwiehfvw7NyTAxVnErkGHYXlMkMQPAgK
+          - img [ref=e16]
+        - generic [ref=e18]:
+          - generic [ref=e19]:
+            - combobox "Pesquisar" [ref=e22]: thalita.arquiteta site:instagram.com thalita.arquiteta site:instagram.com
+            - generic [ref=e23]:
+              - button "Limpar" [ref=e25] [cursor=pointer]:
+                - img [ref=e27]
+              - generic [ref=e30]:
+                - button "Ferramentas de inserção de texto" [ref=e31] [cursor=pointer]:
+                  - img [ref=e33]
+                - button "Pesquisar por voz" [ref=e35] [cursor=pointer]:
+                  - img [ref=e36]
+                - button "Pesquisa por imagem" [ref=e38] [cursor=pointer]:
+                  - img [ref=e39]
+          - button "Pesquisar" [ref=e41] [cursor=pointer]:
+            - img [ref=e44]
+    - generic [ref=e46]:
+      - button "Configurações" [ref=e48] [cursor=pointer]:
+        - img [ref=e51]
+      - generic [ref=e54]:
+        - button "Google Apps" [ref=e56] [cursor=pointer]:
+          - img [ref=e57]
+        - link "Fazer login" [ref=e61] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=pt-BR&passive=true&continue=https://www.google.com/search%3Fq%3Dthalita.arquiteta%2Bsite:instagram.com%26udm%3D2&ec=futura_srp_og_si_72236_p
+  - generic [ref=e63]:
+    - navigation [ref=e68]:
+      - generic [ref=e69]:
+        - list [ref=e70]:
+          - listitem [ref=e71]:
+            - link "Modo IA" [ref=e74] [cursor=pointer]:
+              - /url: /search?q=thalita.arquiteta+site:instagram.com&sca_esv=761836ba98f04a06&udm=50&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB054Dys3s2x_Qm_GJcU2DlSXgtwykOhjc8tZDD70ApjQy2WFTWLsCiX8ls24HEzSp7mV5ANnBsZq0oH_O2pn--TU-Rv8CsZ7_kpkmo15bwnUw-dc6iFkqMnbr66lG42p-lEjCMkoopNdh03y0pnS7aafKYlMCYlGjRFCgMZx4ec3evktE5J0fuoVl0gzr283mrTwpBniY&aep=1&ntc=1&sa=X&ved=2ahUKEwiehfvw7NyTAxVnErkGHYXlMkMQ2J8OegQIChAD
+              - generic [ref=e77]: Modo IA
+          - listitem [ref=e78]:
+            - link "Tudo" [ref=e79] [cursor=pointer]:
+              - /url: /search?sca_esv=761836ba98f04a06&q=thalita.arquiteta+site:instagram.com&source=lnms&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB054Dys3s2x_Qm_GJcU2DlSXgtwykOhjc8tZDD70ApjQy2WFTWLsCiX8ls24HEzSp7mV5ANnBsZq0oH_O2pn--TU-Rv8CsZ7_kpkmo15bwnUw-dc6iFkqMnbr66lG42p-lEjCMkoopNdh03y0pnS7aafKYlMCYlGjRFCgMZx4ec3evktE5J0fuoVl0gzr283mrTwpBniY&sa=X&ved=2ahUKEwiehfvw7NyTAxVnErkGHYXlMkMQ0pQJegQIDxAB
+              - generic [ref=e81]: Tudo
+          - listitem [ref=e82]:
+            - link "Imagens" [disabled] [ref=e83]:
+              - generic [ref=e85]: Imagens
+          - listitem [ref=e86]:
+            - link "Vídeos" [ref=e87] [cursor=pointer]:
+              - /url: /search?sca_esv=761836ba98f04a06&udm=7&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB054Dys3s2x_Qm_GJcU2DlSXgtwykOhjc8tZDD70ApjQy2WFTWLsCiX8ls24HEzSp7mV5ANnBsZq0oH_O2pn--TU-Rv8CsZ7_kpkmo15bwnUw-dc6iFkqMnbr66lG42p-lEjCMkoopNdh03y0pnS7aafKYlMCYlGjRFCgMZx4ec3evktE5J0fuoVl0gzr283mrTwpBniY&q=thalita.arquiteta+site:instagram.com&sa=X&ved=2ahUKEwiehfvw7NyTAxVnErkGHYXlMkMQtKgLegQIDhAB
+              - generic [ref=e89]: Vídeos
+          - listitem [ref=e90]:
+            - link "Shopping" [ref=e91] [cursor=pointer]:
+              - /url: /search?sca_esv=761836ba98f04a06&udm=28&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB054Dys3s2x_Qm_GJcU2DlSXgtwykOhjc8tZDD70ApjQy2WFTWLsCiX8ls24HEzSp7mV5ANnBsZq0oH_O2pn--TU-Rv8CsZ7_kpkmo15bwnUw-dc6iFkqMnbr66lG42p-lEjCMkoopNdh03y0pnS7aafKYlMCYlGjRFCgMZx4ec3evktE5J0fuoVl0gzr283mrTwpBniY&q=thalita.arquiteta+site:instagram.com&ved=1t:220175&ictx=111
+              - generic [ref=e93]: Shopping
+          - listitem [ref=e94]:
+            - link "Vídeos curtos" [ref=e95] [cursor=pointer]:
+              - /url: /search?sca_esv=761836ba98f04a06&udm=39&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB054Dys3s2x_Qm_GJcU2DlSXgtwykOhjc8tZDD70ApjQy2WFTWLsCiX8ls24HEzSp7mV5ANnBsZq0oH_O2pn--TU-Rv8CsZ7_kpkmo15bwnUw-dc6iFkqMnbr66lG42p-lEjCMkoopNdh03y0pnS7aafKYlMCYlGjRFCgMZx4ec3evktE5J0fuoVl0gzr283mrTwpBniY&q=thalita.arquiteta+site:instagram.com&sa=X&ved=2ahUKEwiehfvw7NyTAxVnErkGHYXlMkMQs6gLegQICxAB
+              - generic [ref=e97]: Vídeos curtos
+          - listitem [ref=e98]:
+            - link "Web" [ref=e99] [cursor=pointer]:
+              - /url: /search?sca_esv=761836ba98f04a06&udm=web&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB054Dys3s2x_Qm_GJcU2DlSXgtwykOhjc8tZDD70ApjQy2WFTWLsCiX8ls24HEzSp7mV5ANnBsZq0oH_O2pn--TU-Rv8CsZ7_kpkmo15bwnUw-dc6iFkqMnbr66lG42p-lEjCMkoopNdh03y0pnS7aafKYlMCYlGjRFCgMZx4ec3evktE5J0fuoVl0gzr283mrTwpBniY&q=thalita.arquiteta+site:instagram.com&sa=X&ved=2ahUKEwiehfvw7NyTAxVnErkGHYXlMkMQs6gLegQIEBAB
+              - generic [ref=e101]: Web
+          - listitem [ref=e102]:
+            - button "Mais filtros" [ref=e103] [cursor=pointer]:
+              - generic "Mais filtros" [ref=e104]:
+                - generic [ref=e105]:
+                  - generic [ref=e106]: Mais
+                  - img [ref=e108]
+        - button "Ferramentas" [ref=e111] [cursor=pointer]:
+          - generic [ref=e113]:
+            - generic [ref=e114]: Ferramentas
+            - img [ref=e116]
+    - heading "Resultados da pesquisa" [level=1] [ref=e118]
+    - main [ref=e120]:
+      - generic [ref=e126]:
+        - generic [ref=e129]:
+          - generic [ref=e130] [cursor=pointer]:
+            - heading "Oi! Eu sou a Thalita, arquiteta formada pela UFMG há mais de 10 anos e especialista em Sustentabilidade do Ambiente Construído. Completamente apaixonada por arquitetura e design, há 4 anos, estou à" [level=3] [ref=e132]:
+              - button "Oi! Eu sou a Thalita, arquiteta formada pela UFMG há mais de 10 anos e especialista em Sustentabilidade do Ambiente Construído. Completamente apaixonada por arquitetura e design, há 4 anos, estou à" [ref=e134]:
+                - img "Oi! Eu sou a Thalita, arquiteta formada pela UFMG há mais de 10 anos e especialista em Sustentabilidade do Ambiente Construído. Completamente apaixonada por arquitetura e design, há 4 anos, estou à" [ref=e137]
+            - link "Instagram Oi! Eu sou a Thalita, arquiteta formada pela UFMG há mais de 10 anos e especialista em Sustentabilidade do Ambiente Construído. Completamente apaixonada por arquitetura e design, há 4 anos, estou à" [ref=e139]:
+              - /url: https://www.instagram.com/p/DBHBAJsO8lD/
+              - generic [ref=e144]: Instagram
+              - generic [ref=e146]: Oi! Eu sou a Thalita, arquiteta formada pela UFMG há mais de 10 anos e especialista em Sustentabilidade do Ambiente Construído. Completamente apaixonada por arquitetura e design, há 4 anos, estou à
+          - generic [ref=e147] [cursor=pointer]:
+            - heading "Com quase 16 anos de experiência como arquiteta, Thalita Targa transforma sonhos em realidade no universo da construção. Inspirada desde a infância pelo pai engenheiro civil, ela atua na Construtora Bergamasco, Domus" [level=3] [ref=e149]:
+              - button "Com quase 16 anos de experiência como arquiteta, Thalita Targa transforma sonhos em realidade no universo da construção. Inspirada desde a infância pelo pai engenheiro civil, ela atua na Construtora Bergamasco, Domus" [ref=e151]:
+                - img "Com quase 16 anos de experiência como arquiteta, Thalita Targa transforma sonhos em realidade no universo da construção. Inspirada desde a infância pelo pai engenheiro civil, ela atua na Construtora Bergamasco, Domus" [ref=e154]
+            - link "Instagram Com quase 16 anos de experiência como arquiteta, Thalita Targa transforma sonhos em realidade no universo da construção. Inspirada desde a infância pelo pai engenheiro civil, ela atua na Construtora Bergamasco, Domus" [ref=e156]:
+              - /url: https://www.instagram.com/p/DDFRx1hJmeT/
+              - generic [ref=e161]: Instagram
+              - generic [ref=e163]: Com quase 16 anos de experiência como arquiteta, Thalita Targa transforma sonhos em realidade no universo da construção. Inspirada desde a infância pelo pai engenheiro civil, ela atua na Construtora Bergamasco, Domus
+          - generic [ref=e164] [cursor=pointer]:
+            - heading "THALITA PITA ARQUITETA (@thalitapita.arquiteta) • Instagram photos and videos" [level=3] [ref=e166]:
+              - button "THALITA PITA ARQUITETA (@thalitapita.arquiteta) • Instagram photos and videos" [ref=e168]:
+                - img "THALITA PITA ARQUITETA (@thalitapita.arquiteta) • Instagram photos and videos" [ref=e171]
+            - link "Instagram THALITA PITA ARQUITETA (@thalitapita.arquiteta) • Instagram photos and videos" [ref=e173]:
+              - /url: https://www.instagram.com/thalitapita.arquiteta/
+              - generic [ref=e178]: Instagram
+              - generic [ref=e180]: THALITA PITA ARQUITETA (@thalitapita.arquiteta) • Instagram photos and videos
+          - generic [ref=e181] [cursor=pointer]:
+            - heading "Arquiteta Thalita Dourado | (@arquiteta_thalitadourado) • Instagram photos and videos" [level=3] [ref=e183]:
+              - button "Arquiteta Thalita Dourado | (@arquiteta_thalitadourado) • Instagram photos and videos" [ref=e185]:
+                - img "Arquiteta Thalita Dourado | (@arquiteta_thalitadourado) • Instagram photos and videos" [ref=e188]
+            - link "Instagram Arquiteta Thalita Dourado | (@arquiteta_thalitadourado) • Instagram photos and videos" [ref=e190]:
+              - /url: https://www.instagram.com/arquiteta_thalitadourado/
+              - generic [ref=e195]: Instagram
+              - generic [ref=e197]: Arquiteta Thalita Dourado | (@arquiteta_thalitadourado) • Instagram photos and videos
+          - generic [ref=e198] [cursor=pointer]:
+            - generic [ref=e199]:
+              - heading "O Meu Michelangelo, com Thalita Peron✨ A arquiteta Thalita Peron, parceira há anos, escolheu nossos materiais para criar espaços que refletem sua visão única dentro do seu próprio lar. Colunas, bancadas de" [level=3] [ref=e200]:
+                - button "O Meu Michelangelo, com Thalita Peron✨ A arquiteta Thalita Peron, parceira há anos, escolheu nossos materiais para criar espaços que refletem sua visão única dentro do seu próprio lar. Colunas, bancadas de" [ref=e202]:
+                  - img "O Meu Michelangelo, com Thalita Peron✨ A arquiteta Thalita Peron, parceira há anos, escolheu nossos materiais para criar espaços que refletem sua visão única dentro do seu próprio lar. Colunas, bancadas de" [ref=e205]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram O Meu Michelangelo, com Thalita Peron✨ A arquiteta Thalita Peron, parceira há anos, escolheu nossos materiais para criar espaços que refletem sua visão única dentro do seu próprio lar. Colunas, bancadas de" [ref=e207]:
+              - /url: https://www.instagram.com/reel/C2AF-EZr9Kj/
+              - generic [ref=e212]: Instagram
+              - generic [ref=e214]: O Meu Michelangelo, com Thalita Peron✨ A arquiteta Thalita Peron, parceira há anos, escolheu nossos materiais para criar espaços que refletem sua visão única dentro do seu próprio lar. Colunas, bancadas de
+          - generic [ref=e215] [cursor=pointer]:
+            - generic [ref=e216]:
+              - heading "Ela confiou em nós quando tudo ainda era começo. A Thalita Targa é arquiteta especialista em execução de obras e acompanha o Roberto desde o início de sua carreira. São 17 anos" [level=3] [ref=e217]:
+                - button "Ela confiou em nós quando tudo ainda era começo. A Thalita Targa é arquiteta especialista em execução de obras e acompanha o Roberto desde o início de sua carreira. São 17 anos" [ref=e219]:
+                  - img "Ela confiou em nós quando tudo ainda era começo. A Thalita Targa é arquiteta especialista em execução de obras e acompanha o Roberto desde o início de sua carreira. São 17 anos" [ref=e222]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Ela confiou em nós quando tudo ainda era começo. A Thalita Targa é arquiteta especialista em execução de obras e acompanha o Roberto desde o início de sua carreira. São 17 anos" [ref=e224]:
+              - /url: https://www.instagram.com/p/DKktoitxC7W/
+              - generic [ref=e229]: Instagram
+              - generic [ref=e231]: Ela confiou em nós quando tudo ainda era começo. A Thalita Targa é arquiteta especialista em execução de obras e acompanha o Roberto desde o início de sua carreira. São 17 anos
+          - generic [ref=e232] [cursor=pointer]:
+            - heading "Thalita Tanan Rebouças (@thalitatananr.arquitetura) • Instagram photos and videos" [level=3] [ref=e234]:
+              - button "Thalita Tanan Rebouças (@thalitatananr.arquitetura) • Instagram photos and videos" [ref=e236]:
+                - img "Thalita Tanan Rebouças (@thalitatananr.arquitetura) • Instagram photos and videos" [ref=e239]
+            - link "Instagram Thalita Tanan Rebouças (@thalitatananr.arquitetura) • Instagram photos and videos" [ref=e241]:
+              - /url: https://www.instagram.com/thalitatananr.arquitetura/
+              - generic [ref=e246]: Instagram
+              - generic [ref=e248]: Thalita Tanan Rebouças (@thalitatananr.arquitetura) • Instagram photos and videos
+          - generic [ref=e249] [cursor=pointer]:
+            - heading "Thalita Desiree | Arquiteta Curitiba (@arquitetathalitadesiree) • Instagram photos and videos" [level=3] [ref=e251]:
+              - button "Thalita Desiree | Arquiteta Curitiba (@arquitetathalitadesiree) • Instagram photos and videos" [ref=e253]:
+                - img "Thalita Desiree | Arquiteta Curitiba (@arquitetathalitadesiree) • Instagram photos and videos" [ref=e256]
+            - link "Instagram Thalita Desiree | Arquiteta Curitiba (@arquitetathalitadesiree) • Instagram photos and videos" [ref=e258]:
+              - /url: https://www.instagram.com/arquitetathalitadesiree/
+              - generic [ref=e263]: Instagram
+              - generic [ref=e265]: Thalita Desiree | Arquiteta Curitiba (@arquitetathalitadesiree) • Instagram photos and videos
+          - generic [ref=e266] [cursor=pointer]:
+            - heading "Oieee...... Prazer eu sou a arquiteta Thalita Dourado, seja bem vindo a nosso lar! Uma mente criativa, que se adequa de forma dinâmica a ágil. Conhecida por minha dedicação e paixão pela" [level=3] [ref=e268]:
+              - button "Oieee...... Prazer eu sou a arquiteta Thalita Dourado, seja bem vindo a nosso lar! Uma mente criativa, que se adequa de forma dinâmica a ágil. Conhecida por minha dedicação e paixão pela" [ref=e270]:
+                - img "Oieee...... Prazer eu sou a arquiteta Thalita Dourado, seja bem vindo a nosso lar! Uma mente criativa, que se adequa de forma dinâmica a ágil. Conhecida por minha dedicação e paixão pela" [ref=e273]
+            - link "Instagram Oieee...... Prazer eu sou a arquiteta Thalita Dourado, seja bem vindo a nosso lar! Uma mente criativa, que se adequa de forma dinâmica a ágil. Conhecida por minha dedicação e paixão pela" [ref=e275]:
+              - /url: https://www.instagram.com/p/DCjr3OnRnXh/
+              - generic [ref=e280]: Instagram
+              - generic [ref=e282]: Oieee...... Prazer eu sou a arquiteta Thalita Dourado, seja bem vindo a nosso lar! Uma mente criativa, que se adequa de forma dinâmica a ágil. Conhecida por minha dedicação e paixão pela
+          - generic [ref=e283] [cursor=pointer]:
+            - heading "Oieee...... Prazer eu sou a arquiteta Thalita Dourado, seja bem vindo a nosso lar! Uma mente criativa, que se adequa de forma dinâmica a ágil. Conhecida por minha dedicação e paixão pela" [level=3] [ref=e285]:
+              - button "Oieee...... Prazer eu sou a arquiteta Thalita Dourado, seja bem vindo a nosso lar! Uma mente criativa, que se adequa de forma dinâmica a ágil. Conhecida por minha dedicação e paixão pela" [ref=e287]:
+                - img "Oieee...... Prazer eu sou a arquiteta Thalita Dourado, seja bem vindo a nosso lar! Uma mente criativa, que se adequa de forma dinâmica a ágil. Conhecida por minha dedicação e paixão pela" [ref=e290]
+            - link "Instagram Oieee...... Prazer eu sou a arquiteta Thalita Dourado, seja bem vindo a nosso lar! Uma mente criativa, que se adequa de forma dinâmica a ágil. Conhecida por minha dedicação e paixão pela" [ref=e292]:
+              - /url: https://www.instagram.com/p/DCjr3OnRnXh/
+              - generic [ref=e297]: Instagram
+              - generic [ref=e299]: Oieee...... Prazer eu sou a arquiteta Thalita Dourado, seja bem vindo a nosso lar! Uma mente criativa, que se adequa de forma dinâmica a ágil. Conhecida por minha dedicação e paixão pela
+          - generic [ref=e300] [cursor=pointer]:
+            - heading "Thalita Hellen | Arquitetura, Interiores e urbanismo (@souarquiteta.thalita) • Instagram photos and videos" [level=3] [ref=e302]:
+              - button "Thalita Hellen | Arquitetura, Interiores e urbanismo (@souarquiteta.thalita) • Instagram photos and videos" [ref=e304]:
+                - img "Thalita Hellen | Arquitetura, Interiores e urbanismo (@souarquiteta.thalita) • Instagram photos and videos" [ref=e307]
+            - link "Instagram Thalita Hellen | Arquitetura, Interiores e urbanismo (@souarquiteta.thalita) • Instagram photos and videos" [ref=e309]:
+              - /url: https://www.instagram.com/souarquiteta.thalita/
+              - generic [ref=e314]: Instagram
+              - generic [ref=e316]: Thalita Hellen | Arquitetura, Interiores e urbanismo (@souarquiteta.thalita) • Instagram photos and videos
+          - generic [ref=e317] [cursor=pointer]:
+            - heading "Oieee...... Prazer eu sou a arquiteta Thalita Dourado, seja bem vindo a nosso lar! Uma mente criativa, que se adequa de forma dinâmica a ágil. Conhecida por minha dedicação e paixão pela" [level=3] [ref=e319]:
+              - button "Oieee...... Prazer eu sou a arquiteta Thalita Dourado, seja bem vindo a nosso lar! Uma mente criativa, que se adequa de forma dinâmica a ágil. Conhecida por minha dedicação e paixão pela" [ref=e321]:
+                - img "Oieee...... Prazer eu sou a arquiteta Thalita Dourado, seja bem vindo a nosso lar! Uma mente criativa, que se adequa de forma dinâmica a ágil. Conhecida por minha dedicação e paixão pela" [ref=e324]
+            - link "Instagram Oieee...... Prazer eu sou a arquiteta Thalita Dourado, seja bem vindo a nosso lar! Uma mente criativa, que se adequa de forma dinâmica a ágil. Conhecida por minha dedicação e paixão pela" [ref=e326]:
+              - /url: https://www.instagram.com/p/DCjr3OnRnXh/
+              - generic [ref=e331]: Instagram
+              - generic [ref=e333]: Oieee...... Prazer eu sou a arquiteta Thalita Dourado, seja bem vindo a nosso lar! Uma mente criativa, que se adequa de forma dinâmica a ágil. Conhecida por minha dedicação e paixão pela
+          - generic [ref=e334] [cursor=pointer]:
+            - heading "Oieee...... Prazer eu sou a arquiteta Thalita Dourado, seja bem vindo a nosso lar! Uma mente criativa, que se adequa de forma dinâmica a ágil. Conhecida por minha dedicação e paixão pela" [level=3] [ref=e336]:
+              - button "Oieee...... Prazer eu sou a arquiteta Thalita Dourado, seja bem vindo a nosso lar! Uma mente criativa, que se adequa de forma dinâmica a ágil. Conhecida por minha dedicação e paixão pela" [ref=e338]:
+                - img "Oieee...... Prazer eu sou a arquiteta Thalita Dourado, seja bem vindo a nosso lar! Uma mente criativa, que se adequa de forma dinâmica a ágil. Conhecida por minha dedicação e paixão pela" [ref=e341]
+            - link "Instagram Oieee...... Prazer eu sou a arquiteta Thalita Dourado, seja bem vindo a nosso lar! Uma mente criativa, que se adequa de forma dinâmica a ágil. Conhecida por minha dedicação e paixão pela" [ref=e343]:
+              - /url: https://www.instagram.com/p/DCjr3OnRnXh/
+              - generic [ref=e348]: Instagram
+              - generic [ref=e350]: Oieee...... Prazer eu sou a arquiteta Thalita Dourado, seja bem vindo a nosso lar! Uma mente criativa, que se adequa de forma dinâmica a ágil. Conhecida por minha dedicação e paixão pela
+          - generic [ref=e351] [cursor=pointer]:
+            - heading "Thalita Rocha - Arquiteta (@arq.thalitarocha) • Instagram photos and videos" [level=3] [ref=e353]:
+              - button "Thalita Rocha - Arquiteta (@arq.thalitarocha) • Instagram photos and videos" [ref=e355]:
+                - img "Thalita Rocha - Arquiteta (@arq.thalitarocha) • Instagram photos and videos" [ref=e358]
+            - link "Instagram Thalita Rocha - Arquiteta (@arq.thalitarocha) • Instagram photos and videos" [ref=e360]:
+              - /url: https://www.instagram.com/arq.thalitarocha/
+              - generic [ref=e365]: Instagram
+              - generic [ref=e367]: Thalita Rocha - Arquiteta (@arq.thalitarocha) • Instagram photos and videos
+          - generic [ref=e368] [cursor=pointer]:
+            - heading "THALITA SOUZA | ARQUITETURA (@arq.thalitasouza) • Instagram photos and videos" [level=3] [ref=e370]:
+              - button "THALITA SOUZA | ARQUITETURA (@arq.thalitasouza) • Instagram photos and videos" [ref=e372]:
+                - img "THALITA SOUZA | ARQUITETURA (@arq.thalitasouza) • Instagram photos and videos" [ref=e375]
+            - link "Instagram THALITA SOUZA | ARQUITETURA (@arq.thalitasouza) • Instagram photos and videos" [ref=e377]:
+              - /url: https://www.instagram.com/arq.thalitasouza/
+              - generic [ref=e382]: Instagram
+              - generic [ref=e384]: THALITA SOUZA | ARQUITETURA (@arq.thalitasouza) • Instagram photos and videos
+          - generic [ref=e385] [cursor=pointer]:
+            - heading "Thalita Chouman | Arquiteta (@thalitachouman.arq) • Instagram photos and videos" [level=3] [ref=e387]:
+              - button "Thalita Chouman | Arquiteta (@thalitachouman.arq) • Instagram photos and videos" [ref=e389]:
+                - img "Thalita Chouman | Arquiteta (@thalitachouman.arq) • Instagram photos and videos" [ref=e392]
+            - link "Instagram Thalita Chouman | Arquiteta (@thalitachouman.arq) • Instagram photos and videos" [ref=e394]:
+              - /url: https://www.instagram.com/thalitachouman.arq/
+              - generic [ref=e399]: Instagram
+              - generic [ref=e401]: Thalita Chouman | Arquiteta (@thalitachouman.arq) • Instagram photos and videos
+          - generic [ref=e402] [cursor=pointer]:
+            - heading "Oieee...... Prazer eu sou a arquiteta Thalita Dourado, seja bem vindo a nosso lar! Uma mente criativa, que se adequa de forma dinâmica a ágil. Conhecida por minha dedicação e paixão pela" [level=3] [ref=e404]:
+              - button "Oieee...... Prazer eu sou a arquiteta Thalita Dourado, seja bem vindo a nosso lar! Uma mente criativa, que se adequa de forma dinâmica a ágil. Conhecida por minha dedicação e paixão pela" [ref=e406]:
+                - img "Oieee...... Prazer eu sou a arquiteta Thalita Dourado, seja bem vindo a nosso lar! Uma mente criativa, que se adequa de forma dinâmica a ágil. Conhecida por minha dedicação e paixão pela" [ref=e409]
+            - link "Instagram Oieee...... Prazer eu sou a arquiteta Thalita Dourado, seja bem vindo a nosso lar! Uma mente criativa, que se adequa de forma dinâmica a ágil. Conhecida por minha dedicação e paixão pela" [ref=e411]:
+              - /url: https://www.instagram.com/p/DCjr3OnRnXh/
+              - generic [ref=e416]: Instagram
+              - generic [ref=e418]: Oieee...... Prazer eu sou a arquiteta Thalita Dourado, seja bem vindo a nosso lar! Uma mente criativa, que se adequa de forma dinâmica a ágil. Conhecida por minha dedicação e paixão pela
+          - generic [ref=e419] [cursor=pointer]:
+            - heading "THALITA SOUZA | ARQUITETURA (@arq.thalitasouza) • Instagram photos and videos" [level=3] [ref=e421]:
+              - button "THALITA SOUZA | ARQUITETURA (@arq.thalitasouza) • Instagram photos and videos" [ref=e423]:
+                - img "THALITA SOUZA | ARQUITETURA (@arq.thalitasouza) • Instagram photos and videos" [ref=e426]
+            - link "Instagram THALITA SOUZA | ARQUITETURA (@arq.thalitasouza) • Instagram photos and videos" [ref=e428]:
+              - /url: https://www.instagram.com/arq.thalitasouza/
+              - generic [ref=e433]: Instagram
+              - generic [ref=e435]: THALITA SOUZA | ARQUITETURA (@arq.thalitasouza) • Instagram photos and videos
+          - generic [ref=e436] [cursor=pointer]:
+            - heading "Thalita Souza (@thalitasouza.arquitetura) · Jesuítas, PR" [level=3] [ref=e438]:
+              - button "Thalita Souza (@thalitasouza.arquitetura) · Jesuítas, PR" [ref=e440]:
+                - img "Thalita Souza (@thalitasouza.arquitetura) · Jesuítas, PR" [ref=e443]
+            - link "Instagram Thalita Souza (@thalitasouza.arquitetura) · Jesuítas, PR" [ref=e445]:
+              - /url: https://www.instagram.com/thalitasouza.arquitetura/
+              - generic [ref=e450]: Instagram
+              - generic [ref=e452]: Thalita Souza (@thalitasouza.arquitetura) · Jesuítas, PR
+          - generic [ref=e453] [cursor=pointer]:
+            - generic [ref=e454]:
+              - heading "Thalita Tanan Rebouças (@thalitatananr.arquitetura) • Instagram photos and videos" [level=3] [ref=e455]:
+                - button "Thalita Tanan Rebouças (@thalitatananr.arquitetura) • Instagram photos and videos" [ref=e457]:
+                  - img "Thalita Tanan Rebouças (@thalitatananr.arquitetura) • Instagram photos and videos" [ref=e460]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Thalita Tanan Rebouças (@thalitatananr.arquitetura) • Instagram photos and videos" [ref=e462]:
+              - /url: https://www.instagram.com/thalitatananr.arquitetura/
+              - generic [ref=e467]: Instagram
+              - generic [ref=e469]: Thalita Tanan Rebouças (@thalitatananr.arquitetura) • Instagram photos and videos
+          - generic [ref=e470] [cursor=pointer]:
+            - heading "Thalita Valle | Arquitetura e Eventos (@thalitavalle.arquitetura) • Instagram photos and videos" [level=3] [ref=e472]:
+              - button "Thalita Valle | Arquitetura e Eventos (@thalitavalle.arquitetura) • Instagram photos and videos" [ref=e474]:
+                - img "Thalita Valle | Arquitetura e Eventos (@thalitavalle.arquitetura) • Instagram photos and videos" [ref=e477]
+            - link "Instagram Thalita Valle | Arquitetura e Eventos (@thalitavalle.arquitetura) • Instagram photos and videos" [ref=e479]:
+              - /url: https://www.instagram.com/thalitavalle.arquitetura/
+              - generic [ref=e484]: Instagram
+              - generic [ref=e486]: Thalita Valle | Arquitetura e Eventos (@thalitavalle.arquitetura) • Instagram photos and videos
+          - generic [ref=e487] [cursor=pointer]:
+            - generic [ref=e488]:
+              - 'heading "Thalita Oliveira | Realizando com maestria a arte de projetar, sigo feliz sem saber fazer café! 😂🫠 . . . #arquiteta #arquitetura #memearquitetura | Instagram" [level=3] [ref=e489]':
+                - 'button "Thalita Oliveira | Realizando com maestria a arte de projetar, sigo feliz sem saber fazer café! 😂🫠 . . . #arquiteta #arquitetura #memearquitetura | Instagram" [ref=e491]':
+                  - 'img "Thalita Oliveira | Realizando com maestria a arte de projetar, sigo feliz sem saber fazer café! 😂🫠 . . . #arquiteta #arquitetura #memearquitetura | Instagram" [ref=e494]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Thalita Oliveira | Realizando com maestria a arte de projetar, sigo feliz sem saber fazer café! 😂🫠 . . . #arquiteta #arquitetura #memearquitetura | Instagram" [ref=e496]':
+              - /url: https://www.instagram.com/p/DMYsbzXSND4/
+              - generic [ref=e501]: Instagram
+              - generic [ref=e503]: "Thalita Oliveira | Realizando com maestria a arte de projetar, sigo feliz sem saber fazer café! 😂🫠 . . . #arquiteta #arquitetura #memearquitetura | Instagram"
+          - generic [ref=e504] [cursor=pointer]:
+            - generic [ref=e505]:
+              - heading "Fortalecendo o mercado local através da união e da troca de experiências entre profissionais! A arquiteta Thalita Nogueira detalha como o Metropolitano Arquitetura funciona como um ecossistema de networking e suporte em" [level=3] [ref=e506]:
+                - button "Fortalecendo o mercado local através da união e da troca de experiências entre profissionais! A arquiteta Thalita Nogueira detalha como o Metropolitano Arquitetura funciona como um ecossistema de networking e suporte em" [ref=e508]:
+                  - img "Fortalecendo o mercado local através da união e da troca de experiências entre profissionais! A arquiteta Thalita Nogueira detalha como o Metropolitano Arquitetura funciona como um ecossistema de networking e suporte em" [ref=e511]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Fortalecendo o mercado local através da união e da troca de experiências entre profissionais! A arquiteta Thalita Nogueira detalha como o Metropolitano Arquitetura funciona como um ecossistema de networking e suporte em" [ref=e513]:
+              - /url: https://www.instagram.com/reel/DWB0N0KlJ8n/
+              - generic [ref=e518]: Instagram
+              - generic [ref=e520]: Fortalecendo o mercado local através da união e da troca de experiências entre profissionais! A arquiteta Thalita Nogueira detalha como o Metropolitano Arquitetura funciona como um ecossistema de networking e suporte em
+          - generic [ref=e521] [cursor=pointer]:
+            - heading "✨ Você me contratou como arquiteta… mas o que isso realmente inclui? Muito além de “desenhar bonito”, existe todo um processo pensado em cada detalhe 👇 📐 Levantamento 📝 Briefing 💡 Proposta" [level=3] [ref=e523]:
+              - button "✨ Você me contratou como arquiteta… mas o que isso realmente inclui? Muito além de “desenhar bonito”, existe todo um processo pensado em cada detalhe 👇 📐 Levantamento 📝 Briefing 💡 Proposta" [ref=e525]:
+                - img "✨ Você me contratou como arquiteta… mas o que isso realmente inclui? Muito além de “desenhar bonito”, existe todo um processo pensado em cada detalhe 👇 📐 Levantamento 📝 Briefing 💡 Proposta" [ref=e528]
+            - link "Instagram ✨ Você me contratou como arquiteta… mas o que isso realmente inclui? Muito além de “desenhar bonito”, existe todo um processo pensado em cada detalhe 👇 📐 Levantamento 📝 Briefing 💡 Proposta" [ref=e530]:
+              - /url: https://www.instagram.com/reel/DWZGPNjxWbx/
+              - generic [ref=e535]: Instagram
+              - generic [ref=e537]: ✨ Você me contratou como arquiteta… mas o que isso realmente inclui? Muito além de “desenhar bonito”, existe todo um processo pensado em cada detalhe 👇 📐 Levantamento 📝 Briefing 💡 Proposta
+          - generic [ref=e538] [cursor=pointer]:
+            - heading "Não é só sobre fazer projetos, é sobre respirar, viver e se dedicar todo dia a essa profissão ♥️🙏🏻" [level=3] [ref=e540]:
+              - button "Não é só sobre fazer projetos, é sobre respirar, viver e se dedicar todo dia a essa profissão ♥️🙏🏻" [ref=e542]:
+                - img "Não é só sobre fazer projetos, é sobre respirar, viver e se dedicar todo dia a essa profissão ♥️🙏🏻" [ref=e545]
+            - link "Instagram Não é só sobre fazer projetos, é sobre respirar, viver e se dedicar todo dia a essa profissão ♥️🙏🏻" [ref=e547]:
+              - /url: https://www.instagram.com/p/DUgoXtOj7WB/
+              - generic [ref=e552]: Instagram
+              - generic [ref=e554]: Não é só sobre fazer projetos, é sobre respirar, viver e se dedicar todo dia a essa profissão ♥️🙏🏻
+          - generic [ref=e555] [cursor=pointer]:
+            - heading "Thalita França | ARQUITETA (@thalitafranca.arquitetura) • Instagram photos and videos" [level=3] [ref=e557]:
+              - button "Thalita França | ARQUITETA (@thalitafranca.arquitetura) • Instagram photos and videos" [ref=e559]:
+                - img "Thalita França | ARQUITETA (@thalitafranca.arquitetura) • Instagram photos and videos" [ref=e562]
+            - link "Instagram Thalita França | ARQUITETA (@thalitafranca.arquitetura) • Instagram photos and videos" [ref=e564]:
+              - /url: https://www.instagram.com/thalitafranca.arquitetura/
+              - generic [ref=e569]: Instagram
+              - generic [ref=e571]: Thalita França | ARQUITETA (@thalitafranca.arquitetura) • Instagram photos and videos
+          - generic [ref=e572] [cursor=pointer]:
+            - heading "Thalita Resende (@thalitaresende) • Instagram photos and videos" [level=3] [ref=e574]:
+              - button "Thalita Resende (@thalitaresende) • Instagram photos and videos" [ref=e576]:
+                - img "Thalita Resende (@thalitaresende) • Instagram photos and videos" [ref=e579]
+            - link "Instagram Thalita Resende (@thalitaresende) • Instagram photos and videos" [ref=e581]:
+              - /url: https://www.instagram.com/thalitaresende/
+              - generic [ref=e586]: Instagram
+              - generic [ref=e588]: Thalita Resende (@thalitaresende) • Instagram photos and videos
+          - generic [ref=e589] [cursor=pointer]:
+            - heading "Thalita Chouman | Arquiteta (@thalitachouman.arq) • Instagram photos and videos" [level=3] [ref=e591]:
+              - button "Thalita Chouman | Arquiteta (@thalitachouman.arq) • Instagram photos and videos" [ref=e593]:
+                - img "Thalita Chouman | Arquiteta (@thalitachouman.arq) • Instagram photos and videos" [ref=e596]
+            - link "Instagram Thalita Chouman | Arquiteta (@thalitachouman.arq) • Instagram photos and videos" [ref=e598]:
+              - /url: https://www.instagram.com/thalitachouman.arq/
+              - generic [ref=e603]: Instagram
+              - generic [ref=e605]: Thalita Chouman | Arquiteta (@thalitachouman.arq) • Instagram photos and videos
+          - generic [ref=e606] [cursor=pointer]:
+            - generic [ref=e607]:
+              - heading "Venham conhecer o studio Thalita Pimentel de Madureira! 💜 Um lugar projetado pela arquiteta @estudioile que transformou um sonho em realidade, e claro, se você quiser ter um sonho realizado também ," [level=3] [ref=e608]:
+                - button "Venham conhecer o studio Thalita Pimentel de Madureira! 💜 Um lugar projetado pela arquiteta @estudioile que transformou um sonho em realidade, e claro, se você quiser ter um sonho realizado também ," [ref=e610]:
+                  - img "Venham conhecer o studio Thalita Pimentel de Madureira! 💜 Um lugar projetado pela arquiteta @estudioile que transformou um sonho em realidade, e claro, se você quiser ter um sonho realizado também ," [ref=e613]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Venham conhecer o studio Thalita Pimentel de Madureira! 💜 Um lugar projetado pela arquiteta @estudioile que transformou um sonho em realidade, e claro, se você quiser ter um sonho realizado também ," [ref=e615]:
+              - /url: https://www.instagram.com/reel/DSDouZ7DolI/
+              - generic [ref=e620]: Instagram
+              - generic [ref=e622]: Venham conhecer o studio Thalita Pimentel de Madureira! 💜 Um lugar projetado pela arquiteta @estudioile que transformou um sonho em realidade, e claro, se você quiser ter um sonho realizado também ,
+          - generic [ref=e623] [cursor=pointer]:
+            - 'heading "Quando pensava no meu casamento, eu sempre imaginava: “quero me casar na luz do dia, com um lago lindo de fundo pra refletir o sol”. Pois bem, Deus nos presenteou com um" [level=3] [ref=e625]':
+              - 'button "Quando pensava no meu casamento, eu sempre imaginava: “quero me casar na luz do dia, com um lago lindo de fundo pra refletir o sol”. Pois bem, Deus nos presenteou com um" [ref=e627]':
+                - 'img "Quando pensava no meu casamento, eu sempre imaginava: “quero me casar na luz do dia, com um lago lindo de fundo pra refletir o sol”. Pois bem, Deus nos presenteou com um" [ref=e630]'
+            - 'link "Instagram Quando pensava no meu casamento, eu sempre imaginava: “quero me casar na luz do dia, com um lago lindo de fundo pra refletir o sol”. Pois bem, Deus nos presenteou com um" [ref=e632]':
+              - /url: https://www.instagram.com/p/CfElWDzrAW6/
+              - generic [ref=e637]: Instagram
+              - generic [ref=e639]: "Quando pensava no meu casamento, eu sempre imaginava: “quero me casar na luz do dia, com um lago lindo de fundo pra refletir o sol”. Pois bem, Deus nos presenteou com um"
+          - generic [ref=e640] [cursor=pointer]:
+            - heading "🔨✨ Minhas técnicas para economizar na sua reforma! A reforma dos seus sonhos não precisa sair do orçamento! Com o planejamento certo, é possível otimizar custos e garantir qualidade na obra! Com" [level=3] [ref=e642]:
+              - button "🔨✨ Minhas técnicas para economizar na sua reforma! A reforma dos seus sonhos não precisa sair do orçamento! Com o planejamento certo, é possível otimizar custos e garantir qualidade na obra! Com" [ref=e644]:
+                - img "🔨✨ Minhas técnicas para economizar na sua reforma! A reforma dos seus sonhos não precisa sair do orçamento! Com o planejamento certo, é possível otimizar custos e garantir qualidade na obra! Com" [ref=e647]
+            - link "Instagram 🔨✨ Minhas técnicas para economizar na sua reforma! A reforma dos seus sonhos não precisa sair do orçamento! Com o planejamento certo, é possível otimizar custos e garantir qualidade na obra! Com" [ref=e649]:
+              - /url: https://www.instagram.com/p/DHBbIegxvqb/
+              - generic [ref=e654]: Instagram
+              - generic [ref=e656]: 🔨✨ Minhas técnicas para economizar na sua reforma! A reforma dos seus sonhos não precisa sair do orçamento! Com o planejamento certo, é possível otimizar custos e garantir qualidade na obra! Com
+          - generic [ref=e657] [cursor=pointer]:
+            - heading "Thalita Desiree | Arquiteta Curitiba (@arquitetathalitadesiree) • Instagram photos and videos" [level=3] [ref=e659]:
+              - button "Thalita Desiree | Arquiteta Curitiba (@arquitetathalitadesiree) • Instagram photos and videos" [ref=e661]:
+                - img "Thalita Desiree | Arquiteta Curitiba (@arquitetathalitadesiree) • Instagram photos and videos" [ref=e664]
+            - link "Instagram Thalita Desiree | Arquiteta Curitiba (@arquitetathalitadesiree) • Instagram photos and videos" [ref=e666]:
+              - /url: https://www.instagram.com/arquitetathalitadesiree/
+              - generic [ref=e671]: Instagram
+              - generic [ref=e673]: Thalita Desiree | Arquiteta Curitiba (@arquitetathalitadesiree) • Instagram photos and videos
+          - generic [ref=e674] [cursor=pointer]:
+            - heading "Thalita Marchiori (@arq_thalitamarchiori) • Instagram photos and videos" [level=3] [ref=e676]:
+              - button "Thalita Marchiori (@arq_thalitamarchiori) • Instagram photos and videos" [ref=e678]:
+                - img "Thalita Marchiori (@arq_thalitamarchiori) • Instagram photos and videos" [ref=e681]
+            - link "Instagram Thalita Marchiori (@arq_thalitamarchiori) • Instagram photos and videos" [ref=e683]:
+              - /url: https://www.instagram.com/arq_thalitamarchiori/
+              - generic [ref=e688]: Instagram
+              - generic [ref=e690]: Thalita Marchiori (@arq_thalitamarchiori) • Instagram photos and videos
+          - generic [ref=e691] [cursor=pointer]:
+            - heading "Thalita Souza (@thalitasouza.arquitetura) · Jesuítas, PR" [level=3] [ref=e693]:
+              - button "Thalita Souza (@thalitasouza.arquitetura) · Jesuítas, PR" [ref=e695]:
+                - img "Thalita Souza (@thalitasouza.arquitetura) · Jesuítas, PR" [ref=e698]
+            - link "Instagram Thalita Souza (@thalitasouza.arquitetura) · Jesuítas, PR" [ref=e700]:
+              - /url: https://www.instagram.com/thalitasouza.arquitetura/
+              - generic [ref=e705]: Instagram
+              - generic [ref=e707]: Thalita Souza (@thalitasouza.arquitetura) · Jesuítas, PR
+          - generic [ref=e708] [cursor=pointer]:
+            - heading "Thalita Oliveira (@arquitetathalitaoliveira) • Instagram photos and videos" [level=3] [ref=e710]:
+              - button "Thalita Oliveira (@arquitetathalitaoliveira) • Instagram photos and videos" [ref=e712]:
+                - img "Thalita Oliveira (@arquitetathalitaoliveira) • Instagram photos and videos" [ref=e715]
+            - link "Instagram Thalita Oliveira (@arquitetathalitaoliveira) • Instagram photos and videos" [ref=e717]:
+              - /url: https://www.instagram.com/arquitetathalitaoliveira/
+              - generic [ref=e722]: Instagram
+              - generic [ref=e724]: Thalita Oliveira (@arquitetathalitaoliveira) • Instagram photos and videos
+          - generic [ref=e725] [cursor=pointer]:
+            - heading "Apartamento compacto com decoração atemporal 🍃✨ O uso de pedras naturais e madeira cria uma atmosfera aconchegante, enquanto o design otimiza o espaço sem abrir mão do conforto e da sofisticação. 🤍" [level=3] [ref=e727]:
+              - button "Apartamento compacto com decoração atemporal 🍃✨ O uso de pedras naturais e madeira cria uma atmosfera aconchegante, enquanto o design otimiza o espaço sem abrir mão do conforto e da sofisticação. 🤍" [ref=e729]:
+                - img "Apartamento compacto com decoração atemporal 🍃✨ O uso de pedras naturais e madeira cria uma atmosfera aconchegante, enquanto o design otimiza o espaço sem abrir mão do conforto e da sofisticação. 🤍" [ref=e732]
+            - link "Instagram Apartamento compacto com decoração atemporal 🍃✨ O uso de pedras naturais e madeira cria uma atmosfera aconchegante, enquanto o design otimiza o espaço sem abrir mão do conforto e da sofisticação. 🤍" [ref=e734]:
+              - /url: https://www.instagram.com/p/DHMcOOSPX3c/
+              - generic [ref=e739]: Instagram
+              - generic [ref=e741]: Apartamento compacto com decoração atemporal 🍃✨ O uso de pedras naturais e madeira cria uma atmosfera aconchegante, enquanto o design otimiza o espaço sem abrir mão do conforto e da sofisticação. 🤍
+          - generic [ref=e742] [cursor=pointer]:
+            - heading "Aqui está um pouco sobre mim...💡 Meu propósito é descobrir cada história única, para que juntos possamos criar experiências memoráveis que te conectem profundamente com o ambiente e transformar sonhos em realidades." [level=3] [ref=e744]:
+              - button "Aqui está um pouco sobre mim...💡 Meu propósito é descobrir cada história única, para que juntos possamos criar experiências memoráveis que te conectem profundamente com o ambiente e transformar sonhos em realidades." [ref=e746]:
+                - img "Aqui está um pouco sobre mim...💡 Meu propósito é descobrir cada história única, para que juntos possamos criar experiências memoráveis que te conectem profundamente com o ambiente e transformar sonhos em realidades." [ref=e749]
+            - link "Instagram Aqui está um pouco sobre mim...💡 Meu propósito é descobrir cada história única, para que juntos possamos criar experiências memoráveis que te conectem profundamente com o ambiente e transformar sonhos em realidades." [ref=e751]:
+              - /url: https://www.instagram.com/p/DHoNXcDuWG0/
+              - generic [ref=e756]: Instagram
+              - generic [ref=e758]: Aqui está um pouco sobre mim...💡 Meu propósito é descobrir cada história única, para que juntos possamos criar experiências memoráveis que te conectem profundamente com o ambiente e transformar sonhos em realidades.
+          - generic [ref=e759] [cursor=pointer]:
+            - heading "Arq. Yasmin Thalita (@arq.yasminthalita) · Curitiba, PR" [level=3] [ref=e761]:
+              - button "Arq. Yasmin Thalita (@arq.yasminthalita) · Curitiba, PR" [ref=e763]:
+                - img "Arq. Yasmin Thalita (@arq.yasminthalita) · Curitiba, PR" [ref=e766]
+            - link "Instagram Arq. Yasmin Thalita (@arq.yasminthalita) · Curitiba, PR" [ref=e768]:
+              - /url: https://www.instagram.com/arq.yasminthalita/
+              - generic [ref=e773]: Instagram
+              - generic [ref=e775]: Arq. Yasmin Thalita (@arq.yasminthalita) · Curitiba, PR
+          - generic [ref=e776] [cursor=pointer]:
+            - 'heading "Thalita Oliveira | Resultado de um projeto em um lote com uma topografia desafiadora! 🤍✨ Residência AC|C 📍Villa da Serra | Itabirito/MG . . . # arquitetura... | Instagram" [level=3] [ref=e778]':
+              - 'button "Thalita Oliveira | Resultado de um projeto em um lote com uma topografia desafiadora! 🤍✨ Residência AC|C 📍Villa da Serra | Itabirito/MG . . . # arquitetura... | Instagram" [ref=e780]':
+                - 'img "Thalita Oliveira | Resultado de um projeto em um lote com uma topografia desafiadora! 🤍✨ Residência AC|C 📍Villa da Serra | Itabirito/MG . . . # arquitetura... | Instagram" [ref=e783]'
+            - 'link "Instagram Thalita Oliveira | Resultado de um projeto em um lote com uma topografia desafiadora! 🤍✨ Residência AC|C 📍Villa da Serra | Itabirito/MG . . . # arquitetura... | Instagram" [ref=e785]':
+              - /url: https://www.instagram.com/p/DDfxqa1urDc/
+              - generic [ref=e790]: Instagram
+              - generic [ref=e792]: "Thalita Oliveira | Resultado de um projeto em um lote com uma topografia desafiadora! 🤍✨ Residência AC|C 📍Villa da Serra | Itabirito/MG . . . # arquitetura... | Instagram"
+          - generic [ref=e793] [cursor=pointer]:
+            - heading "Thalita Valle | Arquitetura e Eventos (@thalitavalle.arquitetura) • Instagram photos and videos" [level=3] [ref=e795]:
+              - button "Thalita Valle | Arquitetura e Eventos (@thalitavalle.arquitetura) • Instagram photos and videos" [ref=e797]:
+                - img "Thalita Valle | Arquitetura e Eventos (@thalitavalle.arquitetura) • Instagram photos and videos" [ref=e800]
+            - link "Instagram Thalita Valle | Arquitetura e Eventos (@thalitavalle.arquitetura) • Instagram photos and videos" [ref=e802]:
+              - /url: https://www.instagram.com/thalitavalle.arquitetura/
+              - generic [ref=e807]: Instagram
+              - generic [ref=e809]: Thalita Valle | Arquitetura e Eventos (@thalitavalle.arquitetura) • Instagram photos and videos
+          - generic [ref=e810] [cursor=pointer]:
+            - heading "Não é só sobre fazer projetos, é sobre respirar, viver e se dedicar todo dia a essa profissão ♥️🙏🏻" [level=3] [ref=e812]:
+              - button "Não é só sobre fazer projetos, é sobre respirar, viver e se dedicar todo dia a essa profissão ♥️🙏🏻" [ref=e814]:
+                - img "Não é só sobre fazer projetos, é sobre respirar, viver e se dedicar todo dia a essa profissão ♥️🙏🏻" [ref=e817]
+            - link "Instagram Não é só sobre fazer projetos, é sobre respirar, viver e se dedicar todo dia a essa profissão ♥️🙏🏻" [ref=e819]:
+              - /url: https://www.instagram.com/p/DUgoXtOj7WB/
+              - generic [ref=e824]: Instagram
+              - generic [ref=e826]: Não é só sobre fazer projetos, é sobre respirar, viver e se dedicar todo dia a essa profissão ♥️🙏🏻
+          - generic [ref=e827] [cursor=pointer]:
+            - heading "Thalita Marchiori (@arq_thalitamarchiori) • Instagram photos and videos" [level=3] [ref=e829]:
+              - button "Thalita Marchiori (@arq_thalitamarchiori) • Instagram photos and videos" [ref=e831]:
+                - img "Thalita Marchiori (@arq_thalitamarchiori) • Instagram photos and videos" [ref=e834]
+            - link "Instagram Thalita Marchiori (@arq_thalitamarchiori) • Instagram photos and videos" [ref=e836]:
+              - /url: https://www.instagram.com/arq_thalitamarchiori/
+              - generic [ref=e841]: Instagram
+              - generic [ref=e843]: Thalita Marchiori (@arq_thalitamarchiori) • Instagram photos and videos
+          - generic [ref=e844] [cursor=pointer]:
+            - heading "Thalita Tanan Rebouças (@thalitatananr.arquitetura) • Instagram photos and videos" [level=3] [ref=e846]:
+              - button "Thalita Tanan Rebouças (@thalitatananr.arquitetura) • Instagram photos and videos" [ref=e848]:
+                - img "Thalita Tanan Rebouças (@thalitatananr.arquitetura) • Instagram photos and videos" [ref=e851]
+            - link "Instagram Thalita Tanan Rebouças (@thalitatananr.arquitetura) • Instagram photos and videos" [ref=e853]:
+              - /url: https://www.instagram.com/thalitatananr.arquitetura/
+              - generic [ref=e858]: Instagram
+              - generic [ref=e860]: Thalita Tanan Rebouças (@thalitatananr.arquitetura) • Instagram photos and videos
+          - generic [ref=e861] [cursor=pointer]:
+            - heading "Thalita Prior + StudioJT | Arquitetura de Interiores (@thalitaprior.interiores) • Instagram photos and videos" [level=3] [ref=e863]:
+              - button "Thalita Prior + StudioJT | Arquitetura de Interiores (@thalitaprior.interiores) • Instagram photos and videos" [ref=e865]:
+                - img "Thalita Prior + StudioJT | Arquitetura de Interiores (@thalitaprior.interiores) • Instagram photos and videos" [ref=e868]
+            - link "Instagram Thalita Prior + StudioJT | Arquitetura de Interiores (@thalitaprior.interiores) • Instagram photos and videos" [ref=e870]:
+              - /url: https://www.instagram.com/thalitaprior.interiores/
+              - generic [ref=e875]: Instagram
+              - generic [ref=e877]: Thalita Prior + StudioJT | Arquitetura de Interiores (@thalitaprior.interiores) • Instagram photos and videos
+          - generic [ref=e878] [cursor=pointer]:
+            - heading "Sala de avaliação 🧡✨ Para finalizar esse projeto lindo, moderno e acolhedor! Me conta aqui, qual foi sua parte favorita 👇🏻" [level=3] [ref=e880]:
+              - button "Sala de avaliação 🧡✨ Para finalizar esse projeto lindo, moderno e acolhedor! Me conta aqui, qual foi sua parte favorita 👇🏻" [ref=e882]:
+                - img "Sala de avaliação 🧡✨ Para finalizar esse projeto lindo, moderno e acolhedor! Me conta aqui, qual foi sua parte favorita 👇🏻" [ref=e885]
+            - link "Instagram Sala de avaliação 🧡✨ Para finalizar esse projeto lindo, moderno e acolhedor! Me conta aqui, qual foi sua parte favorita 👇🏻" [ref=e887]:
+              - /url: https://www.instagram.com/p/DKM0rzIuOO_/
+              - generic [ref=e892]: Instagram
+              - generic [ref=e894]: Sala de avaliação 🧡✨ Para finalizar esse projeto lindo, moderno e acolhedor! Me conta aqui, qual foi sua parte favorita 👇🏻
+          - generic [ref=e895] [cursor=pointer]:
+            - heading "THALITA SOUZA | ARQUITETURA (@arq.thalitasouza) • Instagram photos and videos" [level=3] [ref=e897]:
+              - button "THALITA SOUZA | ARQUITETURA (@arq.thalitasouza) • Instagram photos and videos" [ref=e899]:
+                - img "THALITA SOUZA | ARQUITETURA (@arq.thalitasouza) • Instagram photos and videos" [ref=e902]
+            - link "Instagram THALITA SOUZA | ARQUITETURA (@arq.thalitasouza) • Instagram photos and videos" [ref=e904]:
+              - /url: https://www.instagram.com/arq.thalitasouza/
+              - generic [ref=e909]: Instagram
+              - generic [ref=e911]: THALITA SOUZA | ARQUITETURA (@arq.thalitasouza) • Instagram photos and videos
+          - generic [ref=e912] [cursor=pointer]:
+            - generic [ref=e913]:
+              - 'heading "Thalita Oliveira | 🤍✨ #arquiteta #arquitetura #sonhos #thalitaoliveiraarquitetura | Instagram" [level=3] [ref=e914]':
+                - 'button "Thalita Oliveira | 🤍✨ #arquiteta #arquitetura #sonhos #thalitaoliveiraarquitetura | Instagram" [ref=e916]':
+                  - 'img "Thalita Oliveira | 🤍✨ #arquiteta #arquitetura #sonhos #thalitaoliveiraarquitetura | Instagram" [ref=e919]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Thalita Oliveira | 🤍✨ #arquiteta #arquitetura #sonhos #thalitaoliveiraarquitetura | Instagram" [ref=e921]':
+              - /url: https://www.instagram.com/p/DQ6t6JwDRM3/
+              - generic [ref=e926]: Instagram
+              - generic [ref=e928]: "Thalita Oliveira | 🤍✨ #arquiteta #arquitetura #sonhos #thalitaoliveiraarquitetura | Instagram"
+          - generic [ref=e929] [cursor=pointer]:
+            - generic [ref=e930]:
+              - heading "Ser uma boa arquiteta não te livra dos desafios da obra, mas ter com quem contar muda tudo. A Thalita Valle é uma profissional criteriosa, responsável e sabe especificar. Mas mesmo assim," [level=3] [ref=e931]:
+                - button "Ser uma boa arquiteta não te livra dos desafios da obra, mas ter com quem contar muda tudo. A Thalita Valle é uma profissional criteriosa, responsável e sabe especificar. Mas mesmo assim," [ref=e933]:
+                  - img "Ser uma boa arquiteta não te livra dos desafios da obra, mas ter com quem contar muda tudo. A Thalita Valle é uma profissional criteriosa, responsável e sabe especificar. Mas mesmo assim," [ref=e936]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Ser uma boa arquiteta não te livra dos desafios da obra, mas ter com quem contar muda tudo. A Thalita Valle é uma profissional criteriosa, responsável e sabe especificar. Mas mesmo assim," [ref=e938]:
+              - /url: https://www.instagram.com/reel/DWUknIpBpIN/
+              - generic [ref=e943]: Instagram
+              - generic [ref=e945]: Ser uma boa arquiteta não te livra dos desafios da obra, mas ter com quem contar muda tudo. A Thalita Valle é uma profissional criteriosa, responsável e sabe especificar. Mas mesmo assim,
+          - generic [ref=e946] [cursor=pointer]:
+            - heading "Thalita Rocha - Arquiteta (@arq.thalitarocha) • Instagram photos and videos" [level=3] [ref=e948]:
+              - button "Thalita Rocha - Arquiteta (@arq.thalitarocha) • Instagram photos and videos" [ref=e950]:
+                - img "Thalita Rocha - Arquiteta (@arq.thalitarocha) • Instagram photos and videos" [ref=e953]
+            - link "Instagram Thalita Rocha - Arquiteta (@arq.thalitarocha) • Instagram photos and videos" [ref=e955]:
+              - /url: https://www.instagram.com/arq.thalitarocha/
+              - generic [ref=e960]: Instagram
+              - generic [ref=e962]: Thalita Rocha - Arquiteta (@arq.thalitarocha) • Instagram photos and videos
+          - generic [ref=e963] [cursor=pointer]:
+            - heading "Thalita Resende Arquitetura (@arquiteta.thalitaresende) • Instagram photos and videos" [level=3] [ref=e965]:
+              - button "Thalita Resende Arquitetura (@arquiteta.thalitaresende) • Instagram photos and videos" [ref=e967]:
+                - img "Thalita Resende Arquitetura (@arquiteta.thalitaresende) • Instagram photos and videos" [ref=e970]
+            - link "Instagram Thalita Resende Arquitetura (@arquiteta.thalitaresende) • Instagram photos and videos" [ref=e972]:
+              - /url: https://www.instagram.com/arquiteta.thalitaresende/
+              - generic [ref=e977]: Instagram
+              - generic [ref=e979]: Thalita Resende Arquitetura (@arquiteta.thalitaresende) • Instagram photos and videos
+          - generic [ref=e980] [cursor=pointer]:
+            - generic [ref=e981]:
+              - heading "Thalita Valle | Arquitetura e Eventos (@thalitavalle.arquitetura) • Instagram photos and videos" [level=3] [ref=e982]:
+                - button "Thalita Valle | Arquitetura e Eventos (@thalitavalle.arquitetura) • Instagram photos and videos" [ref=e984]:
+                  - img "Thalita Valle | Arquitetura e Eventos (@thalitavalle.arquitetura) • Instagram photos and videos" [ref=e987]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Thalita Valle | Arquitetura e Eventos (@thalitavalle.arquitetura) • Instagram photos and videos" [ref=e989]:
+              - /url: https://www.instagram.com/thalitavalle.arquitetura/
+              - generic [ref=e994]: Instagram
+              - generic [ref=e996]: Thalita Valle | Arquitetura e Eventos (@thalitavalle.arquitetura) • Instagram photos and videos
+          - generic [ref=e997] [cursor=pointer]:
+            - generic [ref=e998]:
+              - heading "As tendências de cores vão muito além da arquitetura. Embaixadora do Design Club ARAUCO, Thalita Carvalho (@casadecolorir), compartilha sua visão de especialista sobre cor e como ela é uma das mais" [level=3] [ref=e999]:
+                - button "As tendências de cores vão muito além da arquitetura. Embaixadora do Design Club ARAUCO, Thalita Carvalho (@casadecolorir), compartilha sua visão de especialista sobre cor e como ela é uma das mais" [ref=e1001]:
+                  - img "As tendências de cores vão muito além da arquitetura. Embaixadora do Design Club ARAUCO, Thalita Carvalho (@casadecolorir), compartilha sua visão de especialista sobre cor e como ela é uma das mais" [ref=e1004]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+                - text: ·
+                - generic: 4 dias atrás
+            - link "Instagram As tendências de cores vão muito além da arquitetura. Embaixadora do Design Club ARAUCO, Thalita Carvalho (@casadecolorir), compartilha sua visão de especialista sobre cor e como ela é uma das mais" [ref=e1006]:
+              - /url: https://www.instagram.com/reel/DWq8gc-FYRd/
+              - generic [ref=e1011]: Instagram
+              - generic [ref=e1013]: As tendências de cores vão muito além da arquitetura. Embaixadora do Design Club ARAUCO, Thalita Carvalho (@casadecolorir), compartilha sua visão de especialista sobre cor e como ela é uma das mais
+          - generic [ref=e1014] [cursor=pointer]:
+            - generic [ref=e1015]:
+              - heading "Thalita Hellen | Arquitetura, Interiores e urbanismo (@souarquiteta.thalita) • Instagram photos and videos" [level=3] [ref=e1016]:
+                - button "Thalita Hellen | Arquitetura, Interiores e urbanismo (@souarquiteta.thalita) • Instagram photos and videos" [ref=e1018]:
+                  - img "Thalita Hellen | Arquitetura, Interiores e urbanismo (@souarquiteta.thalita) • Instagram photos and videos" [ref=e1021]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Thalita Hellen | Arquitetura, Interiores e urbanismo (@souarquiteta.thalita) • Instagram photos and videos" [ref=e1023]:
+              - /url: https://www.instagram.com/souarquiteta.thalita/
+              - generic [ref=e1028]: Instagram
+              - generic [ref=e1030]: Thalita Hellen | Arquitetura, Interiores e urbanismo (@souarquiteta.thalita) • Instagram photos and videos
+          - generic [ref=e1031] [cursor=pointer]:
+            - generic [ref=e1032]:
+              - heading "THALITA PITA ARQUITETA (@thalitapita.arquiteta) • Instagram photos and videos" [level=3] [ref=e1033]:
+                - button "THALITA PITA ARQUITETA (@thalitapita.arquiteta) • Instagram photos and videos" [ref=e1035]:
+                  - img "THALITA PITA ARQUITETA (@thalitapita.arquiteta) • Instagram photos and videos" [ref=e1038]
+              - generic:
+                - generic: 6 dias atrás
+            - link "Instagram THALITA PITA ARQUITETA (@thalitapita.arquiteta) • Instagram photos and videos" [ref=e1040]:
+              - /url: https://www.instagram.com/thalitapita.arquiteta/
+              - generic [ref=e1045]: Instagram
+              - generic [ref=e1047]: THALITA PITA ARQUITETA (@thalitapita.arquiteta) • Instagram photos and videos
+          - generic [ref=e1048] [cursor=pointer]:
+            - heading "Por trás de cada projeto, existe uma história. E essa é a minha. Sou arquiteta formada pela Belas Artes e atuo na área desde 1993. Ao longo desses anos, vivi a arquitetura" [level=3] [ref=e1050]:
+              - button "Por trás de cada projeto, existe uma história. E essa é a minha. Sou arquiteta formada pela Belas Artes e atuo na área desde 1993. Ao longo desses anos, vivi a arquitetura" [ref=e1052]:
+                - img "Por trás de cada projeto, existe uma história. E essa é a minha. Sou arquiteta formada pela Belas Artes e atuo na área desde 1993. Ao longo desses anos, vivi a arquitetura" [ref=e1055]
+            - link "Instagram Por trás de cada projeto, existe uma história. E essa é a minha. Sou arquiteta formada pela Belas Artes e atuo na área desde 1993. Ao longo desses anos, vivi a arquitetura" [ref=e1057]:
+              - /url: https://www.instagram.com/p/DWuEBrnlnSz/
+              - generic [ref=e1062]: Instagram
+              - generic [ref=e1064]: Por trás de cada projeto, existe uma história. E essa é a minha. Sou arquiteta formada pela Belas Artes e atuo na área desde 1993. Ao longo desses anos, vivi a arquitetura
+          - generic [ref=e1065] [cursor=pointer]:
+            - heading "Orgulho de não ter desistido quando as pedras apareceram no caminho 🙏🏻👩🏻‍💻" [level=3] [ref=e1067]:
+              - button "Orgulho de não ter desistido quando as pedras apareceram no caminho 🙏🏻👩🏻‍💻" [ref=e1069]:
+                - img "Orgulho de não ter desistido quando as pedras apareceram no caminho 🙏🏻👩🏻‍💻" [ref=e1072]
+            - link "Instagram Orgulho de não ter desistido quando as pedras apareceram no caminho 🙏🏻👩🏻‍💻" [ref=e1074]:
+              - /url: https://www.instagram.com/p/DSQau0iD7aY/
+              - generic [ref=e1079]: Instagram
+              - generic [ref=e1081]: Orgulho de não ter desistido quando as pedras apareceram no caminho 🙏🏻👩🏻‍💻
+          - generic [ref=e1082] [cursor=pointer]:
+            - heading "Thalita Oliveira (@arquitetathalitaoliveira) • Instagram photos and videos" [level=3] [ref=e1084]:
+              - button "Thalita Oliveira (@arquitetathalitaoliveira) • Instagram photos and videos" [ref=e1086]:
+                - img "Thalita Oliveira (@arquitetathalitaoliveira) • Instagram photos and videos" [ref=e1089]
+            - link "Instagram Thalita Oliveira (@arquitetathalitaoliveira) • Instagram photos and videos" [ref=e1091]:
+              - /url: https://www.instagram.com/arquitetathalitaoliveira/
+              - generic [ref=e1096]: Instagram
+              - generic [ref=e1098]: Thalita Oliveira (@arquitetathalitaoliveira) • Instagram photos and videos
+          - generic [ref=e1099] [cursor=pointer]:
+            - heading "✨ Fachada contemporânea que impressiona pelo equilíbrio entre formas e materiais. Linhas retas, volumes bem definidos e uma composição que une pedra natural, ripado amadeirado e beirais, garantindo imponência, conforto térmico e" [level=3] [ref=e1101]:
+              - button "✨ Fachada contemporânea que impressiona pelo equilíbrio entre formas e materiais. Linhas retas, volumes bem definidos e uma composição que une pedra natural, ripado amadeirado e beirais, garantindo imponência, conforto térmico e" [ref=e1103]:
+                - img "✨ Fachada contemporânea que impressiona pelo equilíbrio entre formas e materiais. Linhas retas, volumes bem definidos e uma composição que une pedra natural, ripado amadeirado e beirais, garantindo imponência, conforto térmico e" [ref=e1106]
+            - link "Instagram ✨ Fachada contemporânea que impressiona pelo equilíbrio entre formas e materiais. Linhas retas, volumes bem definidos e uma composição que une pedra natural, ripado amadeirado e beirais, garantindo imponência, conforto térmico e" [ref=e1108]:
+              - /url: https://www.instagram.com/p/DTiW2p8jWgu/
+              - generic [ref=e1113]: Instagram
+              - generic [ref=e1115]: ✨ Fachada contemporânea que impressiona pelo equilíbrio entre formas e materiais. Linhas retas, volumes bem definidos e uma composição que une pedra natural, ripado amadeirado e beirais, garantindo imponência, conforto térmico e
+          - generic [ref=e1116] [cursor=pointer]:
+            - heading "Uma sala de TV pensada para desacelerar 🤍 Tons de cinza que acolhem, marcenaria que envolve paredes e forro criando unidade, e um sofá extremamente confortável convidando para momentos de pausa e" [level=3] [ref=e1118]:
+              - button "Uma sala de TV pensada para desacelerar 🤍 Tons de cinza que acolhem, marcenaria que envolve paredes e forro criando unidade, e um sofá extremamente confortável convidando para momentos de pausa e" [ref=e1120]:
+                - img "Uma sala de TV pensada para desacelerar 🤍 Tons de cinza que acolhem, marcenaria que envolve paredes e forro criando unidade, e um sofá extremamente confortável convidando para momentos de pausa e" [ref=e1123]
+            - link "Instagram Uma sala de TV pensada para desacelerar 🤍 Tons de cinza que acolhem, marcenaria que envolve paredes e forro criando unidade, e um sofá extremamente confortável convidando para momentos de pausa e" [ref=e1125]:
+              - /url: https://www.instagram.com/p/DWU9iozDPJy/
+              - generic [ref=e1130]: Instagram
+              - generic [ref=e1132]: Uma sala de TV pensada para desacelerar 🤍 Tons de cinza que acolhem, marcenaria que envolve paredes e forro criando unidade, e um sofá extremamente confortável convidando para momentos de pausa e
+          - generic [ref=e1133] [cursor=pointer]:
+            - heading "Thalita Zanatta | Arquiteta (@tzarquitetura) • Instagram photos and videos" [level=3] [ref=e1135]:
+              - button "Thalita Zanatta | Arquiteta (@tzarquitetura) • Instagram photos and videos" [ref=e1137]:
+                - img "Thalita Zanatta | Arquiteta (@tzarquitetura) • Instagram photos and videos" [ref=e1140]
+            - link "Instagram Thalita Zanatta | Arquiteta (@tzarquitetura) • Instagram photos and videos" [ref=e1142]:
+              - /url: https://www.instagram.com/tzarquitetura/
+              - generic [ref=e1147]: Instagram
+              - generic [ref=e1149]: Thalita Zanatta | Arquiteta (@tzarquitetura) • Instagram photos and videos
+          - generic [ref=e1150] [cursor=pointer]:
+            - heading "THALITA FARIA ARQUITETURA (@thalitafaria.arquitetura) • Instagram photos and videos" [level=3] [ref=e1152]:
+              - button "THALITA FARIA ARQUITETURA (@thalitafaria.arquitetura) • Instagram photos and videos" [ref=e1154]:
+                - img "THALITA FARIA ARQUITETURA (@thalitafaria.arquitetura) • Instagram photos and videos" [ref=e1157]
+            - link "Instagram THALITA FARIA ARQUITETURA (@thalitafaria.arquitetura) • Instagram photos and videos" [ref=e1159]:
+              - /url: https://www.instagram.com/thalitafaria.arquitetura/reels/
+              - generic [ref=e1164]: Instagram
+              - generic [ref=e1166]: THALITA FARIA ARQUITETURA (@thalitafaria.arquitetura) • Instagram photos and videos
+          - generic [ref=e1167] [cursor=pointer]:
+            - generic [ref=e1168]:
+              - heading "Thalita Rostirola (@thalitarostirola) • Instagram photos and videos" [level=3] [ref=e1169]:
+                - button "Thalita Rostirola (@thalitarostirola) • Instagram photos and videos" [ref=e1171]:
+                  - img "Thalita Rostirola (@thalitarostirola) • Instagram photos and videos" [ref=e1174]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Thalita Rostirola (@thalitarostirola) • Instagram photos and videos" [ref=e1176]:
+              - /url: https://www.instagram.com/thalitarostirola/
+              - generic [ref=e1181]: Instagram
+              - generic [ref=e1183]: Thalita Rostirola (@thalitarostirola) • Instagram photos and videos
+          - generic [ref=e1184] [cursor=pointer]:
+            - 'heading "✨ Ter um Projeto Arquitetônico aprovado é uma enorme satisfação! . ❤️‍🔥 Solicite seu orçamento de para seu Projeto Arquitetônico/ Interiores em nosso site - link na bio! . #arquitetura #interiores #reforma #" [level=3] [ref=e1186]':
+              - 'button "✨ Ter um Projeto Arquitetônico aprovado é uma enorme satisfação! . ❤️‍🔥 Solicite seu orçamento de para seu Projeto Arquitetônico/ Interiores em nosso site - link na bio! . #arquitetura #interiores #reforma #" [ref=e1188]':
+                - 'img "✨ Ter um Projeto Arquitetônico aprovado é uma enorme satisfação! . ❤️‍🔥 Solicite seu orçamento de para seu Projeto Arquitetônico/ Interiores em nosso site - link na bio! . #arquitetura #interiores #reforma #" [ref=e1191]'
+            - 'link "Instagram ✨ Ter um Projeto Arquitetônico aprovado é uma enorme satisfação! . ❤️‍🔥 Solicite seu orçamento de para seu Projeto Arquitetônico/ Interiores em nosso site - link na bio! . #arquitetura #interiores #reforma #" [ref=e1193]':
+              - /url: https://www.instagram.com/reel/CfHDAYXMDp2/
+              - generic [ref=e1198]: Instagram
+              - generic [ref=e1200]: "✨ Ter um Projeto Arquitetônico aprovado é uma enorme satisfação! . ❤️‍🔥 Solicite seu orçamento de para seu Projeto Arquitetônico/ Interiores em nosso site - link na bio! . #arquitetura #interiores #reforma #"
+          - generic [ref=e1201] [cursor=pointer]:
+            - heading "No Projeto ALO, assinado pela arquiteta Geórgia Serrano e pela designer de interiores Thalita Bullara, o principal objetivo era a integração dos ambientes, de forma que a rotina da cliente se tornasse" [level=3] [ref=e1203]:
+              - button "No Projeto ALO, assinado pela arquiteta Geórgia Serrano e pela designer de interiores Thalita Bullara, o principal objetivo era a integração dos ambientes, de forma que a rotina da cliente se tornasse" [ref=e1205]:
+                - img "No Projeto ALO, assinado pela arquiteta Geórgia Serrano e pela designer de interiores Thalita Bullara, o principal objetivo era a integração dos ambientes, de forma que a rotina da cliente se tornasse" [ref=e1208]
+            - link "Instagram No Projeto ALO, assinado pela arquiteta Geórgia Serrano e pela designer de interiores Thalita Bullara, o principal objetivo era a integração dos ambientes, de forma que a rotina da cliente se tornasse" [ref=e1210]:
+              - /url: https://www.instagram.com/p/DCmvOLLsmpM/no-projeto-alo-assinado-pela-arquiteta-ge%C3%B3rgia-serrano-e-pela-designer-de-interi/
+              - generic [ref=e1215]: Instagram
+              - generic [ref=e1217]: No Projeto ALO, assinado pela arquiteta Geórgia Serrano e pela designer de interiores Thalita Bullara, o principal objetivo era a integração dos ambientes, de forma que a rotina da cliente se tornasse
+          - generic [ref=e1218] [cursor=pointer]:
+            - heading "Designer de Interiores (@thalitaguariento) · Presidente Venceslau, SP" [level=3] [ref=e1220]:
+              - button "Designer de Interiores (@thalitaguariento) · Presidente Venceslau, SP" [ref=e1222]:
+                - img "Designer de Interiores (@thalitaguariento) · Presidente Venceslau, SP" [ref=e1225]
+            - link "Instagram Designer de Interiores (@thalitaguariento) · Presidente Venceslau, SP" [ref=e1227]:
+              - /url: https://www.instagram.com/thalitaguariento/
+              - generic [ref=e1232]: Instagram
+              - generic [ref=e1234]: Designer de Interiores (@thalitaguariento) · Presidente Venceslau, SP
+          - generic [ref=e1235] [cursor=pointer]:
+            - 'heading "Thalita Oliveira | Antes, apenas um lote. Depois, um projeto cuidadosamente desenvolvido. 🤍✨ Cada projeto carrega uma história e tudo começa assim: um espaço... | Instagram" [level=3] [ref=e1237]':
+              - 'button "Thalita Oliveira | Antes, apenas um lote. Depois, um projeto cuidadosamente desenvolvido. 🤍✨ Cada projeto carrega uma história e tudo começa assim: um espaço... | Instagram" [ref=e1239]':
+                - 'img "Thalita Oliveira | Antes, apenas um lote. Depois, um projeto cuidadosamente desenvolvido. 🤍✨ Cada projeto carrega uma história e tudo começa assim: um espaço... | Instagram" [ref=e1242]'
+            - 'link "Instagram Thalita Oliveira | Antes, apenas um lote. Depois, um projeto cuidadosamente desenvolvido. 🤍✨ Cada projeto carrega uma história e tudo começa assim: um espaço... | Instagram" [ref=e1244]':
+              - /url: https://www.instagram.com/p/DLDrBH1SnOk/
+              - generic [ref=e1249]: Instagram
+              - generic [ref=e1251]: "Thalita Oliveira | Antes, apenas um lote. Depois, um projeto cuidadosamente desenvolvido. 🤍✨ Cada projeto carrega uma história e tudo começa assim: um espaço... | Instagram"
+          - generic [ref=e1252] [cursor=pointer]:
+            - heading "Talitha Lucas (@arquiteta_talithalucas) • Instagram photos and videos" [level=3] [ref=e1254]:
+              - button "Talitha Lucas (@arquiteta_talithalucas) • Instagram photos and videos" [ref=e1256]:
+                - img "Talitha Lucas (@arquiteta_talithalucas) • Instagram photos and videos" [ref=e1259]
+            - link "Instagram Talitha Lucas (@arquiteta_talithalucas) • Instagram photos and videos" [ref=e1261]:
+              - /url: https://www.instagram.com/arquiteta_talithalucas/
+              - generic [ref=e1266]: Instagram
+              - generic [ref=e1268]: Talitha Lucas (@arquiteta_talithalucas) • Instagram photos and videos
+          - generic [ref=e1269] [cursor=pointer]:
+            - heading "Durante a Expo Revestir, nosso diretor criativo Celso Rayol participou de um bate-papo no estande da Coral Tintas ao lado de Thalita Carvalho, da Casa de Colorir @casadecolorir O encontro mostrou como" [level=3] [ref=e1271]:
+              - button "Durante a Expo Revestir, nosso diretor criativo Celso Rayol participou de um bate-papo no estande da Coral Tintas ao lado de Thalita Carvalho, da Casa de Colorir @casadecolorir O encontro mostrou como" [ref=e1273]:
+                - img "Durante a Expo Revestir, nosso diretor criativo Celso Rayol participou de um bate-papo no estande da Coral Tintas ao lado de Thalita Carvalho, da Casa de Colorir @casadecolorir O encontro mostrou como" [ref=e1276]
+            - link "Instagram Durante a Expo Revestir, nosso diretor criativo Celso Rayol participou de um bate-papo no estande da Coral Tintas ao lado de Thalita Carvalho, da Casa de Colorir @casadecolorir O encontro mostrou como" [ref=e1278]:
+              - /url: https://www.instagram.com/p/DV9bZtpj8va/
+              - generic [ref=e1283]: Instagram
+              - generic [ref=e1285]: Durante a Expo Revestir, nosso diretor criativo Celso Rayol participou de um bate-papo no estande da Coral Tintas ao lado de Thalita Carvalho, da Casa de Colorir @casadecolorir O encontro mostrou como
+          - generic [ref=e1286] [cursor=pointer]:
+            - heading "Finalizando projeto interiores 🤍" [level=3] [ref=e1288]:
+              - button "Finalizando projeto interiores 🤍" [ref=e1290]:
+                - img "Finalizando projeto interiores 🤍" [ref=e1293]
+            - link "Instagram Finalizando projeto interiores 🤍" [ref=e1295]:
+              - /url: https://www.instagram.com/reel/CfepIpGjQ1T/
+              - generic [ref=e1300]: Instagram
+              - generic [ref=e1302]: Finalizando projeto interiores 🤍
+          - generic [ref=e1303] [cursor=pointer]:
+            - heading "Alguns lugares têm a capacidade de nos fazer sentir. Luz natural, texturas, silêncio… tudo convida a desacelerar e perceber o espaço com mais presença. 🍃💫" [level=3] [ref=e1305]:
+              - button "Alguns lugares têm a capacidade de nos fazer sentir. Luz natural, texturas, silêncio… tudo convida a desacelerar e perceber o espaço com mais presença. 🍃💫" [ref=e1307]:
+                - img "Alguns lugares têm a capacidade de nos fazer sentir. Luz natural, texturas, silêncio… tudo convida a desacelerar e perceber o espaço com mais presença. 🍃💫" [ref=e1310]
+            - link "Instagram Alguns lugares têm a capacidade de nos fazer sentir. Luz natural, texturas, silêncio… tudo convida a desacelerar e perceber o espaço com mais presença. 🍃💫" [ref=e1312]:
+              - /url: https://www.instagram.com/p/DVuBTQ2krLk/
+              - generic [ref=e1317]: Instagram
+              - generic [ref=e1319]: Alguns lugares têm a capacidade de nos fazer sentir. Luz natural, texturas, silêncio… tudo convida a desacelerar e perceber o espaço com mais presença. 🍃💫
+          - generic [ref=e1320] [cursor=pointer]:
+            - heading "Oi! Eu sou a Thalita, arquiteta formada pela UFMG há mais de 10 anos e especialista em Sustentabilidade do Ambiente Construído. Completamente apaixonada por arquitetura e design, há 4 anos, estou à" [level=3] [ref=e1322]:
+              - button "Oi! Eu sou a Thalita, arquiteta formada pela UFMG há mais de 10 anos e especialista em Sustentabilidade do Ambiente Construído. Completamente apaixonada por arquitetura e design, há 4 anos, estou à" [ref=e1324]:
+                - img "Oi! Eu sou a Thalita, arquiteta formada pela UFMG há mais de 10 anos e especialista em Sustentabilidade do Ambiente Construído. Completamente apaixonada por arquitetura e design, há 4 anos, estou à" [ref=e1327]
+            - link "Instagram Oi! Eu sou a Thalita, arquiteta formada pela UFMG há mais de 10 anos e especialista em Sustentabilidade do Ambiente Construído. Completamente apaixonada por arquitetura e design, há 4 anos, estou à" [ref=e1329]:
+              - /url: https://www.instagram.com/p/DBHBAJsO8lD/
+              - generic [ref=e1334]: Instagram
+              - generic [ref=e1336]: Oi! Eu sou a Thalita, arquiteta formada pela UFMG há mais de 10 anos e especialista em Sustentabilidade do Ambiente Construído. Completamente apaixonada por arquitetura e design, há 4 anos, estou à
+          - generic [ref=e1337] [cursor=pointer]:
+            - heading "Uma experiência muito especial, onde o amor pelo trabalho, a história, a família e a natureza se encontram na produção de espumantes de alta qualidade." [level=3] [ref=e1339]:
+              - button "Uma experiência muito especial, onde o amor pelo trabalho, a história, a família e a natureza se encontram na produção de espumantes de alta qualidade." [ref=e1341]:
+                - img "Uma experiência muito especial, onde o amor pelo trabalho, a história, a família e a natureza se encontram na produção de espumantes de alta qualidade." [ref=e1344]
+            - link "Instagram Uma experiência muito especial, onde o amor pelo trabalho, a história, a família e a natureza se encontram na produção de espumantes de alta qualidade." [ref=e1346]:
+              - /url: https://www.instagram.com/p/DVW8PnQETH9/
+              - generic [ref=e1351]: Instagram
+              - generic [ref=e1353]: Uma experiência muito especial, onde o amor pelo trabalho, a história, a família e a natureza se encontram na produção de espumantes de alta qualidade.
+          - generic [ref=e1354] [cursor=pointer]:
+            - 'heading "CASA || G.A Ampliamos os espaços e criamos uma fachada contemporânea, alinhada ao estilo do cliente — mais modernidade, funcionalidade e personalidade em cada detalhe. . . . . . #Arquitetura #Reforma #projetoresidêncial #fachada" [level=3] [ref=e1356]':
+              - 'button "CASA || G.A Ampliamos os espaços e criamos uma fachada contemporânea, alinhada ao estilo do cliente — mais modernidade, funcionalidade e personalidade em cada detalhe. . . . . . #Arquitetura #Reforma #projetoresidêncial #fachada" [ref=e1358]':
+                - 'img "CASA || G.A Ampliamos os espaços e criamos uma fachada contemporânea, alinhada ao estilo do cliente — mais modernidade, funcionalidade e personalidade em cada detalhe. . . . . . #Arquitetura #Reforma #projetoresidêncial #fachada" [ref=e1361]'
+            - 'link "Instagram CASA || G.A Ampliamos os espaços e criamos uma fachada contemporânea, alinhada ao estilo do cliente — mais modernidade, funcionalidade e personalidade em cada detalhe. . . . . . #Arquitetura #Reforma #projetoresidêncial #fachada" [ref=e1363]':
+              - /url: https://www.instagram.com/p/DWH3_F9EePq/
+              - generic [ref=e1368]: Instagram
+              - generic [ref=e1370]: "CASA || G.A Ampliamos os espaços e criamos uma fachada contemporânea, alinhada ao estilo do cliente — mais modernidade, funcionalidade e personalidade em cada detalhe. . . . . . #Arquitetura #Reforma #projetoresidêncial #fachada"
+          - generic [ref=e1371] [cursor=pointer]:
+            - heading "Thalita Tanan Rebouças (@thalitatananr.arquitetura) • Instagram photos and videos" [level=3] [ref=e1373]:
+              - button "Thalita Tanan Rebouças (@thalitatananr.arquitetura) • Instagram photos and videos" [ref=e1375]:
+                - img "Thalita Tanan Rebouças (@thalitatananr.arquitetura) • Instagram photos and videos" [ref=e1378]
+            - link "Instagram Thalita Tanan Rebouças (@thalitatananr.arquitetura) • Instagram photos and videos" [ref=e1380]:
+              - /url: https://www.instagram.com/thalitatananr.arquitetura/
+              - generic [ref=e1385]: Instagram
+              - generic [ref=e1387]: Thalita Tanan Rebouças (@thalitatananr.arquitetura) • Instagram photos and videos
+          - generic [ref=e1388] [cursor=pointer]:
+            - generic [ref=e1389]:
+              - heading "Thalita Rostirola (@thalitarostirola) • Instagram photos and videos" [level=3] [ref=e1390]:
+                - button "Thalita Rostirola (@thalitarostirola) • Instagram photos and videos" [ref=e1392]:
+                  - img "Thalita Rostirola (@thalitarostirola) • Instagram photos and videos" [ref=e1395]
+              - generic:
+                - generic: 6 dias atrás
+            - link "Instagram Thalita Rostirola (@thalitarostirola) • Instagram photos and videos" [ref=e1397]:
+              - /url: https://www.instagram.com/thalitarostirola/
+              - generic [ref=e1402]: Instagram
+              - generic [ref=e1404]: Thalita Rostirola (@thalitarostirola) • Instagram photos and videos
+          - generic [ref=e1405] [cursor=pointer]:
+            - heading "Hoje trago para vocês uma sala de TV pensada para ser elegante e atemporal✨ A base neutra, combinada com a madeira e a iluminação em tons quentes, transforma o espaço em um" [level=3] [ref=e1407]:
+              - button "Hoje trago para vocês uma sala de TV pensada para ser elegante e atemporal✨ A base neutra, combinada com a madeira e a iluminação em tons quentes, transforma o espaço em um" [ref=e1409]:
+                - img "Hoje trago para vocês uma sala de TV pensada para ser elegante e atemporal✨ A base neutra, combinada com a madeira e a iluminação em tons quentes, transforma o espaço em um" [ref=e1412]
+            - link "Instagram Hoje trago para vocês uma sala de TV pensada para ser elegante e atemporal✨ A base neutra, combinada com a madeira e a iluminação em tons quentes, transforma o espaço em um" [ref=e1414]:
+              - /url: https://www.instagram.com/p/DWZtQsXCVpo/
+              - generic [ref=e1419]: Instagram
+              - generic [ref=e1421]: Hoje trago para vocês uma sala de TV pensada para ser elegante e atemporal✨ A base neutra, combinada com a madeira e a iluminação em tons quentes, transforma o espaço em um
+          - generic [ref=e1422] [cursor=pointer]:
+            - heading "Uma experiência muito especial, onde o amor pelo trabalho, a história, a família e a natureza se encontram na produção de espumantes de alta qualidade." [level=3] [ref=e1424]:
+              - button "Uma experiência muito especial, onde o amor pelo trabalho, a história, a família e a natureza se encontram na produção de espumantes de alta qualidade." [ref=e1426]:
+                - img "Uma experiência muito especial, onde o amor pelo trabalho, a história, a família e a natureza se encontram na produção de espumantes de alta qualidade." [ref=e1429]
+            - link "Instagram Uma experiência muito especial, onde o amor pelo trabalho, a história, a família e a natureza se encontram na produção de espumantes de alta qualidade." [ref=e1431]:
+              - /url: https://www.instagram.com/p/DVW8PnQETH9/
+              - generic [ref=e1436]: Instagram
+              - generic [ref=e1438]: Uma experiência muito especial, onde o amor pelo trabalho, a história, a família e a natureza se encontram na produção de espumantes de alta qualidade.
+          - generic [ref=e1439] [cursor=pointer]:
+            - generic [ref=e1440]:
+              - 'heading "Thalita Oliveira | Antes, apenas um lote. Depois, um projeto cuidadosamente desenvolvido. 🤍✨ Cada projeto carrega uma história e tudo começa assim: um espaço... | Instagram" [level=3] [ref=e1441]':
+                - 'button "Thalita Oliveira | Antes, apenas um lote. Depois, um projeto cuidadosamente desenvolvido. 🤍✨ Cada projeto carrega uma história e tudo começa assim: um espaço... | Instagram" [ref=e1443]':
+                  - 'img "Thalita Oliveira | Antes, apenas um lote. Depois, um projeto cuidadosamente desenvolvido. 🤍✨ Cada projeto carrega uma história e tudo começa assim: um espaço... | Instagram" [ref=e1446]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Thalita Oliveira | Antes, apenas um lote. Depois, um projeto cuidadosamente desenvolvido. 🤍✨ Cada projeto carrega uma história e tudo começa assim: um espaço... | Instagram" [ref=e1448]':
+              - /url: https://www.instagram.com/p/DLDrBH1SnOk/
+              - generic [ref=e1453]: Instagram
+              - generic [ref=e1455]: "Thalita Oliveira | Antes, apenas um lote. Depois, um projeto cuidadosamente desenvolvido. 🤍✨ Cada projeto carrega uma história e tudo começa assim: um espaço... | Instagram"
+          - generic [ref=e1456] [cursor=pointer]:
+            - heading "Escritorio de arquitetura e interiores - Thalita Tineli (@arquiteturatineli) • Instagram photos and videos" [level=3] [ref=e1458]:
+              - button "Escritorio de arquitetura e interiores - Thalita Tineli (@arquiteturatineli) • Instagram photos and videos" [ref=e1460]:
+                - img "Escritorio de arquitetura e interiores - Thalita Tineli (@arquiteturatineli) • Instagram photos and videos" [ref=e1463]
+            - link "Instagram Escritorio de arquitetura e interiores - Thalita Tineli (@arquiteturatineli) • Instagram photos and videos" [ref=e1465]:
+              - /url: https://www.instagram.com/arquiteturatineli/
+              - generic [ref=e1470]: Instagram
+              - generic [ref=e1472]: Escritorio de arquitetura e interiores - Thalita Tineli (@arquiteturatineli) • Instagram photos and videos
+          - generic [ref=e1473] [cursor=pointer]:
+            - heading "Thalita Oliveira | . Itabirito, Minas Gerais 🇧🇷 Design Escritório Thalita Oliveira Arquitetura Deixe aqui seu comentário, bem importante pra gente 🤍 . . .... | Instagram" [level=3] [ref=e1475]:
+              - button "Thalita Oliveira | . Itabirito, Minas Gerais 🇧🇷 Design Escritório Thalita Oliveira Arquitetura Deixe aqui seu comentário, bem importante pra gente 🤍 . . .... | Instagram" [ref=e1477]:
+                - img "Thalita Oliveira | . Itabirito, Minas Gerais 🇧🇷 Design Escritório Thalita Oliveira Arquitetura Deixe aqui seu comentário, bem importante pra gente 🤍 . . .... | Instagram" [ref=e1480]
+            - link "Instagram Thalita Oliveira | . Itabirito, Minas Gerais 🇧🇷 Design Escritório Thalita Oliveira Arquitetura Deixe aqui seu comentário, bem importante pra gente 🤍 . . .... | Instagram" [ref=e1482]:
+              - /url: https://www.instagram.com/p/DRQTkYsDQro/
+              - generic [ref=e1487]: Instagram
+              - generic [ref=e1489]: Thalita Oliveira | . Itabirito, Minas Gerais 🇧🇷 Design Escritório Thalita Oliveira Arquitetura Deixe aqui seu comentário, bem importante pra gente 🤍 . . .... | Instagram
+          - generic [ref=e1490] [cursor=pointer]:
+            - heading "Talita Almeida Arquitetura (@talitaa.arquitetura) • Instagram photos and videos" [level=3] [ref=e1492]:
+              - button "Talita Almeida Arquitetura (@talitaa.arquitetura) • Instagram photos and videos" [ref=e1494]:
+                - img "Talita Almeida Arquitetura (@talitaa.arquitetura) • Instagram photos and videos" [ref=e1497]
+            - link "Instagram Talita Almeida Arquitetura (@talitaa.arquitetura) • Instagram photos and videos" [ref=e1499]:
+              - /url: https://www.instagram.com/talitaa.arquitetura/
+              - generic [ref=e1504]: Instagram
+              - generic [ref=e1506]: Talita Almeida Arquitetura (@talitaa.arquitetura) • Instagram photos and videos
+          - generic [ref=e1507] [cursor=pointer]:
+            - heading "Studio Lellice - Arquitetura para área da Saúde e Comercial (@lellicearquitetura) · Brasília, DF" [level=3] [ref=e1509]:
+              - button "Studio Lellice - Arquitetura para área da Saúde e Comercial (@lellicearquitetura) · Brasília, DF" [ref=e1511]:
+                - img "Studio Lellice - Arquitetura para área da Saúde e Comercial (@lellicearquitetura) · Brasília, DF" [ref=e1514]
+            - link "Instagram Studio Lellice - Arquitetura para área da Saúde e Comercial (@lellicearquitetura) · Brasília, DF" [ref=e1516]:
+              - /url: https://www.instagram.com/lellicearquitetura/
+              - generic [ref=e1521]: Instagram
+              - generic [ref=e1523]: Studio Lellice - Arquitetura para área da Saúde e Comercial (@lellicearquitetura) · Brasília, DF
+          - generic [ref=e1524] [cursor=pointer]:
+            - heading "apto MN | Detalhes que transformam a experiência de morar Nem sempre são necessárias soluções mirabolantes para transformar a forma de viver em um lar — na maioria das vezes, na" [level=3] [ref=e1526]:
+              - button "apto MN | Detalhes que transformam a experiência de morar Nem sempre são necessárias soluções mirabolantes para transformar a forma de viver em um lar — na maioria das vezes, na" [ref=e1528]:
+                - img "apto MN | Detalhes que transformam a experiência de morar Nem sempre são necessárias soluções mirabolantes para transformar a forma de viver em um lar — na maioria das vezes, na" [ref=e1531]
+            - link "Instagram apto MN | Detalhes que transformam a experiência de morar Nem sempre são necessárias soluções mirabolantes para transformar a forma de viver em um lar — na maioria das vezes, na" [ref=e1533]:
+              - /url: https://www.instagram.com/p/DOx-u85kVE8/
+              - generic [ref=e1538]: Instagram
+              - generic [ref=e1540]: apto MN | Detalhes que transformam a experiência de morar Nem sempre são necessárias soluções mirabolantes para transformar a forma de viver em um lar — na maioria das vezes, na
+          - generic [ref=e1541] [cursor=pointer]:
+            - heading "Thalita Cartágenes Arquitetura (@thalitacartagenes.arq) · São Luís, MA" [level=3] [ref=e1543]:
+              - button "Thalita Cartágenes Arquitetura (@thalitacartagenes.arq) · São Luís, MA" [ref=e1545]:
+                - img "Thalita Cartágenes Arquitetura (@thalitacartagenes.arq) · São Luís, MA" [ref=e1548]
+            - link "Instagram Thalita Cartágenes Arquitetura (@thalitacartagenes.arq) · São Luís, MA" [ref=e1550]:
+              - /url: https://www.instagram.com/thalitacartagenes.arq/
+              - generic [ref=e1555]: Instagram
+              - generic [ref=e1557]: Thalita Cartágenes Arquitetura (@thalitacartagenes.arq) · São Luís, MA
+          - generic [ref=e1558] [cursor=pointer]:
+            - heading "O primeiro impacto é o que permanece. Mais do que um espaço de passagem, o hall de entrada é um convite — ele antecipa sensações, traduz identidade e estabelece o tom de" [level=3] [ref=e1560]:
+              - button "O primeiro impacto é o que permanece. Mais do que um espaço de passagem, o hall de entrada é um convite — ele antecipa sensações, traduz identidade e estabelece o tom de" [ref=e1562]:
+                - img "O primeiro impacto é o que permanece. Mais do que um espaço de passagem, o hall de entrada é um convite — ele antecipa sensações, traduz identidade e estabelece o tom de" [ref=e1565]
+            - link "Instagram O primeiro impacto é o que permanece. Mais do que um espaço de passagem, o hall de entrada é um convite — ele antecipa sensações, traduz identidade e estabelece o tom de" [ref=e1567]:
+              - /url: https://www.instagram.com/p/DWjXQMvlhLM/
+              - generic [ref=e1572]: Instagram
+              - generic [ref=e1574]: O primeiro impacto é o que permanece. Mais do que um espaço de passagem, o hall de entrada é um convite — ele antecipa sensações, traduz identidade e estabelece o tom de
+          - generic [ref=e1575] [cursor=pointer]:
+            - heading "THALITA PITA ARQUITETA (@thalitapita.arquiteta) • Instagram photos and videos" [level=3] [ref=e1577]:
+              - button "THALITA PITA ARQUITETA (@thalitapita.arquiteta) • Instagram photos and videos" [ref=e1579]:
+                - img "THALITA PITA ARQUITETA (@thalitapita.arquiteta) • Instagram photos and videos" [ref=e1582]
+            - link "Instagram THALITA PITA ARQUITETA (@thalitapita.arquiteta) • Instagram photos and videos" [ref=e1584]:
+              - /url: https://www.instagram.com/thalitapita.arquiteta/
+              - generic [ref=e1589]: Instagram
+              - generic [ref=e1591]: THALITA PITA ARQUITETA (@thalitapita.arquiteta) • Instagram photos and videos
+          - generic [ref=e1592] [cursor=pointer]:
+            - heading "Oi! Eu sou a Thalita, arquiteta formada pela UFMG há mais de 10 anos e especialista em Sustentabilidade do Ambiente Construído. Completamente apaixonada por arquitetura e design, há 4 anos, estou à" [level=3] [ref=e1594]:
+              - button "Oi! Eu sou a Thalita, arquiteta formada pela UFMG há mais de 10 anos e especialista em Sustentabilidade do Ambiente Construído. Completamente apaixonada por arquitetura e design, há 4 anos, estou à" [ref=e1596]:
+                - img "Oi! Eu sou a Thalita, arquiteta formada pela UFMG há mais de 10 anos e especialista em Sustentabilidade do Ambiente Construído. Completamente apaixonada por arquitetura e design, há 4 anos, estou à" [ref=e1599]
+            - link "Instagram Oi! Eu sou a Thalita, arquiteta formada pela UFMG há mais de 10 anos e especialista em Sustentabilidade do Ambiente Construído. Completamente apaixonada por arquitetura e design, há 4 anos, estou à" [ref=e1601]:
+              - /url: https://www.instagram.com/p/DBHBAJsO8lD/
+              - generic [ref=e1606]: Instagram
+              - generic [ref=e1608]: Oi! Eu sou a Thalita, arquiteta formada pela UFMG há mais de 10 anos e especialista em Sustentabilidade do Ambiente Construído. Completamente apaixonada por arquitetura e design, há 4 anos, estou à
+          - generic [ref=e1609] [cursor=pointer]:
+            - heading "thalita araldi | arquiteta curitiba (@thalitaaraldi.arq) • Instagram photos and videos" [level=3] [ref=e1611]:
+              - button "thalita araldi | arquiteta curitiba (@thalitaaraldi.arq) • Instagram photos and videos" [ref=e1613]:
+                - img "thalita araldi | arquiteta curitiba (@thalitaaraldi.arq) • Instagram photos and videos" [ref=e1616]
+            - link "Instagram thalita araldi | arquiteta curitiba (@thalitaaraldi.arq) • Instagram photos and videos" [ref=e1618]:
+              - /url: https://www.instagram.com/thalitaaraldi.arq/
+              - generic [ref=e1623]: Instagram
+              - generic [ref=e1625]: thalita araldi | arquiteta curitiba (@thalitaaraldi.arq) • Instagram photos and videos
+          - generic [ref=e1626] [cursor=pointer]:
+            - heading "THALITA PITA ARQUITETA (@thalitapita.arquiteta) • Instagram photos and videos" [level=3] [ref=e1628]:
+              - button "THALITA PITA ARQUITETA (@thalitapita.arquiteta) • Instagram photos and videos" [ref=e1630]:
+                - img "THALITA PITA ARQUITETA (@thalitapita.arquiteta) • Instagram photos and videos" [ref=e1633]
+            - link "Instagram THALITA PITA ARQUITETA (@thalitapita.arquiteta) • Instagram photos and videos" [ref=e1635]:
+              - /url: https://www.instagram.com/thalitapita.arquiteta/
+              - generic [ref=e1640]: Instagram
+              - generic [ref=e1642]: THALITA PITA ARQUITETA (@thalitapita.arquiteta) • Instagram photos and videos
+          - generic [ref=e1643] [cursor=pointer]:
+            - heading "✨ Coluna grega para futura arquiteta, amei a ideia! 🔎 Símbolo de suporte e de força, mas também de eixo ou centro do mundo; geralmente ornamentadas e com muita história pra contar." [level=3] [ref=e1645]:
+              - button "✨ Coluna grega para futura arquiteta, amei a ideia! 🔎 Símbolo de suporte e de força, mas também de eixo ou centro do mundo; geralmente ornamentadas e com muita história pra contar." [ref=e1647]:
+                - img "✨ Coluna grega para futura arquiteta, amei a ideia! 🔎 Símbolo de suporte e de força, mas também de eixo ou centro do mundo; geralmente ornamentadas e com muita história pra contar." [ref=e1650]
+            - link "Instagram ✨ Coluna grega para futura arquiteta, amei a ideia! 🔎 Símbolo de suporte e de força, mas também de eixo ou centro do mundo; geralmente ornamentadas e com muita história pra contar." [ref=e1652]:
+              - /url: https://www.instagram.com/p/CCrqsDxHRs4/
+              - generic [ref=e1657]: Instagram
+              - generic [ref=e1659]: ✨ Coluna grega para futura arquiteta, amei a ideia! 🔎 Símbolo de suporte e de força, mas também de eixo ou centro do mundo; geralmente ornamentadas e com muita história pra contar.
+          - generic [ref=e1660] [cursor=pointer]:
+            - heading "À frente de nosso escritório de arquitetura, engenharia e design de interiores, conduzo projetos residenciais, comerciais e de franquias, com foco em organização e clareza, afinal, a maioria de nossos clientes são" [level=3] [ref=e1662]:
+              - button "À frente de nosso escritório de arquitetura, engenharia e design de interiores, conduzo projetos residenciais, comerciais e de franquias, com foco em organização e clareza, afinal, a maioria de nossos clientes são" [ref=e1664]:
+                - img "À frente de nosso escritório de arquitetura, engenharia e design de interiores, conduzo projetos residenciais, comerciais e de franquias, com foco em organização e clareza, afinal, a maioria de nossos clientes são" [ref=e1667]
+            - link "Instagram À frente de nosso escritório de arquitetura, engenharia e design de interiores, conduzo projetos residenciais, comerciais e de franquias, com foco em organização e clareza, afinal, a maioria de nossos clientes são" [ref=e1669]:
+              - /url: https://www.instagram.com/p/DWRNLjAgK6N/
+              - generic [ref=e1674]: Instagram
+              - generic [ref=e1676]: À frente de nosso escritório de arquitetura, engenharia e design de interiores, conduzo projetos residenciais, comerciais e de franquias, com foco em organização e clareza, afinal, a maioria de nossos clientes são
+          - generic [ref=e1677] [cursor=pointer]:
+            - heading "No Projeto ALO, assinado pela arquiteta Geórgia Serrano e pela designer de interiores Thalita Bullara, o principal objetivo era a integração dos ambientes, de forma que a rotina da cliente se tornasse" [level=3] [ref=e1679]:
+              - button "No Projeto ALO, assinado pela arquiteta Geórgia Serrano e pela designer de interiores Thalita Bullara, o principal objetivo era a integração dos ambientes, de forma que a rotina da cliente se tornasse" [ref=e1681]:
+                - img "No Projeto ALO, assinado pela arquiteta Geórgia Serrano e pela designer de interiores Thalita Bullara, o principal objetivo era a integração dos ambientes, de forma que a rotina da cliente se tornasse" [ref=e1684]
+            - link "Instagram No Projeto ALO, assinado pela arquiteta Geórgia Serrano e pela designer de interiores Thalita Bullara, o principal objetivo era a integração dos ambientes, de forma que a rotina da cliente se tornasse" [ref=e1686]:
+              - /url: https://www.instagram.com/p/DCmvOLLsmpM/no-projeto-alo-assinado-pela-arquiteta-ge%C3%B3rgia-serrano-e-pela-designer-de-interi/
+              - generic [ref=e1691]: Instagram
+              - generic [ref=e1693]: No Projeto ALO, assinado pela arquiteta Geórgia Serrano e pela designer de interiores Thalita Bullara, o principal objetivo era a integração dos ambientes, de forma que a rotina da cliente se tornasse
+          - generic [ref=e1694] [cursor=pointer]:
+            - heading "Thalita e Gabi, as Two Lost Kids tem uma energia criativa única. A autenticidade da dupla fez com que levassem o Brasil para o Rings Award, prêmio do Instagram para os creators" [level=3] [ref=e1696]:
+              - button "Thalita e Gabi, as Two Lost Kids tem uma energia criativa única. A autenticidade da dupla fez com que levassem o Brasil para o Rings Award, prêmio do Instagram para os creators" [ref=e1698]:
+                - img "Thalita e Gabi, as Two Lost Kids tem uma energia criativa única. A autenticidade da dupla fez com que levassem o Brasil para o Rings Award, prêmio do Instagram para os creators" [ref=e1701]
+            - link "Instagram Thalita e Gabi, as Two Lost Kids tem uma energia criativa única. A autenticidade da dupla fez com que levassem o Brasil para o Rings Award, prêmio do Instagram para os creators" [ref=e1703]:
+              - /url: https://www.instagram.com/p/DUWBO9WEuNA/
+              - generic [ref=e1708]: Instagram
+              - generic [ref=e1710]: Thalita e Gabi, as Two Lost Kids tem uma energia criativa única. A autenticidade da dupla fez com que levassem o Brasil para o Rings Award, prêmio do Instagram para os creators
+          - generic [ref=e1711] [cursor=pointer]:
+            - heading "No dia do meu casamento tive a alegria de ser acolhida e cuidada por um casal que primeiro foram meus clientes e hoje são meus amigos, no fundo é a segunda casa" [level=3] [ref=e1713]:
+              - button "No dia do meu casamento tive a alegria de ser acolhida e cuidada por um casal que primeiro foram meus clientes e hoje são meus amigos, no fundo é a segunda casa" [ref=e1715]:
+                - img "No dia do meu casamento tive a alegria de ser acolhida e cuidada por um casal que primeiro foram meus clientes e hoje são meus amigos, no fundo é a segunda casa" [ref=e1718]
+            - link "Instagram No dia do meu casamento tive a alegria de ser acolhida e cuidada por um casal que primeiro foram meus clientes e hoje são meus amigos, no fundo é a segunda casa" [ref=e1720]:
+              - /url: https://www.instagram.com/p/DQ1jaTGgE4m/
+              - generic [ref=e1725]: Instagram
+              - generic [ref=e1727]: No dia do meu casamento tive a alegria de ser acolhida e cuidada por um casal que primeiro foram meus clientes e hoje são meus amigos, no fundo é a segunda casa
+          - generic [ref=e1728] [cursor=pointer]:
+            - 'heading "Quando pensava no meu casamento, eu sempre imaginava: “quero me casar na luz do dia, com um lago lindo de fundo pra refletir o sol”. Pois bem, Deus nos presenteou com um" [level=3] [ref=e1730]':
+              - 'button "Quando pensava no meu casamento, eu sempre imaginava: “quero me casar na luz do dia, com um lago lindo de fundo pra refletir o sol”. Pois bem, Deus nos presenteou com um" [ref=e1732]':
+                - 'img "Quando pensava no meu casamento, eu sempre imaginava: “quero me casar na luz do dia, com um lago lindo de fundo pra refletir o sol”. Pois bem, Deus nos presenteou com um" [ref=e1735]'
+            - 'link "Instagram Quando pensava no meu casamento, eu sempre imaginava: “quero me casar na luz do dia, com um lago lindo de fundo pra refletir o sol”. Pois bem, Deus nos presenteou com um" [ref=e1737]':
+              - /url: https://www.instagram.com/p/CfElWDzrAW6/
+              - generic [ref=e1742]: Instagram
+              - generic [ref=e1744]: "Quando pensava no meu casamento, eu sempre imaginava: “quero me casar na luz do dia, com um lago lindo de fundo pra refletir o sol”. Pois bem, Deus nos presenteou com um"
+          - generic [ref=e1745] [cursor=pointer]:
+            - heading "Thalita Zanatta | Arquiteta (@tzarquitetura) • Instagram photos and videos" [level=3] [ref=e1747]:
+              - button "Thalita Zanatta | Arquiteta (@tzarquitetura) • Instagram photos and videos" [ref=e1749]:
+                - img "Thalita Zanatta | Arquiteta (@tzarquitetura) • Instagram photos and videos" [ref=e1752]
+            - link "Instagram Thalita Zanatta | Arquiteta (@tzarquitetura) • Instagram photos and videos" [ref=e1754]:
+              - /url: https://www.instagram.com/tzarquitetura/
+              - generic [ref=e1759]: Instagram
+              - generic [ref=e1761]: Thalita Zanatta | Arquiteta (@tzarquitetura) • Instagram photos and videos
+          - generic [ref=e1762] [cursor=pointer]:
+            - heading "Thalita Rocha - Arquiteta (@arq.thalitarocha) • Instagram photos and videos" [level=3] [ref=e1764]:
+              - button "Thalita Rocha - Arquiteta (@arq.thalitarocha) • Instagram photos and videos" [ref=e1766]:
+                - img "Thalita Rocha - Arquiteta (@arq.thalitarocha) • Instagram photos and videos" [ref=e1769]
+            - link "Instagram Thalita Rocha - Arquiteta (@arq.thalitarocha) • Instagram photos and videos" [ref=e1771]:
+              - /url: https://www.instagram.com/arq.thalitarocha/
+              - generic [ref=e1776]: Instagram
+              - generic [ref=e1778]: Thalita Rocha - Arquiteta (@arq.thalitarocha) • Instagram photos and videos
+        - generic [ref=e1781]:
+          - heading "Page Navigation" [level=1] [ref=e1782]
+          - button "Mais resultados" [ref=e1783] [cursor=pointer]:
+            - generic [ref=e1784]:
+              - separator [ref=e1785]
+              - generic [ref=e1786]:
+                - generic [ref=e1787]: Mais resultados
+                - img [ref=e1789]
+      - navigation

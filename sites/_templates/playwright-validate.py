@@ -163,13 +163,81 @@ JS_CHECKS = """
     const s = getComputedStyle(el);
     if (s.display === 'none' || s.visibility === 'hidden' || s.opacity === '0') return;
     const fg = parseColor(s.color);
-    const bg = parseColor(s.backgroundColor !== 'rgba(0, 0, 0, 0)' ? s.backgroundColor : 'rgb(255,255,255)');
+    // Resolver background real subindo na arvore
+    let bgStr = s.backgroundColor;
+    if (bgStr === 'rgba(0, 0, 0, 0)' || bgStr === 'transparent') {
+      let pNode = el.parentElement;
+      while (pNode && pNode !== document.documentElement) {
+        const pbg = getComputedStyle(pNode).backgroundColor;
+        if (pbg && pbg !== 'rgba(0, 0, 0, 0)' && pbg !== 'transparent') { bgStr = pbg; break; }
+        pNode = pNode.parentElement;
+      }
+      if (bgStr === 'rgba(0, 0, 0, 0)' || bgStr === 'transparent') bgStr = 'rgb(255,255,255)';
+    }
+    const bg = parseColor(bgStr);
     const ratio = contrastRatio(fg, bg);
     const fs = parseFloat(s.fontSize);
     const minRatio = fs >= 24 ? 3.0 : 4.5;
     if (ratio < minRatio) lowContrast.push({text: t.slice(0,30), ratio: +ratio.toFixed(1), min: minRatio});
   });
   R.push({id:'contrast_wcag', pass: lowContrast.length === 0, detail: lowContrast.slice(0,5)});
+
+  // 10b. Texto invisivel — elementos com texto no DOM mas nao visiveis na tela
+  // Detecta: font-weight fino sobre fundo escuro, cor quase igual ao fundo, opacity baixa
+  const invisibleTexts = [];
+  document.querySelectorAll('h1,h2,h3,h4,h5,h6,p,span,a,li').forEach(el => {
+    const t = el.textContent?.trim();
+    if (!t || t.length < 3) return;
+    const r = el.getBoundingClientRect();
+    if (r.width === 0 || r.height === 0) return;
+    const s = getComputedStyle(el);
+    if (s.display === 'none' || s.visibility === 'hidden') return;
+
+    // Resolver background real (subir na arvore ate achar background nao-transparente)
+    let bgColor = 'rgba(0, 0, 0, 0)';
+    let node = el;
+    while (node && node !== document.documentElement) {
+      const bg = getComputedStyle(node).backgroundColor;
+      if (bg && bg !== 'rgba(0, 0, 0, 0)' && bg !== 'transparent') { bgColor = bg; break; }
+      node = node.parentElement;
+    }
+    if (bgColor === 'rgba(0, 0, 0, 0)') bgColor = 'rgb(255,255,255)';
+
+    const fg = parseColor(s.color);
+    const bg = parseColor(bgColor);
+    const bgLum = luminance(...bg);
+    const isDarkBg = bgLum < 0.2;
+
+    // Check 1: Fonte fina sobre fundo escuro (peso visual insuficiente)
+    const fw = parseInt(s.fontWeight) || 400;
+    const fs = parseFloat(s.fontSize);
+    if (isDarkBg && fw <= 400 && fs < 28) {
+      // Verificar se a fonte e serif (geralmente mais fina que sans-serif no mesmo peso)
+      const ff = s.fontFamily.toLowerCase();
+      const isSerif = !ff.includes('sans') && (ff.includes('serif') || ff.includes('garamond') || ff.includes('times') || ff.includes('georgia') || ff.includes('playfair') || ff.includes('cormorant') || ff.includes('merriweather'));
+      if (isSerif && fw <= 400) {
+        invisibleTexts.push({text: t.slice(0,40), reason: 'serif-thin-on-dark', fw, fs: Math.round(fs), font: ff.slice(0,30)});
+      }
+    }
+
+    // Check 2: Cor do texto muito proxima da cor do fundo (quase invisivel)
+    const ratio = contrastRatio(fg, bg);
+    if (ratio < 2.0 && parseFloat(s.opacity) > 0.1) {
+      invisibleTexts.push({text: t.slice(0,40), reason: 'near-invisible', ratio: +ratio.toFixed(1), fg: s.color, bg: bgColor});
+    }
+
+    // Check 3: Opacity combinada muito baixa
+    let totalOpacity = 1;
+    let opNode = el;
+    while (opNode && opNode !== document.documentElement) {
+      totalOpacity *= parseFloat(getComputedStyle(opNode).opacity);
+      opNode = opNode.parentElement;
+    }
+    if (totalOpacity < 0.3 && t.length > 5) {
+      invisibleTexts.push({text: t.slice(0,40), reason: 'low-opacity', opacity: +totalOpacity.toFixed(2)});
+    }
+  });
+  R.push({id:'invisible_text', pass: invisibleTexts.length === 0, detail: invisibleTexts.slice(0,5)});
 
   // 11. Paleta restrita
   const colors = new Set();
@@ -334,6 +402,104 @@ JS_CHECKS = """
     R.push({id:'min_font_mobile', pass: smallTexts.length <= 3, detail: smallTexts.slice(0,5)});
   }
 
+  // ========== ACENTUACAO PT-BR ==========
+
+  // 28. Palavras portuguesas sem acento (diacriticos obrigatorios)
+  const accentMap = {
+    'avaliacao': 'avaliação', 'harmonizacao': 'harmonização', 'producao': 'produção',
+    'expressao': 'expressão', 'definicao': 'definição', 'correcao': 'correção',
+    'informacoes': 'informações', 'transformacoes': 'transformações',
+    'caracteristicas': 'características', 'experiencia': 'experiência',
+    'satisfacao': 'satisfação', 'cirurgica': 'cirúrgica', 'portugues': 'português',
+    'conteudo': 'conteúdo', 'historia': 'história', 'projecao': 'projeção',
+    'acumulo': 'acúmulo', 'proporcao': 'proporção', 'estetica': 'estética',
+    'botulinica': 'botulínica', 'colageno': 'colágeno', 'inicio': 'início',
+    'tambem': 'também', 'voce': 'você', 'saude': 'saúde', 'servico': 'serviço',
+    'servicos': 'serviços', 'educacao': 'educação', 'solucao': 'solução',
+    'solucoes': 'soluções', 'atencao': 'atenção', 'prevencao': 'prevenção',
+    'nutricao': 'nutrição', 'habitacao': 'habitação', 'localizacao': 'localização',
+    'manutencao': 'manutenção', 'construcao': 'construção', 'decoracao': 'decoração',
+    'orçamento': 'orçamento', 'orcamento': 'orçamento', 'promocao': 'promoção',
+    'promocoes': 'promoções', 'profissao': 'profissão', 'protecao': 'proteção',
+    'informacao': 'informação', 'conheca': 'conheça', 'clinica': 'clínica',
+    'odontologica': 'odontológica', 'medica': 'médica', 'juridico': 'jurídico',
+    'horario': 'horário', 'horarios': 'horários', 'necessario': 'necessário',
+    'alem': 'além', 'unica': 'única', 'unico': 'único', 'regiao': 'região',
+    'rinomodelacao': 'rinomodelação', 'otomodelacao': 'otomodelação',
+    'dinamicas': 'dinâmicas', 'labios': 'lábios', 'nao': 'não',
+  };
+  const bodyText = document.body.innerText.toLowerCase();
+  const missingAccents = [];
+  for (const [wrong, right] of Object.entries(accentMap)) {
+    // Buscar a palavra sem acento como palavra inteira (nao como parte de outra)
+    const regex = new RegExp('\\b' + wrong + '\\b', 'g');
+    const matches = bodyText.match(regex);
+    if (matches && matches.length > 0) {
+      // Verificar se a versao correta tambem aparece — se sim, pode ser que so uma instancia esteja errada
+      const rightRegex = new RegExp(right.split('').map(c => {
+        if ('àáâãäåèéêëìíîïòóôõöùúûüçñ'.includes(c)) return c;
+        return c;
+      }).join(''), 'gi');
+      const rightMatches = document.body.innerText.match(rightRegex);
+      // Se a versao sem acento aparece e a correta nao (ou aparece menos vezes), reportar
+      if (!rightMatches || rightMatches.length < matches.length) {
+        missingAccents.push({wrong, right, count: matches.length});
+      }
+    }
+  }
+  R.push({id:'pt_br_accents', pass: missingAccents.length === 0, detail: missingAccents.slice(0,8)});
+
+  // ========== DIVERSIDADE DE ANIMACAO ==========
+
+  // 29. Animation diversity
+  const animTypes = new Set();
+  document.querySelectorAll('[style]').forEach(el => {
+    const s = el.getAttribute('style') || '';
+    if (s.includes('translateY') || s.includes('translate(')) animTypes.add('translateY');
+    if (s.includes('translateX')) animTypes.add('translateX');
+    if (s.includes('scale')) animTypes.add('scale');
+    if (s.includes('rotate')) animTypes.add('rotate');
+    if (s.includes('clip-path')) animTypes.add('clip-path');
+    if (s.includes('blur')) animTypes.add('blur');
+  });
+  try {
+    for (const sheet of sheets) {
+      try {
+        for (const rule of sheet.cssRules) {
+          if (rule.type === CSSRule.KEYFRAMES_RULE) animTypes.add('keyframe-' + rule.name);
+        }
+      } catch(e) {}
+    }
+  } catch(e) {}
+  R.push({id:'animation_diversity', pass: animTypes.size >= 3, detail: {types: [...animTypes], count: animTypes.size}});
+
+  // 30. Layout diversity
+  const sectionLayouts = [];
+  document.querySelectorAll('section').forEach(sec => {
+    const inner = sec.querySelector('div');
+    if (!inner) return;
+    const s = getComputedStyle(inner);
+    const display = s.display;
+    const gridCols = s.gridTemplateColumns;
+    const flexDir = s.flexDirection;
+    const key = display === 'grid' ? 'grid-' + (gridCols || 'auto') : display === 'flex' ? 'flex-' + flexDir : 'block';
+    sectionLayouts.push(key);
+  });
+  const uniqueLayouts = new Set(sectionLayouts);
+  R.push({id:'layout_diversity', pass: uniqueLayouts.size >= 3 || sectionLayouts.length <= 3,
+    detail: {unique: uniqueLayouts.size, total: sectionLayouts.length, layouts: [...uniqueLayouts].slice(0,5)}});
+
+  // 31. Empty sections detection
+  const emptySections = [];
+  document.querySelectorAll('section').forEach(sec => {
+    const r = sec.getBoundingClientRect();
+    const text = sec.innerText?.trim() || '';
+    if (r.height > 200 && text.length < 50) {
+      emptySections.push({id: sec.id || 'unnamed', height: Math.round(r.height), textLen: text.length});
+    }
+  });
+  R.push({id:'empty_sections', pass: emptySections.length === 0, detail: emptySections.slice(0,5)});
+
   return R;
 })()
 """
@@ -347,7 +513,7 @@ WEIGHTS = {
     'custom_fonts': ('critical', 0.5), 'type_scale': ('fail', 0.2), 'heading_hierarchy': ('fail', 0.2),
     'line_height': ('fail', 0.2),
     # Cores (15%)
-    'contrast_wcag': ('critical', 0.5), 'color_palette': ('warn', 0.1), 'cta_distinct': ('fail', 0.2),
+    'contrast_wcag': ('critical', 0.5), 'invisible_text': ('critical', 0.5), 'color_palette': ('warn', 0.1), 'cta_distinct': ('fail', 0.2),
     # Imagens (15%)
     'broken_images': ('critical', 0.5), 'img_alt': ('fail', 0.3), 'img_ratio': ('fail', 0.3),
     # Motion (10%)
@@ -361,6 +527,12 @@ WEIGHTS = {
     # Mobile-first
     'touch_targets': ('fail', 0.3),
     'min_font_mobile': ('fail', 0.3),
+    # Acentuacao PT-BR
+    'pt_br_accents': ('critical', 0.5),
+    # Diversidade (NOVO)
+    'animation_diversity': ('fail', 0.3),
+    'layout_diversity': ('fail', 0.3),
+    'empty_sections': ('critical', 0.5),
 }
 
 
@@ -467,6 +639,68 @@ async def validate():
 
         await browser.close()
 
+    # ============ ORIGINALITY CHECKS (file comparison) ============
+    import glob
+    base = os.path.dirname(os.path.dirname(OUT))  # sites/$LEAD_ID
+    sites_dir = os.path.dirname(base)  # sites/
+    lead_id = os.path.basename(base)
+
+    # Find last 3 sites by modification time
+    all_sites = sorted(
+        [d for d in glob.glob(os.path.join(sites_dir, '*/src/main.jsx')) if lead_id not in d],
+        key=os.path.getmtime, reverse=True
+    )[:3]
+
+    # Check 29b: Font originality
+    def get_fonts(main_jsx):
+        fonts = set()
+        try:
+            with open(main_jsx) as f:
+                for line in f:
+                    if '@fontsource' in line:
+                        part = line.split('@fontsource/')[-1].split('/')[0].split('"')[0].split("'")[0].strip().lower()
+                        if part: fonts.add(part)
+        except: pass
+        return fonts
+
+    current_fonts = get_fonts(os.path.join(base, 'src/main.jsx'))
+    font_conflicts = []
+    for prev in all_sites:
+        prev_fonts = get_fonts(prev)
+        overlap = current_fonts & prev_fonts
+        if overlap:
+            prev_name = os.path.basename(os.path.dirname(os.path.dirname(prev)))
+            font_conflicts.extend([f"{f} (also in {prev_name})" for f in overlap])
+
+    font_score = 10 if not font_conflicts else 0
+    if font_conflicts:
+        critical(f"[font_originality] Fontes repetidas: {', '.join(font_conflicts)}")
+    else:
+        ok("[font_originality] Fontes sao unicas")
+
+    # Check 30b: Component name originality
+    def get_ui_components(site_path):
+        ui_dir = os.path.join(os.path.dirname(site_path), 'components/ui')
+        try:
+            return set(os.path.splitext(f)[0] for f in os.listdir(ui_dir) if f.endswith('.jsx'))
+        except: return set()
+
+    current_comps = get_ui_components(os.path.join(base, 'src/main.jsx'))
+    banned_names = {'ScrollReveal', 'AnimatedText', 'ParallaxImage', 'CountUp'}
+    comp_overlap = current_comps & banned_names
+    comp_score = 10 if len(comp_overlap) <= 1 else (5 if len(comp_overlap) <= 2 else 0)
+    if comp_overlap:
+        warn(f"[component_originality] Nomes de componentes do template antigo: {', '.join(comp_overlap)}")
+    else:
+        ok("[component_originality] Nomes de componentes sao originais")
+
+    # Apply originality penalties
+    for vp_name in scores:
+        if font_score == 0:
+            scores[vp_name] -= 0.5
+        if comp_score == 0:
+            scores[vp_name] -= 0.3
+
     # ============ RELATORIO FINAL ============
     final_score = min(scores.values()) if scores else 0
     final_score = max(0, round(final_score, 1))
@@ -477,6 +711,7 @@ async def validate():
     for vp_name, sc in scores.items():
         bar = "█" * int(sc) + "░" * (10 - int(sc))
         print(f"  {vp_name:>8}: {bar} {sc}/10")
+    print(f"  Originalidade: fontes={'OK' if font_score == 10 else 'REPETIDAS'}, componentes={'OK' if comp_score >= 5 else 'TEMPLATE'}")
     print(f"{'='*60}")
     print(f"  SCORE FINAL: {final_score}/10  (minimo exigido: {THRESHOLD})")
     print(f"  ✅ PASS: {len(RESULTS['pass'])}")

@@ -1,5 +1,16 @@
 // ============================================================
-// TEMPLATES DE COMPONENTES — Copie e adapte para cada site
+// ⚠️  REFERENCIA DE PATTERNS DE CLEANUP — NAO COPIE
+// ============================================================
+// Estes templates existem APENAS como referencia de:
+// - API patterns (ctx.revert, viewport: once, etc)
+// - Cleanup patterns (useEffect return, ScrollTrigger kill, etc)
+// - Accessibility patterns (aria-labels, reduced-motion, etc)
+//
+// Cada site DEVE criar seus PROPRIOS componentes baseados no
+// blueprint tecnico do mapa-encantamento.md (Phase 3).
+//
+// Se voce esta copiando este arquivo inteiro, voce esta ERRADO.
+// Consulte os MCPs (magic-ui, aceternity-ui, gsap) primeiro.
 // ============================================================
 
 // === src/components/ui/ScrollReveal.jsx ===

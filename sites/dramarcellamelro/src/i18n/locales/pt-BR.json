@@ -1,0 +1,122 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "services": "Serviços",
+    "differentials": "Diferenciais",
+    "instagram": "Instagram",
+    "contact": "Contato",
+    "cta": "Agende sua consulta"
+  },
+  "hero": {
+    "headline": "Saúde bucal conectada ao todo",
+    "subheadline": "Sua boca revela o que o corpo pede — e eu escuto.",
+    "cta": "Agende sua consulta",
+    "scroll": "Deslize para descobrir"
+  },
+  "manifesto": {
+    "title": "A filosofia",
+    "text": "Sua boca revela o que o corpo está pedindo — e eu escuto.",
+    "description": "Na odontologia integrativa, cada sintoma bucal é uma pista sobre a saúde do corpo inteiro. Não tratamos apenas dentes — investigamos causas, conectamos sinais e construímos um caminho de cuidado que respeita quem você é.",
+    "cta": "Quero conhecer essa abordagem"
+  },
+  "about": {
+    "title": "Quem escuta",
+    "subtitle": "Dra. Marcella Melro",
+    "description": "Cirurgiã-dentista com formação pela UNESP e especialização em odontologia integrativa. Ao longo de mais de uma década de prática, desenvolvi uma abordagem que conecta a saúde bucal ao corpo todo — integrando odontologia, medicina, nutrição e psicologia.",
+    "philosophy": "Cada paciente é um organismo único. Meu papel não é apenas tratar o que aparece — é escutar o que a boca está revelando sobre a saúde como um todo.",
+    "credentials": "CRO-SC • UNESP • Membro da ABM Funcional Integrativa",
+    "quote": "Eu não trato dentes. Eu escuto o que eles estão dizendo."
+  },
+  "services": {
+    "title": "O cuidado",
+    "subtitle": "Cada serviço é um olhar integrativo sobre a sua saúde",
+    "items": {
+      "avaliacao": {
+        "name": "Avaliação Integrativa",
+        "description": "Consulta completa onde escutamos o que sua boca está revelando sobre seu corpo. Anamnese detalhada conectando saúde bucal, metabolismo e hábitos de vida."
+      },
+      "radiografia": {
+        "name": "Radiografia Panorâmica Diagnóstica",
+        "description": "A radiografia panorâmica vai muito além dos dentes. Permite enxergar o organismo como um todo, identificando sinais que outros exames não revelam."
+      },
+      "periodontal": {
+        "name": "Tratamento Periodontal Sistêmico",
+        "description": "Gengiva saudável não sangra. Tratamos a doença periodontal investigando causas sistêmicas — inflamação, nutrição, metabolismo — não apenas os sintomas locais."
+      },
+      "harmonizacao": {
+        "name": "Harmonização Orofacial",
+        "description": "Equilíbrio e naturalidade. Procedimentos que respeitam a harmonia do rosto, sem exageros, com olhar integrativo sobre a saúde como um todo."
+      },
+      "odontopediatria": {
+        "name": "Odontopediatria Integrativa",
+        "description": "Cuidado acolhedor para os pequenos, desde o nascimento. Orientação para pais sobre alimentação, respiração e hábitos que constroem saúde bucal para a vida toda."
+      },
+      "preventivo": {
+        "name": "Acompanhamento Preventivo",
+        "description": "Prevenção individualizada com foco em manter o equilíbrio do organismo. Limpezas periódicas, orientação nutricional e monitoramento contínuo."
+      }
+    },
+    "cta": "Descubra como posso ajudar você"
+  },
+  "impact": {
+    "phrase": "O sorriso é a porta de entrada para a saúde do corpo inteiro"
+  },
+  "differentials": {
+    "title": "Por que aqui",
+    "subtitle": "O que torna essa abordagem única",
+    "stats": {
+      "years": {
+        "number": "10",
+        "suffix": "+",
+        "label": "Anos de odontologia integrativa"
+      },
+      "followers": {
+        "number": "1691",
+        "suffix": "",
+        "label": "Seguidores no Instagram"
+      },
+      "specialties": {
+        "number": "6",
+        "suffix": "",
+        "label": "Especialidades integradas"
+      }
+    },
+    "badges": {
+      "integrativa": "Abordagem integrativa",
+      "unesp": "Formação UNESP",
+      "abm": "Membro ABM Funcional Integrativa",
+      "holistica": "Visão holística da saúde"
+    }
+  },
+  "instagram": {
+    "title": "O dia a dia",
+    "subtitle": "Acompanhe o consultório e a abordagem integrativa no Instagram",
+    "cta": "Siga no Instagram @dramarcellamelro"
+  },
+  "contact": {
+    "title": "O convite",
+    "subtitle": "Pronta para começar sua jornada de saúde integrativa?",
+    "address": "Blumenau, SC",
+    "hours": "Segunda a Sexta, 8h às 18h",
+    "whatsapp_cta": "Vamos conversar?",
+    "cta_journey": "Comece sua jornada de saúde",
+    "phone_label": "WhatsApp",
+    "address_label": "Localização",
+    "hours_label": "Horário de atendimento"
+  },
+  "footer": {
+    "copyright": "© 2026 Dra. Marcella Melro. Todos os direitos reservados.",
+    "instagram": "Instagram",
+    "privacy": "Política de Privacidade",
+    "social": "Siga nas redes"
+  },
+  "lang": {
+    "pt": "Português",
+    "en": "English"
+  },
+  "whatsapp": {
+    "float_label": "Fale pelo WhatsApp",
+    "default_message": "Olá, Dra. Marcella! Gostaria de agendar uma consulta."
+  }
+}

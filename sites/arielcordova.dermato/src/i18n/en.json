@@ -1,0 +1,134 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "technology": "Technology",
+    "clinic": "UNA Dermatologia",
+    "credentials": "Credentials",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "cta": "Book Appointment"
+  },
+  "hero": {
+    "greeting": "Dra. Ariel C\u00f3rdova Rosa",
+    "title": "Dermatologist",
+    "subtitle": "Clinical \u2022 Surgical \u2022 Aesthetic",
+    "description": "Researcher, preceptor of the Dermatology Residency at HU-UFSC, and board member of SBD/SC. Science and care for your skin health.",
+    "cta": "Book Appointment",
+    "cta_secondary": "Explore my work",
+    "crm": "CRM 23372 SC \u2022 RQE 18753"
+  },
+  "about": {
+    "label": "About",
+    "title": "Science that cares",
+    "description": "Graduated in Medicine from UFSC in 2016, with Dermatology Residency at the UFSC University Hospital. Currently pursuing a Master's in Medical Sciences, researching nail psoriasis and psoriatic arthritis.",
+    "text_2": "As a preceptor of the Dermatology Residency at HU-UFSC, I train the dermatologists of tomorrow. I lead the High-Frequency Ultrasound and Confocal Microscopy outpatient clinic.",
+    "text_3": "Board member of the Santa Catarina Dermatology Society (SBD-SC), I attend international congresses such as EADV in Paris and the Brazilian Dermatology Congress.",
+    "highlight_1": "Researcher in melanoma and dermatologic surgery",
+    "highlight_2": "Preceptor at HU-UFSC Residency",
+    "highlight_3": "SBD/SC Board Member"
+  },
+  "services": {
+    "label": "Services",
+    "title": "Three pillars of care",
+    "subtitle": "Each area of dermatology requires specialized knowledge. I work across all three to provide comprehensive care.",
+    "clinical": {
+      "title": "Clinical Dermatology",
+      "description": "Diagnosis and treatment of skin conditions with scientific evidence and advanced technology.",
+      "items": "Acne, Skin Cancer, Melasma, Dermatitis, Psoriasis, Skin Allergy, Scarring, Rosacea, Melanoma, Hyperpigmentation, Total Body Mapping"
+    },
+    "surgical": {
+      "title": "Surgical Dermatology",
+      "description": "Dermatologic surgical procedures with precision and safety.",
+      "items": "Skin tumor removal, Nail surgery, Earlobe repair, Skin biopsies"
+    },
+    "aesthetic": {
+      "title": "Aesthetic Dermatology",
+      "description": "Aesthetic treatments with medical perspective and natural results.",
+      "items": "Hyaluronic acid, Fillers, Botulinum toxin, Lasers, Chemical peels, Biostimulators, Facial rejuvenation"
+    }
+  },
+  "technology": {
+    "label": "Technology",
+    "title": "Technology serving precision",
+    "subtitle": "State-of-the-art equipment for more accurate diagnoses and detailed follow-up.",
+    "fotofinder": {
+      "title": "Total Body Mapping",
+      "description": "FotoFinder system for complete mapping of moles and lesions, essential for monitoring patients at risk of melanoma."
+    },
+    "ultrasound": {
+      "title": "Dermatologic Ultrasound",
+      "description": "High-frequency imaging exam for non-invasive evaluation of skin lesions, tumors, and skin structures."
+    },
+    "confocal": {
+      "title": "Confocal Microscopy",
+      "description": "In vivo cellular skin analysis, enabling diagnosis without biopsy in many cases."
+    }
+  },
+  "impact": {
+    "phrase": "Your skin deserves science"
+  },
+  "clinic": {
+    "label": "The Clinic",
+    "title": "UNA Dermatologia",
+    "subtitle": "A new concept in dermatologic treatment",
+    "description": "Founded in 2023, UNA Dermatologia was born from the vision of offering complete dermatology \u2014 clinical, aesthetic, surgical, exams, and technologies \u2014 in a single space designed for patient well-being.",
+    "address": "Rua Angelo La Porta, 53 - Suite 904, Centro, Florian\u00f3polis/SC",
+    "phone": "(48) 3028-1560"
+  },
+  "credentials": {
+    "label": "Credentials",
+    "title": "Education and recognition",
+    "stats": {
+      "rating": "5.0",
+      "rating_label": "Doctoralia rating",
+      "reviews": "27",
+      "reviews_label": "Reviews",
+      "followers": "3,061",
+      "followers_label": "Followers",
+      "experience": "2016",
+      "experience_label": "In medicine since"
+    },
+    "items": {
+      "ufsc": "Medicine - UFSC (2016)",
+      "residencia": "Dermatology Residency - HU UFSC (2019)",
+      "mestrado": "Master's in Medical Sciences - UFSC",
+      "preceptora": "Preceptor at HU-UFSC Residency",
+      "sbd": "SBD/SC Board Member",
+      "eadv": "EADV Congress (Paris)",
+      "cbd": "Brazilian Dermatology Congress",
+      "crm": "CRM 23372 SC | RQE 18753"
+    }
+  },
+  "gallery": {
+    "label": "Gallery",
+    "title": "Moments and journey"
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Book your appointment",
+    "subtitle": "Private practice. Schedule via WhatsApp or Doctoralia.",
+    "whatsapp": "(48) 99123-2270",
+    "whatsapp_cta": "Chat on WhatsApp",
+    "phone": "(48) 3028-1560",
+    "phone_label": "Clinic phone",
+    "address": "Rua Angelo La Porta, 53 - Suite 904, Centro, Florian\u00f3polis/SC",
+    "hours": "Monday to Friday: 9am - 6pm | Saturday: 9am - 1pm",
+    "doctoralia_cta": "Book on Doctoralia",
+    "doctoralia_url": "https://www.doctoralia.com.br/ariel-cordova/dermatologista/florianopolis",
+    "payment": "Private practice \u2022 Bank transfer",
+    "telemedicine": "Telemedicine appointments available"
+  },
+  "footer": {
+    "copyright": "\u00a9 2026 Dra. Ariel C\u00f3rdova Rosa. All rights reserved.",
+    "crm": "CRM 23372 SC | RQE 18753",
+    "social": "Social media",
+    "privacy": "Privacy Policy",
+    "disclaimer": "The information on this website is for informational purposes and does not replace a medical consultation."
+  },
+  "lang": {
+    "pt": "Portugu\u00eas",
+    "en": "English"
+  }
+}

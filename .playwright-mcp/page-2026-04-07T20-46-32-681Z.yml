@@ -1,0 +1,334 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e88] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e93]
+        - link "Foto do perfil de _pipelinestudio" [ref=e99] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e104]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e105]
+      - generic [ref=e106]:
+        - link "Configurações" [ref=e109] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e114]
+        - link "Também da Meta" [ref=e117] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e122]
+    - generic [ref=e125]:
+      - main [ref=e126]:
+        - generic [ref=e128]:
+          - generic [ref=e129]:
+            - generic [ref=e130]:
+              - link "Foto do perfil de draleticiaalagia" [ref=e136] [cursor=pointer]:
+                - /url: /draleticiaalagia/
+                - img "Foto do perfil de draleticiaalagia" [ref=e137]
+              - generic [ref=e138]:
+                - generic [ref=e139]:
+                  - generic [ref=e140]:
+                    - link "draleticiaalagia" [ref=e142] [cursor=pointer]:
+                      - /url: "#"
+                      - heading "draleticiaalagia" [level=2] [ref=e143]:
+                        - generic [ref=e144]: draleticiaalagia
+                    - button "Opções" [ref=e146] [cursor=pointer]:
+                      - img "Opções" [ref=e148]
+                  - generic [ref=e153]: Dra. Letícia Alágia
+                  - generic [ref=e154]:
+                    - generic [ref=e156]:
+                      - generic [ref=e157]: "678"
+                      - text: posts
+                    - link "5.344 seguidores" [ref=e159] [cursor=pointer]:
+                      - /url: /draleticiaalagia/followers/
+                      - generic [ref=e160]:
+                        - generic "5.344" [ref=e161]
+                        - text: seguidores
+                    - link "3.775 seguindo" [ref=e163] [cursor=pointer]:
+                      - /url: /draleticiaalagia/following/
+                      - generic [ref=e164]:
+                        - generic [ref=e165]: "3.775"
+                        - text: seguindo
+                - generic [ref=e167]:
+                  - generic [ref=e168]:
+                    - button "Drª Letícia Alágia | Dermatologista ✨️ Envelhecer é inevitável. Envelhecer bem é uma escolha. Cataguases-MG | CRM" [ref=e169] [cursor=pointer]:
+                      - generic [ref=e170]:
+                        - text: Drª Letícia Alágia | Dermatologista
+                        - text: ✨️ Envelhecer é inevitável. Envelhecer bem é uma escolha.
+                        - text: Cataguases-MG | CRM
+                    - generic [ref=e171]:
+                      - text: ...
+                      - button "mais" [ref=e172] [cursor=pointer]:
+                        - generic [ref=e173]: mais
+                  - generic [ref=e175]:
+                    - img "Ícone de link" [ref=e177]
+                    - link "wa.me/553234213184" [ref=e181] [cursor=pointer]:
+                      - /url: https://l.instagram.com/?u=https%3A%2F%2Fwa.me%2F553234213184%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnfcBBRa9Twy2WqdaIKW2nxCGR5qjKXU9t00mp08vW7qXe7xW5JVn8uGR6zhE_aem_Afr4GkPCcIHT9cCR07xKGA&e=AT71zzVOqzDjjcRh_WIxtJu8nOKKihVOrLqPYu6CzYsw2Uehvs4c6c5Sw_4d5gRS7I27kzxCOsa_SbOjmYINLtXCVjUKX0l6a3reX1i84a3XQtvr77VSo512ng
+                      - generic [ref=e182]: wa.me/553234213184
+            - generic [ref=e187]:
+              - button "Seguir" [ref=e189] [cursor=pointer]:
+                - generic [ref=e191]: Seguir
+              - button "Enviar mensagem" [ref=e193] [cursor=pointer]
+              - button "Contas semelhantes" [ref=e195] [cursor=pointer]:
+                - img "Contas semelhantes" [ref=e197]
+            - menu [ref=e201]:
+              - generic [ref=e203]:
+                - list [ref=e205]:
+                  - listitem [ref=e206]
+                  - listitem [ref=e207]
+                  - listitem [ref=e208]:
+                    - link "Ver destaque de Feedbacks" [ref=e211] [cursor=pointer]:
+                      - /url: /stories/highlights/17855135085452726/
+                      - button "Foto do story no destaque de draleticiaalagia Feedbacks" [ref=e212]:
+                        - button "Foto do story no destaque de draleticiaalagia" [ref=e213]:
+                          - img "Foto do story no destaque de draleticiaalagia" [ref=e216]
+                        - generic [ref=e219]: Feedbacks
+                  - listitem [ref=e220]:
+                    - link "Ver destaque de mitos e verdades" [ref=e223] [cursor=pointer]:
+                      - /url: /stories/highlights/18006211070520079/
+                      - button "Foto do story no destaque de draleticiaalagia mitos e verdades" [ref=e224]:
+                        - button "Foto do story no destaque de draleticiaalagia" [ref=e225]:
+                          - img "Foto do story no destaque de draleticiaalagia" [ref=e228]
+                        - generic [ref=e231]: mitos e verdades
+                  - listitem [ref=e232]:
+                    - link "Ver destaque de Produtos" [ref=e235] [cursor=pointer]:
+                      - /url: /stories/highlights/18026426836736781/
+                      - button "Foto do story no destaque de draleticiaalagia Produtos" [ref=e236]:
+                        - button "Foto do story no destaque de draleticiaalagia" [ref=e237]:
+                          - img "Foto do story no destaque de draleticiaalagia" [ref=e240]
+                        - generic [ref=e243]: Produtos
+                  - listitem [ref=e244]:
+                    - link "Ver destaque de Relatos" [ref=e247] [cursor=pointer]:
+                      - /url: /stories/highlights/18034339624528040/
+                      - button "Foto do story no destaque de draleticiaalagia Relatos" [ref=e248]:
+                        - button "Foto do story no destaque de draleticiaalagia" [ref=e249]:
+                          - img "Foto do story no destaque de draleticiaalagia" [ref=e252]
+                        - generic [ref=e255]: Relatos
+                  - listitem [ref=e256]:
+                    - link "Ver destaque de Laser Harmony" [ref=e259] [cursor=pointer]:
+                      - /url: /stories/highlights/17903206433715281/
+                      - button "Foto do story no destaque de draleticiaalagia Laser Harmony" [ref=e260]:
+                        - button "Foto do story no destaque de draleticiaalagia" [ref=e261]:
+                          - img "Foto do story no destaque de draleticiaalagia" [ref=e264]
+                        - generic [ref=e267]: Laser Harmony
+                  - listitem [ref=e268]:
+                    - link "Ver destaque de Clube da Pele" [ref=e271] [cursor=pointer]:
+                      - /url: /stories/highlights/17875119494885756/
+                      - button "Foto do story no destaque de draleticiaalagia Clube da Pele" [ref=e272]:
+                        - button "Foto do story no destaque de draleticiaalagia" [ref=e273]:
+                          - img "Foto do story no destaque de draleticiaalagia" [ref=e276]
+                        - generic [ref=e279]: Clube da Pele
+                  - listitem [ref=e280]:
+                    - link "Ver destaque de o básico da pele" [ref=e283] [cursor=pointer]:
+                      - /url: /stories/highlights/17934779927528918/
+                      - button "Foto do story no destaque de draleticiaalagia o básico da pele" [ref=e284]:
+                        - button "Foto do story no destaque de draleticiaalagia" [ref=e285]:
+                          - img "Foto do story no destaque de draleticiaalagia" [ref=e288]
+                        - generic [ref=e291]: o básico da pele
+                  - listitem [ref=e292]:
+                    - link "Ver destaque de Melasma" [ref=e295] [cursor=pointer]:
+                      - /url: /stories/highlights/17863772255862699/
+                      - button "Foto do story no destaque de draleticiaalagia Melasma" [ref=e296]:
+                        - button "Foto do story no destaque de draleticiaalagia" [ref=e297]:
+                          - img "Foto do story no destaque de draleticiaalagia" [ref=e300]
+                        - generic [ref=e303]: Melasma
+                  - listitem [ref=e304]:
+                    - link "Ver destaque de Beauty Day" [ref=e307] [cursor=pointer]:
+                      - /url: /stories/highlights/18008600719592867/
+                      - button "Foto do story no destaque de draleticiaalagia Beauty Day" [ref=e308]:
+                        - button "Foto do story no destaque de draleticiaalagia" [ref=e309]:
+                          - img "Foto do story no destaque de draleticiaalagia" [ref=e312]
+                        - generic [ref=e315]: Beauty Day
+                - button "Avançar" [ref=e316] [cursor=pointer]
+          - generic [ref=e318]:
+            - tablist [ref=e319]:
+              - link "Posts" [ref=e321] [cursor=pointer]:
+                - /url: /draleticiaalagia/
+                - img "Posts" [ref=e323]
+              - link "Reels" [ref=e334] [cursor=pointer]:
+                - /url: /draleticiaalagia/reels/
+                - img "Reels" [ref=e336]
+              - link "Marcados" [ref=e339] [cursor=pointer]:
+                - /url: /draleticiaalagia/tagged/
+                - img "Marcados" [ref=e341]
+            - tabpanel
+          - generic [ref=e348]:
+            - generic [ref=e349]:
+              - 'link "Um espaço pensado em você! Na Clínica Letícia Alágia, você encontra o melhor em tratamentos estéticos com uma abordagem diferenciada que prioriza beleza, conforto e atendimento personalizado. Cada cliente é único, e nossos protocolos individualizados são elaborados para atender suas necessidades específicas, garantindo resultados incríveis. Venha descobrir o que torna a Clínica Letícia Alágia um lugar especial para cuidar de você. Agende sua consulta e permita-se viver uma experiência estética de excelência! ‌ Dra. Letícia Alágia - Dermatologista Cataguases - Minas Gerais CRM 52862/MG ‌ #ClínicaLetíciaAlágia #BelezaPersonalizada #EstéticaDeQualidade #CuidadoComVocê #AtendimentoExclusivo #ResultadosIncríveis #Dermatologista #Cataguases Ícone de post fixado" [ref=e351] [cursor=pointer]':
+                - /url: /draleticiaalagia/p/C89UtucxlWq/
+                - 'img "Um espaço pensado em você! Na Clínica Letícia Alágia, você encontra o melhor em tratamentos estéticos com uma abordagem diferenciada que prioriza beleza, conforto e atendimento personalizado. Cada cliente é único, e nossos protocolos individualizados são elaborados para atender suas necessidades específicas, garantindo resultados incríveis. Venha descobrir o que torna a Clínica Letícia Alágia um lugar especial para cuidar de você. Agende sua consulta e permita-se viver uma experiência estética de excelência! ‌ Dra. Letícia Alágia - Dermatologista Cataguases - Minas Gerais CRM 52862/MG ‌ #ClínicaLetíciaAlágia #BelezaPersonalizada #EstéticaDeQualidade #CuidadoComVocê #AtendimentoExclusivo #ResultadosIncríveis #Dermatologista #Cataguases" [ref=e354]'
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Ícone de post fixado"
+              - link [ref=e357] [cursor=pointer]:
+                - /url: /draleticiaalagia/reel/CxNmqCJLEzV/
+                - img [ref=e360]
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Ícone de post fixado"
+              - 'link "Se você acompanha o mundo da moda, já ouviu falar em “Quiet Luxury”. Se você não acompanha e não faz ideia do que essa tendência fala, eu separei informações valiosas para você entender melhor esse assunto do momento, e ainda saber o que ele tem a ver com a dermatologia e com a forma com que trabalho. Arrasta para o lado e me conta: você é do time #quietluxury também? ‌ Dra. Letícia Alágia Dermatologista CRM 52862/MG ‌ #quietluxury #tendências2023 #procedimentosestéticos #injetáveis #bioestimulador #sculptra #topmodel #mdcodes Ícone de post fixado" [ref=e363] [cursor=pointer]':
+                - /url: /draleticiaalagia/p/CvW_X4HOy0Y/
+                - 'img "Se você acompanha o mundo da moda, já ouviu falar em “Quiet Luxury”. Se você não acompanha e não faz ideia do que essa tendência fala, eu separei informações valiosas para você entender melhor esse assunto do momento, e ainda saber o que ele tem a ver com a dermatologia e com a forma com que trabalho. Arrasta para o lado e me conta: você é do time #quietluxury também? ‌ Dra. Letícia Alágia Dermatologista CRM 52862/MG ‌ #quietluxury #tendências2023 #procedimentosestéticos #injetáveis #bioestimulador #sculptra #topmodel #mdcodes" [ref=e366]'
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Ícone de post fixado"
+            - generic [ref=e368]:
+              - link "Photo by Dra. Letícia Alágia on April 06, 2026. May be an image of text that says '@DRALETICIALAGIA CRM 52862/MG @DRALETICIALAGIACRM.52862/MG MG ACNEE CI HOCOLATE Será que tem alguma ligação ou é apenar crendice popular?'." [ref=e370] [cursor=pointer]:
+                - /url: /draleticiaalagia/p/DWybT37jcMl/
+                - img "Photo by Dra. Letícia Alágia on April 06, 2026. May be an image of text that says '@DRALETICIALAGIA CRM 52862/MG @DRALETICIALAGIACRM.52862/MG MG ACNEE CI HOCOLATE Será que tem alguma ligação ou é apenar crendice popular?'." [ref=e373]
+              - link "Photo by Dra. Letícia Alágia on April 03, 2026. May be an image of chocolate bar and text that says '@DRALETICIALAGIA CRM 52862/MG NÃO OUEREMOS CHIOCOLATE sem sembotox botox combotox com botox'." [ref=e376] [cursor=pointer]:
+                - /url: /draleticiaalagia/p/DWq0hAdjUB6/
+                - img "Photo by Dra. Letícia Alágia on April 03, 2026. May be an image of chocolate bar and text that says '@DRALETICIALAGIA CRM 52862/MG NÃO OUEREMOS CHIOCOLATE sem sembotox botox combotox com botox'." [ref=e379]
+              - link "Photo by Dra. Letícia Alágia on April 01, 2026. May be an image of one or more people, hair, fingernails, poster, magazine and text that says 'VOCÊSABE DOOURASUA ASUA DOOI PELEPRECISA? limpeza hidratação proteção renovação Consulte sua dermato e personalize sua rotina'." [ref=e382] [cursor=pointer]:
+                - /url: /draleticiaalagia/p/DWliPM0De2j/
+                - img "Photo by Dra. Letícia Alágia on April 01, 2026. May be an image of one or more people, hair, fingernails, poster, magazine and text that says 'VOCÊSABE DOOURASUA ASUA DOOI PELEPRECISA? limpeza hidratação proteção renovação Consulte sua dermato e personalize sua rotina'." [ref=e385]
+            - generic [ref=e387]:
+              - link "Photo by Dra. Letícia Alágia in Cataguases - MG. May be an image of text that says '@DRALETICIALAGIA_CRM528624 @DRAL @DRALETICIALAGIA CRM 52862/MG SUAPELE NAOPRECISA RECISA SERPERFEITA SER sua pele precisa suapeleprecisasercuidada. ser cuidada.'." [ref=e389] [cursor=pointer]:
+                - /url: /draleticiaalagia/p/DWgZROYjVJW/
+                - img "Photo by Dra. Letícia Alágia in Cataguases - MG. May be an image of text that says '@DRALETICIALAGIA_CRM528624 @DRAL @DRALETICIALAGIA CRM 52862/MG SUAPELE NAOPRECISA RECISA SERPERFEITA SER sua pele precisa suapeleprecisasercuidada. ser cuidada.'." [ref=e392]
+              - link "Photo by Dra. Letícia Alágia in Cataguases - MG. May be an image of one or more people and text that says '@DRALETICIALAGIA @DRALETICIALAGIACRM52962/MG CRM 52862/MG alimentação alimentaçãodesregulada desregulada exposição solar alteração alteraçãonormonal hormonal estresse medicamentos medicament GATILHOS PARA ACNE'." [ref=e395] [cursor=pointer]:
+                - /url: /draleticiaalagia/p/DWYq70XjQsy/
+                - img "Photo by Dra. Letícia Alágia in Cataguases - MG. May be an image of one or more people and text that says '@DRALETICIALAGIA @DRALETICIALAGIACRM52962/MG CRM 52862/MG alimentação alimentaçãodesregulada desregulada exposição solar alteração alteraçãonormonal hormonal estresse medicamentos medicament GATILHOS PARA ACNE'." [ref=e398]
+              - link "Photo by Dra. Letícia Alágia in Cataguases - MG. May be an image of one or more people, poster, magazine, top and text that says 'FDRALETICIALAGIA ODRALE CJALAGIA LAGIA មខាត CUIDAR DAPELE não é sobre parecer mais jovem, é sobre se sentir bem em todas as fases da vida'." [ref=e401] [cursor=pointer]:
+                - /url: /draleticiaalagia/p/DWThO8DjW9q/
+                - img "Photo by Dra. Letícia Alágia in Cataguases - MG. May be an image of one or more people, poster, magazine, top and text that says 'FDRALETICIALAGIA ODRALE CJALAGIA LAGIA មខាត CUIDAR DAPELE não é sobre parecer mais jovem, é sobre se sentir bem em todas as fases da vida'." [ref=e404]
+            - generic [ref=e406]:
+              - link "Photo by Dra. Letícia Alágia on March 23, 2026. May be an image of one or more people, hair, hair product and text." [ref=e408] [cursor=pointer]:
+                - /url: /draleticiaalagia/p/DWOajuFDSyH/
+                - img "Photo by Dra. Letícia Alágia on March 23, 2026. May be an image of one or more people, hair, hair product and text." [ref=e411]
+              - link "Photo by Dra. Letícia Alágia in Cataguases - MG. May be an image of one or more people, makeup, hair, dress, carpet, magazine and text that says '2007 2026 EDOSCARDA FO OSCAR DA DERMATOVAIPARA A maravilhosa Anne Hathaway e seu gerenciamento de envelhecimento'." [ref=e414] [cursor=pointer]:
+                - /url: /draleticiaalagia/p/DWGwobhjWLN/
+                - img "Photo by Dra. Letícia Alágia in Cataguases - MG. May be an image of one or more people, makeup, hair, dress, carpet, magazine and text that says '2007 2026 EDOSCARDA FO OSCAR DA DERMATOVAIPARA A maravilhosa Anne Hathaway e seu gerenciamento de envelhecimento'." [ref=e417]
+              - 'link "Photo by Dra. Letícia Alágia in Cataguases - MG. May be an image of one or more people, hair and text that says ''@DRALETICIALAGIA @DRALETICIALAGIACRM52862/M CRM 52862/MG /MG MENO PAUSA Ela chegou e tudo está diferente: cabelo, pele, unhas. Vem que te ajudo!''." [ref=e420] [cursor=pointer]':
+                - /url: /draleticiaalagia/p/DWBjGTaDcZ3/
+                - 'img "Photo by Dra. Letícia Alágia in Cataguases - MG. May be an image of one or more people, hair and text that says ''@DRALETICIALAGIA @DRALETICIALAGIACRM52862/M CRM 52862/MG /MG MENO PAUSA Ela chegou e tudo está diferente: cabelo, pele, unhas. Vem que te ajudo!''." [ref=e423]'
+      - contentinfo [ref=e425]:
+        - generic [ref=e426]:
+          - generic [ref=e428]:
+            - link "Meta" [ref=e430] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e431]: Meta
+            - link "Sobre" [ref=e433] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e434]: Sobre
+            - link "Blog" [ref=e436] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e437]: Blog
+            - link "Carreiras" [ref=e439] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e440]: Carreiras
+            - link "Ajuda" [ref=e442] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e443]: Ajuda
+            - link "API" [ref=e445] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e446]: API
+            - link "Privacidade" [ref=e448] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e449]: Privacidade
+            - link "Termos" [ref=e451] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e452]: Termos
+            - link "Localizações" [ref=e454] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e455]: Localizações
+            - link "Instagram Lite" [ref=e457] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e458]: Instagram Lite
+            - link "Meta AI" [ref=e460] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e461]: Meta AI
+            - link "Threads" [ref=e463] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e464]: Threads
+            - link "Upload de contatos e não usuários" [ref=e466] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e467]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e469] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e470]: Meta Verified
+          - generic [ref=e471]:
+            - generic [ref=e472] [cursor=pointer]:
+              - generic [ref=e473]:
+                - generic [ref=e474]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e477]
+              - combobox "Trocar idioma de exibição" [ref=e479]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e481]: © 2026 Instagram from Meta
+  - button "Mensagens" [ref=e484] [cursor=pointer]:
+    - generic "Mensagens" [ref=e485]:
+      - generic [ref=e486]:
+        - img "Mensagens" [ref=e489]
+        - generic [ref=e492]: Mensagens

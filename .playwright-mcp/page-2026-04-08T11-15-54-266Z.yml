@@ -1,0 +1,343 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Ir para o conteúdo principal" [ref=e2] [cursor=pointer]
+      - link "Desativar a rolagem contínua" [ref=e3] [cursor=pointer]:
+        - /url: "#"
+      - link "Ajuda sobre acessibilidade" [ref=e4] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=pt-BR
+      - link "Feedback de acessibilidade" [ref=e5] [cursor=pointer]
+  - generic [ref=e10]:
+    - search [ref=e11]:
+      - generic [ref=e13]:
+        - link "Ir para a página inicial do Google" [ref=e15] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=pt-BR&sa=X&ved=0ahUKEwi1qpOvkN6TAxW5pJUCHTY-OXkQPAgK
+          - img [ref=e16]
+        - generic [ref=e18]:
+          - generic [ref=e19]:
+            - combobox "Pesquisar" [ref=e22]: alinemetzel.advogada site:instagram.com alinemetzel.advogada site:instagram.com
+            - generic [ref=e23]:
+              - button "Limpar" [ref=e25] [cursor=pointer]:
+                - img [ref=e27]
+              - generic [ref=e30]:
+                - button "Ferramentas de inserção de texto" [ref=e31] [cursor=pointer]:
+                  - img [ref=e33]
+                - button "Pesquisar por voz" [ref=e35] [cursor=pointer]:
+                  - img [ref=e36]
+                - button "Pesquisa por imagem" [ref=e38] [cursor=pointer]:
+                  - img [ref=e39]
+          - button "Pesquisar" [ref=e41] [cursor=pointer]:
+            - img [ref=e44]
+    - generic [ref=e46]:
+      - button "Configurações" [ref=e48] [cursor=pointer]:
+        - img [ref=e51]
+      - generic [ref=e54]:
+        - button "Google Apps" [ref=e56] [cursor=pointer]:
+          - img [ref=e57]
+        - link "Fazer login" [ref=e61] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=pt-BR&passive=true&continue=https://www.google.com/search%3Fq%3Dalinemetzel.advogada%2Bsite:instagram.com%26udm%3D2&ec=futura_srp_og_si_72236_p
+  - generic [ref=e63]:
+    - navigation [ref=e68]:
+      - generic [ref=e69]:
+        - list [ref=e70]:
+          - listitem [ref=e71]:
+            - link "Modo IA" [ref=e74] [cursor=pointer]:
+              - /url: /search?q=alinemetzel.advogada+site:instagram.com&sca_esv=869c6e12a1f785e8&udm=50&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB054Dys3s2x_Qm_GJcU2DlSXgtwykOhjc8tZDD70ApjQy2F_7G9F-2oFDI3kA5ZHm8DWcH1qQX1hoG2dDc1piP457B7-F7-HSY2LiRPBBPH9WniA665rGNOeFrNEcHRdzRilZYhw9_qShcXKTns96S9TtIwWIUUmy8FJbp0nhbruJsQ635_eQvwgRk03OpLnSeFo6x_Qk&aep=1&ntc=1&sa=X&ved=2ahUKEwi1qpOvkN6TAxW5pJUCHTY-OXkQ2J8OegQIChAD
+              - generic [ref=e77]: Modo IA
+          - listitem [ref=e78]:
+            - link "Tudo" [ref=e79] [cursor=pointer]:
+              - /url: /search?sca_esv=869c6e12a1f785e8&q=alinemetzel.advogada+site:instagram.com&source=lnms&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB054Dys3s2x_Qm_GJcU2DlSXgtwykOhjc8tZDD70ApjQy2F_7G9F-2oFDI3kA5ZHm8DWcH1qQX1hoG2dDc1piP457B7-F7-HSY2LiRPBBPH9WniA665rGNOeFrNEcHRdzRilZYhw9_qShcXKTns96S9TtIwWIUUmy8FJbp0nhbruJsQ635_eQvwgRk03OpLnSeFo6x_Qk&sa=X&ved=2ahUKEwi1qpOvkN6TAxW5pJUCHTY-OXkQ0pQJegQIDRAB
+              - generic [ref=e81]: Tudo
+          - listitem [ref=e82]:
+            - link "Imagens" [disabled] [ref=e83]:
+              - generic [ref=e85]: Imagens
+          - listitem [ref=e86]:
+            - link "Vídeos" [ref=e87] [cursor=pointer]:
+              - /url: /search?sca_esv=869c6e12a1f785e8&udm=7&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB054Dys3s2x_Qm_GJcU2DlSXgtwykOhjc8tZDD70ApjQy2F_7G9F-2oFDI3kA5ZHm8DWcH1qQX1hoG2dDc1piP457B7-F7-HSY2LiRPBBPH9WniA665rGNOeFrNEcHRdzRilZYhw9_qShcXKTns96S9TtIwWIUUmy8FJbp0nhbruJsQ635_eQvwgRk03OpLnSeFo6x_Qk&q=alinemetzel.advogada+site:instagram.com&sa=X&ved=2ahUKEwi1qpOvkN6TAxW5pJUCHTY-OXkQtKgLegQIDxAB
+              - generic [ref=e89]: Vídeos
+          - listitem [ref=e90]:
+            - link "Shopping" [ref=e91] [cursor=pointer]:
+              - /url: /search?sca_esv=869c6e12a1f785e8&udm=28&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB054Dys3s2x_Qm_GJcU2DlSXgtwykOhjc8tZDD70ApjQy2F_7G9F-2oFDI3kA5ZHm8DWcH1qQX1hoG2dDc1piP457B7-F7-HSY2LiRPBBPH9WniA665rGNOeFrNEcHRdzRilZYhw9_qShcXKTns96S9TtIwWIUUmy8FJbp0nhbruJsQ635_eQvwgRk03OpLnSeFo6x_Qk&q=alinemetzel.advogada+site:instagram.com&ved=1t:220175&ictx=111
+              - generic [ref=e93]: Shopping
+          - listitem [ref=e94]:
+            - link "Notícias" [ref=e95] [cursor=pointer]:
+              - /url: /search?sca_esv=869c6e12a1f785e8&q=alinemetzel.advogada+site:instagram.com&tbm=nws&source=lnms&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB054Dys3s2x_Qm_GJcU2DlSXgtwykOhjc8tZDD70ApjQy2F_7G9F-2oFDI3kA5ZHm8DWcH1qQX1hoG2dDc1piP457B7-F7-HSY2LiRPBBPH9WniA665rGNOeFrNEcHRdzRilZYhw9_qShcXKTns96S9TtIwWIUUmy8FJbp0nhbruJsQ635_eQvwgRk03OpLnSeFo6x_Qk&sa=X&ved=2ahUKEwi1qpOvkN6TAxW5pJUCHTY-OXkQ0pQJegQIDhAB
+              - generic [ref=e97]: Notícias
+          - listitem [ref=e98]:
+            - link "Vídeos curtos" [ref=e99] [cursor=pointer]:
+              - /url: /search?sca_esv=869c6e12a1f785e8&udm=39&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB054Dys3s2x_Qm_GJcU2DlSXgtwykOhjc8tZDD70ApjQy2F_7G9F-2oFDI3kA5ZHm8DWcH1qQX1hoG2dDc1piP457B7-F7-HSY2LiRPBBPH9WniA665rGNOeFrNEcHRdzRilZYhw9_qShcXKTns96S9TtIwWIUUmy8FJbp0nhbruJsQ635_eQvwgRk03OpLnSeFo6x_Qk&q=alinemetzel.advogada+site:instagram.com&sa=X&ved=2ahUKEwi1qpOvkN6TAxW5pJUCHTY-OXkQs6gLegQIDBAB
+              - generic [ref=e101]: Vídeos curtos
+          - listitem [ref=e102]:
+            - button "Mais filtros" [ref=e103] [cursor=pointer]:
+              - generic "Mais filtros" [ref=e104]:
+                - generic [ref=e105]:
+                  - generic [ref=e106]: Mais
+                  - img [ref=e108]
+        - button "Ferramentas" [ref=e111] [cursor=pointer]:
+          - generic [ref=e113]:
+            - generic [ref=e114]: Ferramentas
+            - img [ref=e116]
+    - heading "Resultados da pesquisa" [level=1] [ref=e118]
+    - main [ref=e120]:
+      - generic [ref=e126]:
+        - generic [ref=e129]:
+          - generic [ref=e130] [cursor=pointer]:
+            - heading "Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [level=3] [ref=e132]:
+              - button "Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [ref=e134]:
+                - img "Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [ref=e137]
+            - link "Instagram Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [ref=e139]:
+              - /url: https://www.instagram.com/alinemetzel.advogada/
+              - generic [ref=e144]: Instagram
+              - generic [ref=e146]: Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos
+          - generic [ref=e147] [cursor=pointer]:
+            - generic [ref=e148]:
+              - heading "Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [level=3] [ref=e149]:
+                - button "Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [ref=e151]:
+                  - img "Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [ref=e154]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [ref=e156]:
+              - /url: https://www.instagram.com/alinemetzel.advogada/
+              - generic [ref=e161]: Instagram
+              - generic [ref=e163]: Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos
+          - generic [ref=e164] [cursor=pointer]:
+            - generic [ref=e165]:
+              - heading "Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [level=3] [ref=e166]:
+                - button "Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [ref=e168]:
+                  - img "Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [ref=e171]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [ref=e173]:
+              - /url: https://www.instagram.com/alinemetzel.advogada/
+              - generic [ref=e178]: Instagram
+              - generic [ref=e180]: Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos
+          - generic [ref=e181] [cursor=pointer]:
+            - generic [ref=e182]:
+              - heading "Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [level=3] [ref=e183]:
+                - button "Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [ref=e185]:
+                  - img "Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [ref=e188]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [ref=e190]:
+              - /url: https://www.instagram.com/alinemetzel.advogada/
+              - generic [ref=e195]: Instagram
+              - generic [ref=e197]: Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos
+          - generic [ref=e198] [cursor=pointer]:
+            - heading "Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [level=3] [ref=e200]:
+              - button "Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [ref=e202]:
+                - img "Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [ref=e205]
+            - link "Instagram Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [ref=e207]:
+              - /url: https://www.instagram.com/alinemetzel.advogada/
+              - generic [ref=e212]: Instagram
+              - generic [ref=e214]: Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos
+          - generic [ref=e215] [cursor=pointer]:
+            - generic [ref=e216]:
+              - heading "Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [level=3] [ref=e217]:
+                - button "Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [ref=e219]:
+                  - img "Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [ref=e222]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [ref=e224]:
+              - /url: https://www.instagram.com/alinemetzel.advogada/
+              - generic [ref=e229]: Instagram
+              - generic [ref=e231]: Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos
+          - generic [ref=e232] [cursor=pointer]:
+            - heading "Você sabe quais são os documentos necessários para a formalização da rescisão do contrato de trabalho? Lembrando que o prazo para pagamento da rescisão é de até 10 dias após o seu" [level=3] [ref=e234]:
+              - button "Você sabe quais são os documentos necessários para a formalização da rescisão do contrato de trabalho? Lembrando que o prazo para pagamento da rescisão é de até 10 dias após o seu" [ref=e236]:
+                - img "Você sabe quais são os documentos necessários para a formalização da rescisão do contrato de trabalho? Lembrando que o prazo para pagamento da rescisão é de até 10 dias após o seu" [ref=e239]
+            - link "Instagram Você sabe quais são os documentos necessários para a formalização da rescisão do contrato de trabalho? Lembrando que o prazo para pagamento da rescisão é de até 10 dias após o seu" [ref=e241]:
+              - /url: https://www.instagram.com/p/DFLFJtkuEu2/
+              - generic [ref=e246]: Instagram
+              - generic [ref=e248]: Você sabe quais são os documentos necessários para a formalização da rescisão do contrato de trabalho? Lembrando que o prazo para pagamento da rescisão é de até 10 dias após o seu
+          - generic [ref=e249] [cursor=pointer]:
+            - generic [ref=e250]:
+              - heading "Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [level=3] [ref=e251]:
+                - button "Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [ref=e253]:
+                  - img "Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [ref=e256]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [ref=e258]:
+              - /url: https://www.instagram.com/alinemetzel.advogada/
+              - generic [ref=e263]: Instagram
+              - generic [ref=e265]: Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos
+          - generic [ref=e266] [cursor=pointer]:
+            - generic [ref=e267]:
+              - heading "Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [level=3] [ref=e268]:
+                - button "Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [ref=e270]:
+                  - img "Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [ref=e273]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos" [ref=e275]:
+              - /url: https://www.instagram.com/alinemetzel.advogada/
+              - generic [ref=e280]: Instagram
+              - generic [ref=e282]: Aline Metzelthin | Advogada Trabalhista (@alinemetzel.advogada) • Instagram photos and videos
+          - generic [ref=e283] [cursor=pointer]:
+            - generic [ref=e284]:
+              - 'heading "Evite dores de cabeça e prejuízos! Conheça os 5 erros trabalhistas mais comuns que podem custar caro para a sua empresa. Fique por dentro e garanta a conformidade do seu negócio. #DireitoTrabalhista #" [level=3] [ref=e285]':
+                - 'button "Evite dores de cabeça e prejuízos! Conheça os 5 erros trabalhistas mais comuns que podem custar caro para a sua empresa. Fique por dentro e garanta a conformidade do seu negócio. #DireitoTrabalhista #" [ref=e287]':
+                  - 'img "Evite dores de cabeça e prejuízos! Conheça os 5 erros trabalhistas mais comuns que podem custar caro para a sua empresa. Fique por dentro e garanta a conformidade do seu negócio. #DireitoTrabalhista #" [ref=e290]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Evite dores de cabeça e prejuízos! Conheça os 5 erros trabalhistas mais comuns que podem custar caro para a sua empresa. Fique por dentro e garanta a conformidade do seu negócio. #DireitoTrabalhista #" [ref=e292]':
+              - /url: https://www.instagram.com/p/DUREpkUAcrZ/
+              - generic [ref=e297]: Instagram
+              - generic [ref=e299]: "Evite dores de cabeça e prejuízos! Conheça os 5 erros trabalhistas mais comuns que podem custar caro para a sua empresa. Fique por dentro e garanta a conformidade do seu negócio. #DireitoTrabalhista #"
+          - generic [ref=e300] [cursor=pointer]:
+            - 'heading "Empresa organizada não fecha o mês no susto. Fecha com controle. Antes de virar a página, revise 3 frentes que mais geram problema silencioso: 1) Fiscal notas emitidas e recebidas, tributos provisionados," [level=3] [ref=e302]':
+              - 'button "Empresa organizada não fecha o mês no susto. Fecha com controle. Antes de virar a página, revise 3 frentes que mais geram problema silencioso: 1) Fiscal notas emitidas e recebidas, tributos provisionados," [ref=e304]':
+                - 'img "Empresa organizada não fecha o mês no susto. Fecha com controle. Antes de virar a página, revise 3 frentes que mais geram problema silencioso: 1) Fiscal notas emitidas e recebidas, tributos provisionados," [ref=e307]'
+            - 'link "Instagram Empresa organizada não fecha o mês no susto. Fecha com controle. Antes de virar a página, revise 3 frentes que mais geram problema silencioso: 1) Fiscal notas emitidas e recebidas, tributos provisionados," [ref=e309]':
+              - /url: https://www.instagram.com/p/DWhjzT4iSQp/
+              - generic [ref=e314]: Instagram
+              - generic [ref=e316]: "Empresa organizada não fecha o mês no susto. Fecha com controle. Antes de virar a página, revise 3 frentes que mais geram problema silencioso: 1) Fiscal notas emitidas e recebidas, tributos provisionados,"
+          - generic [ref=e317] [cursor=pointer]:
+            - generic [ref=e318]:
+              - heading "Você sabe o que acontece depois que uma ação trabalhista é protocolada? Muita gente acredita que o processo é um grande mistério, mas na verdade ele segue etapas bem definidas. Tudo começa" [level=3] [ref=e319]:
+                - button "Você sabe o que acontece depois que uma ação trabalhista é protocolada? Muita gente acredita que o processo é um grande mistério, mas na verdade ele segue etapas bem definidas. Tudo começa" [ref=e321]:
+                  - img "Você sabe o que acontece depois que uma ação trabalhista é protocolada? Muita gente acredita que o processo é um grande mistério, mas na verdade ele segue etapas bem definidas. Tudo começa" [ref=e324]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+                - text: ·
+                - generic: 6 dias atrás
+            - link "Instagram Você sabe o que acontece depois que uma ação trabalhista é protocolada? Muita gente acredita que o processo é um grande mistério, mas na verdade ele segue etapas bem definidas. Tudo começa" [ref=e326]:
+              - /url: https://www.instagram.com/reel/DWlpkfOkR8N/
+              - generic [ref=e331]: Instagram
+              - generic [ref=e333]: Você sabe o que acontece depois que uma ação trabalhista é protocolada? Muita gente acredita que o processo é um grande mistério, mas na verdade ele segue etapas bem definidas. Tudo começa
+          - generic [ref=e334] [cursor=pointer]:
+            - generic [ref=e335]:
+              - heading "O acordo extrajudicial é uma alternativa eficaz para resolver conflitos trabalhistas. Assista ao vídeo e compartilhe! Conte com um advogado especialista em direito do trabalho para que sua empresa continue crescendo de" [level=3] [ref=e336]:
+                - button "O acordo extrajudicial é uma alternativa eficaz para resolver conflitos trabalhistas. Assista ao vídeo e compartilhe! Conte com um advogado especialista em direito do trabalho para que sua empresa continue crescendo de" [ref=e338]:
+                  - img "O acordo extrajudicial é uma alternativa eficaz para resolver conflitos trabalhistas. Assista ao vídeo e compartilhe! Conte com um advogado especialista em direito do trabalho para que sua empresa continue crescendo de" [ref=e341]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram O acordo extrajudicial é uma alternativa eficaz para resolver conflitos trabalhistas. Assista ao vídeo e compartilhe! Conte com um advogado especialista em direito do trabalho para que sua empresa continue crescendo de" [ref=e343]:
+              - /url: https://www.instagram.com/p/DN325cMkbws/
+              - generic [ref=e348]: Instagram
+              - generic [ref=e350]: O acordo extrajudicial é uma alternativa eficaz para resolver conflitos trabalhistas. Assista ao vídeo e compartilhe! Conte com um advogado especialista em direito do trabalho para que sua empresa continue crescendo de
+          - generic [ref=e351] [cursor=pointer]:
+            - generic [ref=e352]:
+              - heading "Na Justiça do Trabalho, um bom acordo pode significar economia de tempo, redução de riscos e mais previsibilidade para todas as partes. Quando bem conduzido, ele não é perda — é solução" [level=3] [ref=e353]:
+                - button "Na Justiça do Trabalho, um bom acordo pode significar economia de tempo, redução de riscos e mais previsibilidade para todas as partes. Quando bem conduzido, ele não é perda — é solução" [ref=e355]:
+                  - img "Na Justiça do Trabalho, um bom acordo pode significar economia de tempo, redução de riscos e mais previsibilidade para todas as partes. Quando bem conduzido, ele não é perda — é solução" [ref=e358]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Na Justiça do Trabalho, um bom acordo pode significar economia de tempo, redução de riscos e mais previsibilidade para todas as partes. Quando bem conduzido, ele não é perda — é solução" [ref=e360]:
+              - /url: https://www.instagram.com/reel/DWB92-yBEZD/
+              - generic [ref=e365]: Instagram
+              - generic [ref=e367]: Na Justiça do Trabalho, um bom acordo pode significar economia de tempo, redução de riscos e mais previsibilidade para todas as partes. Quando bem conduzido, ele não é perda — é solução
+          - generic [ref=e368] [cursor=pointer]:
+            - 'heading "Novidade importante no julgamento do processo que discute vínculo de emprego x contratação PJ. Possivelmente teremos novidades em breve. Seguirei acompanhando para informá-los por aqui . #advogadatrabalhista #pejotização #gestãoderiscos #contrataçãopj" [level=3] [ref=e370]':
+              - 'button "Novidade importante no julgamento do processo que discute vínculo de emprego x contratação PJ. Possivelmente teremos novidades em breve. Seguirei acompanhando para informá-los por aqui . #advogadatrabalhista #pejotização #gestãoderiscos #contrataçãopj" [ref=e372]':
+                - 'img "Novidade importante no julgamento do processo que discute vínculo de emprego x contratação PJ. Possivelmente teremos novidades em breve. Seguirei acompanhando para informá-los por aqui . #advogadatrabalhista #pejotização #gestãoderiscos #contrataçãopj" [ref=e375]'
+            - 'link "Instagram Novidade importante no julgamento do processo que discute vínculo de emprego x contratação PJ. Possivelmente teremos novidades em breve. Seguirei acompanhando para informá-los por aqui . #advogadatrabalhista #pejotização #gestãoderiscos #contrataçãopj" [ref=e377]':
+              - /url: https://www.instagram.com/reel/DUa9oBeEVvv/
+              - generic [ref=e382]: Instagram
+              - generic [ref=e384]: "Novidade importante no julgamento do processo que discute vínculo de emprego x contratação PJ. Possivelmente teremos novidades em breve. Seguirei acompanhando para informá-los por aqui . #advogadatrabalhista #pejotização #gestãoderiscos #contrataçãopj"
+          - generic [ref=e385] [cursor=pointer]:
+            - heading "Um novo capítulo sobre a Pejotização está no ar! O Tema 1389 do STF colocou o assunto no centro dos debates. Mas decisões recentes mostram que a suspensão não é automática. Entender" [level=3] [ref=e387]:
+              - button "Um novo capítulo sobre a Pejotização está no ar! O Tema 1389 do STF colocou o assunto no centro dos debates. Mas decisões recentes mostram que a suspensão não é automática. Entender" [ref=e389]:
+                - img "Um novo capítulo sobre a Pejotização está no ar! O Tema 1389 do STF colocou o assunto no centro dos debates. Mas decisões recentes mostram que a suspensão não é automática. Entender" [ref=e392]
+            - link "Instagram Um novo capítulo sobre a Pejotização está no ar! O Tema 1389 do STF colocou o assunto no centro dos debates. Mas decisões recentes mostram que a suspensão não é automática. Entender" [ref=e394]:
+              - /url: https://www.instagram.com/p/DWWl3QxDS2N/
+              - generic [ref=e399]: Instagram
+              - generic [ref=e401]: Um novo capítulo sobre a Pejotização está no ar! O Tema 1389 do STF colocou o assunto no centro dos debates. Mas decisões recentes mostram que a suspensão não é automática. Entender
+          - generic [ref=e402] [cursor=pointer]:
+            - generic [ref=e403]:
+              - 'heading "Assessoria Jurídica - Porto Alegre | Entrar com uma ação trabalhista exige mais do que ter razão: é preciso ter provas. Reúna tudo o que comprove a situação mesmo o que parece... | Instagram" [level=3] [ref=e404]':
+                - 'button "Assessoria Jurídica - Porto Alegre | Entrar com uma ação trabalhista exige mais do que ter razão: é preciso ter provas. Reúna tudo o que comprove a situação mesmo o que parece... | Instagram" [ref=e406]':
+                  - 'img "Assessoria Jurídica - Porto Alegre | Entrar com uma ação trabalhista exige mais do que ter razão: é preciso ter provas. Reúna tudo o que comprove a situação mesmo o que parece... | Instagram" [ref=e409]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Assessoria Jurídica - Porto Alegre | Entrar com uma ação trabalhista exige mais do que ter razão: é preciso ter provas. Reúna tudo o que comprove a situação mesmo o que parece... | Instagram" [ref=e411]':
+              - /url: https://www.instagram.com/p/DMIgJ1lsqG3/
+              - generic [ref=e416]: Instagram
+              - generic [ref=e418]: "Assessoria Jurídica - Porto Alegre | Entrar com uma ação trabalhista exige mais do que ter razão: é preciso ter provas. Reúna tudo o que comprove a situação mesmo o que parece... | Instagram"
+          - generic [ref=e419] [cursor=pointer]:
+            - generic [ref=e420]:
+              - 'heading "Decisões Diárias: Como Evitar Passivos Trabalhistas na Sua Empresa Compartilhamos orientações práticas sobre como pequenas decisões rotineiras podem se transformar em problemas trabalhistas. Abordamos estratégias para organizar o jurídico da sua empresa" [level=3] [ref=e421]':
+                - 'button "Decisões Diárias: Como Evitar Passivos Trabalhistas na Sua Empresa Compartilhamos orientações práticas sobre como pequenas decisões rotineiras podem se transformar em problemas trabalhistas. Abordamos estratégias para organizar o jurídico da sua empresa" [ref=e423]':
+                  - 'img "Decisões Diárias: Como Evitar Passivos Trabalhistas na Sua Empresa Compartilhamos orientações práticas sobre como pequenas decisões rotineiras podem se transformar em problemas trabalhistas. Abordamos estratégias para organizar o jurídico da sua empresa" [ref=e426]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram Decisões Diárias: Como Evitar Passivos Trabalhistas na Sua Empresa Compartilhamos orientações práticas sobre como pequenas decisões rotineiras podem se transformar em problemas trabalhistas. Abordamos estratégias para organizar o jurídico da sua empresa" [ref=e428]':
+              - /url: https://www.instagram.com/reel/DWRV_ARjdwb/
+              - generic [ref=e433]: Instagram
+              - generic [ref=e435]: "Decisões Diárias: Como Evitar Passivos Trabalhistas na Sua Empresa Compartilhamos orientações práticas sobre como pequenas decisões rotineiras podem se transformar em problemas trabalhistas. Abordamos estratégias para organizar o jurídico da sua empresa"
+          - generic [ref=e436] [cursor=pointer]:
+            - heading "Você sabe quais são os documentos necessários para a formalização da rescisão do contrato de trabalho? Lembrando que o prazo para pagamento da rescisão é de até 10 dias após o seu" [level=3] [ref=e438]:
+              - button "Você sabe quais são os documentos necessários para a formalização da rescisão do contrato de trabalho? Lembrando que o prazo para pagamento da rescisão é de até 10 dias após o seu" [ref=e440]:
+                - img "Você sabe quais são os documentos necessários para a formalização da rescisão do contrato de trabalho? Lembrando que o prazo para pagamento da rescisão é de até 10 dias após o seu" [ref=e443]
+            - link "Instagram Você sabe quais são os documentos necessários para a formalização da rescisão do contrato de trabalho? Lembrando que o prazo para pagamento da rescisão é de até 10 dias após o seu" [ref=e445]:
+              - /url: https://www.instagram.com/p/DFLFJtkuEu2/
+              - generic [ref=e450]: Instagram
+              - generic [ref=e452]: Você sabe quais são os documentos necessários para a formalização da rescisão do contrato de trabalho? Lembrando que o prazo para pagamento da rescisão é de até 10 dias após o seu
+          - generic [ref=e453] [cursor=pointer]:
+            - generic [ref=e454]:
+              - 'heading "🤝 Acordo trabalhista: resolvendo conflitos de forma segura! O acordo trabalhista é uma forma de solucionar desentendimentos entre empregado e empregador de maneira negociada, sem precisar recorrer diretamente à Justiça do Trabalho." [level=3] [ref=e455]':
+                - 'button "🤝 Acordo trabalhista: resolvendo conflitos de forma segura! O acordo trabalhista é uma forma de solucionar desentendimentos entre empregado e empregador de maneira negociada, sem precisar recorrer diretamente à Justiça do Trabalho." [ref=e457]':
+                  - 'img "🤝 Acordo trabalhista: resolvendo conflitos de forma segura! O acordo trabalhista é uma forma de solucionar desentendimentos entre empregado e empregador de maneira negociada, sem precisar recorrer diretamente à Justiça do Trabalho." [ref=e460]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram 🤝 Acordo trabalhista: resolvendo conflitos de forma segura! O acordo trabalhista é uma forma de solucionar desentendimentos entre empregado e empregador de maneira negociada, sem precisar recorrer diretamente à Justiça do Trabalho." [ref=e462]':
+              - /url: https://www.instagram.com/p/DPTalQFkxHc/
+              - generic [ref=e467]: Instagram
+              - generic [ref=e469]: "🤝 Acordo trabalhista: resolvendo conflitos de forma segura! O acordo trabalhista é uma forma de solucionar desentendimentos entre empregado e empregador de maneira negociada, sem precisar recorrer diretamente à Justiça do Trabalho."
+          - generic [ref=e470] [cursor=pointer]:
+            - generic [ref=e471]:
+              - heading "Rosana Beraldo| Advogada de Empresas | “Era só um acordo verbal.” É assim que muitos passivos trabalhistas começam. Na Justiça do Trabalho, não se discute intenção. Discute-se... | Instagram" [level=3] [ref=e472]:
+                - button "Rosana Beraldo| Advogada de Empresas | “Era só um acordo verbal.” É assim que muitos passivos trabalhistas começam. Na Justiça do Trabalho, não se discute intenção. Discute-se... | Instagram" [ref=e474]:
+                  - img "Rosana Beraldo| Advogada de Empresas | “Era só um acordo verbal.” É assim que muitos passivos trabalhistas começam. Na Justiça do Trabalho, não se discute intenção. Discute-se... | Instagram" [ref=e477]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Rosana Beraldo| Advogada de Empresas | “Era só um acordo verbal.” É assim que muitos passivos trabalhistas começam. Na Justiça do Trabalho, não se discute intenção. Discute-se... | Instagram" [ref=e479]:
+              - /url: https://www.instagram.com/reel/DVcGa6yj0IO/
+              - generic [ref=e484]: Instagram
+              - generic [ref=e486]: Rosana Beraldo| Advogada de Empresas | “Era só um acordo verbal.” É assim que muitos passivos trabalhistas começam. Na Justiça do Trabalho, não se discute intenção. Discute-se... | Instagram
+          - generic [ref=e487] [cursor=pointer]:
+            - generic [ref=e488]:
+              - 'heading "⚖️ Um bom contrato protege ambas as partes, quem contrata e quem trabalha. Clareza evita conflitos e garante segurança jurídica. #DireitoDoTrabalho #ContratodeTrabalho #AdvocaciaPreventiva" [level=3] [ref=e489]':
+                - 'button "⚖️ Um bom contrato protege ambas as partes, quem contrata e quem trabalha. Clareza evita conflitos e garante segurança jurídica. #DireitoDoTrabalho #ContratodeTrabalho #AdvocaciaPreventiva" [ref=e491]':
+                  - 'img "⚖️ Um bom contrato protege ambas as partes, quem contrata e quem trabalha. Clareza evita conflitos e garante segurança jurídica. #DireitoDoTrabalho #ContratodeTrabalho #AdvocaciaPreventiva" [ref=e494]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - 'link "Instagram ⚖️ Um bom contrato protege ambas as partes, quem contrata e quem trabalha. Clareza evita conflitos e garante segurança jurídica. #DireitoDoTrabalho #ContratodeTrabalho #AdvocaciaPreventiva" [ref=e496]':
+              - /url: https://www.instagram.com/p/DRUjCF0kekm/
+              - generic [ref=e501]: Instagram
+              - generic [ref=e503]: "⚖️ Um bom contrato protege ambas as partes, quem contrata e quem trabalha. Clareza evita conflitos e garante segurança jurídica. #DireitoDoTrabalho #ContratodeTrabalho #AdvocaciaPreventiva"
+        - generic [ref=e506]:
+          - heading "Page Navigation" [level=1] [ref=e507]
+          - generic [ref=e508]:
+            - text: O restante dos resultados pode não ser o que você procura.
+            - link "Conferir mais mesmo assim" [ref=e509] [cursor=pointer]:
+              - /url: "#"
+      - navigation

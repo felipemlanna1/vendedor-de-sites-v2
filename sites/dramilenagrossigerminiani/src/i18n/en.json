@@ -1,0 +1,181 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "treatments": "Treatments",
+    "results": "Results",
+    "kids": "Kids",
+    "location": "Location",
+    "contact": "Contact",
+    "cta": "Book your appointment"
+  },
+  "hero": {
+    "title": "The art of naturalness",
+    "subtitle": "Where science meets gentleness — every smile is a natural work of art",
+    "cta": "Book your appointment",
+    "credentials": "CRO MG 26.171",
+    "specialties": "Facial Harmonization · Orthodontics · Invisalign"
+  },
+  "about": {
+    "sectionLabel": "About",
+    "title": "Who takes care of you",
+    "description": "Dr. Milena Grossi Germiniani carries on a family tradition in dentistry that began with her father, Dr. Ademir Grossi. With dual specialization in Facial Harmonization and Orthodontics, she combines cutting-edge science with artistic sensibility to reveal the best version of every smile.",
+    "legacy": "A family tradition in dentistry — from father's practice to daughter's leadership, three decades of caring for smiles in Ouro Fino.",
+    "credentials": "CRO MG 26.171",
+    "invisalignDoctor": "Invisalign Doctor",
+    "dualSpecialist": "Dual specialist: Facial Harmonization + Orthodontics",
+    "locations": "Ouro Fino, MG and São Paulo, SP (Itaim Bibi)"
+  },
+  "treatmentsHof": {
+    "sectionLabel": "Facial Harmonization",
+    "title": "The art of natural",
+    "subtitle": "Procedures that enhance your beauty without losing the essence of who you are",
+    "items": {
+      "toxina": {
+        "name": "Botulinum Toxin",
+        "description": "Softens expression lines with natural and subtle results. Precise application for a rested and harmonious face."
+      },
+      "preenchimento": {
+        "name": "Facial and Lip Fillers",
+        "description": "Restores volumes and contours with high-quality hyaluronic acid. Lips, jawline, cheekbones — each area treated with anatomical precision."
+      },
+      "skinbooster": {
+        "name": "Skinbooster",
+        "description": "Deep skin hydration with injectable hyaluronic acid. Improves texture, luminosity and vitality from within."
+      },
+      "hipro": {
+        "name": "HIPRO Day",
+        "description": "Advanced facial rejuvenation protocol with high-intensity microfocused ultrasound. Progressive and long-lasting results."
+      },
+      "ultrassom": {
+        "name": "Microfocused Ultrasound",
+        "description": "Stimulates collagen in deep skin layers without surgery. Firmness and support with cutting-edge technology."
+      },
+      "bioestimuladores": {
+        "name": "Collagen Biostimulators",
+        "description": "Stimulate the body's natural collagen production. Gradual rejuvenation with an increasingly natural appearance."
+      },
+      "bioreconexao": {
+        "name": "BIOreCONNECTION Protocol",
+        "description": "Exclusive protocol developed by Dr. Milena that integrates different harmonization techniques for synergistic and personalized results."
+      },
+      "cirurgia": {
+        "name": "Facial Harmonization Surgery",
+        "description": "Minimally invasive surgical procedures in facial harmonization. For cases requiring intervention beyond injectable treatments."
+      }
+    },
+    "cta": "Discover which treatment is right for you"
+  },
+  "transition": {
+    "phrase": "Your smile deserves science and gentleness",
+    "counter": "procedures performed",
+    "counterValue": 2500
+  },
+  "treatmentsOdonto": {
+    "sectionLabel": "Dentistry",
+    "title": "The science of smiles",
+    "subtitle": "Excellence in orthodontics and dentistry with technology and humanized care",
+    "items": {
+      "ortodontia": {
+        "name": "Orthodontics",
+        "description": "Dental alignment with digital planning and state-of-the-art braces. Every case is unique — every treatment is too."
+      },
+      "ortopedia": {
+        "name": "Functional Jaw Orthopedics",
+        "description": "Treatment that guides facial bone growth in children and adolescents, preventing future problems."
+      },
+      "invisalign": {
+        "name": "Invisalign",
+        "description": "Clear aligners that straighten your smile with discretion and comfort. 3D planning with final result preview."
+      },
+      "invisalignFirst": {
+        "name": "Invisalign First",
+        "description": "Invisalign version specially designed for children from age 6. Early treatment with gentle technology."
+      },
+      "clareamento": {
+        "name": "Teeth Whitening",
+        "description": "Whiter teeth with safety and no sensitivity. Personalized protocols for natural and lasting results."
+      },
+      "odontopediatria": {
+        "name": "Pediatric Dentistry",
+        "description": "Welcoming and playful children's care. Each visit is a positive experience building a healthy relationship with the dentist."
+      },
+      "bruxismo": {
+        "name": "Bruxism and TMJ",
+        "description": "Diagnosis and treatment of bruxism and temporomandibular disorders. Pain relief and teeth protection."
+      },
+      "megatriagem": {
+        "name": "Comprehensive Screening",
+        "description": "Complete and detailed oral health assessment. Integrated diagnosis considering face, smile and function."
+      }
+    },
+    "cta": "Talk to Dr. Milena"
+  },
+  "kids": {
+    "sectionLabel": "Kids World",
+    "title": "Little smiles, big care",
+    "subtitle": "A welcoming space where every child feels safe to smile",
+    "description": "Dr. Milena believes the relationship with the dentist begins in childhood. With playful and gentle care, each visit is designed to make little ones feel welcome — building trust that lasts a lifetime.",
+    "invisalignFirst": "Invisalign First — invisible orthodontics from age 6",
+    "odontopediatria": "Pediatric dentistry with a welcoming and playful approach"
+  },
+  "differentials": {
+    "sectionLabel": "Why Choose Us",
+    "title": "Why Dr. Milena",
+    "items": {
+      "dualSpecialty": {
+        "title": "Dual specialty",
+        "description": "Facial Harmonization + Orthodontics: integrated vision of face and smile"
+      },
+      "invisalignDoctor": {
+        "title": "Invisalign Doctor",
+        "description": "Official certification for cutting-edge invisible aligners"
+      },
+      "twoLocations": {
+        "title": "Ouro Fino and São Paulo",
+        "description": "Care in Ouro Fino (OUROClin) and São Paulo (Itaim Bibi)"
+      },
+      "familyLegacy": {
+        "title": "Family legacy",
+        "description": "Dental tradition inherited from her father, Dr. Ademir Grossi"
+      },
+      "exclusiveProtocol": {
+        "title": "BIOreCONNECTION Protocol",
+        "description": "Exclusive method integrating techniques for synergistic results"
+      },
+      "naturalApproach": {
+        "title": "Natural approach",
+        "description": "Results that enhance your beauty without excess — the art of naturalness"
+      }
+    }
+  },
+  "location": {
+    "sectionLabel": "Location",
+    "title": "Find Dr. Milena",
+    "clinic": "OUROClin",
+    "address": "Rua Prefeito José Serra, 228",
+    "city": "Ouro Fino, MG",
+    "spNote": "Also available in São Paulo — Itaim Bibi",
+    "cta": "Get directions"
+  },
+  "contact": {
+    "sectionLabel": "Contact",
+    "title": "Begin your transformation",
+    "subtitle": "Schedule your evaluation and discover how science and gentleness can transform your smile",
+    "whatsappCta": "Chat on WhatsApp",
+    "phone": "(35) 9 9725-5631",
+    "instagram": "@dramilenagrossigerminiani",
+    "instagramUrl": "https://www.instagram.com/dramilenagrossigerminiani/"
+  },
+  "footer": {
+    "copyright": "2026 Dra. Milena Grossi Germiniani. All rights reserved.",
+    "cro": "CRO MG 26.171 — Dental Surgeon",
+    "social": "Follow us",
+    "disclaimer": "The information on this website is for informational purposes and does not replace an in-person consultation."
+  },
+  "accessibility": {
+    "skipToContent": "Skip to content",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  }
+}

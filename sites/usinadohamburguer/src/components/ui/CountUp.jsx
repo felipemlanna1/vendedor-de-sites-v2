@@ -3,7 +3,7 @@ import { gsap } from 'gsap'
 import { ScrollTrigger } from 'gsap/ScrollTrigger'
 gsap.registerPlugin(ScrollTrigger)
 
-export default function CountUp({ end, duration = 2, prefix = '', suffix = '', className = '' }) {
+export default function CountUp({ end, duration = 2, prefix = '', suffix = '', className = '', style = {} }) {
   const ref = useRef(null)
   const [value, setValue] = useState(0)
   useEffect(() => {
@@ -19,5 +19,5 @@ export default function CountUp({ end, duration = 2, prefix = '', suffix = '', c
     })
     return () => ctx.revert()
   }, [end, duration])
-  return <span ref={ref} className={className}>{prefix}{value.toLocaleString('pt-BR')}{suffix}</span>
+  return <span ref={ref} className={className} style={style}>{prefix}{value.toLocaleString('pt-BR')}{suffix}</span>
 }

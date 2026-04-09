@@ -1,0 +1,145 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e86] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e91]
+        - link "Foto do perfil de _pipelinestudio" [ref=e97] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e102]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e103]
+      - generic [ref=e104]:
+        - link "Configurações" [ref=e107] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e112]
+        - link "Também da Meta" [ref=e115] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e120]
+    - main [ref=e124]:
+      - generic [active] [ref=e125]:
+        - generic [ref=e128]:
+          - generic [ref=e130]:
+            - img
+            - group "Video player" [ref=e137]:
+              - generic [ref=e138]:
+                - 'button "0 Vídeos do Reels de adv_polianaandrade Vídeos do Reels de adv_polianaandrade Localização Connect Towers Seguir HERANÇA DE UM ÚNICO VEÍCULO: É NECESSÁRIO ABRIR INVENTÁRIO?" [ref=e139] [cursor=pointer]':
+                  - slider "Ajustar volume" [ref=e140]:
+                    - button "O áudio está silenciado" [ref=e144]:
+                      - img "O áudio está silenciado" [ref=e145]
+                  - generic [ref=e150]:
+                    - generic [ref=e151]:
+                      - generic [ref=e153]:
+                        - link "Vídeos do Reels de adv_polianaandrade" [ref=e154]:
+                          - /url: /adv_polianaandrade/reels/
+                          - link "Foto do perfil de adv_polianaandrade" [ref=e157]:
+                            - img "Foto do perfil de adv_polianaandrade" [ref=e158]
+                        - generic [ref=e159]:
+                          - link "Vídeos do Reels de adv_polianaandrade" [ref=e161]:
+                            - /url: /adv_polianaandrade/reels/
+                            - generic [ref=e162]: adv_polianaandrade
+                          - link "Localização Connect Towers" [ref=e168]:
+                            - /url: /explore/locations/2000613790151192/
+                            - generic [ref=e169]:
+                              - img "Localização" [ref=e171]
+                              - generic [ref=e174]: Connect Towers
+                      - button "Seguir" [ref=e177]
+                    - 'button "HERANÇA DE UM ÚNICO VEÍCULO: É NECESSÁRIO ABRIR INVENTÁRIO?" [ref=e178]':
+                      - generic [ref=e180]:
+                        - generic [ref=e181]: "HERANÇA DE UM ÚNICO VEÍCULO: É NECESSÁRIO ABRIR INVENTÁRIO?"
+                        - generic [ref=e182]: … mais
+                - button "Pressionar para reproduzir" [ref=e184] [cursor=pointer]:
+                  - img "Ícone do botão Reproduzir" [ref=e186]
+          - generic [ref=e188]:
+            - generic [ref=e189] [cursor=pointer]:
+              - button "Curtir" [ref=e192]:
+                - img "Curtir" [ref=e195]
+              - button "Curtidas" [ref=e197]:
+                - generic [ref=e201]: Curtidas
+            - button "Comentar 7" [ref=e203] [cursor=pointer]:
+              - generic [ref=e204]:
+                - img "Comentar" [ref=e205]
+                - generic [ref=e210]: "7"
+            - button "Compartilhar" [ref=e212] [cursor=pointer]:
+              - img "Compartilhar" [ref=e213]
+            - button "Salvar" [ref=e218] [cursor=pointer]:
+              - button "Salvar" [ref=e219]:
+                - img "Salvar" [ref=e221]
+            - button "Mais" [ref=e224] [cursor=pointer]:
+              - img "Mais" [ref=e226]
+            - link "Imagem do áudio" [ref=e231] [cursor=pointer]:
+              - /url: /reels/audio/1087096880187206/
+              - img "Imagem do áudio" [ref=e234]
+        - generic [ref=e238]:
+          - generic [ref=e240]:
+            - img
+            - group "Video player" [ref=e247]:
+              - generic [ref=e248]:
+                - button "0 Vídeos do Reels de povdiarioo Vídeos do Reels de povdiarioo Seguir Antes de existir Wi-Fi, o mundo já era conectado de outras formas." [ref=e249] [cursor=pointer]:
+                  - slider "Ajustar volume" [ref=e250]:
+                    - button "O áudio está silenciado" [ref=e254]:
+                      - img "O áudio está silenciado" [ref=e255]
+                  - generic [ref=e260]:
+                    - generic [ref=e261]:
+                      - generic [ref=e263]:
+                        - link "Vídeos do Reels de povdiarioo" [ref=e264]:
+                          - /url: /povdiarioo/reels/
+                          - link "Foto do perfil de povdiarioo" [ref=e267]:
+                            - img "Foto do perfil de povdiarioo" [ref=e268]
+                        - link "Vídeos do Reels de povdiarioo" [ref=e271]:
+                          - /url: /povdiarioo/reels/
+                          - generic [ref=e272]: povdiarioo
+                      - button "Seguir" [ref=e275]
+                    - button "Antes de existir Wi-Fi, o mundo já era conectado de outras formas." [ref=e276]:
+                      - generic [ref=e278]:
+                        - generic [ref=e279]: Antes de existir Wi-Fi, o mundo já era conectado de outras formas.
+                        - generic [ref=e280]: … mais
+                - button "Pressionar para reproduzir" [ref=e282] [cursor=pointer]:
+                  - img "Ícone do botão Reproduzir" [ref=e284]
+          - generic [ref=e286]:
+            - generic [ref=e287] [cursor=pointer]:
+              - button "Curtir" [ref=e290]:
+                - img "Curtir" [ref=e293]
+              - button "222 mil" [ref=e295]:
+                - generic [ref=e299]: 222 mil
+            - button "Comentar 1.055" [ref=e301] [cursor=pointer]:
+              - generic [ref=e302]:
+                - img "Comentar" [ref=e303]
+                - generic [ref=e308]: "1.055"
+            - button "Compartilhar" [ref=e310] [cursor=pointer]:
+              - img "Compartilhar" [ref=e311]
+            - button "Salvar" [ref=e316] [cursor=pointer]:
+              - button "Salvar" [ref=e317]:
+                - img "Salvar" [ref=e319]
+            - button "Mais" [ref=e322] [cursor=pointer]:
+              - img "Mais" [ref=e324]
+            - link "Imagem do áudio" [ref=e329] [cursor=pointer]:
+              - /url: /reels/audio/35083452784586916/
+              - img "Imagem do áudio" [ref=e332]
+      - toolbar "Reels navigation controls" [ref=e334]:
+        - button "Navegar para o reel anterior" [ref=e335] [cursor=pointer]:
+          - img [ref=e337]
+        - button "Navegar para o próximo reel" [ref=e339] [cursor=pointer]:
+          - img [ref=e341]
+  - button "Mensagens Mensagens" [ref=e344] [cursor=pointer]:
+    - generic [ref=e346]:
+      - img "Mensagens" [ref=e348]
+      - generic [ref=e351]: Mensagens

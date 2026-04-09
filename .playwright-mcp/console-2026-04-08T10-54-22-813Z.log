@@ -1,0 +1,35 @@
+[      -6ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2FGiovanaRafael%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGn3WvTsbvtE9qQtXML3E2pfzA5K9aE1vYYmongScGtwx6LaRbZR4llq0Cob5o_aem_Z1Vvd7IAXjPNtnj5w3bL8w&e=AT7j1TMpl9HxKqV7clGlLEbe21yE3JV_57WLkgf7jnZEYOEUbLbRqK4WRFQ2Yew5Q_yt9_EmsxZ7SUm23XN99MO-1STfeLrR21p2CUoboFdctsdVJ1rPZzV9tA:0
+[    2499ms] [WARNING]  [33m[1m⚠[22m[39m Runtime config is deprecated and will be removed in Next.js 16. Please remove the usage of "next/config" from your project. @ https://assets.production.linktr.ee/profiles/_next/static/chunks/pages/_app-abbda862d38a576d.js:29
+[    2594ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lv (https://assets.production.linktr.ee/profiles/_next/static/chunks/framework-2278e184321f6976.js:1:54779)
+    at https://assets.production.linktr.ee/profiles/_next/static/chunks/framework-2278e184321f6976.js:1:107824
+    at uO (https://assets.production.linktr.ee/profiles/_next/static/chunks/framework-2278e184321f6976.js:1:114042)
+    at uR (https://assets.production.linktr.ee/profiles/_next/static/chunks/framework-2278e184321f6976.js:1:106992)
+    at uM (https://assets.production.linktr.ee/profiles/_next/static/chunks/framework-2278e184321f6976.js:1:106802)
+    at uw (https://assets.production.linktr.ee/profiles/_next/static/chunks/framework-2278e184321f6976.js:1:101875)
+    at x (https://assets.production.linktr.ee/profiles/_next/static/chunks/framework-2278e184321f6976.js:1:138634)
+    at MessagePort.L (https://assets.production.linktr.ee/profiles/_next/static/chunks/framework-2278e184321f6976.js:1:139164)
+[    2594ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lm (https://assets.production.linktr.ee/profiles/_next/static/chunks/framework-2278e184321f6976.js:1:54325)
+    at i (https://assets.production.linktr.ee/profiles/_next/static/chunks/framework-2278e184321f6976.js:1:128948)
+    at uR (https://assets.production.linktr.ee/profiles/_next/static/chunks/framework-2278e184321f6976.js:1:106932)
+    at uM (https://assets.production.linktr.ee/profiles/_next/static/chunks/framework-2278e184321f6976.js:1:106802)
+    at uw (https://assets.production.linktr.ee/profiles/_next/static/chunks/framework-2278e184321f6976.js:1:101875)
+    at x (https://assets.production.linktr.ee/profiles/_next/static/chunks/framework-2278e184321f6976.js:1:138634)
+    at MessagePort.L (https://assets.production.linktr.ee/profiles/_next/static/chunks/framework-2278e184321f6976.js:1:139164)
+[    2594ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lm (https://assets.production.linktr.ee/profiles/_next/static/chunks/framework-2278e184321f6976.js:1:54325)
+    at i (https://assets.production.linktr.ee/profiles/_next/static/chunks/framework-2278e184321f6976.js:1:128948)
+    at uR (https://assets.production.linktr.ee/profiles/_next/static/chunks/framework-2278e184321f6976.js:1:106932)
+    at uM (https://assets.production.linktr.ee/profiles/_next/static/chunks/framework-2278e184321f6976.js:1:106802)
+    at uw (https://assets.production.linktr.ee/profiles/_next/static/chunks/framework-2278e184321f6976.js:1:101875)
+    at x (https://assets.production.linktr.ee/profiles/_next/static/chunks/framework-2278e184321f6976.js:1:138634)
+    at MessagePort.L (https://assets.production.linktr.ee/profiles/_next/static/chunks/framework-2278e184321f6976.js:1:139164)
+[    2595ms] Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at i (https://assets.production.linktr.ee/profiles/_next/static/chunks/framework-2278e184321f6976.js:1:128607)
+    at uR (https://assets.production.linktr.ee/profiles/_next/static/chunks/framework-2278e184321f6976.js:1:106932)
+    at uM (https://assets.production.linktr.ee/profiles/_next/static/chunks/framework-2278e184321f6976.js:1:106802)
+    at uS (https://assets.production.linktr.ee/profiles/_next/static/chunks/framework-2278e184321f6976.js:1:103573)
+    at uw (https://assets.production.linktr.ee/profiles/_next/static/chunks/framework-2278e184321f6976.js:1:102128)
+    at x (https://assets.production.linktr.ee/profiles/_next/static/chunks/framework-2278e184321f6976.js:1:138634)
+    at MessagePort.L (https://assets.production.linktr.ee/profiles/_next/static/chunks/framework-2278e184321f6976.js:1:139164)

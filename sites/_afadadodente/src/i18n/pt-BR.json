@@ -1,0 +1,163 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "services": "Serviços",
+    "differentials": "Diferenciais",
+    "testimonials": "Depoimentos",
+    "contact": "Contato",
+    "cta": "Agende a Visita Mágica"
+  },
+  "hero": {
+    "title": "Onde cada sorriso nasce com um toque de magia",
+    "subtitle": "Odontopediatria com encantamento no Triângulo Mineiro. A Dra. Bianca transforma o medo do dentista em uma aventura mágica para o seu filho.",
+    "cta": "Agende a primeira visita mágica",
+    "badge": "CRO MG 63888"
+  },
+  "impact": {
+    "phrase": "Porque o primeiro dentista não precisa dar medo"
+  },
+  "about": {
+    "title": "A história da Fada",
+    "description": "Sou a Dra. Bianca Ribas Samartin, a Fada do Dente. Formada em Odontologia pela Universidade de Uberaba (UNIUBE), escolhi a Odontopediatria porque acredito que o primeiro contato com o dentista pode ser mágico. Aqui, cada criança é recebida num ambiente lúdico e acolhedor, onde o consultório se transforma num mundo encantado.",
+    "description2": "Minha missão é cuidar do sorriso do seu filho com carinho, técnica e muita magia — para que ele cresça amando cuidar dos dentes.",
+    "credentials": "CRO MG 63888 — Odontopediatra",
+    "university": "Universidade de Uberaba (UNIUBE)",
+    "specialty": "Especialista em Odontopediatria",
+    "cta": "Conheça nosso espaço"
+  },
+  "services": {
+    "title": "Os feitiços",
+    "subtitle": "Cada sorriso merece um cuidado especial",
+    "items": {
+      "firstVisit": {
+        "name": "Primeira Visita Mágica",
+        "description": "O primeiro encontro com a Fada do Dente: adaptação, conhecer o consultório encantado e criar um vínculo de confiança com a criança."
+      },
+      "prevention": {
+        "name": "Prevenção Encantada",
+        "description": "Aplicação de flúor, selantes e orientações de higiene bucal de um jeito lúdico e divertido que as crianças adoram."
+      },
+      "treatment": {
+        "name": "Tratamentos com Carinho",
+        "description": "Restaurações, tratamento de cárie e acompanhamento do desenvolvimento dental, sempre com técnicas gentis e acolhedoras."
+      },
+      "emergency": {
+        "name": "Urgências Dentárias",
+        "description": "Traumas, dores e emergências odontológicas infantis com atendimento humanizado e rápido para acalmar pais e filhos."
+      }
+    },
+    "cta": "Descubra qual magia o sorriso do seu filho precisa"
+  },
+  "counters": {
+    "smiles": {
+      "value": 2000,
+      "label": "Sorrisinhos cuidados"
+    },
+    "experience": {
+      "value": 4,
+      "label": "Anos de experiência"
+    },
+    "families": {
+      "value": 500,
+      "label": "Famílias atendidas"
+    },
+    "rating": {
+      "value": 5,
+      "label": "Estrelas de avaliação"
+    }
+  },
+  "differentials": {
+    "title": "Por que a Fada?",
+    "items": {
+      "playful": {
+        "name": "Ambiente Lúdico",
+        "description": "Consultório decorado como um mundo encantado, onde cada criança se sente segura e à vontade."
+      },
+      "fearless": {
+        "name": "Sem Medo",
+        "description": "Técnicas de manejo comportamental que transformam a consulta numa experiência positiva e divertida."
+      },
+      "specialized": {
+        "name": "Especialista em Crianças",
+        "description": "Formação específica em Odontopediatria — cuidado técnico e emocional sob medida para cada faixa etária."
+      },
+      "location": {
+        "name": "Triângulo Mineiro",
+        "description": "Atendimento na região do Triângulo Mineiro, com fácil acesso e estacionamento."
+      },
+      "cro": {
+        "name": "CRO MG 63888",
+        "description": "Registro profissional ativo no Conselho Regional de Odontologia de Minas Gerais."
+      },
+      "humanized": {
+        "name": "Atendimento Humanizado",
+        "description": "Cada família recebe atenção individualizada, do primeiro contato ao acompanhamento contínuo."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "O que as mães dizem",
+    "items": {
+      "t1": {
+        "text": "Minha filha tinha pavor de dentista e agora pede para voltar! A Dra. Bianca é incrível com crianças.",
+        "author": "Camila R.",
+        "role": "Mãe da Sofia, 5 anos"
+      },
+      "t2": {
+        "text": "O consultório é encantador, parece um mundo de faz de conta. Meu filho ama ir nas consultas.",
+        "author": "Fernanda M.",
+        "role": "Mãe do Pedro, 3 anos"
+      },
+      "t3": {
+        "text": "Profissional dedicada e super atenciosa. Explica tudo com calma e as crianças confiam nela de verdade.",
+        "author": "Juliana S.",
+        "role": "Mãe da Laura, 7 anos"
+      },
+      "t4": {
+        "text": "A Fada do Dente transformou a experiência do dentista para toda a nossa família. Recomendo de olhos fechados!",
+        "author": "Patrícia L.",
+        "role": "Mãe do Enzo, 4 anos"
+      },
+      "t5": {
+        "text": "Levei meu bebê para a primeira consulta e a Dra. Bianca foi maravilhosa. Ambiente perfeito para crianças.",
+        "author": "Amanda C.",
+        "role": "Mãe da Helena, 1 ano"
+      },
+      "t6": {
+        "text": "Depois de várias tentativas em outros dentistas, finalmente encontramos a profissional certa. Atendimento impecável.",
+        "author": "Renata B.",
+        "role": "Mãe do Lucas, 6 anos"
+      }
+    },
+    "cta": "Sua família também merece esse cuidado"
+  },
+  "contact": {
+    "title": "E eles sorriram felizes para sempre",
+    "subtitle": "Vamos escrever essa história juntos?",
+    "whatsappCta": "Mande um oi pelo WhatsApp",
+    "whatsappSubtext": "Estamos prontas para encantar",
+    "region": "Triângulo Mineiro, MG",
+    "cro": "CRO MG 63888",
+    "instagram": "@_afadadodente",
+    "instagramUrl": "https://www.instagram.com/_afadadodente/"
+  },
+  "footer": {
+    "copyright": "2026 A Fada do Dente — Dra. Bianca R. Samartin. Todos os direitos reservados.",
+    "cro": "CRO MG 63888",
+    "social": "Siga nas redes"
+  },
+  "floatingCta": {
+    "tooltip": "Fale com a Fada",
+    "ariaLabel": "Abrir conversa no WhatsApp"
+  },
+  "lang": {
+    "pt": "Português",
+    "en": "English"
+  },
+  "accessibility": {
+    "skipToContent": "Pular para o conteúdo",
+    "menuOpen": "Abrir menu",
+    "menuClose": "Fechar menu"
+  }
+}

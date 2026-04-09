@@ -3,7 +3,7 @@ import { gsap } from 'gsap'
 import { ScrollTrigger } from 'gsap/ScrollTrigger'
 gsap.registerPlugin(ScrollTrigger)
 
-export default function ParallaxImage({ src, alt, speed = 0.2, className = '' }) {
+export default function ParallaxImage({ src, alt, speed = 0.2, className = '', loading = 'lazy' }) {
   const ref = useRef(null)
   useEffect(() => {
     const ctx = gsap.context(() => {
@@ -17,7 +17,7 @@ export default function ParallaxImage({ src, alt, speed = 0.2, className = '' })
   }, [speed])
   return (
     <div className={`overflow-hidden ${className}`}>
-      <img ref={ref} src={src} alt={alt} className="w-full h-[120%] object-cover" loading="lazy" />
+      <img ref={ref} src={src} alt={alt} className="w-full h-[120%] object-cover" loading={loading} />
     </div>
   )
 }

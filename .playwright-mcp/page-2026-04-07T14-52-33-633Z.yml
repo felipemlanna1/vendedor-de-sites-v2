@@ -1,0 +1,165 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e7]:
+    - generic [ref=e8]:
+      - generic [ref=e19]:
+        - list [ref=e21]:
+          - listitem [ref=e22]:
+            - link "Home" [ref=e24] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e25]:
+            - link "Packages" [ref=e27] [cursor=pointer]:
+              - /url: /packages
+          - listitem [ref=e28]:
+            - link "Portfolio" [ref=e30] [cursor=pointer]:
+              - /url: /portfolio
+          - listitem [ref=e31]:
+            - link "Blog" [ref=e33] [cursor=pointer]:
+              - /url: /blog
+          - listitem [ref=e34]:
+            - link "FAQs" [ref=e36] [cursor=pointer]:
+              - /url: /faqs
+          - listitem [ref=e37]:
+            - link "Reviews" [ref=e39] [cursor=pointer]:
+              - /url: /reviews
+          - text: 
+        - list [ref=e41]:
+          - listitem [ref=e42] [cursor=pointer]:
+            - link "Search" [ref=e44]:
+              - /url: /search
+              - generic [ref=e46]: 
+      - generic [ref=e62]:
+        - list [ref=e64]:
+          - listitem [ref=e65]:
+            - link "Home" [ref=e67] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e68]:
+            - link "Packages" [ref=e70] [cursor=pointer]:
+              - /url: /packages
+          - listitem [ref=e71]:
+            - link "Portfolio" [ref=e73] [cursor=pointer]:
+              - /url: /portfolio
+          - listitem [ref=e74]:
+            - link "Blog" [ref=e76] [cursor=pointer]:
+              - /url: /blog
+          - listitem [ref=e77]:
+            - link "FAQs" [ref=e79] [cursor=pointer]:
+              - /url: /faqs
+          - listitem [ref=e80]:
+            - link "Reviews" [ref=e82] [cursor=pointer]:
+              - /url: /reviews
+          - text: 
+        - list [ref=e84]:
+          - listitem [ref=e85] [cursor=pointer]:
+            - link "Search" [ref=e87]:
+              - /url: /search
+              - generic [ref=e89]: 
+    - generic [ref=e95]:
+      - list [ref=e97]:
+        - listitem [ref=e98]:
+          - heading "Uncompromising interior design at an accessible price" [level=1] [ref=e108]:
+            - paragraph [ref=e109]:
+              - generic [ref=e111]: Uncompromising interior design at an accessible price
+        - listitem [ref=e112]:
+          - generic [ref=e115]:
+            - generic [ref=e117]:
+              - heading "As seen in" [level=2] [ref=e122]:
+                - paragraph [ref=e123]: As seen in
+              - heading "Pretty Olive designs have been featured in articles and social media posts from:" [level=4] [ref=e128]:
+                - paragraph [ref=e129]: "Pretty Olive designs have been featured in articles and social media posts from:"
+            - generic [ref=e131]:
+              - link "image link" [ref=e168] [cursor=pointer]:
+                - /url: http://theglitterguide.com/2019/09/05/how-interior-designer-leanne-sofia-turned-her-house-into-a-home/
+              - link "image link" [ref=e178] [cursor=pointer]:
+                - /url: https://www.designmom.com/living-with-kids-leanne-sofia/
+              - link "image link" [ref=e188] [cursor=pointer]:
+                - /url: https://www.apartmenttherapy.com/spec-house-tour-photos-36734635
+        - listitem [ref=e189]
+        - listitem [ref=e194]:
+          - generic [ref=e199]:
+            - img "Section image" [ref=e211]
+            - img "Section image" [ref=e223]
+            - img "Section image" [ref=e235]
+            - img "Section image" [ref=e247]
+        - listitem [ref=e248]
+        - listitem [ref=e253]:
+          - generic [ref=e255]:
+            - heading "About LeAnne" [level=2] [ref=e262]:
+              - paragraph [ref=e263]: About LeAnne
+            - generic [ref=e265]:
+              - generic [ref=e271]:
+                - img "Section image" [ref=e280]
+                - generic [ref=e282]:
+                  - heading "I will work with you one-on-one to craft your comfortable (and sophisticated) space" [level=6] [ref=e287]:
+                    - paragraph [ref=e288]: I will work with you one-on-one to craft your comfortable (and sophisticated) space
+                  - generic [ref=e292]:
+                    - paragraph [ref=e293]:
+                      - text: I fell in love with interior design many years ago. What started out as a hobby eventually became my business, and I decided to pursue professional training from the
+                      - emphasis [ref=e294]: New York Institute of Art and Design
+                      - text: . I use both my personal experience and technical expertise to serve my clients. I pour my heart into every project.
+                    - paragraph [ref=e295]
+                    - paragraph [ref=e296]: I believe everyone should have a personal space that makes them feel truly at home. I also believe they shouldn't have to pay a fortune to have it!
+                    - paragraph [ref=e297]
+                    - paragraph [ref=e298]: Although I live in the Sunshine State my clients live everywhere. That's the advantage of E Design. If you want a beautiful and functional space to live in, let’s work together to turn your home into your favorite place to be!
+                    - paragraph [ref=e299]
+                    - paragraph [ref=e300]
+                    - paragraph [ref=e301]
+                    - paragraph [ref=e302]
+                    - paragraph [ref=e303]
+                    - paragraph [ref=e304]
+                    - paragraph [ref=e305]
+                    - paragraph [ref=e306]
+                    - paragraph [ref=e307]
+                    - paragraph [ref=e308]
+                    - paragraph [ref=e309]
+              - 'heading "FREE DOWNLOAD: 5 Overlooked Design Tips that give a luxurious look without a giant price tag" [level=3] [ref=e327]':
+                - paragraph [ref=e328]:
+                  - strong [ref=e330]: "FREE DOWNLOAD:"
+                - paragraph [ref=e331]:
+                  - generic [ref=e332]:
+                    - strong [ref=e333]: 5 Overlooked Design Tips
+                    - text: that give a luxurious look without a giant price tag
+              - generic [ref=e345]:
+                - generic [ref=e348]:
+                  - generic [ref=e349]: Name
+                  - textbox "Name" [ref=e350]
+                - generic [ref=e353]:
+                  - generic [ref=e354]: Email
+                  - textbox "Email" [ref=e355]
+                - text: 
+                - button "Submit" [ref=e358] [cursor=pointer]
+        - listitem [ref=e359]:
+          - generic [ref=e362]:
+            - generic [ref=e364]:
+              - heading "Houzz influencer" [level=2] [ref=e369]:
+                - paragraph [ref=e370]: Houzz influencer
+              - heading "Over 1,000 idea book saves and a five-star rating" [level=4] [ref=e375]:
+                - paragraph [ref=e376]: Over 1,000 idea book saves and a five-star rating
+            - generic [ref=e378]:
+              - link "image link" [ref=e388] [cursor=pointer]:
+                - /url: https://www.houzz.com/pro/leannesofia78/leanne-sofia
+                - img "Section image" [ref=e391]
+              - link "image link" [ref=e401] [cursor=pointer]:
+                - /url: https://www.houzz.com/pro/leannesofia78/leanne-sofia
+                - img "Section image" [ref=e404]
+              - link "image link" [ref=e414] [cursor=pointer]:
+                - /url: https://www.houzz.com/pro/leannesofia78/leanne-sofia
+                - img "Section image" [ref=e417]
+        - listitem [ref=e418]:
+          - generic [ref=e424]:
+            - link "image link" [ref=e431] [cursor=pointer]:
+              - /url: https://www.facebook.com/prettyoliveinteriors/?eid=ARDc50TV8aifSSeJldb2wRHwMAl_g6WBCUSUoIR4tYRjqMFYVHtIXsjamV84CrtFmZEWcLLoyX6nV5SA
+              - img "Section image" [ref=e434]
+            - link "image link" [ref=e441] [cursor=pointer]:
+              - /url: https://www.instagram.com/prettyoliveinteriors/
+              - img "Section image" [ref=e444]
+            - link "image link" [ref=e451] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/leanne-sofia-3970a0121/
+              - img "Section image" [ref=e454]
+      - paragraph [ref=e463]: Pretty Olive Interiors © 2017
+      - generic: 
+  - generic [ref=e464]:
+    - generic [ref=e465]: Cookie Use
+    - generic [ref=e466]: We use cookies to ensure a smooth browsing experience. By continuing we assume you accept the use of cookies.
+    - button "Accept" [ref=e468]
+    - link "Learn More" [ref=e469] [cursor=pointer]:
+      - /url: /pages/cookie-policy

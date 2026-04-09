@@ -1,0 +1,246 @@
+- generic [ref=e4]:
+  - navigation [ref=e5]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - link "Página inicial da Unsplash" [ref=e8] [cursor=pointer]:
+          - /url: /pt-br
+          - img "Página inicial da Unsplash" [ref=e9]
+        - link "Fotos" [ref=e11] [cursor=pointer]:
+          - /url: /pt-br
+          - img [ref=e12]
+        - link "Ilustrações" [ref=e14] [cursor=pointer]:
+          - /url: /pt-br/ilustra%C3%A7%C3%B5es
+          - img [ref=e15]
+      - generic [ref=e17]:
+        - button "Explorar" [ref=e18] [cursor=pointer]:
+          - img [ref=e19]
+        - button "Coleções" [ref=e21] [cursor=pointer]:
+          - img [ref=e22]
+        - button "Histórico de downloads" [ref=e24] [cursor=pointer]:
+          - img [ref=e25]
+      - button "Favoritos" [ref=e28] [cursor=pointer]:
+        - img [ref=e29]
+    - generic [ref=e31]:
+      - link "Entrar / Cadastrar-se" [ref=e32] [cursor=pointer]:
+        - /url: /pt-br/login?referrer=%2Fpt-br%2Fs%2Ffotografias%2Fchild-dentist
+        - img [ref=e33]
+      - button "Idioma" [ref=e35] [cursor=pointer]:
+        - img [ref=e36]
+      - button "Menu" [ref=e38] [cursor=pointer]:
+        - img [ref=e39]
+  - generic [ref=e41]:
+    - generic [ref=e42]:
+      - navigation [ref=e43]:
+        - search "Pesquise conteúdo visual em todo o site" [ref=e45]:
+          - button "Pesquise na Unsplash" [ref=e46] [cursor=pointer]:
+            - img [ref=e47]
+          - combobox [ref=e49]:
+            - searchbox "Pesquise na Unsplash" [ref=e50]: child dentist
+            - listbox
+          - button "Limpar" [ref=e51] [cursor=pointer]:
+            - img [ref=e52]
+          - button "Pesquisa visual" [ref=e55] [cursor=pointer]:
+            - img [ref=e56]
+        - generic [ref=e58]:
+          - link "Assine a Unsplash+" [ref=e59] [cursor=pointer]:
+            - /url: /pt-br/plus
+          - link "Entrar" [ref=e60] [cursor=pointer]:
+            - /url: /pt-br/login?referrer=%2Fpt-br%2Fs%2Ffotografias%2Fchild-dentist
+        - button "Enviar uma imagem" [ref=e62] [cursor=pointer]
+      - generic [ref=e63]:
+        - generic [ref=e69]:
+          - list [ref=e70]:
+            - listitem [ref=e71]:
+              - link "Fotos 4,5 mil":
+                - /url: /pt-br/s/fotografias/child-dentist
+                - img
+                - text: Fotos
+                - generic: 4,5 mil
+            - listitem [ref=e72]:
+              - link "Ilustrações 91" [ref=e73] [cursor=pointer]:
+                - /url: /pt-br/s/ilustra%C3%A7%C3%B5es/child-dentist
+                - img [ref=e74]
+                - text: Ilustrações
+                - generic [ref=e76]: "91"
+            - listitem [ref=e77]:
+              - button "Mais" [ref=e78] [cursor=pointer]
+          - button "Filtros" [ref=e80] [cursor=pointer]:
+            - img [ref=e82]
+            - text: Filtros
+        - generic [ref=e84]:
+          - heading "Child dentist" [level=1] [ref=e86]
+          - generic [ref=e88]:
+            - button "rolar lista para a direita" [ref=e90] [cursor=pointer]:
+              - img [ref=e91]
+            - generic [ref=e94]:
+              - link "dentista" [ref=e96] [cursor=pointer]:
+                - /url: /pt-br/s/fotografias/dentista
+              - link "saúde bucal" [ref=e98] [cursor=pointer]:
+                - /url: /pt-br/s/fotografias/sa%C3%BAde-bucal
+              - link "dentistum" [ref=e100] [cursor=pointer]:
+                - /url: /pt-br/s/fotografias/dentistum
+              - link "atendimento odontológico" [ref=e102] [cursor=pointer]:
+                - /url: /pt-br/s/fotografias/atendimento-odontol%C3%B3gico
+              - link "check-up odontológico" [ref=e104] [cursor=pointer]:
+                - /url: /pt-br/s/fotografias/check--up-odontol%C3%B3gico
+              - link "paciente criança" [ref=e106] [cursor=pointer]:
+                - /url: /pt-br/s/fotografias/paciente-crian%C3%A7a
+              - link "cadeira do dentistum" [ref=e108] [cursor=pointer]:
+                - /url: /pt-br/s/fotografias/cadeira-do-dentistum
+              - link "consultório odontológico" [ref=e110] [cursor=pointer]:
+                - /url: /pt-br/s/fotografias/consult%C3%B3rio-odontol%C3%B3gico
+              - link "exame médico" [ref=e112] [cursor=pointer]:
+                - /url: /pt-br/s/fotografias/exame-m%C3%A9dico
+              - link "clínica médica" [ref=e114] [cursor=pointer]:
+                - /url: /pt-br/s/fotografias/cl%C3%ADnica-m%C3%A9dica
+              - link "Saúde" [ref=e116] [cursor=pointer]:
+                - /url: /pt-br/s/fotografias/sa%C3%BAde
+              - link "odontologium" [ref=e118] [cursor=pointer]:
+                - /url: /pt-br/s/fotografias/odontologium
+        - generic [ref=e120]:
+          - generic [ref=e124]:
+            - generic [ref=e125]:
+              - figure [ref=e126]:
+                - generic [ref=e128]:
+                  - link "Linda garotinha rindo sentada em um assento de estomatologia antes de fazer o exame dos dentes em uma estomatologia pediátrica." [ref=e129]:
+                    - /url: /pt-br/fotografias/linda-garotinha-rindo-sentada-em-um-assento-de-estomatologia-antes-de-fazer-o-exame-dos-dentes-em-uma-estomatologia-pediatrica-5OatVDjF5-Q
+                    - img "Linda garotinha rindo sentada em um assento de estomatologia antes de fazer o exame dos dentes em uma estomatologia pediátrica." [ref=e130]
+                  - link [ref=e131] [cursor=pointer]:
+                    - /url: /pt-br/plus?referrer=%2Fpt-br%2Ffotografias%2Flinda-garotinha-rindo-sentada-em-um-assento-de-estomatologia-antes-de-fazer-o-exame-dos-dentes-em-uma-estomatologia-pediatrica-5OatVDjF5-Q
+                    - img [ref=e132]
+              - figure [ref=e134]:
+                - link "Dentista examinando os dentes de uma jovem" [ref=e137]:
+                  - /url: /pt-br/fotografias/dentista-examinando-os-dentes-de-uma-jovem-E3PMZ19Qd_A
+                  - img "Dentista examinando os dentes de uma jovem" [ref=e138]
+              - figure [ref=e139]:
+                - link "Dentista examina os dentes de um menino" [ref=e142]:
+                  - /url: /pt-br/fotografias/dentista-examina-os-dentes-de-um-menino-Y_D9bmeX1V0
+                  - img "Dentista examina os dentes de um menino" [ref=e143]
+              - figure [ref=e144]:
+                - link "um menino recebendo seus dentes verificados por um dentista" [ref=e147]:
+                  - /url: /pt-br/fotografias/um-menino-recebendo-seus-dentes-verificados-por-um-dentista-66yynNM_Ft4
+                  - img "um menino recebendo seus dentes verificados por um dentista" [ref=e148]
+              - figure [ref=e149]:
+                - link "dentista segurando seringa na boca do menino" [ref=e152]:
+                  - /url: /pt-br/fotografias/dentista-segurando-seringa-na-boca-do-menino-9ROuHJ25XVc
+                  - img "dentista segurando seringa na boca do menino" [ref=e153]
+              - figure [ref=e154]:
+                - link "um grupo de pessoas em pé ao redor de um homem em uma cadeira de dentista" [ref=e157]:
+                  - /url: /pt-br/fotografias/um-grupo-de-pessoas-em-pe-ao-redor-de-um-homem-em-uma-cadeira-de-dentista-Z9M_aFcvfWY
+                  - img "um grupo de pessoas em pé ao redor de um homem em uma cadeira de dentista" [ref=e158]
+              - figure [ref=e159]:
+                - link "um, menino jovem, obtendo, seu, dentes, verificado, por, um, dentista" [ref=e162]:
+                  - /url: /pt-br/fotografias/um-menino-jovem-obtendo-seu-dentes-verificado-por-um-dentista-etw3NOpgKDI
+                  - img "um, menino jovem, obtendo, seu, dentes, verificado, por, um, dentista" [ref=e163]
+            - generic [ref=e164]:
+              - figure [ref=e165]:
+                - link "mulher na camisa preta da manga comprida que segura o bebê na camisa rosa da manga longa" [ref=e168]:
+                  - /url: /pt-br/fotografias/mulher-na-camisa-preta-da-manga-comprida-que-segura-o-bebe-na-camisa-rosa-da-manga-longa-RR9Le91W98w
+                  - img "mulher na camisa preta da manga comprida que segura o bebê na camisa rosa da manga longa" [ref=e169]
+              - figure [ref=e170]:
+                - link "mulher na camisa preta de manga comprida sentada ao lado da menina na camisa rosa" [ref=e173]:
+                  - /url: /pt-br/fotografias/mulher-na-camisa-preta-de-manga-comprida-sentada-ao-lado-da-menina-na-camisa-rosa-_9b4WKR_u9I
+                  - img "mulher na camisa preta de manga comprida sentada ao lado da menina na camisa rosa" [ref=e174]
+              - figure [ref=e175]:
+                - generic [ref=e177]:
+                  - link "Menina está tendo seus dentes verificados pelo dentista" [ref=e178]:
+                    - /url: /pt-br/fotografias/menina-esta-tendo-seus-dentes-verificados-pelo-dentista-y43GTD5335k
+                    - img "Menina está tendo seus dentes verificados pelo dentista" [ref=e179]
+                  - link [ref=e180] [cursor=pointer]:
+                    - /url: /pt-br/plus?referrer=%2Fpt-br%2Ffotografias%2Fmenina-esta-tendo-seus-dentes-verificados-pelo-dentista-y43GTD5335k
+                    - img [ref=e181]
+              - figure [ref=e183]:
+                - generic [ref=e185]:
+                  - link "uma mulher que verifica os dentes por um dentista" [ref=e186]:
+                    - /url: /pt-br/fotografias/uma-mulher-que-verifica-os-dentes-por-um-dentista--hmMQ-DF4PU
+                    - img "uma mulher que verifica os dentes por um dentista" [ref=e187]
+                  - link [ref=e188] [cursor=pointer]:
+                    - /url: /pt-br/plus?referrer=%2Fpt-br%2Ffotografias%2Fuma-mulher-que-verifica-os-dentes-por-um-dentista--hmMQ-DF4PU
+                    - img [ref=e189]
+              - figure [ref=e191]:
+                - generic [ref=e193]:
+                  - link "Vista frontal de alegre dentista africana sorridente olhando para a câmera, e pequena paciente de cabelos ruivos, sentada na cadeira do dentista, mostrando os polegares para cima. Conceito de saúde dos dentes, cuidados bucais." [ref=e194]:
+                    - /url: /pt-br/fotografias/vista-frontal-de-alegre-dentista-africana-sorridente-olhando-para-a-camera-e-pequena-paciente-de-cabelos-ruivos-sentada-na-cadeira-do-dentista-mostrando-os-polegares-para-cima-conceito-de-saude-dos-dentes-cuidados-bucais-GRDYuigm4wQ
+                    - img "Vista frontal de alegre dentista africana sorridente olhando para a câmera, e pequena paciente de cabelos ruivos, sentada na cadeira do dentista, mostrando os polegares para cima. Conceito de saúde dos dentes, cuidados bucais." [ref=e195]
+                  - link [ref=e196] [cursor=pointer]:
+                    - /url: /pt-br/plus?referrer=%2Fpt-br%2Ffotografias%2Fvista-frontal-de-alegre-dentista-africana-sorridente-olhando-para-a-camera-e-pequena-paciente-de-cabelos-ruivos-sentada-na-cadeira-do-dentista-mostrando-os-polegares-para-cima-conceito-de-saude-dos-dentes-cuidados-bucais-GRDYuigm4wQ
+                    - img [ref=e197]
+              - figure [ref=e199]:
+                - link "um homem sentado em um banco ao lado de um menino" [ref=e202]:
+                  - /url: /pt-br/fotografias/um-homem-sentado-em-um-banco-ao-lado-de-um-menino-ogfwXs_la2g
+                  - img "um homem sentado em um banco ao lado de um menino" [ref=e203]
+              - figure [ref=e204]:
+                - link "um menino que está sentado com uma colher na boca" [ref=e207]:
+                  - /url: /pt-br/fotografias/um-menino-que-esta-sentado-com-uma-colher-na-boca-Qa4QfuaTSvo
+                  - img "um menino que está sentado com uma colher na boca" [ref=e208]
+            - generic [ref=e209]:
+              - contentinfo [ref=e214]:
+                - generic [ref=e220]: –– ––– ––– –– ––– – ––– ––– –––– – – –– ––– – – ––– –– –– –––– ––
+              - figure [ref=e222]:
+                - link "Dentistas prestando cuidados odontológicos a um paciente." [ref=e225]:
+                  - /url: /pt-br/fotografias/dentistas-prestando-cuidados-odontologicos-a-um-paciente-aCJ2jt9yvoA
+                  - img "Dentistas prestando cuidados odontológicos a um paciente." [ref=e226]
+              - figure [ref=e227]:
+                - link "mulher na jaqueta jeans azul sentada na cadeira" [ref=e230]:
+                  - /url: /pt-br/fotografias/mulher-na-jaqueta-jeans-azul-sentada-na-cadeira-diuh-gxaL64
+                  - img "mulher na jaqueta jeans azul sentada na cadeira" [ref=e231]
+              - figure [ref=e232]:
+                - link "uma pessoa com o cabelo puxado para trás" [ref=e235]:
+                  - /url: /pt-br/fotografias/uma-pessoa-com-o-cabelo-puxado-para-tras-JJfh3aR_txk
+                  - img "uma pessoa com o cabelo puxado para trás" [ref=e236]
+              - figure [ref=e237]:
+                - link "uma mulher tendo seus dentes verificados por um dentista" [ref=e240]:
+                  - /url: /pt-br/fotografias/uma-mulher-tendo-seus-dentes-verificados-por-um-dentista-z9j1X8VRCo8
+                  - img "uma mulher tendo seus dentes verificados por um dentista" [ref=e241]
+              - figure [ref=e242]:
+                - generic [ref=e244]:
+                  - link "Close up de uma linda garotinha está sentada no assento de estomatologia com a boca aberta enquanto a estomatologia pediátrica está fazendo um exame de dentes." [ref=e245]:
+                    - /url: /pt-br/fotografias/close-up-de-uma-linda-garotinha-esta-sentada-no-assento-de-estomatologia-com-a-boca-aberta-enquanto-a-estomatologia-pediatrica-esta-fazendo-um-exame-de-dentes-BqwiPYRK-ns
+                    - img "Close up de uma linda garotinha está sentada no assento de estomatologia com a boca aberta enquanto a estomatologia pediátrica está fazendo um exame de dentes." [ref=e246]
+                  - link [ref=e247] [cursor=pointer]:
+                    - /url: /pt-br/plus?referrer=%2Fpt-br%2Ffotografias%2Fclose-up-de-uma-linda-garotinha-esta-sentada-no-assento-de-estomatologia-com-a-boca-aberta-enquanto-a-estomatologia-pediatrica-esta-fazendo-um-exame-de-dentes-BqwiPYRK-ns
+                    - img [ref=e248]
+              - figure [ref=e250]:
+                - link "uma pessoa em pé ao lado de uma pessoa deitada em uma cama" [ref=e253]:
+                  - /url: /pt-br/fotografias/uma-pessoa-em-pe-ao-lado-de-uma-pessoa-deitada-em-uma-cama-9Gw9XCuazuY
+                  - img "uma pessoa em pé ao lado de uma pessoa deitada em uma cama" [ref=e254]
+          - generic [ref=e257]:
+            - heading "Pesquise imagens premium na iStock | Pegue seu desconto agora" [level=2] [ref=e258]:
+              - text: Pesquise imagens premium na iStock
+              - generic [ref=e259]: "| Pegue seu desconto agora"
+            - generic [ref=e261]:
+              - link "Close-up retrato de um dentista do sexo masculino dando um alto cinco para menina em clínica odontológica" [ref=e262] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/close-up-portrait-of-a-male-dentist-giving-a-high-five-to-little-girl-at-dental-gm1352594904-427966392?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fpt-br%2Fs%2Ffotografias%2Fchild-dentist&utm_term=child+dentist%3A%3A%3A%3A1cb1b2c6-3e36-4717-9a0a-b96dc3bd08ce
+                - img "Close-up retrato de um dentista do sexo masculino dando um alto cinco para menina em clínica odontológica" [ref=e263]
+              - link "Menina sorridente na cadeira odontológica com enfermeira preparando-a para o check-up dos dentes" [ref=e264] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/smiling-little-girl-in-dental-chair-with-nurse-preparing-her-for-teeth-check-up-gm1499259826-521050747?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fpt-br%2Fs%2Ffotografias%2Fchild-dentist&utm_term=child+dentist%3A%3A%3A%3Addb6b6c5-b915-4b60-99f8-3f47e48b363f
+                - img "Menina sorridente na cadeira odontológica com enfermeira preparando-a para o check-up dos dentes" [ref=e265]
+              - link "Dentista fêmea que examina os dentes de uma rapariga" [ref=e266] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/female-dentist-examining-a-young-girls-teeth-gm2238843175-653783017?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fpt-br%2Fs%2Ffotografias%2Fchild-dentist&utm_term=child+dentist%3A%3A%3A%3A861a6466-ea00-423e-a1cd-e28b50babcec
+                - img "Dentista fêmea que examina os dentes de uma rapariga" [ref=e267]
+              - link "Linda garota no Dentista" [ref=e268] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/beautiful-girl-at-the-dentist-gm510634014-86335207?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fpt-br%2Fs%2Ffotografias%2Fchild-dentist&utm_term=child+dentist%3A%3A%3A%3Ad90a89eb-2198-4caa-a01e-47112db6c239
+                - img "Linda garota no Dentista" [ref=e269]
+              - link "Menino feliz tendo os dentes examinados pelo dentista." [ref=e270] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/happy-boy-having-his-teeth-checked-by-female-dentist-gm1422423730-467710504?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fpt-br%2Fs%2Ffotografias%2Fchild-dentist&utm_term=child+dentist%3A%3A%3A%3A1378dcc5-c669-46f0-b807-cec0df8918d0
+                - img "Menino feliz tendo os dentes examinados pelo dentista." [ref=e271]
+              - link "Sorrindo garota mestiça em uma clínica odontológica para crianças. Criança com um sorriso dentuço durante a inspeção da cavidade oral por um dentista. Close-up" [ref=e272] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/smiling-mixed-race-girl-in-a-dental-clinic-for-children-child-with-a-toothy-smile-gm1298297454-391181942?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fpt-br%2Fs%2Ffotografias%2Fchild-dentist&utm_term=child+dentist%3A%3A%3A%3A7b09be1a-4981-4573-a652-adf1f72cb7a2
+                - img "Sorrindo garota mestiça em uma clínica odontológica para crianças. Criança com um sorriso dentuço durante a inspeção da cavidade oral por um dentista. Close-up" [ref=e273]
+              - link "Amando tanto seu dentista" [ref=e274] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/loving-her-dentist-so-much-gm1367592284-437805166?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fpt-br%2Fs%2Ffotografias%2Fchild-dentist&utm_term=child+dentist%3A%3A%3A%3A55c0f3d6-abf0-4e5a-b073-84088b40c6c7
+                - img "Amando tanto seu dentista" [ref=e275]
+              - generic [ref=e276]:
+                - link "Dentista ensinando seu pequeno paciente a escovar os dentes com eficácia." [ref=e277] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/photo/dentist-teaching-his-little-patient-how-to-effectively-brush-his-teeth-gm2230347847-646005980?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fpt-br%2Fs%2Ffotografias%2Fchild-dentist&utm_term=child+dentist%3A%3A%3A%3A4d80dfac-42fb-4d7c-9ce6-36cee8ffaa9e
+                  - img "Dentista ensinando seu pequeno paciente a escovar os dentes com eficácia." [ref=e278]
+                - link "Ver mais na iStock ↗" [ref=e279] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fpt-br%2Fs%2Ffotografias%2Fchild-dentist&utm_term=child+dentist%3A%3A%3A%3A8bb1cbaf-0b57-47b6-8afd-90e29838f8a8&phrase=child+dentist&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+          - button "Carregar mais" [ref=e283] [cursor=pointer]
+          - generic [ref=e284]:
+            - link [ref=e285] [cursor=pointer]:
+              - /url: /pt-br
+              - img [ref=e286]
+            - paragraph [ref=e288]: Crie algo incrível
+    - generic:
+      - region "Notifications"

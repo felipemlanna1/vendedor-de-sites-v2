@@ -1,0 +1,652 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - navigation [ref=e3]:
+      - generic [ref=e4]:
+        - link "Doctoralia - Homepage" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img [ref=e8]
+        - generic [ref=e24]:
+          - generic [ref=e28] [cursor=pointer]:
+            - generic [ref=e29]:
+              - generic [ref=e30]: especialidade, doença ou nome
+              - textbox "especialidade, doença ou nome" [ref=e31]
+            - img [ref=e33]
+          - generic [ref=e38] [cursor=pointer]:
+            - generic [ref=e39]:
+              - generic [ref=e40]: cidade ou região
+              - textbox "cidade ou região" [ref=e41]
+            - img [ref=e43]
+          - button [ref=e46] [cursor=pointer]:
+            - img [ref=e48]
+        - navigation [ref=e50]:
+          - list [ref=e51]:
+            - listitem [ref=e52]:
+              - link "Entrar" [ref=e53] [cursor=pointer]:
+                - /url: https://www.doctoralia.com.br/social-connect/br_sso?_redirect=https%3A//www.doctoralia.com.br/ariel-cordova/dermatologista/florianopolis
+            - listitem [ref=e54]:
+              - button "Você atua na área da saúde?" [ref=e55] [cursor=pointer]:
+                - text: Você atua na área da saúde?
+                - img [ref=e57]
+    - main [ref=e60]:
+      - list [ref=e64]:
+        - listitem [ref=e65]:
+          - link "Homepage" [ref=e66] [cursor=pointer]:
+            - /url: https://www.doctoralia.com.br/
+        - listitem [ref=e67]:
+          - text: /
+          - link "Dermatologista" [ref=e68] [cursor=pointer]:
+            - /url: https://www.doctoralia.com.br/dermatologista
+        - listitem [ref=e69]: / Ariel Córdova
+      - generic [ref=e70]:
+        - generic [ref=e71]:
+          - generic [ref=e72]:
+            - generic [ref=e75]:
+              - generic [ref=e77]:
+                - 'link "Ampliar imagem: Ariel Córdova, Dermatologista Florianópolis" [ref=e80] [cursor=pointer]':
+                  - /url: //s3-sa-east-1.amazonaws.com/doctoralia.com.br/doctor/7e70b0/7e70b0ebaeaefe4eda4719ed1d90724b_large.jpg
+                  - 'img "Ampliar imagem: Ariel Córdova, Dermatologista Florianópolis" [ref=e81]'
+                - generic [ref=e82]:
+                  - generic [ref=e83]:
+                    - heading "Dra. Ariel Córdova" [level=1] [ref=e84]:
+                      - generic [ref=e85]: Dra. Ariel Córdova
+                    - img [ref=e90] [cursor=pointer]
+                  - heading "Dermatologista · Mais sobre as especializações" [level=2] [ref=e92]:
+                    - generic [ref=e93]:
+                      - link "Dermatologista" [ref=e95] [cursor=pointer]:
+                        - /url: /dermatologista/florianopolis
+                      - text: ·
+                      - link "Mais sobre as especializações" [ref=e97] [cursor=pointer]:
+                        - /url: "#"
+                        - text: Mais
+                        - generic [ref=e98]: sobre as especializações
+                  - paragraph [ref=e99]: "Número de registro: CRM SC 23372 RQE Nº: 18753"
+                  - 'link "Rating: 5" [ref=e100] [cursor=pointer]':
+                    - /url: "#profile-reviews"
+                    - 'generic "Rating: 5" [ref=e101]':
+                      - generic [ref=e102]: 27 opiniões
+              - button "Informações de contato" [ref=e104] [cursor=pointer]:
+                - img [ref=e106]
+                - generic [ref=e109]: Informações de contato
+            - navigation [ref=e111]:
+              - generic [ref=e112]:
+                - list [ref=e113]:
+                  - link "Experiência" [ref=e114] [cursor=pointer]:
+                    - /url: "#about-section"
+                  - link "Serviços" [ref=e115] [cursor=pointer]:
+                    - /url: "#profile-pricing"
+                  - link "Consultórios" [ref=e116] [cursor=pointer]:
+                    - /url: "#profile-info"
+                  - link "Planos de saúde" [ref=e117] [cursor=pointer]:
+                    - /url: "#insurances-info"
+                  - link "Opiniões (27)" [ref=e118] [cursor=pointer]:
+                    - /url: "#profile-reviews"
+                - button "Deslocação para a direita" [ref=e119] [cursor=pointer]:
+                  - img [ref=e121]
+            - generic [ref=e140]:
+              - heading "Experiência" [level=2] [ref=e141]
+              - list [ref=e143]:
+                - listitem [ref=e144]:
+                  - link "2 Formação" [ref=e145] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=e146]:
+                      - generic [ref=e147]: "2"
+                      - generic [ref=e148]: Formação
+                - listitem [ref=e149]:
+                  - img "Reconhecimento pela performance e engajamento na Doctoralia, tornando a experiência em saúde mais humana." [ref=e150]
+              - generic [ref=e152]:
+                - generic [ref=e153]:
+                  - text: Sou médica formada pela Universidade Federal de Santa Catarina (UFSC), com Residência Médica em Dermatologia no Hospital Universitário da UFSC (HU UFSC).
+                  - text: Também sou preceptora colaboradora da residência em dermatologia do HU UFSC e pesquisadora, com ênfase em melanoma, cirurgia dermatológica, USG dermatológico e outras tecnologias.
+                - link "mais Sobre mim" [ref=e154] [cursor=pointer]:
+                  - /url: "#"
+                  - text: mais
+                  - generic [ref=e155]: Sobre mim
+              - generic [ref=e156]:
+                - heading "Principais doenças tratadas" [level=3] [ref=e157]
+                - list [ref=e158]:
+                  - listitem [ref=e159]:
+                    - generic [ref=e160]: Acne
+                  - listitem [ref=e161]:
+                    - generic [ref=e162]: Câncer de pele
+                  - listitem [ref=e163]:
+                    - generic [ref=e164]: Melasma
+                  - listitem [ref=e165]:
+                    - generic [ref=e166]: Dermatite
+                  - listitem [ref=e167]:
+                    - generic [ref=e168]: Psoríase
+                  - listitem [ref=e169]:
+                    - link "+6 a11y_sr_more_diseases" [ref=e170] [cursor=pointer]:
+                      - /url: "#"
+                      - text: "+6"
+                      - generic [ref=e171]: a11y_sr_more_diseases
+              - button "Mostrar mais detalhes sobre a experiência" [ref=e172] [cursor=pointer]:
+                - text: Mostrar mais detalhes
+                - generic [ref=e173]: sobre a experiência
+            - generic [ref=e176]:
+              - heading "Serviços e preços" [level=2] [ref=e177]
+              - list [ref=e178]:
+                - listitem [ref=e179]:
+                  - generic [ref=e181]:
+                    - heading "Teleconsulta" [level=3] [ref=e182]
+                    - generic [ref=e183]:
+                      - generic [ref=e184]: R$ 250
+                      - button "Detalhes" [ref=e186] [cursor=pointer]
+                - listitem [ref=e187]:
+                  - separator [ref=e188]
+              - button "Como mostramos os preços?" [ref=e189] [cursor=pointer]
+            - generic [ref=e190]:
+              - heading "Consultório" [level=2] [ref=e191]
+              - generic [ref=e194]:
+                - generic [ref=e195]:
+                  - generic [ref=e197]:
+                    - heading "Disponibilidade" [level=3] [ref=e198]
+                    - paragraph [ref=e199]: Este especialista não oferece agendamento online neste endereço
+                    - link "O que eu posso fazer agora?" [ref=e201] [cursor=pointer]:
+                      - /url: "#"
+                  - img [ref=e204]
+                - button "Mostrar mais detalhes sobre o endereço" [ref=e206] [cursor=pointer]:
+                  - text: Mostrar mais detalhes
+                  - generic [ref=e207]: sobre o endereço
+            - generic [ref=e208]:
+              - heading "Planos de saúde não aceitos" [level=2] [ref=e209]
+              - generic [ref=e210]:
+                - paragraph [ref=e211]: Este especialista só aceita pacientes particulares. Você pode pagar particular para marcar, ou encontrar outro especialista que aceite o seu plano de saúde.
+                - button "Encontre especialistas por seguradora" [ref=e213] [cursor=pointer]:
+                  - img [ref=e215]
+                  - generic [ref=e217]: Encontre especialistas por seguradora
+            - generic [ref=e219]:
+              - generic [ref=e220]:
+                - heading "Opiniões" [level=2] [ref=e221]
+                - link "Enviar opinião" [ref=e223] [cursor=pointer]:
+                  - /url: https://www.doctoralia.com.br/adicionar-opiniao/ariel-cordova
+                  - generic [ref=e224]: Enviar opinião
+              - generic [ref=e229]:
+                - generic "5" [ref=e230]
+                - paragraph [ref=e231]: 27 opiniões
+              - generic [ref=e233]:
+                - img [ref=e236]
+                - generic [ref=e238]:
+                  - text: Todas as opiniões são importantes, por isso os especialistas não podem pagar para alterar ou excluir uma opinião.
+                  - link "Saiba mais. Saber mais sobre pareceres" [ref=e239] [cursor=pointer]:
+                    - /url: https://www.doctoralia.com.br/opinioes
+                    - text: Saiba mais.
+                    - generic [ref=e240]: Saber mais sobre pareceres
+              - list [ref=e244]:
+                - listitem [ref=e245]:
+                  - generic [ref=e246]:
+                    - generic [ref=e247]:
+                      - generic [ref=e250]:
+                        - generic [ref=e252]: B
+                        - heading "Betânia Duarte" [level=4] [ref=e253]:
+                          - generic [ref=e254]: Betânia Duarte
+                        - button "Opinião Verificada" [ref=e257] [cursor=pointer]:
+                          - generic [ref=e258]: Opinião Verificada
+                      - blockquote [ref=e261]:
+                        - paragraph [ref=e262]: Médica nota 10! Excelente profissional! Super atenciosa, explica tudo, ouve o paciente e oferece solução efetiva. Há um ano meu marido estava com uma cicatrização muito difícil devido a uma mordida de cachorro profunda, quando não é possível dar pontos. Seguindo as orientações da Dra. Ariel, hoje nem parece que houve nada, não se vê a cicatriz. Atualmente estamos de novo sob orientação médica da Dra. Ariel Córdova devido a cicatriz por motivo de cirurgia e ela sempre está disponível para tirar dúvidas. Muito séria e dedicada.
+                      - generic [ref=e263]:
+                        - time [ref=e264]: 3 de janeiro de 2024
+                        - generic [ref=e265]: • Consulta online • Outro
+                        - generic [ref=e266]: •
+                    - separator [ref=e268]
+                - listitem [ref=e269]:
+                  - generic [ref=e270]:
+                    - generic [ref=e271]:
+                      - generic [ref=e274]:
+                        - generic [ref=e276]: M
+                        - heading "Mauricio" [level=4] [ref=e277]:
+                          - generic [ref=e278]: Mauricio
+                        - button "Opinião Verificada" [ref=e281] [cursor=pointer]:
+                          - generic [ref=e282]: Opinião Verificada
+                      - blockquote [ref=e285]:
+                        - paragraph [ref=e286]: Não fui atendido! Não tem estacionamento, não me avisaram, fiquei 10min procurando o estacionamento, cheguei atrasado e não me atenderam. Estava em conversa com a secretária quando perguntei sobre o estacionamento. Faltou total empatia e consideração! Perdi tempo e dinheiro. Não volto nunca mais.
+                      - generic [ref=e287]:
+                        - time [ref=e288]: 27 de dezembro de 2021
+                        - generic [ref=e289]: • HR Dermatológica • Primeira consulta Dermatologia
+                        - generic [ref=e290]: •
+                      - paragraph [ref=e291]:
+                        - text: É este médico? Responda a esta avaliação!
+                        - strong [ref=e292]:
+                          - link "Registe-se agora" [ref=e293] [cursor=pointer]:
+                            - /url: https://www.doctoralia.com.br/cadastro-medico
+                    - generic [ref=e297]:
+                      - paragraph [ref=e299]: Dra. Ariel Córdova
+                      - paragraph [ref=e300]:
+                        - text: Prezado Maurício,
+                        - text: Sua avaliação é importante e por isso merece uma reposta. Inclusive para outros pacientes que utilizam este canal para avaliação dos profissionais.
+                        - text: "Por isso venho esclarecer alguns pontos do fato acima relatado: a sua consulta estava agendada para O DIA ANTERIOR (ao do ocorrido), mas o senhor apresentou um imprevisto e SE ATRASOU, motivo pelo qual SOLICITOU UMA NOVA DATA."
+                        - text: E imprevistos acontecem, com todos. E justamente por me importar com os pacientes, agendei um ENCAIXE para o senhor no DIA SEGUINTE (em uma agenda de final de ano cheia). Veja bem... não precisava ter feito o encaixe, mas entendo que imprevistos acontecem. Mas o senhor atrasou cerca de 20 minutos neste dia do encaixe também.
+                        - text: "Em resumo: não considero justo atrasar o atendimento dos pacientes que chegaram no horário, inclusive das cirurgias de câncer de pele. Se o senhor considera justo, eu realmente não sou o tipo de profissional que poderia ajudá-lo."
+                        - text: "E quanto ao estacionamento: esta na mensagem de confirmação de agendamento (que o senhor recebeu) que clínica tem um estacionamento credenciado, inclusive com o endereço do mesmo."
+                        - text: Espero que o senhor tenha sido atendido por um profissional que tenha o ajudado.
+                      - time [ref=e301]: 27 de dezembro de 2021
+                    - separator [ref=e302]
+                - listitem [ref=e303]:
+                  - generic [ref=e304]:
+                    - generic [ref=e305]:
+                      - generic [ref=e308]:
+                        - generic [ref=e310]: C
+                        - heading "Carlos A G Ramos" [level=4] [ref=e311]:
+                          - generic [ref=e312]: Carlos A G Ramos
+                        - button "Consulta verificada" [ref=e315] [cursor=pointer]:
+                          - generic [ref=e316]: Consulta verificada
+                          - img [ref=e318]
+                      - blockquote [ref=e322]:
+                        - paragraph [ref=e323]: Excelente profissional. Comunica com clareza o resultado do exame e os procedimentos para realizar a cura.
+                      - generic [ref=e324]:
+                        - time [ref=e325]: 2 de agosto de 2021
+                        - generic [ref=e326]: • HR Dermatológica • Primeira consulta Dermatologia
+                        - generic [ref=e327]: •
+                    - separator [ref=e329]
+                - listitem [ref=e330]:
+                  - generic [ref=e331]:
+                    - generic [ref=e332]:
+                      - generic [ref=e335]:
+                        - generic [ref=e337]: G
+                        - heading "Gabriela" [level=4] [ref=e338]:
+                          - generic [ref=e339]: Gabriela
+                        - button "Consulta verificada" [ref=e342] [cursor=pointer]:
+                          - generic [ref=e343]: Consulta verificada
+                          - img [ref=e345]
+                      - blockquote [ref=e349]:
+                        - paragraph [ref=e350]: Excelente atendimento e excelente médica. É super simpática na consulta, faz você se sentir à vontade e muito segura em relação às orientações.
+                      - generic [ref=e351]:
+                        - time [ref=e352]: 15 de junho de 2021
+                        - generic [ref=e353]: • HR Dermatológica • Primeira consulta Dermatologia
+                        - generic [ref=e354]: •
+                    - separator [ref=e356]
+                - listitem [ref=e357]:
+                  - generic [ref=e358]:
+                    - generic [ref=e359]:
+                      - generic [ref=e362]:
+                        - generic [ref=e364]: A
+                        - heading "Antônio Mendonça" [level=4] [ref=e365]:
+                          - generic [ref=e366]: Antônio Mendonça
+                        - button "Opinião Verificada" [ref=e369] [cursor=pointer]:
+                          - generic [ref=e370]: Opinião Verificada
+                      - blockquote [ref=e373]:
+                        - paragraph [ref=e374]: Excelente médica, não só pela atenção ao paciente assim como a simpatia, conhecimento geral e trata por completo dentro da dermatologia como fora da sua especialidade durante a consulta.
+                      - generic [ref=e375]:
+                        - time [ref=e376]: 25 de maio de 2021
+                        - generic [ref=e377]: • HR Dermatológica • Outro
+                        - generic [ref=e378]: •
+                    - separator [ref=e380]
+                - listitem [ref=e381]:
+                  - generic [ref=e382]:
+                    - generic [ref=e383]:
+                      - generic [ref=e386]:
+                        - generic [ref=e388]: M
+                        - heading "Márian" [level=4] [ref=e389]:
+                          - generic [ref=e390]: Márian
+                        - button "Consulta verificada" [ref=e393] [cursor=pointer]:
+                          - generic [ref=e394]: Consulta verificada
+                          - img [ref=e396]
+                      - blockquote [ref=e400]:
+                        - paragraph [ref=e401]: Médica muito atenciosa, explicou tudo muito bem. Vamos iniciar o tratamento para dermatite atópica.
+                      - generic [ref=e402]:
+                        - time [ref=e403]: 6 de abril de 2021
+                        - generic [ref=e404]: • HR Dermatológica • Primeira consulta Dermatologia
+                        - generic [ref=e405]: •
+                    - separator [ref=e407]
+                - listitem [ref=e408]:
+                  - generic [ref=e409]:
+                    - generic [ref=e410]:
+                      - generic [ref=e413]:
+                        - generic [ref=e415]: I
+                        - heading "Isabelle" [level=4] [ref=e416]:
+                          - generic [ref=e417]: Isabelle
+                        - button "Consulta verificada" [ref=e420] [cursor=pointer]:
+                          - generic [ref=e421]: Consulta verificada
+                          - img [ref=e423]
+                      - blockquote [ref=e427]:
+                        - paragraph [ref=e428]: Muito simpática e gentil, analisa todas as possibilidades e examina com cuidado os pacientes, foi uma consulta excelente, recomendo a todos.
+                      - generic [ref=e429]:
+                        - time [ref=e430]: 9 de março de 2021
+                        - generic [ref=e431]: • HR Dermatológica • Primeira consulta Dermatologia
+                        - generic [ref=e432]: •
+                    - separator [ref=e434]
+                - listitem [ref=e435]:
+                  - generic [ref=e436]:
+                    - generic [ref=e437]:
+                      - generic [ref=e440]:
+                        - generic [ref=e441]:
+                          - generic [ref=e442]: A
+                          - img [ref=e444]
+                        - heading "Anelise" [level=4] [ref=e446]:
+                          - generic [ref=e447]: Anelise
+                        - button "Opinião Verificada" [ref=e450] [cursor=pointer]:
+                          - generic [ref=e451]: Opinião Verificada
+                      - blockquote [ref=e454]:
+                        - paragraph [ref=e455]:
+                          - text: A melhor dermatologista que já conheci!
+                          - text: Tenho uma dermatite atópica bastante agressiva, que nunca tinha conseguido controlar, e A Dra. Ariel foi a primeira que me ofereceu um tratamento eficiente, que realmente testou todas as possibilidades. Ela é dedicada, preocupada, atenciosa.
+                      - generic [ref=e456]:
+                        - time [ref=e457]: 2 de fevereiro de 2021
+                        - generic [ref=e458]: • HR Dermatológica • Outro
+                        - generic [ref=e459]: •
+                    - separator [ref=e461]
+                - listitem [ref=e462]:
+                  - generic [ref=e463]:
+                    - generic [ref=e464]:
+                      - generic [ref=e467]:
+                        - generic [ref=e469]: C
+                        - heading "Cláudia T. Alves" [level=4] [ref=e470]:
+                          - generic [ref=e471]: Cláudia T. Alves
+                        - button "Consulta verificada" [ref=e474] [cursor=pointer]:
+                          - generic [ref=e475]: Consulta verificada
+                          - img [ref=e477]
+                      - blockquote [ref=e481]:
+                        - paragraph [ref=e482]: Além do tratamento que começarei hj, acho imprescindível o interesse sincero do médico para com o paciente, e foi isso que percebi na Dra Ariel Córdova.
+                      - generic [ref=e483]:
+                        - time [ref=e484]: 5 de janeiro de 2021
+                        - generic [ref=e485]: • HR Dermatológica • Primeira consulta Dermatologia
+                        - generic [ref=e486]: •
+                    - separator [ref=e488]
+                - listitem [ref=e489]:
+                  - generic [ref=e491]:
+                    - generic [ref=e494]:
+                      - generic [ref=e496]: C
+                      - heading "Caroline" [level=4] [ref=e497]:
+                        - generic [ref=e498]: Caroline
+                      - button "Consulta verificada" [ref=e501] [cursor=pointer]:
+                        - generic [ref=e502]: Consulta verificada
+                        - img [ref=e504]
+                    - blockquote [ref=e508]:
+                      - paragraph [ref=e509]: Atendeu antes do horário, foi muito carinhosa com minha filha, examinou bem, já realizou alguns procedimentos na hora. Gostei bastante!
+                    - generic [ref=e510]:
+                      - time [ref=e511]: 15 de dezembro de 2020
+                      - generic [ref=e512]: • HR Dermatológica • Primeira consulta Dermatologia
+                      - generic [ref=e513]: •
+              - button "Veja mais opiniões acima" [ref=e516] [cursor=pointer]:
+                - text: Veja mais
+                - generic [ref=e517]: opiniões acima
+            - generic [ref=e519]:
+              - generic [ref=e520]:
+                - paragraph [ref=e521]: É este especialista da saúde?
+                - link "Editar ou gerenciar perfil" [ref=e522] [cursor=pointer]:
+                  - /url: https://www.doctoralia.com.br/solicitar-alteracoes-perfil/ariel-cordova
+              - paragraph [ref=e524]:
+                - text: Dicas de segurança. Não realizamos de perfis básicos sem agenda. Não realizamos cobrança por meio de terceiros ou de canais não oficiais.
+                - link "Saber mais" [ref=e525] [cursor=pointer]:
+                  - /url: https://pro.doctoralia.com.br/alerta-pagamentos-e-cobrancas?utm_source=MKTP&utm_medium=referral&utm_campaign=footer
+            - generic [ref=e526]:
+              - heading "Perguntas frequentes" [level=2] [ref=e527]
+              - list [ref=e528]:
+                - listitem [ref=e529]:
+                  - generic [ref=e530]:
+                    - button "Quais são as principais especialidades de Ariel Córdova?" [ref=e531] [cursor=pointer]:
+                      - generic [ref=e532]: Quais são as principais especialidades de Ariel Córdova?
+                      - img [ref=e534]
+                    - generic [ref=e538]: "Ariel Córdova é dermatologista. Te mostramos alguns dos serviços oferecidos pelo especialista graças à sua trajetória e vasta experiência: Teleconsulta."
+                - listitem [ref=e539]:
+                  - button "Onde fica o consultório de Ariel Córdova?" [ref=e541] [cursor=pointer]:
+                    - generic [ref=e542]: Onde fica o consultório de Ariel Córdova?
+                    - img [ref=e544]
+                - listitem [ref=e546]:
+                  - button "Posso passar por atendimento online com Ariel Córdova, sem ter que ir até o consultório?" [ref=e548] [cursor=pointer]:
+                    - generic [ref=e549]: Posso passar por atendimento online com Ariel Córdova, sem ter que ir até o consultório?
+                    - img [ref=e551]
+                - listitem [ref=e553]:
+                  - button "Quais métodos de pagamento são aceitos por Ariel Córdova?" [ref=e555] [cursor=pointer]:
+                    - generic [ref=e556]: Quais métodos de pagamento são aceitos por Ariel Córdova?
+                    - img [ref=e558]
+                - listitem [ref=e560]:
+                  - button "Em quais idiomas Ariel Córdova atende?" [ref=e562] [cursor=pointer]:
+                    - generic [ref=e563]: Em quais idiomas Ariel Córdova atende?
+                    - img [ref=e565]
+                - listitem [ref=e567]:
+                  - button "Como posso marcar uma consulta com Ariel Córdova?" [ref=e569] [cursor=pointer]:
+                    - generic [ref=e570]: Como posso marcar uma consulta com Ariel Córdova?
+                    - img [ref=e572]
+                - listitem [ref=e574]:
+                  - button "Quando poderia me consultar com Ariel Córdova?" [ref=e576] [cursor=pointer]:
+                    - generic [ref=e577]: Quando poderia me consultar com Ariel Córdova?
+                    - img [ref=e579]
+                - listitem [ref=e581]:
+                  - button "O que outros pacientes opinam sobre Ariel Córdova?" [ref=e583] [cursor=pointer]:
+                    - generic [ref=e584]: O que outros pacientes opinam sobre Ariel Córdova?
+                    - img [ref=e586]
+                - listitem [ref=e588]:
+                  - button "Quais são os convênios aceitos por Ariel Córdova?" [ref=e590] [cursor=pointer]:
+                    - generic [ref=e591]: Quais são os convênios aceitos por Ariel Córdova?
+                    - img [ref=e593]
+          - generic [ref=e598]:
+            - generic [ref=e600]:
+              - heading "Agendar pela Doctoralia" [level=3] [ref=e601]
+              - paragraph [ref=e602]: inativo
+            - generic [ref=e604]:
+              - generic [ref=e609]:
+                - generic [ref=e612]:
+                  - paragraph [ref=e613]: Hoje
+                  - paragraph [ref=e614]: 6 Abr
+                - generic [ref=e617]:
+                  - paragraph [ref=e618]: Amanhã
+                  - paragraph [ref=e619]: 7 Abr
+                - generic [ref=e622]:
+                  - paragraph [ref=e623]: Qua
+                  - paragraph [ref=e624]: 8 Abr
+                - generic [ref=e627]:
+                  - paragraph [ref=e628]: Qui,
+                  - paragraph [ref=e629]: 9 Abr
+                - generic [ref=e632]:
+                  - paragraph [ref=e633]: Sex,
+                  - paragraph [ref=e634]: 10 Abr
+                - generic [ref=e637]:
+                  - paragraph [ref=e638]: Sáb,
+                  - paragraph [ref=e639]: 11 Abr
+                - generic [ref=e642]:
+                  - paragraph [ref=e643]: Dom,
+                  - paragraph [ref=e644]: 12 Abr
+              - generic [ref=e645]:
+                - paragraph [ref=e646]:
+                  - img [ref=e648]
+                - paragraph [ref=e650]: Esse especialista não oferece agendamento online para esse endereço.
+                - button "Solicite um atendimento" [ref=e651] [cursor=pointer]
+        - generic [ref=e653]: A Doctoralia processa seus dados com base em fontes públicas de acesso aberto, obtidos a fim de listar profissionais de saúde e propagar as informações à população sobre seus dados profissionais. Esses dados foram tratados no intuito de atender o legítimo interesse de informação da Doctoralia, utilizando-se da base legal disposta no artigo 7 IX of the LGPD.A Doctoralia não cria, edita ou altera o conteúdo. Todo o processo de coleta de dados cujo resultado culmina nas informações obtidas de forma pública, automaticamente alimentada, pelo que, é possível que esses dados contenham eventual imprecisão, sendo que, caso você seja titular dos dados, poderá completar seus dados, substituí-los, excluí-los ou reportar erros, através do email suporte@doctoralia.com
+        - separator [ref=e654]
+  - contentinfo [ref=e656]:
+    - generic [ref=e657]:
+      - generic [ref=e658]:
+        - generic [ref=e659]:
+          - heading "Serviço" [level=2] [ref=e660]
+          - list [ref=e661]:
+            - listitem [ref=e662]:
+              - link "Privacidade e cookies" [ref=e663] [cursor=pointer]:
+                - /url: https://www.doctoralia.com.br/privacidade
+            - listitem [ref=e664]:
+              - link "Privacidade para profissionais não cadastrados" [ref=e665] [cursor=pointer]:
+                - /url: https://www.doctoralia.com.br/politica-de-privacidade-para-profissionais-de-saude
+            - listitem [ref=e666]:
+              - link "Sobre nós" [ref=e667] [cursor=pointer]:
+                - /url: https://www.docplanner.com/about-us
+            - listitem [ref=e668]:
+              - link "Contato" [ref=e669] [cursor=pointer]:
+                - /url: https://www.doctoralia.com.br/contato
+            - listitem [ref=e670]:
+              - link "Vagas Estamos contratando!" [ref=e671] [cursor=pointer]:
+                - /url: https://www.docplanner.com/career
+                - text: Vagas
+                - generic [ref=e672]: Estamos contratando!
+            - listitem [ref=e673]:
+              - link "Termos e Condições" [ref=e674] [cursor=pointer]:
+                - /url: https://www.doctoralia.com.br/termos-e-condicoes
+            - listitem [ref=e675]:
+              - link "Imprensa" [ref=e676] [cursor=pointer]:
+                - /url: https://press.doctoralia.com.br
+            - listitem [ref=e677]:
+              - link "Lei da Igualdade Salarial" [ref=e678] [cursor=pointer]:
+                - /url: https://pro.doctoralia.com.br/hubfs/WR%20DOC%20FAC%20Pro%20zone/%5BBR%5D%20Brazil/Legal%20PDFs/Doctoralia%20-%20RelatorioIgualdadeSalarialLote_2025_2_27053196000139.pdf
+        - generic [ref=e679]:
+          - heading "Pacientes" [level=2] [ref=e680]
+          - list [ref=e681]:
+            - listitem [ref=e682]:
+              - link "Especialistas" [ref=e683] [cursor=pointer]:
+                - /url: https://www.doctoralia.com.br/especializacoes-medicas
+            - listitem [ref=e684]:
+              - link "Clínicas e Hospitais" [ref=e685] [cursor=pointer]:
+                - /url: https://www.doctoralia.com.br/clinicas
+            - listitem [ref=e686]:
+              - link "Planos de saúde" [ref=e687] [cursor=pointer]:
+                - /url: https://www.doctoralia.com.br/convenios
+            - listitem [ref=e688]:
+              - link "Pergunte ao especialista" [ref=e689] [cursor=pointer]:
+                - /url: https://www.doctoralia.com.br/perguntas-respostas
+            - listitem [ref=e690]:
+              - link "Medicamentos" [ref=e691] [cursor=pointer]:
+                - /url: https://www.doctoralia.com.br/medicamentos
+            - listitem [ref=e692]:
+              - link "Serviços" [ref=e693] [cursor=pointer]:
+                - /url: https://www.doctoralia.com.br/servicos-de-tratamento
+            - listitem [ref=e694]:
+              - link "Doencas" [ref=e695] [cursor=pointer]:
+                - /url: https://www.doctoralia.com.br/doencas
+            - listitem [ref=e696]:
+              - link "Perguntas frequentes" [ref=e697] [cursor=pointer]:
+                - /url: https://www.doctoralia.com.br/faq
+            - listitem [ref=e698]:
+              - link "Aplicações móveis" [ref=e699] [cursor=pointer]:
+                - /url: https://www.doctoralia.com.br/app-pacientes
+            - listitem [ref=e700]:
+              - link "Blog para pacientes" [ref=e701] [cursor=pointer]:
+                - /url: https://www.doctoralia.com.br/blog/
+        - generic [ref=e702]:
+          - heading "Para especialistas e clínicas" [level=2] [ref=e703]
+          - list [ref=e704]:
+            - listitem [ref=e705]:
+              - link "Preço" [ref=e706] [cursor=pointer]:
+                - /url: https://pro.doctoralia.com.br/preco?utm_source=MKTP&utm_medium=referral&utm_campaign=footer
+            - listitem [ref=e707]:
+              - link "Solução para especialistas" [ref=e708] [cursor=pointer]:
+                - /url: https://pro.doctoralia.com.br/solucoes/para-medicos-e-profissionais-da-saude?utm_medium=referral&utm_source=MKTP&utm_campaign=footer
+            - listitem [ref=e709]:
+              - link "Solução para clinicas" [ref=e710] [cursor=pointer]:
+                - /url: https://pro.doctoralia.com.br/solucoes/para-clinicas?utm_medium=referral&utm_source=MKTP&utm_campaign=footer
+            - listitem [ref=e711]:
+              - link "Noa Notes novo" [ref=e712] [cursor=pointer]:
+                - /url: https://noa.ai/pt-br/noa-notes?utm_source=MKTP&utm_medium=referral&utm_campaign=footer
+                - text: Noa Notes
+                - generic [ref=e713]: novo
+            - listitem [ref=e714]:
+              - link "Conteúdos" [ref=e715] [cursor=pointer]:
+                - /url: https://pro.doctoralia.com.br/recursos-gratuitos?utm_source=MKTP&utm_medium=referral&utm_campaign=footer
+            - listitem [ref=e716]:
+              - link "Termos de uso" [ref=e717] [cursor=pointer]:
+                - /url: https://www.doctoralia.com.br/ecommerce-terms
+            - listitem [ref=e718]:
+              - link "Alerta de segurança" [ref=e719] [cursor=pointer]:
+                - /url: https://pro.doctoralia.com.br/alerta-pagamentos-e-cobrancas?utm_source=MKTP&utm_medium=referral&utm_campaign=footer
+            - listitem [ref=e720]:
+              - link "Central de Ajuda para clientes" [ref=e721] [cursor=pointer]:
+                - /url: https://help.docplanner.com/s/?language=pt_BR
+        - generic [ref=e722]:
+          - heading "Contato" [level=2] [ref=e723]
+          - link "Doctoralia - Homepage":
+            - /url: /
+            - generic [ref=e724] [cursor=pointer]: Doctoralia - Homepage
+          - paragraph [ref=e726]:
+            - text: Doctoralia Brasil Serviços Online e Software Ltda
+            - text: Rua Visconde do Rio Branco, 1488 - 2º andar - Batel
+            - text: 80420-210 Curitiba (Paraná), Brasil
+          - list [ref=e727]:
+            - listitem [ref=e728]:
+              - link "Facebook abre num novo separador" [ref=e729] [cursor=pointer]:
+                - /url: https://www.facebook.com/doctoralia.br/
+                - img [ref=e731]
+                - generic [ref=e733]: Facebook
+                - generic [ref=e734]: abre num novo separador
+            - listitem [ref=e735]:
+              - link "Instagram abre num novo separador" [ref=e736] [cursor=pointer]:
+                - /url: https://www.instagram.com/doctoralia_br/
+                - img [ref=e738]
+                - generic [ref=e740]: Instagram
+                - generic [ref=e741]: abre num novo separador
+            - listitem [ref=e742]:
+              - link "Linkedin abre num novo separador" [ref=e743] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/doctoralia-brasil/
+                - img [ref=e745]
+                - generic [ref=e747]: Linkedin
+                - generic [ref=e748]: abre num novo separador
+            - listitem [ref=e749]:
+              - link "Glassdoor abre num novo separador" [ref=e750] [cursor=pointer]:
+                - /url: https://www.glassdoor.com/Overview/Working-at-DocPlanner-EI_IE1071394.11,21.htm
+                - img [ref=e752]
+                - generic [ref=e754]: Glassdoor
+                - generic [ref=e755]: abre num novo separador
+      - separator [ref=e756]
+      - generic [ref=e757]:
+        - paragraph [ref=e758]:
+          - link "Polska abre num novo separador" [ref=e759] [cursor=pointer]:
+            - /url: https://www.znanylekarz.pl
+            - text: Polska
+            - generic [ref=e760]: abre num novo separador
+          - text: ","
+          - link "Türkiye abre num novo separador" [ref=e761] [cursor=pointer]:
+            - /url: https://www.doktortakvimi.com
+            - text: Türkiye
+            - generic [ref=e762]: abre num novo separador
+          - text: ","
+          - link "España abre num novo separador" [ref=e763] [cursor=pointer]:
+            - /url: https://www.doctoralia.es
+            - text: España
+            - generic [ref=e764]: abre num novo separador
+          - text: ","
+          - link "Italia abre num novo separador" [ref=e765] [cursor=pointer]:
+            - /url: https://www.miodottore.it
+            - text: Italia
+            - generic [ref=e766]: abre num novo separador
+          - text: ","
+          - link "Deutschland abre num novo separador" [ref=e767] [cursor=pointer]:
+            - /url: https://www.jameda.de
+            - text: Deutschland
+            - generic [ref=e768]: abre num novo separador
+          - text: ","
+          - link "Česko abre num novo separador" [ref=e769] [cursor=pointer]:
+            - /url: https://www.znamylekar.cz
+            - text: Česko
+            - generic [ref=e770]: abre num novo separador
+          - text: ","
+          - link "Portugal abre num novo separador" [ref=e771] [cursor=pointer]:
+            - /url: https://www.doctoralia.com.pt
+            - text: Portugal
+            - generic [ref=e772]: abre num novo separador
+          - text: ","
+          - link "México abre num novo separador" [ref=e773] [cursor=pointer]:
+            - /url: https://www.doctoralia.com.mx
+            - text: México
+            - generic [ref=e774]: abre num novo separador
+          - text: ","
+          - link "Chile abre num novo separador" [ref=e775] [cursor=pointer]:
+            - /url: https://www.doctoralia.cl
+            - text: Chile
+            - generic [ref=e776]: abre num novo separador
+          - text: ","
+          - link "Brasil abre num novo separador" [ref=e777] [cursor=pointer]:
+            - /url: https://www.doctoralia.com.br
+            - text: Brasil
+            - generic [ref=e778]: abre num novo separador
+          - text: ","
+          - link "Argentina abre num novo separador" [ref=e779] [cursor=pointer]:
+            - /url: https://www.doctoraliar.com
+            - text: Argentina
+            - generic [ref=e780]: abre num novo separador
+          - text: ","
+          - link "Perú abre num novo separador" [ref=e781] [cursor=pointer]:
+            - /url: https://www.doctoralia.pe
+            - text: Perú
+            - generic [ref=e782]: abre num novo separador
+          - text: ","
+          - link "Colombia abre num novo separador" [ref=e783] [cursor=pointer]:
+            - /url: https://www.doctoralia.co
+            - text: Colombia
+            - generic [ref=e784]: abre num novo separador
+        - paragraph [ref=e785]: www.doctoralia.com.br © 2026 - Agende agora sua consulta
+    - generic [ref=e790]:
+      - img "cookie" [ref=e791]
+      - generic [ref=e792]:
+        - heading "Sua privacidade é importante." [level=3] [ref=e793]
+        - paragraph [ref=e794]:
+          - text: Estamos usando cookies para melhorar sua experiência.
+          - link "Saiba mais" [ref=e795] [cursor=pointer]:
+            - /url: https://www.doctoralia.com.br/privacidade
+          - text: .
+      - button [ref=e797] [cursor=pointer]:
+        - img [ref=e799]

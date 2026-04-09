@@ -1,0 +1,32 @@
+import { useRef, useState } from 'react'
+import { gsap } from 'gsap'
+import { ScrollTrigger } from 'gsap/ScrollTrigger'
+import { useGSAP } from '@gsap/react'
+
+gsap.registerPlugin(ScrollTrigger)
+
+export default function CountUp({ end, duration = 2, prefix = '', suffix = '', className = '' }) {
+  const ref = useRef(null)
+  const [value, setValue] = useState(0)
+
+  useGSAP(() => {
+    const obj = { val: 0 }
+    gsap.to(obj, {
+      val: end,
+      duration,
+      ease: 'power2.out',
+      scrollTrigger: {
+        trigger: ref.current,
+        start: 'top 80%',
+        toggleActions: 'play none none none',
+      },
+      onUpdate: () => setValue(Math.round(obj.val)),
+    })
+  }, { scope: ref, dependencies: [end, duration] })
+
+  return (
+    <span ref={ref} className={className}>
+      {prefix}{value.toLocaleString('pt-BR')}{suffix}
+    </span>
+  )
+}

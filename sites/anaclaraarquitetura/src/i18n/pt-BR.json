@@ -1,0 +1,170 @@
+{
+  "nav": {
+    "home": "Início",
+    "sobre": "Sobre",
+    "servicos": "Serviços",
+    "portfolio": "Portfólio",
+    "diferenciais": "Diferenciais",
+    "contato": "Contato",
+    "cta": "Fale comigo"
+  },
+  "hero": {
+    "title": "Ana Clara",
+    "subtitle": "Arquitetura que nasce da pesquisa.",
+    "description": "Projetos arquitetônicos, interiores, reformas e consultorias em Conselheiro Lafaiete e região.",
+    "cta": "Conheça meu trabalho",
+    "scroll": "Role para explorar"
+  },
+  "about": {
+    "label": "Sobre",
+    "title": "Quem está por trás de cada projeto",
+    "description": "Sou arquiteta e urbanista formada pela UFOP, mestre e doutoranda em Arquitetura e Urbanismo pela UFV. Minha dissertação de mestrado estudou 48 anos de transformação urbana de Conselheiro Lafaiete, entre 1970 e 2018. Essa pesquisa moldou meu olhar: cada projeto que desenho carrega o entendimento profundo do lugar onde será construído.",
+    "description2": "Desde 2020, também atuo como professora substituta no Departamento de Arquitetura e Urbanismo da UFV, o que me mantém em constante atualização e contato com as novas gerações de profissionais.",
+    "imageAlt": "Ana Clara de Souza Pereira, arquiteta e urbanista",
+    "timeline": {
+      "2015": {
+        "title": "Arquitetura e Urbanismo",
+        "institution": "UFOP",
+        "description": "Graduação pela Universidade Federal de Ouro Preto"
+      },
+      "2019": {
+        "title": "Mestrado em Arquitetura",
+        "institution": "UFV",
+        "description": "Dissertação sobre o espaço intraurbano de Conselheiro Lafaiete (1970–2018)"
+      },
+      "2020": {
+        "title": "Docência",
+        "institution": "UFV",
+        "description": "Professora substituta no Departamento de Arquitetura e Urbanismo"
+      },
+      "2024": {
+        "title": "Escritório próprio",
+        "institution": "MEI",
+        "description": "Abertura do escritório em Conselheiro Lafaiete"
+      },
+      "atual": {
+        "title": "Doutorado em andamento",
+        "institution": "UFV",
+        "description": "Planejamento Urbano e Regional"
+      }
+    },
+    "counter": {
+      "prefix": "Estudou",
+      "value": "48",
+      "suffix": "anos de transformação urbana de Conselheiro Lafaiete",
+      "period": "1970 – 2018"
+    }
+  },
+  "services": {
+    "label": "Serviços",
+    "title": "O que posso fazer pelo seu projeto",
+    "cta": "Qual projeto você tem em mente?",
+    "items": {
+      "projetos": {
+        "name": "Projetos Arquitetônicos",
+        "description": "Projetos residenciais e comerciais pensados a partir de pesquisa e análise do contexto urbano, com atenção à funcionalidade, estética e sustentabilidade."
+      },
+      "interiores": {
+        "name": "Design de Interiores",
+        "description": "Ambientes planejados com sensibilidade e rigor técnico, traduzindo a personalidade de cada cliente em espaços que acolhem e inspiram."
+      },
+      "reformas": {
+        "name": "Reformas",
+        "description": "Acompanhamento técnico completo de reformas, desde a concepção até a execução, garantindo qualidade e conformidade com as normas."
+      },
+      "consultorias": {
+        "name": "Consultorias",
+        "description": "Orientação técnica para quem precisa de direcionamento profissional em questões de arquitetura, urbanismo e legislação edilícia."
+      }
+    }
+  },
+  "quote": {
+    "text": "Projetar para uma cidade que você estudou por anos é diferente. Cada traço carrega o entendimento de quem essa cidade foi, e a visão de quem ela pode se tornar.",
+    "author": "Ana Clara de Souza Pereira",
+    "context": "Sobre projetar em Conselheiro Lafaiete"
+  },
+  "portfolio": {
+    "label": "Portfólio",
+    "title": "Projetos que transformam espaços",
+    "cta": "Gostou? Vamos criar o seu",
+    "categories": {
+      "all": "Todos",
+      "residencial": "Residencial",
+      "interiores": "Interiores",
+      "comercial": "Comercial"
+    }
+  },
+  "differentials": {
+    "label": "Diferenciais",
+    "title": "Por que escolher a Ana Clara Arquitetura",
+    "items": {
+      "pesquisa": {
+        "title": "Pesquisa urbana de Conselheiro Lafaiete",
+        "description": "Estudou 48 anos de transformação urbana da cidade. Conhece cada bairro, cada contexto, cada possibilidade.",
+        "stat": "48",
+        "statLabel": "anos de história urbana estudados"
+      },
+      "formacao": {
+        "title": "Formação acadêmica de excelência",
+        "description": "UFOP, mestrado e doutorado na UFV. Uma das poucas arquitetas da região com pesquisa acadêmica ativa.",
+        "stat": "3",
+        "statLabel": "titulações em universidades federais"
+      },
+      "docencia": {
+        "title": "Experiência em docência",
+        "description": "Professora substituta na UFV desde 2020. Quem ensina arquitetura domina cada detalhe do projeto.",
+        "stat": "4",
+        "statLabel": "anos formando novos arquitetos"
+      },
+      "dedicacao": {
+        "title": "Atendimento personalizado",
+        "description": "Escritório próprio com dedicação exclusiva a cada projeto. Sem produção em série, cada cliente recebe atenção total.",
+        "stat": "100",
+        "statLabel": "% de dedicação a cada projeto"
+      }
+    }
+  },
+  "credentials": {
+    "label": "Credenciais",
+    "title": "Formação e registros profissionais",
+    "items": {
+      "ufop": "Graduação em Arquitetura e Urbanismo — UFOP",
+      "ufv": "Mestrado + Doutorado em andamento — UFV",
+      "cau": "Registro no Conselho de Arquitetura e Urbanismo",
+      "docente": "Professora substituta — DAU/UFV",
+      "mei": "MEI Ativa — CNPJ 57.243.413/0001-14"
+    }
+  },
+  "contact": {
+    "label": "Contato",
+    "title": "Vamos transformar seu espaço?",
+    "description": "Entre em contato para conversarmos sobre o seu projeto. A primeira conversa é para entender suas necessidades e sonhos.",
+    "whatsapp_cta": "Fale pelo WhatsApp",
+    "phone": "(31) 98819-4100",
+    "phone_raw": "5531988194100",
+    "instagram": "@anaclaraarquitetura",
+    "location": "Conselheiro Lafaiete, MG",
+    "region": "Atendimento em todo o Alto Paraopeba"
+  },
+  "footer": {
+    "copyright": "2026 Ana Clara Arquitetura. Todos os direitos reservados.",
+    "social": "Redes sociais",
+    "instagram": "Instagram",
+    "linkedin": "LinkedIn",
+    "whatsapp": "WhatsApp",
+    "developer": "Site desenvolvido por Pipeline Studio"
+  },
+  "whatsappFloat": {
+    "label": "Fale pelo WhatsApp",
+    "ariaLabel": "Abrir conversa no WhatsApp"
+  },
+  "lang": {
+    "pt": "Português",
+    "en": "English"
+  },
+  "accessibility": {
+    "skipToContent": "Pular para o conteúdo",
+    "openMenu": "Abrir menu",
+    "closeMenu": "Fechar menu"
+  }
+}

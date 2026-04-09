@@ -1,0 +1,270 @@
+{
+  "current_phase": 7,
+  "lead_id": "ana-clara",
+  "nome": "Ana Clara",
+  "cidade": "Lafaiete",
+  "nicho": "arquiteta",
+  "strategy": "generic",
+  "source": "instagram",
+  "discovered_urls": {
+    "site_url": "",
+    "instagram_username": "anaclaraarquitetura",
+    "facebook_url": "",
+    "google_maps_url": "",
+    "platform_urls": {}
+  },
+  "data_points": [
+    {
+      "category": "presence",
+      "label": "Instagram confirmado",
+      "value": "@anaclaraarquitetura",
+      "detail": {
+        "followers": 796,
+        "following": 815,
+        "posts": 44,
+        "bio": "Arquiteta e Urbanista | Doutoranda | Projetos arquitetonicos, interiores, reformas e consultorias | Lafaiete e regiao - MG",
+        "phone": "31988194100"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:17:25.186284"
+    },
+    {
+      "category": "presence",
+      "label": "LinkedIn encontrado",
+      "value": "Ana Clara Souza - UFV",
+      "detail": {
+        "url": "https://www.linkedin.com/in/ana-clara-souza-2a741bb8/",
+        "title": "Doutoranda em Arquitetura e Urbanismo - UFV"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:17:25.186284"
+    },
+    {
+      "category": "presence",
+      "label": "Escavador encontrado",
+      "value": "Ana Clara de Souza Pereira",
+      "detail": {
+        "url": "https://www.escavador.com/sobre/3234683/ana-clara-de-souza-pereira"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:17:25.186284"
+    },
+    {
+      "category": "history",
+      "label": "Formacao academica",
+      "value": "Arquiteta e Urbanista - UFOP (2015), Mestre em Arq. e Urbanismo - UFV (2019), Doutoranda UFV",
+      "detail": {
+        "graduacao": "UFOP - Jul 2015",
+        "mestrado": "UFV - 2019",
+        "doutorado": "UFV - em andamento",
+        "area": "Planejamento do Espaco Urbano e Regional",
+        "docente": "Professora substituta DAU/UFV desde Mar 2020"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:17:25.186284"
+    },
+    {
+      "category": "identity",
+      "label": "CNPJ encontrado via Serasa",
+      "value": "57.243.413/0001-14",
+      "detail": {
+        "razao_social": "ANA CLARA DE SOUZA PEREIRA - ME",
+        "data_abertura": "2024-09-11",
+        "situacao": "ATIVA",
+        "atividade": "Outras atividades de ensino nao especificadas anteriormente",
+        "cidade": "Conselheiro Lafaiete",
+        "uf": "MG",
+        "porte": "Micro Empresa",
+        "municipio": "Conselheiro Lafaiete"
+      },
+      "source_type": "briefing",
+      "source_name": "BrasilAPI + Serasa",
+      "fetched_at": "2026-04-07T21:17:25.186284"
+    },
+    {
+      "category": "presence",
+      "label": "Website",
+      "value": "Nao possui site",
+      "detail": {
+        "status": "sem_site"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:17:25.186284"
+    },
+    {
+      "category": "contact",
+      "label": "Telefone/WhatsApp",
+      "value": "31988194100",
+      "detail": {
+        "fonte": "bio do Instagram"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:17:25.186284"
+    },
+    {
+      "category": "professional_registry",
+      "label": "CAU (Conselho de Arquitetura e Urbanismo)",
+      "value": "Numero nao encontrado publicamente",
+      "detail": {
+        "nota": "Formada em Arq. e Urbanismo pela UFOP (2015), registro CAU obrigatorio para exercer. Numero nao disponivel online."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (CAU/BR)",
+      "fetched_at": "2026-04-07T21:18:06.254740"
+    },
+    {
+      "category": "website",
+      "label": "Website",
+      "value": "Nao possui site",
+      "detail": {
+        "status": "sem_site"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-07T21:18:21.960213"
+    },
+    {
+      "category": "sales_channels",
+      "label": "ReclameAqui",
+      "value": "Nao encontrado",
+      "detail": {
+        "status": "sem_perfil"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:18:57.092421"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Google Maps",
+      "value": "Nao encontrado",
+      "detail": {
+        "status": "sem_perfil"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:18:57.092421"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Facebook profissional",
+      "value": "Nao encontrado",
+      "detail": {
+        "status": "sem_pagina_profissional",
+        "facebook_pessoal": "https://www.facebook.com/anaclara.souza.397/"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:18:57.092421"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Plataformas de agendamento",
+      "value": "Nao encontrado",
+      "detail": {
+        "status": "sem_plataforma"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:18:57.092421"
+    },
+    {
+      "category": "images",
+      "label": "Foto de perfil Instagram (pendente)",
+      "value": "Instagram og:image nao acessivel via WebFetch (requer JS)",
+      "detail": {
+        "urls": [],
+        "tipo": "profile_pic",
+        "fonte": "Instagram @anaclaraarquitetura",
+        "nota": "Playwright MCP indisponivel. Instagram retorna apenas CSS via WebFetch."
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch (Instagram)",
+      "fetched_at": "2026-04-07T21:20:04.369345"
+    },
+    {
+      "category": "images",
+      "label": "Ensaio profissional (referencia)",
+      "value": "Ensaio no Estudio 60 - Charles Souza Foto (78 fotos)",
+      "detail": {
+        "urls": [],
+        "tipo": "equipe",
+        "fonte": "Charles Souza Foto",
+        "nota": "Fotos de ensaio profissional encontradas, URLs especificas nao extraidas"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:20:04.369345"
+    },
+    {
+      "category": "brand",
+      "label": "Padroes da marca",
+      "value": "Arquiteta academica com tom profissional-educacional, presenca digital minimalista",
+      "detail": {
+        "cores": [
+          "nao identificadas - sem site ou logo acessivel"
+        ],
+        "tom": "profissional, academico",
+        "publico_alvo": "Familias e profissionais em Conselheiro Lafaiete e regiao que buscam projetos arquitetonicos, interiores e reformas",
+        "estilo_visual": "Nao identificado (sem site, imagens nao acessiveis)",
+        "slogan": "Nao identificado"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-07T21:21:37.229601"
+    },
+    {
+      "category": "competitors",
+      "label": "Concorrentes com site",
+      "value": "5+ encontrados",
+      "detail": [
+        "Fabiano Marques Edificacoes - https://www.arquitetas.net.br/sobre/fabiano-marques-edificacoes-conselheiro-lafaiete-mg",
+        "Ana Beatriz Mafia Arquitetura - https://www.facebook.com/anabeatrizmafiaarquitetura/",
+        "Helena Baeta Arquitetura e Urbanismo - listada em guias",
+        "Anna Amelia Granha Arquitetura - listada em guias",
+        "ENGENHARQ Engenharia e Arquitetura - listada em guias"
+      ],
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:21:37.229601"
+    }
+  ],
+  "phases": {
+    "phase_1": {
+      "status": "complete"
+    },
+    "phase_2": {
+      "status": "complete",
+      "result": "7 data_points, 0 URLs de site, Instagram + LinkedIn confirmados"
+    },
+    "phase_3": {
+      "status": "complete",
+      "result": "CNPJ confirmado via BrasilAPI, CAU nao encontrado publicamente"
+    },
+    "phase_4": {
+      "status": "complete",
+      "result": "Sem site - ausencia registrada"
+    },
+    "phase_5": {
+      "status": "complete",
+      "result": "Nenhum canal de venda encontrado. Apenas Instagram e WhatsApp."
+    },
+    "phase_6": {
+      "status": "complete",
+      "result": "Playwright MCP indisponivel (browser fechado). Imagens limitadas ao WebSearch+WebFetch. 0 imagens com URL real capturadas.",
+      "playwright_unavailable": true
+    },
+    "phase_7": {
+      "status": "complete",
+      "result": "Briefing salvo no vendedor.db. Sales score: 10"
+    }
+  },
+  "started_at": "2026-04-07T21:16:04.256434",
+  "completed_at": "2026-04-07T21:21:37.229601"
+}

@@ -1,0 +1,181 @@
+- generic [ref=e3]:
+  - navigation [ref=e4]:
+    - generic [ref=e5]:
+      - link "Marcella Melro" [ref=e6] [cursor=pointer]:
+        - /url: "#"
+        - text: Marcella
+        - generic [ref=e7]: Melro
+      - generic [ref=e8]:
+        - link "Sobre" [ref=e9] [cursor=pointer]:
+          - /url: "#about"
+        - link "Abordagem" [ref=e10] [cursor=pointer]:
+          - /url: "#approach"
+        - link "Diferenciais" [ref=e11] [cursor=pointer]:
+          - /url: "#differentials"
+        - link "Contato" [ref=e12] [cursor=pointer]:
+          - /url: "#contact"
+        - button "Toggle language" [ref=e13] [cursor=pointer]:
+          - generic [ref=e14]: PT
+          - generic [ref=e17]: EN
+        - link "Agendar consulta" [ref=e18] [cursor=pointer]:
+          - /url: https://www.instagram.com/dramarcellamelro
+  - main [ref=e19]:
+    - generic [ref=e25]:
+      - paragraph [ref=e26]: Dra. Marcella Melro
+      - heading "Saude bucal conectada ao todo" [level=1] [ref=e27]:
+        - generic [ref=e28]: Saude
+        - generic [ref=e29]: bucal
+        - generic [ref=e30]: conectada
+        - generic [ref=e31]: ao
+        - generic [ref=e32]: todo
+      - paragraph [ref=e33]: Cirurgia-dentista em Blumenau com abordagem integrativa. Porque seu sorriso conta a historia do seu corpo inteiro.
+      - generic [ref=e34]:
+        - link "Conhecer a abordagem" [ref=e35] [cursor=pointer]:
+          - /url: "#approach"
+        - link "Agendar consulta" [ref=e36] [cursor=pointer]:
+          - /url: https://www.instagram.com/dramarcellamelro
+    - paragraph [ref=e42]:
+      - generic [ref=e43]: Cada
+      - generic [ref=e44]: sorriso
+      - generic [ref=e45]: carrega
+      - generic [ref=e46]: uma
+      - generic [ref=e47]: historia.
+      - generic [ref=e48]: Eu
+      - generic [ref=e49]: quero
+      - generic [ref=e50]: ouvir
+      - generic [ref=e51]: a
+      - generic [ref=e52]: sua.
+    - generic [ref=e55]:
+      - generic [ref=e56]:
+        - generic [ref=e57]: Sobre
+        - heading "Um olhar alem do sorriso" [level=2] [ref=e58]:
+          - generic [ref=e59]: Um
+          - generic [ref=e60]: olhar
+          - generic [ref=e61]: alem
+          - generic [ref=e62]: do
+          - generic [ref=e63]: sorriso
+        - paragraph [ref=e65]: Sou a Dra. Marcella Melro, cirurgia-dentista em Blumenau com uma visao que vai alem dos dentes. Acredito que a saude bucal esta profundamente conectada ao bem-estar do corpo inteiro. Cada paciente que chega ao meu consultorio traz uma historia unica, e meu trabalho comeca pela escuta.
+        - paragraph [ref=e67]: "A odontologia integrativa reconhece que bruxismo, dores na ATM, gengivite e outros problemas bucais frequentemente refletem desequilibrios mais amplos. Minha abordagem considera o paciente como um todo: habitos, emocoes, postura, respiracao e estilo de vida."
+        - paragraph [ref=e69]: Cirurgia-dentista | Blumenau, SC
+      - generic [ref=e74]:
+        - generic [ref=e75]: M
+        - paragraph [ref=e76]: Dra. Marcella Melro
+        - paragraph [ref=e78]: Cirurgia-dentista | Blumenau, SC
+    - generic [ref=e80]:
+      - generic [ref=e81]:
+        - generic [ref=e82]: Abordagem
+        - heading "Quatro pilares da odontologia integrativa" [level=2] [ref=e83]:
+          - generic [ref=e84]: Quatro
+          - generic [ref=e85]: pilares
+          - generic [ref=e86]: da
+          - generic [ref=e87]: odontologia
+          - generic [ref=e88]: integrativa
+      - generic [ref=e89]:
+        - generic [ref=e90]:
+          - img [ref=e92]
+          - heading "Escuta Integrada" [level=3] [ref=e95]
+          - paragraph [ref=e96]: Antes de qualquer procedimento, uma conversa profunda. Entender sua rotina, suas dores, suas preocupacoes. O tratamento comeca no dialogo.
+          - generic [ref=e97]: "01"
+        - generic [ref=e98]:
+          - img [ref=e100]
+          - heading "Tratamento Consciente" [level=3] [ref=e103]
+          - paragraph [ref=e104]: Cada intervencao e pensada com cuidado, priorizando tecnicas minimamente invasivas e materiais biocompativeis que respeitam o seu organismo.
+          - generic [ref=e105]: "02"
+        - generic [ref=e106]:
+          - img [ref=e108]
+          - heading "Prevencao Holistica" [level=3] [ref=e111]
+          - paragraph [ref=e112]: Mais do que tratar problemas, meu foco e evitar que eles aparecam. Orientacao personalizada sobre alimentacao, higiene e habitos que protegem sua saude bucal.
+          - generic [ref=e113]: "03"
+        - generic [ref=e114]:
+          - img [ref=e116]
+          - heading "Estetica Natural" [level=3] [ref=e119]
+          - paragraph [ref=e120]: Resultados esteticos que respeitam a harmonia do seu rosto e a naturalidade do seu sorriso. Nada artificial, tudo em equilibrio.
+          - generic [ref=e121]: "04"
+    - generic [ref=e123]:
+      - generic [ref=e124]:
+        - generic [ref=e125]: Diferenciais
+        - heading "Por que odontologia integrativa?" [level=2] [ref=e126]:
+          - generic [ref=e127]: Por
+          - generic [ref=e128]: que
+          - generic [ref=e129]: odontologia
+          - generic [ref=e130]: integrativa?
+      - generic [ref=e131]:
+        - generic [ref=e133]:
+          - img [ref=e136]
+          - generic [ref=e139]:
+            - text: "01"
+            - heading "Visao do corpo inteiro" [level=3] [ref=e140]
+            - paragraph [ref=e141]: Sua boca nao existe isolada. Problemas bucais podem estar conectados a estresse, postura, respiracao e alimentacao. Eu investigo essas conexoes.
+        - generic [ref=e143]:
+          - img [ref=e146]
+          - generic [ref=e149]:
+            - text: "02"
+            - heading "Atendimento verdadeiramente pessoal" [level=3] [ref=e150]
+            - paragraph [ref=e151]: Sem pressa, sem producao em serie. Cada consulta tem o tempo necessario para voce se sentir ouvido e cuidado.
+        - generic [ref=e153]:
+          - img [ref=e156]
+          - generic [ref=e159]:
+            - text: "03"
+            - heading "Tecnicas gentis e modernas" [level=3] [ref=e160]
+            - paragraph [ref=e161]: Priorizando conforto e bem-estar durante todo o tratamento, com abordagens que minimizam desconforto e respeitam o seu corpo.
+    - paragraph [ref=e164]:
+      - generic [ref=e165]: Vamos
+      - generic [ref=e166]: conversar
+      - generic [ref=e167]: sobre
+      - generic [ref=e168]: voce?
+    - generic [ref=e171]:
+      - generic [ref=e172]:
+        - generic [ref=e173]: Contato
+        - heading "Agende sua consulta" [level=2] [ref=e174]:
+          - generic [ref=e175]: Agende
+          - generic [ref=e176]: sua
+          - generic [ref=e177]: consulta
+        - paragraph [ref=e179]: Entre em contato e comece sua jornada rumo a uma saude bucal integrada e consciente.
+        - generic [ref=e180]:
+          - link "@dramarcellamelro Enviar mensagem no Instagram" [ref=e182] [cursor=pointer]:
+            - /url: https://www.instagram.com/dramarcellamelro
+            - img [ref=e184]
+            - generic [ref=e187]:
+              - paragraph [ref=e188]: "@dramarcellamelro"
+              - paragraph [ref=e189]: Enviar mensagem no Instagram
+          - generic [ref=e191]:
+            - img [ref=e193]
+            - paragraph [ref=e197]: Blumenau, Santa Catarina
+      - generic [ref=e199]:
+        - generic [ref=e200]:
+          - generic [ref=e201]: Seu nome
+          - textbox "Seu nome" [ref=e202]
+        - generic [ref=e203]:
+          - generic [ref=e204]: Seu e-mail
+          - textbox "Seu e-mail" [ref=e205]
+        - generic [ref=e206]:
+          - generic [ref=e207]: Seu telefone
+          - textbox "Seu telefone" [ref=e208]
+        - generic [ref=e209]:
+          - generic [ref=e210]: Como posso ajudar voce?
+          - textbox "Como posso ajudar voce?" [ref=e211]
+        - button "Enviar mensagem" [ref=e212] [cursor=pointer]:
+          - img [ref=e213]
+          - text: Enviar mensagem
+  - contentinfo [ref=e215]:
+    - generic [ref=e216]:
+      - generic [ref=e218]:
+        - generic [ref=e219]:
+          - paragraph [ref=e220]: Marcella Melro
+          - paragraph [ref=e221]: Odontologia integrativa em Blumenau
+        - generic [ref=e222]:
+          - paragraph [ref=e223]: Links
+          - navigation [ref=e224]:
+            - link "Sobre" [ref=e225] [cursor=pointer]:
+              - /url: "#about"
+            - link "Abordagem" [ref=e226] [cursor=pointer]:
+              - /url: "#approach"
+            - link "Contato" [ref=e227] [cursor=pointer]:
+              - /url: "#contact"
+        - generic [ref=e228]:
+          - paragraph [ref=e229]: Redes sociais
+          - link "@dramarcellamelro" [ref=e230] [cursor=pointer]:
+            - /url: https://www.instagram.com/dramarcellamelro
+            - img [ref=e231]
+            - generic [ref=e233]: "@dramarcellamelro"
+      - paragraph [ref=e235]: 2026 Dra. Marcella Melro. Todos os direitos reservados.

@@ -82,12 +82,14 @@ Se encontrar portfolio de fotografo, WebFetch para og:image.
 
 Este metodo captura imagens que WebSearch/WebFetch NAO conseguem porque dependem de JavaScript.
 
-**FERRAMENTAS:** APENAS Playwright MCP:
-- `browser_navigate` — navegar para URL
-- `browser_take_screenshot` — tirar screenshot (VER a pagina)
-- `browser_evaluate` — executar JavaScript no DOM
-- `browser_click` — clicar em elementos
-- `browser_snapshot` — accessibility tree (texto)
+**FERRAMENTAS — Estrategia dual:**
+
+**Para Instagram (precisa stealth):** APENAS Playwright MCP:
+- `browser_navigate`, `browser_take_screenshot`, `browser_evaluate`, `browser_click`, `browser_snapshot`
+
+**Para plataformas normais (iFood, Doctoralia, Rappi, TripAdvisor, Booking):** Chrome DevTools MCP (se disponivel):
+- Vantagem: Network tab revela TODAS as URLs de imagem CDN carregadas, incluindo lazy-loaded e redirects
+- Se Chrome DevTools nao disponivel, usar Playwright normalmente
 
 **NUNCA use claude-in-chrome. NUNCA.**
 
@@ -214,38 +216,69 @@ browser_run_playwright: async (page) => {
 
 ### B.3 Perfil do Instagram (se tem username)
 
-Alem dos posts individuais, navegue tambem no perfil:
+Navegue no perfil para pegar a foto de perfil (og:image) e os LINKS dos posts:
 
 ```
 browser_navigate: https://www.instagram.com/{username}/
 ```
 
-Extraia a foto de perfil em HD e imagens da grid:
+**IMPORTANTE: NAO extraia imagens da grid diretamente.** As imagens renderizadas na grid sao thumbnails 150x150 (parametro `s150x150` na URL) — inutilizaveis para um site.
+
+Em vez disso:
+1. Scroll a grid para carregar TODOS os posts (nao apenas os primeiros visiveis)
+2. Extraia os LINKS dos posts
+3. Navegue em cada post (B.2) para pegar og:image em alta resolucao
+
 ```javascript
+// PASSO 1: Scroll para carregar mais posts
+browser_evaluate: (async () => {
+  let prevCount = 0;
+  for (let i = 0; i < 8; i++) {
+    window.scrollTo(0, document.body.scrollHeight);
+    await new Promise(r => setTimeout(r, 2000));
+    const links = document.querySelectorAll('a[href*="/p/"], a[href*="/reel/"]');
+    if (links.length === prevCount) break;
+    prevCount = links.length;
+  }
+  window.scrollTo(0, 0);
+  return `Loaded ${prevCount} posts`;
+})()
+```
+
+```javascript
+// PASSO 2: Extrair todos os links de posts
 browser_evaluate: (() => {
   const ogImg = document.querySelector('meta[property="og:image"]');
-  const ogDesc = document.querySelector('meta[property="og:description"]');
-
-  // Imagens do CDN na grid
-  const imgs = document.querySelectorAll('img');
-  const cdnUrls = [];
-  imgs.forEach(img => {
-    if (img.src && (img.src.includes('scontent') || img.src.includes('cdninstagram')) && img.naturalWidth > 50) {
-      cdnUrls.push(img.src);
-    }
+  const postLinks = [];
+  document.querySelectorAll('a[href*="/p/"], a[href*="/reel/"]').forEach(a => {
+    postLinks.push(a.href);
   });
-
   return JSON.stringify({
     og_image: ogImg ? ogImg.content : null,
-    og_desc: ogDesc ? (ogDesc.content || '').substring(0, 200) : null,
-    cdn_images: [...new Set(cdnUrls)]
+    post_links: [...new Set(postLinks)]
   });
 })()
 ```
 
+Depois navegue em CADA post_link usando o metodo B.2 para extrair og:image em alta resolucao.
+
+**IMPORTANTE — Imagens com texto sao valiosas:**
+Posts com texto (cardapios, listas de servicos, horarios, promocoes, depoimentos) servem como FONTE DE INFORMACAO para enriquecer o briefing. Ao navegar em cada post:
+- Extraia og:description (contem o caption do post)
+- Se a imagem contem texto visivel, registre no data_point: `"has_text": true`
+- Esses dados serao usados na imersao (site-phase-2) para extrair conteudo real do cliente
+
 ### B.4 Plataformas com JS-rendered content
 
 Para URLs de plataformas encontradas nas fases anteriores ou na Etapa B.1:
+
+**Se Chrome DevTools MCP disponivel (preferido para plataformas normais):**
+1. Navegar para a URL da plataforma via Chrome DevTools
+2. Usar Network tab para capturar TODAS as requests de imagem automaticamente
+3. Filtrar por tipo `image` — captura lazy-loaded, CDN redirects, e imagens que o DOM nao expoe
+4. Vantagem: nao precisa adivinhar seletores CSS — o Network mostra tudo que carregou
+
+**Se usando Playwright (fallback ou se Chrome DevTools indisponivel):**
 
 **iFood:** Navegar na pagina do restaurante e extrair og:image + fotos de pratos
 ```
@@ -278,19 +311,49 @@ Se as ferramentas browser_* nao estiverem disponiveis (MCP desconectado):
 
 ---
 
-## ETAPA C — Validacao & Deduplicacao
+## ETAPA C — Imagens Genericas (Stock MCPs)
 
-### C.1 Validar pertencimento
+Se apos as Etapas A e B o lead tem POUCAS imagens para backgrounds e texturas, complemente com imagens genericas via MCPs de stock:
+
+**MCPs disponiveis:**
+- `mcp__stock-images` — Unsplash + Pexels + Pixabay simultaneamente
+- `mcp__mcp-pexels` — Pexels (alta qualidade)
+- `mcp__pixabay` — Pixabay (fotos + videos)
+- `mcp__freepik` — Freepik (vetores, fotos, PSD)
+
+**Busque pelo conceito, NAO pelo nicho:**
+- Ex: restaurante sofisticado → "dark wood texture elegant", "warm ambient restaurant bokeh"
+- Ex: clinica medica → "clean abstract medical blue", "minimalist wellness texture"
+
+**Valido APENAS para:**
+- ✅ Backgrounds atmosfericos e texturas (wood, marble, abstract, smoke)
+- ✅ Elementos decorativos (patterns, grain, bokeh, light leaks)
+- ✅ Icones e ilustracoes vetoriais (via freepik)
+
+**NUNCA para (REGRA INVIOLAVEL):**
+- ❌ Foto do profissional/dono
+- ❌ Fachada/interior do local
+- ❌ Produtos/pratos do cardapio
+- ❌ Equipe/funcionarios
+- ❌ Logo
+
+Salve como data_points com `source_name: "Stock (Pexels)"` etc., tipo `"background"` ou `"texture"`.
+
+---
+
+## ETAPA D — Validacao & Deduplicacao
+
+### D.1 Validar pertencimento
 Cada imagem DEVE pertencer ao lead correto:
 - Se buscou `"barbeariaancorador" site:instagram.com`, so use se URL contem `/barbeariaancorador/`
 - Se buscou `"Barbearia Ancorador" site:ifood.com.br`, verifique se nome no resultado bate
 - Se Google retornou perfis parecidos mas diferentes, DESCARTE
 
-### C.2 Deduplicar
+### D.2 Deduplicar
 Compare URLs encontradas na Etapa B contra imagens ja coletadas nas fases 2-5 e Etapa A.
 Remova duplicatas (mesma URL ou mesmo dominio+path).
 
-### C.3 Classificar
+### D.3 Classificar
 Para cada imagem, classifique o tipo:
 - `profile_pic` — foto de perfil (Instagram, Facebook)
 - `logo` — logotipo (site, Google, iFood)
@@ -301,7 +364,7 @@ Para cada imagem, classifique o tipo:
 - `post` — post de rede social
 - `outro` — nao classificavel
 
-### C.4 Salvar como data_points
+### D.4 Salvar como data_points
 
 Cada imagem = 1 data_point:
 ```json

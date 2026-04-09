@@ -1,0 +1,110 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "services": "Procedimentos",
+    "results": "Resultados",
+    "testimonials": "Depoimentos",
+    "contact": "Contato",
+    "cta": "Agende sua avaliação"
+  },
+  "hero": {
+    "title": "Esculpindo e elevando a sua beleza",
+    "subtitle": "Harmonização facial com arte e delicadeza em Raul Soares, MG",
+    "cta": "Agende sua avaliação",
+    "cta_secondary": "Conheça os procedimentos",
+    "credential": "CRO-MG 55.104"
+  },
+  "about": {
+    "title": "Dra. Iara Tavares",
+    "subtitle": "Cirurgiã-Dentista especialista em Harmonização Facial",
+    "description": "Com registro CRO-MG 55.104, a Dra. Iara Almeida Tavares trouxe a arte da harmonização facial para Raul Soares e região. Cada procedimento é pensado como uma obra única, respeitando os traços naturais e realçando a beleza que já existe em você.",
+    "philosophy": "Acredito que a harmonização vai além da estética — é sobre devolver confiança, realçar a identidade e cuidar de cada paciente como única.",
+    "credential_label": "Registro profissional",
+    "credential_value": "CRO-MG 55.104",
+    "location_label": "Atendimento",
+    "location_value": "Raul Soares, MG"
+  },
+  "quote1": {
+    "text": "Cada rosto conta uma história. Meu trabalho é realçar a sua."
+  },
+  "services": {
+    "title": "Procedimentos",
+    "subtitle": "Cada tratamento é personalizado para valorizar a sua beleza natural",
+    "cta": "Quer saber qual procedimento é ideal para você?",
+    "items": {
+      "harmonizacao": {
+        "name": "Harmonização Facial",
+        "description": "Tratamento completo que equilibra os traços do rosto, trazendo harmonia e proporção ao perfil. Cada caso é estudado individualmente para um resultado natural e elegante."
+      },
+      "botox": {
+        "name": "Toxina Botulínica",
+        "description": "Suaviza linhas de expressão e rugas dinâmicas com precisão, preservando a naturalidade das expressões faciais. Resultado refinado e rejuvenescedor."
+      },
+      "preenchimento": {
+        "name": "Preenchimento Labial",
+        "description": "Valoriza os lábios com volume e definição personalizados, trazendo harmonia ao rosto e um rejuvenescimento sutil e elegante."
+      },
+      "bioestimuladores": {
+        "name": "Bioestimuladores de Colágeno",
+        "description": "Estimula a produção natural de colágeno, promovendo firmeza e vitalidade à pele de forma gradual e duradoura."
+      },
+      "lipo_papada": {
+        "name": "Lipo de Papada",
+        "description": "Reduz o acúmulo de gordura na região do queixo, definindo o contorno facial e devolvendo a leveza ao perfil."
+      },
+      "rinomodelacao": {
+        "name": "Rinomodelação",
+        "description": "Correção não cirúrgica do nariz com preenchimento, ajustando proporções e suavizando imperfeições sem tempo de recuperação."
+      },
+      "otomodelacao": {
+        "name": "Otomodelação",
+        "description": "Correção da projeção das orelhas sem cirurgia, com resultados imediatos e naturais. Um procedimento simples que transforma a autoestima."
+      }
+    }
+  },
+  "results": {
+    "title": "Resultados",
+    "subtitle": "Transformações reais de pacientes que confiaram na Dra. Iara",
+    "cta": "Comece sua transformação",
+    "disclaimer": "Resultados podem variar de acordo com as características individuais de cada paciente."
+  },
+  "stats": {
+    "followers": "seguidores no Instagram",
+    "procedures": "procedimentos realizados",
+    "experience": "anos de experiência",
+    "satisfaction": "de satisfação"
+  },
+  "quote2": {
+    "text": "A beleza que realço é a que já existe em você."
+  },
+  "contact": {
+    "title": "Agende sua avaliação",
+    "subtitle": "O primeiro passo para a sua transformação começa aqui",
+    "whatsapp_cta": "Fale pelo WhatsApp",
+    "instagram_cta": "Siga no Instagram",
+    "instagram_handle": "@draiaratavares",
+    "location": "Raul Soares, MG",
+    "cro": "CRO-MG 55.104"
+  },
+  "footer": {
+    "copyright": "2026 Dra. Iara Tavares. Todos os direitos reservados.",
+    "cro": "CRO-MG 55.104 - Cirurgiã-Dentista",
+    "social": "Siga nas redes",
+    "cta": "Fale com a Dra. Iara",
+    "disclaimer": "As informações contidas neste site têm caráter informativo. Consulte um profissional para avaliação individual."
+  },
+  "lang": {
+    "pt": "Português",
+    "en": "English"
+  },
+  "whatsapp_float": {
+    "label": "Fale pelo WhatsApp",
+    "aria": "Abrir conversa no WhatsApp"
+  },
+  "accessibility": {
+    "skip_to_content": "Ir para o conteúdo principal",
+    "open_menu": "Abrir menu",
+    "close_menu": "Fechar menu"
+  }
+}

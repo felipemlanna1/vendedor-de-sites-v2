@@ -1,0 +1,133 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Specialties",
+    "credentials": "Credentials",
+    "contact": "Contact",
+    "cta": "Book Appointment"
+  },
+  "hero": {
+    "title": "The professor who trains future dentists takes care of your child's smile today",
+    "subtitle": "Pediatric dentistry with science, warmth, and 25+ years of dedication",
+    "cta": "Book your first appointment",
+    "badge1": "PhD UNESP",
+    "badge2": "Professor FURB",
+    "badge3": "25+ years"
+  },
+  "counters": {
+    "years": "years of experience",
+    "students": "students graduated",
+    "project": "active social project"
+  },
+  "about": {
+    "title": "Prof. Dr. Marcia Goedert de Oliveira",
+    "subtitle": "Caring for those who care",
+    "p1": "For over 25 years, Prof. Dr. Marcia has devoted her career to two complementary purposes: caring for children's smiles in Blumenau and training the dentists who will care for the next generations.",
+    "p2": "Holding a PhD in Pediatric Dentistry from UNESP Araraquara — one of Brazil's most respected dental schools — she brings the same scientific precision to each appointment that she takes to the classroom at FURB, where she is a professor in the Department of Dentistry and in the Master's Program in Public Health.",
+    "p3": "Her integrative approach sees each child as unique: beyond dental treatment, she considers nutrition, habits, breathing, and emotional development. That's why families trust her across generations.",
+    "cta": "Talk to Prof. Marcia"
+  },
+  "services": {
+    "title": "Specialties",
+    "subtitle": "Complete care from the first tooth to an adult smile",
+    "odontopediatria": {
+      "name": "Pediatric Dentistry",
+      "description": "Specialized care from babies to young adults, with a playful and welcoming approach that transforms dental visits into positive experiences.",
+      "detail": "Every child has their own pace. We respect that."
+    },
+    "ortodontia": {
+      "name": "Preventive Orthodontics",
+      "description": "Early intervention to guide bone and tooth growth, preventing bigger issues in the future. Interceptive orthodontics for children and teenagers.",
+      "detail": "Preventing is simpler — and gentler — than correcting."
+    },
+    "invisalign": {
+      "name": "Invisalign",
+      "description": "Clear aligners for teens and adults. Discreet, comfortable treatment with predictable results. Dr. Marcia is a certified Invisalign Doctor.",
+      "detail": "Invisible technology, visible results."
+    },
+    "integrativa": {
+      "name": "Integrative Dentistry",
+      "description": "A comprehensive view of oral health that considers the whole patient: nutrition, breathing, oral habits, and emotional development, beyond dental treatment.",
+      "detail": "The mouth says a lot about overall health."
+    },
+    "pcd": {
+      "name": "Special Needs Care",
+      "description": "Humanized and adapted care for patients with disabilities. Trained team, welcoming environment, and specific protocols for each need.",
+      "detail": "Every smile deserves specialized attention."
+    }
+  },
+  "impact": {
+    "phrase": "Every smile deserves science and warmth"
+  },
+  "timeline": {
+    "title": "A story of dedication",
+    "subtitle": "From university to the clinic, every step built the professional who cares for your child",
+    "items": {
+      "unesp_grad": {
+        "year": "1995",
+        "title": "Dental School",
+        "description": "UNESP Araraquara — one of Brazil's top dental schools"
+      },
+      "mestrado": {
+        "year": "2000",
+        "title": "Master's in Pediatric Dentistry",
+        "description": "UNESP Araraquara — specialization in children's care"
+      },
+      "doutorado": {
+        "year": "2004",
+        "title": "PhD in Pediatric Dentistry",
+        "description": "UNESP Araraquara — the highest academic degree in the field"
+      },
+      "furb": {
+        "year": "2005",
+        "title": "Professor at FURB",
+        "description": "Department of Dentistry and Master's in Public Health — training the next generation"
+      },
+      "furbmovel": {
+        "year": "2010",
+        "title": "FURBmovel Project",
+        "description": "University extension bringing oral health education to children in public schools in Blumenau"
+      },
+      "today": {
+        "year": "Today",
+        "title": "25+ years of experience",
+        "description": "Caring for families in Blumenau with the same passion as the first day"
+      }
+    }
+  },
+  "credentials": {
+    "title": "Education and recognition",
+    "unesp": "PhD from UNESP Araraquara",
+    "furb": "Professor at FURB",
+    "invisalign": "Invisalign Doctor"
+  },
+  "contact": {
+    "title": "Book an appointment",
+    "subtitle": "Located in Vila Formosa, Blumenau",
+    "address": "Rua Hermann Huscher, 113, sala 405, Vila Formosa, Blumenau, SC",
+    "zip": "89023-010",
+    "phone": "(47) 98866-1652",
+    "whatsapp_cta": "Message on WhatsApp",
+    "whatsapp_message": "Hello! I'd like to book an appointment with Prof. Dr. Marcia.",
+    "map_cta": "View on Google Maps",
+    "instagram": "@maisquedentinhos",
+    "final_cta": "Take your child to the one who trains the dentists"
+  },
+  "footer": {
+    "copyright": "2026 Clinica Goedert e Oliveira. All rights reserved.",
+    "tagline": "Integrative Dentistry",
+    "instagram": "Instagram",
+    "whatsapp": "WhatsApp",
+    "privacy": "Privacy Policy"
+  },
+  "lang": {
+    "pt": "Portuguese",
+    "en": "English"
+  },
+  "accessibility": {
+    "skip_to_content": "Skip to content",
+    "open_menu": "Open menu",
+    "close_menu": "Close menu"
+  }
+}

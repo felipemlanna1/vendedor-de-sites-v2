@@ -1,0 +1,139 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e86] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e91]
+        - link "Foto do perfil de _pipelinestudio" [ref=e97] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e102]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e103]
+      - generic [ref=e104]:
+        - link "Configurações" [ref=e107] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e112]
+        - link "Também da Meta" [ref=e115] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e120]
+    - main [ref=e124]:
+      - generic [active] [ref=e125]:
+        - generic [ref=e128]:
+          - generic [ref=e130]:
+            - img
+            - group "Video player" [ref=e137]:
+              - generic [ref=e138]:
+                - button "0 Vídeos do Reels de leilian.o Vídeos do Reels de leilian.o Seguir Vocês sabiam? ah se eu soubesse disso há uns anos…." [ref=e139] [cursor=pointer]:
+                  - slider "Ajustar volume" [ref=e140]:
+                    - button "O áudio está silenciado" [ref=e144]:
+                      - img "O áudio está silenciado" [ref=e145]
+                  - generic [ref=e150]:
+                    - generic [ref=e151]:
+                      - generic [ref=e153]:
+                        - link "Vídeos do Reels de leilian.o" [ref=e154]:
+                          - /url: /leilian.o/reels/
+                          - link "Foto do perfil de leilian.o" [ref=e157]:
+                            - img "Foto do perfil de leilian.o" [ref=e158]
+                        - link "Vídeos do Reels de leilian.o" [ref=e161]:
+                          - /url: /leilian.o/reels/
+                          - generic [ref=e162]: leilian.o
+                      - button "Seguir" [ref=e165]
+                    - button "Vocês sabiam? ah se eu soubesse disso há uns anos…." [ref=e166]:
+                      - generic [ref=e168]:
+                        - generic [ref=e169]: Vocês sabiam? ah se eu soubesse disso há uns anos….
+                        - generic [ref=e170]: … mais
+                - button "Pressionar para reproduzir" [ref=e172] [cursor=pointer]:
+                  - img "Ícone do botão Reproduzir" [ref=e174]
+          - generic [ref=e176]:
+            - generic [ref=e177] [cursor=pointer]:
+              - button "Curtir" [ref=e180]:
+                - img "Curtir" [ref=e183]
+              - button "14" [ref=e185]:
+                - generic [ref=e189]: "14"
+            - button "Comentar 1" [ref=e191] [cursor=pointer]:
+              - generic [ref=e192]:
+                - img "Comentar" [ref=e193]
+                - generic [ref=e198]: "1"
+            - button "Compartilhar" [ref=e200] [cursor=pointer]:
+              - img "Compartilhar" [ref=e201]
+            - button "Salvar" [ref=e206] [cursor=pointer]:
+              - button "Salvar" [ref=e207]:
+                - img "Salvar" [ref=e209]
+            - button "Mais" [ref=e212] [cursor=pointer]:
+              - img "Mais" [ref=e214]
+            - link "Imagem do áudio" [ref=e219] [cursor=pointer]:
+              - /url: /reels/audio/730682555260605/
+              - img "Imagem do áudio" [ref=e222]
+        - generic [ref=e226]:
+          - generic [ref=e228]:
+            - img
+            - group "Video player" [ref=e235]:
+              - generic [ref=e236]:
+                - button "0 Vídeos do Reels de internetempanico Vídeos do Reels de internetempanico Seguir Os CDs chegaram no Brasil em 1985 e mudaram para sempre a forma de ouvir música. Até então, a fita K7 era a queridinha das gerações!" [ref=e237] [cursor=pointer]:
+                  - slider "Ajustar volume" [ref=e238]:
+                    - button "O áudio está silenciado" [ref=e242]:
+                      - img "O áudio está silenciado" [ref=e243]
+                  - generic [ref=e248]:
+                    - generic [ref=e249]:
+                      - generic [ref=e251]:
+                        - link "Vídeos do Reels de internetempanico" [ref=e252]:
+                          - /url: /internetempanico/reels/
+                          - link "Foto do perfil de internetempanico" [ref=e255]:
+                            - img "Foto do perfil de internetempanico" [ref=e256]
+                        - link "Vídeos do Reels de internetempanico" [ref=e259]:
+                          - /url: /internetempanico/reels/
+                          - generic [ref=e260]: internetempanico
+                      - button "Seguir" [ref=e263]
+                    - button "Os CDs chegaram no Brasil em 1985 e mudaram para sempre a forma de ouvir música. Até então, a fita K7 era a queridinha das gerações!" [ref=e264]:
+                      - generic [ref=e266]:
+                        - generic [ref=e267]: Os CDs chegaram no Brasil em 1985 e mudaram para sempre a forma de ouvir música. Até então, a fita K7 era a queridinha das gerações!
+                        - generic [ref=e268]: … mais
+                - button "Pressionar para reproduzir" [ref=e270] [cursor=pointer]:
+                  - img "Ícone do botão Reproduzir" [ref=e272]
+          - generic [ref=e274]:
+            - generic [ref=e275] [cursor=pointer]:
+              - button "Curtir" [ref=e278]:
+                - img "Curtir" [ref=e281]
+              - button "72,1 mil" [ref=e283]:
+                - generic [ref=e287]: 72,1 mil
+            - button "Comentar 1.644" [ref=e289] [cursor=pointer]:
+              - generic [ref=e290]:
+                - img "Comentar" [ref=e291]
+                - generic [ref=e296]: "1.644"
+            - button "Compartilhar" [ref=e298] [cursor=pointer]:
+              - img "Compartilhar" [ref=e299]
+            - button "Salvar" [ref=e304] [cursor=pointer]:
+              - button "Salvar" [ref=e305]:
+                - img "Salvar" [ref=e307]
+            - button "Mais" [ref=e310] [cursor=pointer]:
+              - img "Mais" [ref=e312]
+            - link "Imagem do áudio" [ref=e317] [cursor=pointer]:
+              - /url: /reels/audio/26913544171563295/
+              - img "Imagem do áudio" [ref=e320]
+      - toolbar "Reels navigation controls" [ref=e322]:
+        - button "Navegar para o reel anterior" [ref=e323] [cursor=pointer]:
+          - img [ref=e325]
+        - button "Navegar para o próximo reel" [ref=e327] [cursor=pointer]:
+          - img [ref=e329]
+  - button "Mensagens Mensagens" [ref=e332] [cursor=pointer]:
+    - generic [ref=e334]:
+      - img "Mensagens" [ref=e336]
+      - generic [ref=e339]: Mensagens

@@ -1,0 +1,153 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e88] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e93]
+        - link "Foto do perfil de _pipelinestudio" [ref=e99] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e104]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e105]
+      - generic [ref=e106]:
+        - link "Configurações" [ref=e109] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e114]
+        - link "Também da Meta" [ref=e117] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e122]
+    - generic [ref=e125]:
+      - main [ref=e126]:
+        - generic [ref=e128]:
+          - generic [ref=e129]: Esta página não está disponível.
+          - generic [ref=e131]:
+            - text: O link em que você clicou pode não estar funcionando, ou a página pode ter sido removida.
+            - link "Voltar para o Instagram." [ref=e132] [cursor=pointer]:
+              - /url: /
+      - contentinfo [ref=e133]:
+        - generic [ref=e134]:
+          - generic [ref=e136]:
+            - link "Meta" [ref=e138] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e139]: Meta
+            - link "Sobre" [ref=e141] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e142]: Sobre
+            - link "Blog" [ref=e144] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e145]: Blog
+            - link "Carreiras" [ref=e147] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e148]: Carreiras
+            - link "Ajuda" [ref=e150] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e151]: Ajuda
+            - link "API" [ref=e153] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e154]: API
+            - link "Privacidade" [ref=e156] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e157]: Privacidade
+            - link "Termos" [ref=e159] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e160]: Termos
+            - link "Localizações" [ref=e162] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e163]: Localizações
+            - link "Instagram Lite" [ref=e165] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e166]: Instagram Lite
+            - link "Meta AI" [ref=e168] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e169]: Meta AI
+            - link "Threads" [ref=e171] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e172]: Threads
+            - link "Upload de contatos e não usuários" [ref=e174] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e175]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e177] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e178]: Meta Verified
+          - generic [ref=e179]:
+            - generic [ref=e180] [cursor=pointer]:
+              - generic [ref=e181]:
+                - generic [ref=e182]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e185]
+              - combobox "Trocar idioma de exibição" [ref=e187]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e189]: © 2026 Instagram from Meta
+  - button "Mensagens Mensagens" [ref=e191] [cursor=pointer]:
+    - generic [ref=e193]:
+      - img "Mensagens" [ref=e195]
+      - generic [ref=e198]: Mensagens

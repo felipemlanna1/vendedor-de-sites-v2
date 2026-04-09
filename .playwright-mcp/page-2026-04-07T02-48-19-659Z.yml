@@ -1,0 +1,336 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e88] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e93]
+        - link "Foto do perfil de _pipelinestudio" [ref=e99] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e104]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e105]
+      - generic [ref=e106]:
+        - link "Configurações" [ref=e109] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e114]
+        - link "Também da Meta" [ref=e117] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e122]
+    - generic [ref=e125]:
+      - main [ref=e126]:
+        - generic [ref=e127]:
+          - generic [ref=e129]:
+            - button [ref=e134]:
+              - group [ref=e144]:
+                - slider [ref=e145]:
+                  - button [ref=e149] [cursor=pointer]:
+                    - img [ref=e150]
+                - button [ref=e153] [cursor=pointer]:
+                  - img [ref=e155]
+            - generic [ref=e158]:
+              - generic [ref=e160]:
+                - button "Foto do perfil de isadoravalente.arq" [disabled] [ref=e165]:
+                  - link "Foto do perfil de isadoravalente.arq" [disabled] [ref=e167] [cursor=pointer]:
+                    - img "Foto do perfil de isadoravalente.arq" [ref=e168]
+                - generic [ref=e171]:
+                  - generic [ref=e172]:
+                    - link "isadoravalente.arq" [ref=e180] [cursor=pointer]:
+                      - /url: /isadoravalente.arq/
+                      - generic [ref=e183]: isadoravalente.arq
+                    - link "Bad Bunny • LA MuDANZA" [ref=e187] [cursor=pointer]:
+                      - /url: /reels/audio/870702934995012/
+                      - generic [ref=e190]:
+                        - text: Bad Bunny
+                        - generic [ref=e191]: •
+                        - text: LA MuDANZA
+                  - button "Seguir" [ref=e193] [cursor=pointer]
+                - button "Mais opções" [ref=e196] [cursor=pointer]:
+                  - img "Mais opções" [ref=e199]
+              - separator [ref=e203]
+              - generic [ref=e205]:
+                - generic [ref=e207]:
+                  - link "Foto do perfil de isadoravalente.arq" [ref=e212] [cursor=pointer]:
+                    - /url: /isadoravalente.arq/
+                    - img "Foto do perfil de isadoravalente.arq" [ref=e213]
+                  - generic [ref=e217]:
+                    - generic [ref=e218]:
+                      - link "isadoravalente.arq" [ref=e222] [cursor=pointer]:
+                        - /url: /isadoravalente.arq/
+                        - generic [ref=e225]: isadoravalente.arq
+                      - time [ref=e227]: 4 sem
+                    - generic [ref=e228]:
+                      - text: não é só sobre estética, é também conforto e bem estar
+                      - text: 📸
+                      - link "@luma.reimann" [ref=e229] [cursor=pointer]:
+                        - /url: /luma.reimann/
+                - generic [ref=e230]:
+                  - generic [ref=e231]:
+                    - generic [ref=e233]:
+                      - link "Foto do perfil de odder.ag" [ref=e239] [cursor=pointer]:
+                        - /url: /odder.ag/
+                        - img "Foto do perfil de odder.ag" [ref=e240]
+                      - generic [ref=e241]:
+                        - generic [ref=e242]:
+                          - generic [ref=e244]:
+                            - generic [ref=e245]:
+                              - link "odder.ag" [ref=e250] [cursor=pointer]:
+                                - /url: /odder.ag/
+                                - generic [ref=e253]: odder.ag
+                              - link "4 sem" [ref=e255] [cursor=pointer]:
+                                - /url: /p/DVb5EblAd1_/c/17901306618388259/
+                                - time [ref=e256]: 4 sem
+                            - generic [ref=e258]: nem da pra acreditar que aquele era o antes 😮‍💨
+                          - generic [ref=e259]:
+                            - button "1 curtida" [ref=e260] [cursor=pointer]:
+                              - generic [ref=e262]: 1 curtida
+                            - button "Responder" [ref=e263] [cursor=pointer]:
+                              - generic [ref=e265]: Responder
+                        - button "Curtir" [ref=e270] [cursor=pointer]:
+                          - img "Curtir" [ref=e273]
+                    - button "Ver todas as 1 respostas" [ref=e276] [cursor=pointer]:
+                      - generic [ref=e279]: Ver todas as 1 respostas
+                  - generic [ref=e282]:
+                    - link "Foto do perfil de orca.empreendimentos" [ref=e288] [cursor=pointer]:
+                      - /url: /orca.empreendimentos/
+                      - img "Foto do perfil de orca.empreendimentos" [ref=e289]
+                    - generic [ref=e290]:
+                      - generic [ref=e291]:
+                        - generic [ref=e293]:
+                          - generic [ref=e294]:
+                            - link "orca.empreendimentos" [ref=e299] [cursor=pointer]:
+                              - /url: /orca.empreendimentos/
+                              - generic [ref=e302]: orca.empreendimentos
+                            - link "4 sem" [ref=e304] [cursor=pointer]:
+                              - /url: /p/DVb5EblAd1_/c/17876337495416785/
+                              - time [ref=e305]: 4 sem
+                          - generic [ref=e307]: 👏👏
+                        - generic [ref=e308]:
+                          - button "1 curtida" [ref=e309] [cursor=pointer]:
+                            - generic [ref=e311]: 1 curtida
+                          - button "Responder" [ref=e312] [cursor=pointer]:
+                            - generic [ref=e314]: Responder
+                      - button "Curtir" [ref=e319] [cursor=pointer]:
+                        - img "Curtir" [ref=e322]
+                  - generic [ref=e326]:
+                    - link "Foto do perfil de luma.reimann" [ref=e332] [cursor=pointer]:
+                      - /url: /luma.reimann/
+                      - img "Foto do perfil de luma.reimann" [ref=e333]
+                    - generic [ref=e334]:
+                      - generic [ref=e335]:
+                        - generic [ref=e337]:
+                          - generic [ref=e338]:
+                            - link "luma.reimann" [ref=e343] [cursor=pointer]:
+                              - /url: /luma.reimann/
+                              - generic [ref=e346]: luma.reimann
+                            - link "4 sem" [ref=e348] [cursor=pointer]:
+                              - /url: /p/DVb5EblAd1_/c/17876796498508082/
+                              - time [ref=e349]: 4 sem
+                          - generic [ref=e351]: 😍😍😍😍😍😍
+                        - generic [ref=e352]:
+                          - button "1 curtida" [ref=e353] [cursor=pointer]:
+                            - generic [ref=e355]: 1 curtida
+                          - button "Responder" [ref=e356] [cursor=pointer]:
+                            - generic [ref=e358]: Responder
+                      - button "Curtir" [ref=e363] [cursor=pointer]:
+                        - img "Curtir" [ref=e366]
+              - generic [ref=e368]:
+                - generic [ref=e369]:
+                  - generic [ref=e370]:
+                    - button "Curtir" [ref=e373] [cursor=pointer]:
+                      - img "Curtir" [ref=e376]
+                    - button "106" [ref=e378] [cursor=pointer]
+                    - button "Comentar" [ref=e380] [cursor=pointer]:
+                      - img "Comentar" [ref=e382]
+                    - button "4" [ref=e384] [cursor=pointer]
+                    - button "Compartilhar" [ref=e385] [cursor=pointer]:
+                      - img "Compartilhar" [ref=e386]
+                  - button "Salvar" [ref=e391] [cursor=pointer]:
+                    - button "Salvar" [ref=e392]:
+                      - img "Salvar" [ref=e394]
+                - link "5 de março" [ref=e398] [cursor=pointer]:
+                  - /url: /isadoravalente.arq/reel/DVb5EblAd1_/
+                  - time [ref=e400]: 5 de março
+              - generic [ref=e403]:
+                - link [ref=e404]
+                - generic [ref=e406]:
+                  - button "Emoji" [ref=e408] [cursor=pointer]:
+                    - img "Emoji" [ref=e410]
+                  - textbox "Adicione um comentário..." [ref=e412]
+          - separator [ref=e414]
+          - generic [ref=e415]:
+            - generic [ref=e417]:
+              - text: Mais posts de
+              - link "isadoravalente.arq" [ref=e418] [cursor=pointer]:
+                - /url: /isadoravalente.arq/
+            - generic [ref=e421]:
+              - generic [ref=e422]:
+                - link "se você é novo por aqui, bem-vindo 🖤 se você já é antigo por aqui, me conta um pouquinho quem é a isadora pra você? 👀😂 Carrossel" [ref=e424] [cursor=pointer]:
+                  - /url: /isadoravalente.arq/p/CupB9acMwgo/
+                  - img "se você é novo por aqui, bem-vindo 🖤 se você já é antigo por aqui, me conta um pouquinho quem é a isadora pra você? 👀😂" [ref=e427]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - 'link "“isa quanto vai sair essa reforma?” é a pergunta que mais ouço! e eu sempre respondo: depende! depende de qual sua urgência, quanto você quer investir (assim listamos prioridades), quais suas necessidades, seus gostos… e por ai vai! Você já passou por alguma reforma? tomou aquele susto com o preço do mercado? 😂 me conta nos comentários Carrossel" [ref=e430] [cursor=pointer]':
+                  - /url: /isadoravalente.arq/p/CuE5diEOOIU/
+                  - 'img "“isa quanto vai sair essa reforma?” é a pergunta que mais ouço! e eu sempre respondo: depende! depende de qual sua urgência, quanto você quer investir (assim listamos prioridades), quais suas necessidades, seus gostos… e por ai vai! Você já passou por alguma reforma? tomou aquele susto com o preço do mercado? 😂 me conta nos comentários" [ref=e433]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - link "@odder.ag Clipe" [ref=e436] [cursor=pointer]:
+                  - /url: /isadoravalente.arq/reel/DWzfES3gWsM/
+                  - img "@odder.ag" [ref=e439]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+              - generic [ref=e441]:
+                - link "uma tarde na @portobelloshop.florianopolis para conhecer os lançamentos que estão acontecendo na @exporevestir_oficial Clipe" [ref=e443] [cursor=pointer]:
+                  - /url: /isadoravalente.arq/reel/DVzZ-hgjfnQ/
+                  - img "uma tarde na @portobelloshop.florianopolis para conhecer os lançamentos que estão acontecendo na @exporevestir_oficial" [ref=e446]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - link "já pensou que a decor do seu escritório pode ser composta por seus produtos ou produtos dos seus clientes? por aqui, o destaque são os filmes da @imagemfilmes que trazem cor e história pra equipe da @odder.ag 📸 @luma.reimann Carrossel" [ref=e449] [cursor=pointer]:
+                  - /url: /isadoravalente.arq/p/DVt7-GjgfC8/
+                  - img "já pensou que a decor do seu escritório pode ser composta por seus produtos ou produtos dos seus clientes? por aqui, o destaque são os filmes da @imagemfilmes que trazem cor e história pra equipe da @odder.ag 📸 @luma.reimann" [ref=e452]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - link "antes x depois Banheiro completamente reformado, com destaque para o revestimento gouache da @portobello que amamos! Um outro ponto legal desse projeto é o banco criado dentro do box em quartzo com bordas arredondadas. Carrossel" [ref=e455] [cursor=pointer]:
+                  - /url: /isadoravalente.arq/p/DVJlVATDd67/
+                  - img "antes x depois Banheiro completamente reformado, com destaque para o revestimento gouache da @portobello que amamos! Um outro ponto legal desse projeto é o banco criado dentro do box em quartzo com bordas arredondadas." [ref=e458]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+      - contentinfo [ref=e460]:
+        - generic [ref=e461]:
+          - generic [ref=e463]:
+            - link "Meta" [ref=e465] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e466]: Meta
+            - link "Sobre" [ref=e468] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e469]: Sobre
+            - link "Blog" [ref=e471] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e472]: Blog
+            - link "Carreiras" [ref=e474] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e475]: Carreiras
+            - link "Ajuda" [ref=e477] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e478]: Ajuda
+            - link "API" [ref=e480] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e481]: API
+            - link "Privacidade" [ref=e483] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e484]: Privacidade
+            - link "Termos" [ref=e486] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e487]: Termos
+            - link "Localizações" [ref=e489] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e490]: Localizações
+            - link "Instagram Lite" [ref=e492] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e493]: Instagram Lite
+            - link "Meta AI" [ref=e495] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e496]: Meta AI
+            - link "Threads" [ref=e498] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e499]: Threads
+            - link "Upload de contatos e não usuários" [ref=e501] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e502]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e504] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e505]: Meta Verified
+          - generic [ref=e506]:
+            - generic [ref=e507] [cursor=pointer]:
+              - generic [ref=e508]:
+                - generic [ref=e509]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e512]
+              - combobox "Trocar idioma de exibição" [ref=e514]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e516]: © 2026 Instagram from Meta
+  - button "Mensagens Mensagens" [ref=e518] [cursor=pointer]:
+    - generic [ref=e520]:
+      - img "Mensagens" [ref=e522]
+      - generic [ref=e525]: Mensagens

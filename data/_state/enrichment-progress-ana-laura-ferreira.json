@@ -1,0 +1,264 @@
+{
+  "current_phase": 7,
+  "lead_id": "ana-laura-ferreira",
+  "nome": "Ana Laura Ferreira",
+  "cidade": "MG",
+  "nicho": "arquiteta",
+  "strategy": "generic",
+  "source": "instagram",
+  "discovered_urls": {
+    "site_url": "",
+    "instagram_username": "analauraferreira_",
+    "facebook_url": "",
+    "google_maps_url": "",
+    "platform_urls": {}
+  },
+  "data_points": [
+    {
+      "category": "presence",
+      "label": "Instagram confirmado",
+      "value": "@analauraferreira_",
+      "detail": {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/analauraferreira_/",
+        "seguidores": 1436,
+        "posts": 57,
+        "bio": "Arquiteta e Urbanista, MG",
+        "link_bio": "nenhum"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:17:21.167409"
+    },
+    {
+      "category": "presence",
+      "label": "LinkedIn (possivel)",
+      "value": "https://www.linkedin.com/in/ana-laura-ferreira-a52a22170/",
+      "detail": {
+        "platform": "linkedin",
+        "nota": "Perfil AmorSaude Brasil - pode nao ser a mesma pessoa"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:17:21.167409"
+    },
+    {
+      "category": "presence",
+      "label": "Site oficial",
+      "value": "Nao encontrado",
+      "detail": {
+        "status": "sem_site"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:17:21.167409"
+    },
+    {
+      "category": "presence",
+      "label": "Facebook",
+      "value": "Nao encontrado",
+      "detail": {
+        "status": "nao_encontrado"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:17:21.167409"
+    },
+    {
+      "category": "presence",
+      "label": "Google Maps",
+      "value": "Nao encontrado",
+      "detail": {
+        "status": "nao_encontrado"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:17:21.167409"
+    },
+    {
+      "category": "reviews",
+      "label": "Avaliacoes",
+      "value": "Nenhuma avaliacao encontrada",
+      "detail": {
+        "status": "nao_encontrado"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:17:21.167409"
+    },
+    {
+      "category": "history",
+      "label": "Background profissional",
+      "value": "Arquiteta e Urbanista em MG, experiencia com SketchUp, projetos corporativos, estagio CEMIG",
+      "detail": {
+        "formacao": "Arquitetura e Urbanismo",
+        "habilidades": [
+          "SketchUp",
+          "3D models",
+          "as-built",
+          "projetos corporativos"
+        ],
+        "experiencia_previa": "Estagio CEMIG, Manserv"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (ZoomInfo)",
+      "fetched_at": "2026-04-07T21:17:21.167409"
+    },
+    {
+      "category": "identity",
+      "label": "CNPJ",
+      "value": "Nao encontrado",
+      "detail": {
+        "status": "nao_encontrado",
+        "nota": "CNPJs encontrados no ConsultaSocio sao de homonimas em SP, nao da arquiteta de MG"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch + ConsultaSocio",
+      "fetched_at": "2026-04-07T21:18:02.190674"
+    },
+    {
+      "category": "professional_registry",
+      "label": "CAU (Conselho de Arquitetura e Urbanismo)",
+      "value": "Nao encontrado online",
+      "detail": {
+        "status": "nao_encontrado",
+        "nota": "Registro CAU nao localizado via busca web. Necessario consultar portal CAU/BR diretamente."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:18:02.190674"
+    },
+    {
+      "category": "website",
+      "label": "Website",
+      "value": "Nao possui site",
+      "detail": {
+        "status": "sem_site"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-07T21:18:14.484539"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Reclame Aqui",
+      "value": "Nao encontrado",
+      "detail": {
+        "status": "nao_encontrado"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:18:49.143085"
+    },
+    {
+      "category": "sales_channels",
+      "label": "ArchDaily",
+      "value": "Nao encontrado",
+      "detail": {
+        "status": "nao_encontrado"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:18:49.143085"
+    },
+    {
+      "category": "sales_channels",
+      "label": "CasaCor / VFreiMagazine",
+      "value": "Nao encontrado",
+      "detail": {
+        "status": "nao_encontrado"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:18:49.143085"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Portfolio online",
+      "value": "Nao encontrado",
+      "detail": {
+        "status": "nao_encontrado",
+        "nota": "Sem portfolio, sem site, sem plataformas de arquitetura"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:18:49.143085"
+    },
+    {
+      "category": "images",
+      "label": "Imagens coletadas",
+      "value": "Nenhuma imagem capturada",
+      "detail": {
+        "playwright_unavailable": true,
+        "websearch_images": 0,
+        "playwright_images": 0,
+        "nota": "Playwright MCP desconectado. WebSearch nao retornou URLs de imagem diretas. Instagram WebFetch nao retorna og:image (precisa JS render). Sem site, sem plataformas, sem fotos publicas indexadas."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch + Playwright (indisponivel)",
+      "fetched_at": "2026-04-07T21:19:44.541967"
+    },
+    {
+      "category": "brand",
+      "label": "Padroes da marca",
+      "value": "Arquiteta urbanista jovem, presenca minimalista apenas no Instagram",
+      "detail": {
+        "cores": [
+          "nao identificado - sem site/logo"
+        ],
+        "tom": "profissional, discreto",
+        "publico_alvo": "Clientes residenciais e corporativos em MG que buscam projetos de arquitetura",
+        "estilo_visual": "nao identificado - apenas Instagram com 57 posts",
+        "slogan": "nao identificado"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-07T21:21:33.611340"
+    },
+    {
+      "category": "competitors",
+      "label": "Concorrentes com site",
+      "value": "3+ encontrados",
+      "detail": [
+        "Sofia Burin Leonardos - https://www.sofiaburin.com/",
+        "MG Arquitetura - https://www.instagram.com/mg.arquitetura/",
+        "MILET Arquitetura e Urbanismo - via Vobi",
+        "Brenda Fiuza Arquiteta - portfolio online"
+      ],
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:21:33.611340"
+    }
+  ],
+  "phases": {
+    "phase_1": {
+      "status": "complete"
+    },
+    "phase_2": {
+      "status": "complete",
+      "result": "0 URLs de site, 7 data_points"
+    },
+    "phase_3": {
+      "status": "complete",
+      "result": "CNPJ nao encontrado, CAU nao encontrado online"
+    },
+    "phase_4": {
+      "status": "complete",
+      "result": "Sem site"
+    },
+    "phase_5": {
+      "status": "complete",
+      "result": "Nenhum canal de venda encontrado"
+    },
+    "phase_6": {
+      "status": "complete",
+      "result": "0 imagens capturadas - Playwright indisponivel"
+    },
+    "phase_7": {
+      "status": "complete",
+      "result": "Briefing salvo. Sales score: 6/10"
+    }
+  },
+  "started_at": "2026-04-07T21:16:17.573854",
+  "completed_at": "2026-04-07T21:21:33.611340"
+}

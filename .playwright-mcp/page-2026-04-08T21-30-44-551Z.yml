@@ -1,0 +1,359 @@
+- generic [ref=e2]:
+  - generic:
+    - generic:
+      - img
+    - generic:
+      - img
+    - generic:
+      - img
+    - generic:
+      - img
+    - generic:
+      - img
+    - generic:
+      - img
+    - generic:
+      - img
+    - generic:
+      - img
+    - generic:
+      - img
+    - generic:
+      - img
+  - link "Pular para o conteúdo" [ref=e3]:
+    - /url: "#main-content"
+  - navigation [ref=e4]:
+    - generic [ref=e5]:
+      - link "A Fada do Dente" [ref=e6]:
+        - /url: "#"
+        - img [ref=e7]
+        - generic [ref=e9]: A Fada do Dente
+      - generic [ref=e10]:
+        - link "Sobre" [ref=e11]:
+          - /url: "#sobre"
+        - link "Serviços" [ref=e12]:
+          - /url: "#servicos"
+        - link "Diferenciais" [ref=e13]:
+          - /url: "#diferenciais"
+        - link "Depoimentos" [ref=e14]:
+          - /url: "#depoimentos"
+        - link "Contato" [ref=e15]:
+          - /url: "#contato"
+      - generic [ref=e16]:
+        - button "Switch to English" [ref=e17]:
+          - generic [ref=e18]: PT
+          - generic [ref=e19]: /
+          - generic [ref=e20]: EN
+        - link "Agende a Visita Mágica" [ref=e22]:
+          - /url: https://wa.me/5534999999999?text=Ol%C3%A1!%20Gostaria%20de%20agendar%20uma%20consulta%20com%20a%20Fada%20do%20Dente.
+  - main [ref=e23]:
+    - generic [ref=e26]:
+      - generic [ref=e27]:
+        - generic [ref=e28]: CRO MG 63888
+        - heading "Onde cada sorriso nasce com um toque de magia" [level=1] [ref=e30]:
+          - generic [ref=e31]: Onde
+          - generic [ref=e32]: cada
+          - generic [ref=e33]: sorriso
+          - generic [ref=e34]: nasce
+          - generic [ref=e35]: com
+          - generic [ref=e36]: um
+          - generic [ref=e37]: toque
+          - generic [ref=e38]: de
+          - generic [ref=e39]: magia
+        - paragraph [ref=e40]: Odontopediatria com encantamento no Triângulo Mineiro. A Dra. Bianca transforma o medo do dentista em uma aventura mágica para o seu filho.
+        - link "Agende a primeira visita mágica" [ref=e42]:
+          - /url: https://wa.me/5534999999999?text=Ol%C3%A1!%20Gostaria%20de%20agendar%20uma%20consulta%20com%20a%20Fada%20do%20Dente.
+      - generic [ref=e43]:
+        - img [ref=e44]
+        - img "Dra. Bianca Ribas Samartin - Odontopediatria com encantamento" [ref=e64]
+    - generic [ref=e70]:
+      - img [ref=e71]
+      - img [ref=e74]
+      - generic [ref=e77]:
+        - img [ref=e78]
+        - img [ref=e82]
+        - paragraph [ref=e86]: Porque o primeiro dentista não precisa dar medo
+    - generic [ref=e91]:
+      - generic [ref=e93]:
+        - img "Dra. Bianca Ribas Samartin em seu consultório odontopediátrico" [ref=e95]
+        - generic [ref=e96]:
+          - img [ref=e97]
+          - generic [ref=e100]: CRO MG 63888 — Odontopediatra
+      - generic [ref=e101]:
+        - heading "A história da Fada" [level=2] [ref=e102]:
+          - generic [ref=e103]: A
+          - generic [ref=e104]: história
+          - generic [ref=e105]: da
+          - generic [ref=e106]: Fada
+        - paragraph [ref=e108]: Sou a Dra. Bianca Ribas Samartin, a Fada do Dente. Formada em Odontologia pela Universidade de Uberaba (UNIUBE), escolhi a Odontopediatria porque acredito que o primeiro contato com o dentista pode ser mágico. Aqui, cada criança é recebida num ambiente lúdico e acolhedor, onde o consultório se transforma num mundo encantado.
+        - paragraph [ref=e110]: Minha missão é cuidar do sorriso do seu filho com carinho, técnica e muita magia — para que ele cresça amando cuidar dos dentes.
+        - generic [ref=e112]:
+          - generic [ref=e113]:
+            - img [ref=e114]
+            - generic [ref=e117]: Universidade de Uberaba (UNIUBE)
+          - generic [ref=e118]:
+            - img [ref=e119]
+            - generic [ref=e121]: Especialista em Odontopediatria
+        - link "Conheça nosso espaço" [ref=e124]:
+          - /url: https://wa.me/5534999999999?text=Ol%C3%A1!%20Gostaria%20de%20agendar%20uma%20consulta%20com%20a%20Fada%20do%20Dente.
+    - generic [ref=e128]:
+      - generic [ref=e129]:
+        - heading "Os feitiços" [level=2] [ref=e130]:
+          - generic [ref=e131]: Os
+          - generic [ref=e132]: feitiços
+        - paragraph [ref=e134]: Cada sorriso merece um cuidado especial
+      - generic [ref=e135]:
+        - generic [ref=e138]:
+          - img [ref=e140]
+          - heading "Primeira Visita Mágica" [level=3] [ref=e143]
+          - paragraph [ref=e144]: "O primeiro encontro com a Fada do Dente: adaptação, conhecer o consultório encantado e criar um vínculo de confiança com a criança."
+        - generic [ref=e147]:
+          - img [ref=e149]
+          - heading "Prevenção Encantada" [level=3] [ref=e151]
+          - paragraph [ref=e152]: Aplicação de flúor, selantes e orientações de higiene bucal de um jeito lúdico e divertido que as crianças adoram.
+        - generic [ref=e155]:
+          - img [ref=e157]
+          - heading "Tratamentos com Carinho" [level=3] [ref=e159]
+          - paragraph [ref=e160]: Restaurações, tratamento de cárie e acompanhamento do desenvolvimento dental, sempre com técnicas gentis e acolhedoras.
+        - generic [ref=e163]:
+          - img [ref=e165]
+          - heading "Urgências Dentárias" [level=3] [ref=e167]
+          - paragraph [ref=e168]: Traumas, dores e emergências odontológicas infantis com atendimento humanizado e rápido para acalmar pais e filhos.
+      - link "Descubra qual magia o sorriso do seu filho precisa" [ref=e171]:
+        - /url: https://wa.me/5534999999999?text=Ol%C3%A1!%20Gostaria%20de%20agendar%20uma%20consulta%20com%20a%20Fada%20do%20Dente.
+    - generic [ref=e174]:
+      - generic [ref=e177]:
+        - generic [ref=e179]: "+0"
+        - paragraph [ref=e180]: Sorrisinhos cuidados
+      - generic [ref=e183]:
+        - generic [ref=e184]: "0"
+        - paragraph [ref=e185]: Anos de experiência
+      - generic [ref=e188]:
+        - generic [ref=e190]: "+0"
+        - paragraph [ref=e191]: Famílias atendidas
+      - generic [ref=e194]:
+        - generic [ref=e196]: 0/5
+        - paragraph [ref=e197]: Estrelas de avaliação
+    - generic [ref=e201]:
+      - heading "Por que a Fada?" [level=2] [ref=e203]:
+        - generic [ref=e204]: Por
+        - generic [ref=e205]: que
+        - generic [ref=e206]: a
+        - generic [ref=e207]: Fada?
+      - generic [ref=e208]:
+        - generic [ref=e211]:
+          - img [ref=e213]
+          - generic [ref=e215]:
+            - heading "Ambiente Lúdico" [level=3] [ref=e216]
+            - paragraph [ref=e217]: Consultório decorado como um mundo encantado, onde cada criança se sente segura e à vontade.
+        - generic [ref=e220]:
+          - img [ref=e222]
+          - generic [ref=e225]:
+            - heading "Sem Medo" [level=3] [ref=e226]
+            - paragraph [ref=e227]: Técnicas de manejo comportamental que transformam a consulta numa experiência positiva e divertida.
+        - generic [ref=e230]:
+          - img [ref=e232]
+          - generic [ref=e234]:
+            - heading "Especialista em Crianças" [level=3] [ref=e235]
+            - paragraph [ref=e236]: Formação específica em Odontopediatria — cuidado técnico e emocional sob medida para cada faixa etária.
+        - generic [ref=e239]:
+          - img [ref=e241]
+          - generic [ref=e243]:
+            - heading "Triângulo Mineiro" [level=3] [ref=e244]
+            - paragraph [ref=e245]: Atendimento na região do Triângulo Mineiro, com fácil acesso e estacionamento.
+        - generic [ref=e248]:
+          - img [ref=e250]
+          - generic [ref=e253]:
+            - heading "CRO MG 63888" [level=3] [ref=e254]
+            - paragraph [ref=e255]: Registro profissional ativo no Conselho Regional de Odontologia de Minas Gerais.
+        - generic [ref=e258]:
+          - img [ref=e260]
+          - generic [ref=e262]:
+            - heading "Atendimento Humanizado" [level=3] [ref=e263]
+            - paragraph [ref=e264]: Cada família recebe atenção individualizada, do primeiro contato ao acompanhamento contínuo.
+    - generic [ref=e268]:
+      - heading "O que as mães dizem" [level=2] [ref=e270]:
+        - generic [ref=e271]: O
+        - generic [ref=e272]: que
+        - generic [ref=e273]: as
+        - generic [ref=e274]: mães
+        - generic [ref=e275]: dizem
+      - generic [ref=e278]:
+        - generic [ref=e279]:
+          - generic [ref=e280]:
+            - img [ref=e281]
+            - img [ref=e283]
+            - img [ref=e285]
+            - img [ref=e287]
+            - img [ref=e289]
+          - paragraph [ref=e291]: “Minha filha tinha pavor de dentista e agora pede para voltar! A Dra. Bianca é incrível com crianças.”
+          - generic [ref=e292]:
+            - paragraph [ref=e293]: Camila R.
+            - paragraph [ref=e294]: Mãe da Sofia, 5 anos
+        - generic [ref=e295]:
+          - generic [ref=e296]:
+            - img [ref=e297]
+            - img [ref=e299]
+            - img [ref=e301]
+            - img [ref=e303]
+            - img [ref=e305]
+          - paragraph [ref=e307]: “O consultório é encantador, parece um mundo de faz de conta. Meu filho ama ir nas consultas.”
+          - generic [ref=e308]:
+            - paragraph [ref=e309]: Fernanda M.
+            - paragraph [ref=e310]: Mãe do Pedro, 3 anos
+        - generic [ref=e311]:
+          - generic [ref=e312]:
+            - img [ref=e313]
+            - img [ref=e315]
+            - img [ref=e317]
+            - img [ref=e319]
+            - img [ref=e321]
+          - paragraph [ref=e323]: “Profissional dedicada e super atenciosa. Explica tudo com calma e as crianças confiam nela de verdade.”
+          - generic [ref=e324]:
+            - paragraph [ref=e325]: Juliana S.
+            - paragraph [ref=e326]: Mãe da Laura, 7 anos
+        - generic [ref=e327]:
+          - generic [ref=e328]:
+            - img [ref=e329]
+            - img [ref=e331]
+            - img [ref=e333]
+            - img [ref=e335]
+            - img [ref=e337]
+          - paragraph [ref=e339]: “Minha filha tinha pavor de dentista e agora pede para voltar! A Dra. Bianca é incrível com crianças.”
+          - generic [ref=e340]:
+            - paragraph [ref=e341]: Camila R.
+            - paragraph [ref=e342]: Mãe da Sofia, 5 anos
+        - generic [ref=e343]:
+          - generic [ref=e344]:
+            - img [ref=e345]
+            - img [ref=e347]
+            - img [ref=e349]
+            - img [ref=e351]
+            - img [ref=e353]
+          - paragraph [ref=e355]: “O consultório é encantador, parece um mundo de faz de conta. Meu filho ama ir nas consultas.”
+          - generic [ref=e356]:
+            - paragraph [ref=e357]: Fernanda M.
+            - paragraph [ref=e358]: Mãe do Pedro, 3 anos
+        - generic [ref=e359]:
+          - generic [ref=e360]:
+            - img [ref=e361]
+            - img [ref=e363]
+            - img [ref=e365]
+            - img [ref=e367]
+            - img [ref=e369]
+          - paragraph [ref=e371]: “Profissional dedicada e super atenciosa. Explica tudo com calma e as crianças confiam nela de verdade.”
+          - generic [ref=e372]:
+            - paragraph [ref=e373]: Juliana S.
+            - paragraph [ref=e374]: Mãe da Laura, 7 anos
+      - generic [ref=e377]:
+        - generic [ref=e378]:
+          - generic [ref=e379]:
+            - img [ref=e380]
+            - img [ref=e382]
+            - img [ref=e384]
+            - img [ref=e386]
+            - img [ref=e388]
+          - paragraph [ref=e390]: “A Fada do Dente transformou a experiência do dentista para toda a nossa família. Recomendo de olhos fechados!”
+          - generic [ref=e391]:
+            - paragraph [ref=e392]: Patrícia L.
+            - paragraph [ref=e393]: Mãe do Enzo, 4 anos
+        - generic [ref=e394]:
+          - generic [ref=e395]:
+            - img [ref=e396]
+            - img [ref=e398]
+            - img [ref=e400]
+            - img [ref=e402]
+            - img [ref=e404]
+          - paragraph [ref=e406]: “Levei meu bebê para a primeira consulta e a Dra. Bianca foi maravilhosa. Ambiente perfeito para crianças.”
+          - generic [ref=e407]:
+            - paragraph [ref=e408]: Amanda C.
+            - paragraph [ref=e409]: Mãe da Helena, 1 ano
+        - generic [ref=e410]:
+          - generic [ref=e411]:
+            - img [ref=e412]
+            - img [ref=e414]
+            - img [ref=e416]
+            - img [ref=e418]
+            - img [ref=e420]
+          - paragraph [ref=e422]: “Depois de várias tentativas em outros dentistas, finalmente encontramos a profissional certa. Atendimento impecável.”
+          - generic [ref=e423]:
+            - paragraph [ref=e424]: Renata B.
+            - paragraph [ref=e425]: Mãe do Lucas, 6 anos
+        - generic [ref=e426]:
+          - generic [ref=e427]:
+            - img [ref=e428]
+            - img [ref=e430]
+            - img [ref=e432]
+            - img [ref=e434]
+            - img [ref=e436]
+          - paragraph [ref=e438]: “A Fada do Dente transformou a experiência do dentista para toda a nossa família. Recomendo de olhos fechados!”
+          - generic [ref=e439]:
+            - paragraph [ref=e440]: Patrícia L.
+            - paragraph [ref=e441]: Mãe do Enzo, 4 anos
+        - generic [ref=e442]:
+          - generic [ref=e443]:
+            - img [ref=e444]
+            - img [ref=e446]
+            - img [ref=e448]
+            - img [ref=e450]
+            - img [ref=e452]
+          - paragraph [ref=e454]: “Levei meu bebê para a primeira consulta e a Dra. Bianca foi maravilhosa. Ambiente perfeito para crianças.”
+          - generic [ref=e455]:
+            - paragraph [ref=e456]: Amanda C.
+            - paragraph [ref=e457]: Mãe da Helena, 1 ano
+        - generic [ref=e458]:
+          - generic [ref=e459]:
+            - img [ref=e460]
+            - img [ref=e462]
+            - img [ref=e464]
+            - img [ref=e466]
+            - img [ref=e468]
+          - paragraph [ref=e470]: “Depois de várias tentativas em outros dentistas, finalmente encontramos a profissional certa. Atendimento impecável.”
+          - generic [ref=e471]:
+            - paragraph [ref=e472]: Renata B.
+            - paragraph [ref=e473]: Mãe do Lucas, 6 anos
+      - link "Sua família também merece esse cuidado" [ref=e476]:
+        - /url: https://wa.me/5534999999999?text=Ol%C3%A1!%20Gostaria%20de%20agendar%20uma%20consulta%20com%20a%20Fada%20do%20Dente.
+    - generic [ref=e479]:
+      - generic [ref=e480]:
+        - heading "E eles sorriram felizes para sempre" [level=2] [ref=e481]:
+          - generic [ref=e482]: E
+          - generic [ref=e483]: eles
+          - generic [ref=e484]: sorriram
+          - generic [ref=e485]: felizes
+          - generic [ref=e486]: para
+          - generic [ref=e487]: sempre
+        - paragraph [ref=e489]: Vamos escrever essa história juntos?
+        - generic [ref=e491]:
+          - link "Mande um oi pelo WhatsApp" [ref=e492]:
+            - /url: https://wa.me/5534999999999?text=Ol%C3%A1!%20Gostaria%20de%20agendar%20uma%20consulta%20com%20a%20Fada%20do%20Dente.
+            - img [ref=e493]
+            - text: Mande um oi pelo WhatsApp
+          - paragraph [ref=e495]: Estamos prontas para encantar
+      - generic [ref=e497]:
+        - generic [ref=e498]:
+          - generic [ref=e499]:
+            - img [ref=e500]
+            - generic [ref=e503]: Triângulo Mineiro, MG
+          - generic [ref=e504]:
+            - img [ref=e505]
+            - generic [ref=e508]: CRO MG 63888
+          - link "@_afadadodente" [ref=e509]:
+            - /url: https://www.instagram.com/_afadadodente/
+            - img [ref=e510]
+            - generic [ref=e513]: "@_afadadodente"
+        - img "Recepção da clínica A Fada do Dente" [ref=e515]
+  - contentinfo [ref=e516]:
+    - generic [ref=e517]:
+      - generic [ref=e518]:
+        - generic [ref=e519]:
+          - img [ref=e520]
+          - generic [ref=e522]: A Fada do Dente
+        - generic [ref=e523]:
+          - generic [ref=e524]: CRO MG 63888
+          - generic [ref=e525]:
+            - generic [ref=e526]: Siga nas redes
+            - link "Instagram" [ref=e527]:
+              - /url: https://www.instagram.com/_afadadodente/
+              - img [ref=e528]
+      - paragraph [ref=e532]: © 2026 A Fada do Dente — Dra. Bianca R. Samartin. Todos os direitos reservados.

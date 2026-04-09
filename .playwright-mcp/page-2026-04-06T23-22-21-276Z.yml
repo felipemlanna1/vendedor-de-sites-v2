@@ -1,0 +1,237 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - text: (48) 3030-1269
+        - generic [ref=e6]:
+          - generic [ref=e7]: 
+          - text: (48) 9123.2270
+        - list [ref=e8]:
+          - listitem [ref=e9]:
+            - link "" [ref=e10] [cursor=pointer]:
+              - /url: http://fb.me/clinicadermatologicahr
+          - listitem [ref=e11]:
+            - link "" [ref=e12] [cursor=pointer]:
+              - /url: https://www.instagram.com/clinicadermatologicahr/
+      - generic:  
+    - banner [ref=e13]:
+      - generic [ref=e14]:
+        - link "HR" [ref=e16] [cursor=pointer]:
+          - /url: https://clinicadermatologicahr.com.br/
+          - img "HR" [ref=e17]
+        - generic [ref=e18]:
+          - navigation [ref=e19]:
+            - list [ref=e20]:
+              - listitem [ref=e21]:
+                - link "Home" [ref=e22] [cursor=pointer]:
+                  - /url: https://clinicadermatologicahr.com.br/
+              - listitem [ref=e23]:
+                - link "Tratamentos" [ref=e24] [cursor=pointer]:
+                  - /url: https://clinicadermatologicahr.com.br/tratamentos/
+              - listitem [ref=e25]:
+                - link "Corpo Clínico 3" [ref=e26] [cursor=pointer]:
+                  - /url: https://clinicadermatologicahr.com.br/corpo-clinico/
+              - listitem [ref=e27]:
+                - link "Institucional" [ref=e28] [cursor=pointer]:
+                  - /url: https://clinicadermatologicahr.com.br/institucional/
+              - listitem [ref=e29]:
+                - link "Contato 3" [ref=e30] [cursor=pointer]:
+                  - /url: https://clinicadermatologicahr.com.br/contato/
+          - text: a
+      - generic [ref=e32]:
+        - search [ref=e33]:
+          - searchbox "Pesquisar por:" [ref=e34]
+        - generic [ref=e35] [cursor=pointer]: M
+    - generic [ref=e36]:
+      - article [ref=e38]:
+        - generic [ref=e41]:
+          - heading "CORPO CLÍNICO" [level=1] [ref=e47]
+          - generic [ref=e48]:
+            - generic [ref=e49]:
+              - generic [ref=e51]:
+                - img "Dr. Daniel Holthausen Nunes" [ref=e53]
+                - generic [ref=e54]:
+                  - heading "Dr. Daniel Holthausen Nunes" [level=4] [ref=e55]
+                  - list [ref=e57]:
+                    - listitem [ref=e58]:
+                      - strong [ref=e59]: "CRM:"
+                      - text: "7820"
+                    - listitem [ref=e60]:
+                      - strong [ref=e61]: "RQE:"
+                      - text: "4126"
+              - generic [ref=e62]:
+                - heading "Currículo" [level=3] [ref=e65]
+                - generic [ref=e67]:
+                  - text: Atua desde 1999 com Título de Especialista pela Sociedade Brasileira de Dermatologia.
+                  - text: "Possui experiência na área de Medicina, com ênfase em Dermatologia, atuando principalmente nos seguintes temas:"
+                  - text: Psoríase e Imunobiológicos, Câncer da Pele, Cirurgia Dermatológica, DST/HIV e Teledermatologia.
+                - generic [ref=e69]:
+                  - strong [ref=e70]: Atualmente
+                  - text: é Supervisor da Residência Médica em Dermatologia da Universidade Federal de Santa Catarina, professor de Dermatologia da Universidade Federal de Santa Catarina e da Universidade do Sul de Santa Catarina, Presidente da
+                  - text: Sociedade Brasileira de Dermatologia – SC, membro das câmaras técnicas de Dermatologia e de Telemedicina do Conselho Regional de Medicina – SC, médico dermatologista da SES-SC – com atuação no Hospital Nereu Ramos e na Teledermatologia.
+                  - paragraph [ref=e71]
+                  - paragraph [ref=e72]: É sócio fundador da Clínica Dermatológica HR localizada em Florianópolis-SC.
+                - heading "Formações" [level=3] [ref=e75]
+                - list [ref=e78]:
+                  - listitem [ref=e79]: Graduação em Medicina pela Universidade Federal de Santa Catarina – UFSC (1997);
+                  - listitem [ref=e80]: Especialização em Dermatologia pela Universidade Federal de Santa Catarina – UFSC (1999);
+                  - listitem [ref=e81]: Mestrado em Ciências Médicas pela Universidade Federal de Santa Catarina – UFSC (2003);
+                  - listitem [ref=e82]: Doutorado em Ciências Médicas pela Universidade Federal de Santa Catarina – UFSC (2013).
+            - generic [ref=e84]:
+              - generic [ref=e86]:
+                - img "Dr. Marcelo Rigatti" [ref=e88]
+                - generic [ref=e89]:
+                  - heading "Dr. Marcelo Rigatti" [level=4] [ref=e90]
+                  - list [ref=e92]:
+                    - listitem [ref=e93]:
+                      - strong [ref=e94]: "CRM:"
+                      - text: "8582"
+                    - listitem [ref=e95]:
+                      - strong [ref=e96]: "RQE:"
+                      - text: "5418"
+              - generic [ref=e97]:
+                - heading "Currículo" [level=3] [ref=e100]
+                - generic [ref=e102]:
+                  - text: Atua desde 2004 com Título de Especialista pela Sociedade Brasileira de Dermatologia. É membro da sociedade Brasileira de Dermatologia, Membro da Sociedade Brasileira de Cirurgia Dermatológica.
+                  - text: Membro da Diretoria da secção Catarinense da Sociedade Brasileira de Dermatologia desde 2009.
+                  - text: "Possui experiência na área de medicina, com ênfase em Dermatologia, atuando principalmente nos seguintes temas: tricologia, onicologia e cirurgia das unhas, câncer de pele, cirurgia dermatológica, videodermatoscopia, cosmiatria."
+                - generic [ref=e104]:
+                  - text: É Dermatologista coordenador adjunto das reuniões cientificas clínico-histopatológicas de dermatologia do Hospital de Caridade e da Sociedade Brasileira de Dermatologia secção Santa Catarina. É preceptor colaborador do Hospital Universitário de Santa Catarina. Atua como professor colaborador da Residência de Dermatologia e Preceptor colaborador do Ambulatório de Anexos da Dermatologia do Hospital Universitário da Universidade Federal de Santa Catarina desde 2009.
+                  - paragraph [ref=e105]
+                  - paragraph [ref=e106]: É sócio fundador da Clínica Dermatológica HR localizada em Florianópolis-SC.
+                - heading "Formações" [level=3] [ref=e109]
+                - list [ref=e112]:
+                  - listitem [ref=e113]: Possui graduação em Medicina pela Universidade Federal de Santa Catarina (1999);
+                  - listitem [ref=e114]: Especialização em dermatologia pelo Hospital Universitário da Universidade Federal de Santa Catarina (2004).
+                - heading "Planos de Saúde Atendidos" [level=3] [ref=e117]
+            - generic [ref=e121]:
+              - generic [ref=e123]:
+                - img "Dra. Ana Paula Bald" [ref=e125]
+                - generic [ref=e126]:
+                  - heading "Dra. Ana Paula Bald" [level=4] [ref=e127]
+                  - list [ref=e129]:
+                    - listitem [ref=e130]:
+                      - strong [ref=e131]: "CRM:"
+                      - text: "26136"
+                    - listitem [ref=e132]:
+                      - strong [ref=e133]: "RQE:"
+                      - text: "25000"
+              - generic [ref=e134]:
+                - heading "Currículo" [level=3] [ref=e137]
+                - generic [ref=e139]:
+                  - paragraph [ref=e140]: Atua na área de dermatologia clínica, cirúrgica e estética. Possui título de especialista em dermatologia (RQE 25000) e em medicina interna (RQE 21161).
+                  - paragraph [ref=e141]: Membro da Sociedade Brasileira de Dermatologia e membro do Grupo Brasileiro de Melanoma.
+                  - paragraph [ref=e142]: Atualmente é professora na disciplina de dermatologia do internato médico da Universidade do Sul de Santa Catarina – UNISUL
+                  - paragraph [ref=e143]
+                - heading "Formações" [level=3] [ref=e146]
+                - list [ref=e149]:
+                  - listitem [ref=e150]: Graduação em medicina pela Universidade do Sul de Santa Catarina – UNISUL (2018)
+                  - listitem [ref=e151]: Residência em medicina interna pelo Hospital de Clínicas de Porto Alegre – HCPA (2021)
+                  - listitem [ref=e152]: Residência em dermatologia pelo Hospital Universitário da Universidade Federal de Santa Catarina – HU-UFSC (2024)
+                - heading "Planos de Saúde Atendidos" [level=3] [ref=e155]
+                - img "Planos Marcelo corte" [ref=e158]
+            - generic [ref=e160]:
+              - generic [ref=e162]:
+                - img "Dr. José Ricardo Grams Schmitz" [ref=e164]
+                - generic [ref=e165]:
+                  - heading "Dr. José Ricardo Grams Schmitz" [level=4] [ref=e166]
+                  - list [ref=e168]:
+                    - listitem [ref=e169]:
+                      - strong [ref=e170]: "CRM:"
+                      - text: "26102"
+                    - listitem [ref=e171]:
+                      - strong [ref=e172]: "RQE:"
+                      - text: "25012"
+              - generic [ref=e173]:
+                - heading "Currículo" [level=3] [ref=e176]
+                - generic [ref=e178]:
+                  - paragraph [ref=e179]: Dermatologista formado no Hospital Universitário da Universidade Federal de Santa Catarina, com foco na dermatologia em doenças clínicas, cirúrgicas e oncológicas. Realizou estágio em Cirurgia Oncológica no Hospital Erasto Gaertner (Curitiba, PR – 2023) e é Fellow em Cirurgia Micrográfica de Mohs no Hospital Universitário da UFSC para oferecer um plano de acompanhamento completo ao paciente com Câncer de Pele.
+                  - paragraph [ref=e180]:
+                    - strong [ref=e181]: "Entre as áreas de atuação estão:"
+                  - list [ref=e182]:
+                    - listitem [ref=e183]: "Consultas clínicas em Dermatologia (adulto e infantil): tratamento e acompanhamento de acne, melasma, psoríase, dermatites, alergias, urticária, reações adversas a medicamentos, queloides e cicatrizes, micoses, hiperhidrose, vitiligo."
+                    - listitem [ref=e184]: "Dermatologia Oncológica: Cirurgia de Câncer de Pele (Carcinoma Basocelular, Carcinoma Espinocelular, Melanoma entre outros tumores)"
+                    - listitem [ref=e185]: "Dermatologia Cirúrgica: Biópsia de pele, Remoções de lesões benignas (cistos, lipomas, nevos (sinais), Correções cirúrgicas de cicatrizes, Lobuloplastia (Correção de lóbulo de orelha), Infiltrações dermatológicas"
+                    - listitem [ref=e186]: Realização de procedimentos com peeling químicos, toxina botulínica, microagulhamento e dermoabrasão, crioterapia e criocirurgia (nitrogênio líquido)
+                  - paragraph [ref=e187]
+                - heading "Formações" [level=3] [ref=e190]
+                - list [ref=e193]:
+                  - listitem [ref=e194]: Graduação em Medicina pela Universidade do Sul de Santa Catarina, UNISUL – Florianópolis, SC, Unidade Pedra Branca (2018)
+                  - listitem [ref=e195]: Residência Médica em Dermatologia pelo Hospital Universitário Polydoro Ernani de São Thiago (HU) (2024)
+                  - listitem [ref=e196]: Estágio em Cirurgia Oncológica no Hospital Erasto Gaertner- Curitiba, PR (2023)
+                  - listitem [ref=e197]: Fellow em Cirurgia Micrográfica de Mohs no Hospital Universitário Polydoro Ernani de São Thiago (HU), em andamento
+                - heading "Planos de Saúde Atendidos" [level=3] [ref=e200]
+                - img "Planos Marcelo corte" [ref=e203]
+      - contentinfo [ref=e205]:
+        - generic [ref=e207]:
+          - generic [ref=e209]:
+            - heading "Planos de Saúde" [level=4] [ref=e210]
+            - link [ref=e211] [cursor=pointer]:
+              - /url: https://clinicadermatologicahr.com.br/corpo-clinico/
+          - generic [ref=e213]:
+            - heading "Nuvem de Tags" [level=4] [ref=e214]
+            - generic [ref=e215]:
+              - link "cabelos (2 itens)" [ref=e216] [cursor=pointer]:
+                - /url: https://clinicadermatologicahr.com.br/project_tag/cabelos/
+                - text: cabelos
+              - link "cirurgia (1 item)" [ref=e217] [cursor=pointer]:
+                - /url: https://clinicadermatologicahr.com.br/project_tag/cirurgia/
+                - text: cirurgia
+              - link "couro cabeludo (2 itens)" [ref=e218] [cursor=pointer]:
+                - /url: https://clinicadermatologicahr.com.br/project_tag/couro-cabeludo/
+                - text: couro cabeludo
+              - link "câncer de pele (1 item)" [ref=e219] [cursor=pointer]:
+                - /url: https://clinicadermatologicahr.com.br/project_tag/cancer-de-pele/
+                - text: câncer de pele
+              - link "microagulhamento (1 item)" [ref=e220] [cursor=pointer]:
+                - /url: https://clinicadermatologicahr.com.br/project_tag/microagulhamento/
+                - text: microagulhamento
+              - link "oncologia (1 item)" [ref=e221] [cursor=pointer]:
+                - /url: https://clinicadermatologicahr.com.br/project_tag/oncologia/
+                - text: oncologia
+              - link "pele (3 itens)" [ref=e222] [cursor=pointer]:
+                - /url: https://clinicadermatologicahr.com.br/project_tag/pele/
+                - text: pele
+              - link "pelos (1 item)" [ref=e223] [cursor=pointer]:
+                - /url: https://clinicadermatologicahr.com.br/project_tag/pelos/
+                - text: pelos
+              - link "preenchimento (1 item)" [ref=e224] [cursor=pointer]:
+                - /url: https://clinicadermatologicahr.com.br/project_tag/preenchimento/
+                - text: preenchimento
+              - link "psoríase (1 item)" [ref=e225] [cursor=pointer]:
+                - /url: https://clinicadermatologicahr.com.br/project_tag/psoriase/
+                - text: psoríase
+              - link "unhas (3 itens)" [ref=e226] [cursor=pointer]:
+                - /url: https://clinicadermatologicahr.com.br/project_tag/unhas/
+                - text: unhas
+          - generic [ref=e228]:
+            - heading "Clínica Dermatólogica HR" [level=4] [ref=e229]
+            - list [ref=e231]:
+              - listitem
+              - listitem [ref=e232]:
+                - strong [ref=e233]: RESPONSÁVEL TÉCNICO
+                - text: Dr. Marcelo Rigatti
+                - emphasis [ref=e234]: CRM 8582
+                - emphasis [ref=e235]:
+                  - text: RQE 5418
+                  - paragraph
+                - paragraph:
+                  - emphasis
+              - listitem [ref=e236]:
+                - strong [ref=e237]: CONTATO
+                - text: "WhatsApp: (48) 9123-2270"
+                - text: "Telefone: (48) 3030-1269"
+          - link [ref=e240] [cursor=pointer]:
+            - /url: https://clinicadermatologicahr.com.br
+        - generic [ref=e242]:
+          - list [ref=e243]:
+            - listitem [ref=e244]:
+              - link "" [ref=e245] [cursor=pointer]:
+                - /url: http://fb.me/clinicadermatologicahr
+            - listitem [ref=e246]:
+              - link "" [ref=e247] [cursor=pointer]:
+                - /url: https://www.instagram.com/clinicadermatologicahr/
+          - generic [ref=e248]: Clínica Dermatológica HR - 2021 ©
+  - link "whatsappIcon" [ref=e251] [cursor=pointer]:
+    - /url: https://clinicadermatologicahr.com.br/whatsapp/
+    - img "whatsappIcon" [ref=e252]

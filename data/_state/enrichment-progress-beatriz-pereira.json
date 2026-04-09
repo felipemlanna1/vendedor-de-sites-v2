@@ -1,0 +1,397 @@
+{
+  "current_phase": 7,
+  "lead_id": "beatriz-pereira",
+  "nome": "Dra. Beatriz Pereira",
+  "cidade": "Três Pontas",
+  "nicho": "dentista",
+  "strategy": "dental",
+  "source": "instagram",
+  "discovered_urls": {
+    "site_url": "",
+    "instagram_username": "dra.beatrizpereira",
+    "facebook_url": "https://www.facebook.com/dra.beatrizpereira/",
+    "google_maps_url": "https://www.google.com/maps/place/Dental+Pereira/data=!4m2!3m1!1s0xd31ce8182842557:0x129e1f7f9b3fd828",
+    "platform_urls": {
+      "google_maps": "https://www.google.com/maps/place/Dental+Pereira/data=!4m2!3m1!1s0xd31ce8182842557:0x129e1f7f9b3fd828"
+    }
+  },
+  "data_points": [
+    {
+      "category": "presence",
+      "label": "Facebook Page",
+      "value": "https://www.facebook.com/dra.beatrizpereira/",
+      "detail": {
+        "likes": 523,
+        "checkins": 72,
+        "tipo": "pagina_profissional"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T22:58:28.841203"
+    },
+    {
+      "category": "presence",
+      "label": "Instagram confirmado",
+      "value": "@dra.beatrizpereira",
+      "detail": {
+        "og_title": "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956",
+        "seguidores": 2057,
+        "posts": 118,
+        "linktree_na_bio": true
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch (Instagram)",
+      "fetched_at": "2026-04-07T22:58:28.841203"
+    },
+    {
+      "category": "presence",
+      "label": "Website",
+      "value": "Nao possui site",
+      "detail": {
+        "status": "sem_site"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T22:58:28.841203"
+    },
+    {
+      "category": "presence",
+      "label": "Doctoralia",
+      "value": "Nao encontrada na listagem de Três Pontas",
+      "detail": {
+        "status": "nao_encontrada",
+        "url_listagem": "https://www.doctoralia.com.br/dentista/tres-pontas"
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch (Doctoralia)",
+      "fetched_at": "2026-04-07T22:58:28.841203"
+    },
+    {
+      "category": "social",
+      "label": "Redes sociais identificadas",
+      "value": "Instagram + Facebook",
+      "detail": {
+        "instagram": "@dra.beatrizpereira",
+        "facebook": "facebook.com/dra.beatrizpereira",
+        "linkedin": "nao encontrado",
+        "youtube": "nao encontrado",
+        "tiktok": "nao encontrado"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T22:58:28.841203"
+    },
+    {
+      "category": "reviews",
+      "label": "Avaliacoes",
+      "value": "Nenhuma avaliacao publica encontrada",
+      "detail": {
+        "nota": null,
+        "total_avaliacoes": 0,
+        "status": "sem_avaliacoes_publicas"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T22:58:28.841203"
+    },
+    {
+      "category": "presence",
+      "label": "Informacoes profissionais",
+      "value": "Cirurgia-Dentista, especialista em Endodontia",
+      "detail": {
+        "cro": "CRO-MG 55956",
+        "especialidade": "Endodontia",
+        "cidade": "Três Pontas",
+        "estado": "MG"
+      },
+      "source_type": "briefing",
+      "source_name": "Instagram og:title",
+      "fetched_at": "2026-04-07T22:58:28.841203"
+    },
+    {
+      "category": "identity",
+      "label": "CNPJ",
+      "value": "Nao encontrado",
+      "detail": {
+        "status": "nao_encontrado",
+        "buscas_realizadas": [
+          "WebSearch CNPJ + nome + cidade",
+          "casadosdados.com.br"
+        ]
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T23:00:19.298408"
+    },
+    {
+      "category": "professional_registry",
+      "label": "CRO-MG",
+      "value": "CRO-MG 55956",
+      "detail": {
+        "numero": "55956",
+        "estado": "MG",
+        "especialidade": "Endodontia",
+        "nome": "Dra. Beatriz Pereira",
+        "fonte_confirmacao": "Instagram og:title"
+      },
+      "source_type": "briefing",
+      "source_name": "Instagram og:title",
+      "fetched_at": "2026-04-07T23:00:19.298408"
+    },
+    {
+      "category": "website",
+      "label": "Website",
+      "value": "Nao possui site",
+      "detail": {
+        "status": "sem_site"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-07T23:00:46.172239"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Doctoralia",
+      "value": "Nao encontrada",
+      "detail": {
+        "status": "sem_perfil"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T23:01:54.328404"
+    },
+    {
+      "category": "sales_channels",
+      "label": "BoaConsulta",
+      "value": "Nao encontrada",
+      "detail": {
+        "status": "sem_perfil"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T23:01:54.328404"
+    },
+    {
+      "category": "sales_channels",
+      "label": "ReclameAqui",
+      "value": "Nao encontrada",
+      "detail": {
+        "status": "sem_perfil"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T23:01:54.328404"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Google Maps",
+      "value": "Dental Pereira",
+      "detail": {
+        "url": "https://www.google.com/maps/place/Dental+Pereira/data=!4m2!3m1!1s0xd31ce8182842557:0x129e1f7f9b3fd828",
+        "nome_negocio": "Dental Pereira"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (Google Maps)",
+      "fetched_at": "2026-04-07T23:01:54.328404"
+    },
+    {
+      "category": "social",
+      "label": "Conteudo Facebook - Video educativo",
+      "value": "Video sobre tratamento de dentes de leite",
+      "detail": {
+        "texto": "Mas o dente de leite vai cair!! Pra que tratar? Te respondo nesse video!",
+        "hashtags": "#odonto #odontologia #dentista #odontopediatria #dentesdeleite #dentistamulher #empoderamentofeminino",
+        "temas": [
+          "odontopediatria",
+          "educativo",
+          "empoderamento feminino"
+        ]
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch (Facebook video)",
+      "fetched_at": "2026-04-07T23:01:54.328404"
+    },
+    {
+      "category": "contact",
+      "label": "WhatsApp",
+      "value": "+5535999497914",
+      "detail": {
+        "fonte": "Instagram MCP + Linktree",
+        "url_whatsapp": "https://wa.me/55035999497914"
+      },
+      "source_type": "briefing",
+      "source_name": "Instagram MCP + Playwright (Linktree)",
+      "fetched_at": "2026-04-07T23:08:46.096876"
+    },
+    {
+      "category": "presence",
+      "label": "Linktree",
+      "value": "https://linktr.ee/beatrizpereiraodontologia2",
+      "detail": {
+        "links": [
+          "Agende sua consulta (WhatsApp)",
+          "Baixe meu Portfolio (Google Drive)"
+        ]
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright (Linktree)",
+      "fetched_at": "2026-04-07T23:08:46.096876"
+    },
+    {
+      "category": "presence",
+      "label": "Instagram perfil completo",
+      "value": "@dra.beatrizpereira",
+      "detail": {
+        "full_name": "Dra. Beatriz Pereira | Odontologia | CRO-MG: 55.956",
+        "bio": "Te ajudo a perder o medo de dentista! Ha mais de 5 anos salvando dentes",
+        "seguidores": 2057,
+        "seguindo": 1516,
+        "posts": 118,
+        "is_business": true,
+        "external_url": "https://linktr.ee/beatrizpereiraodontologia2",
+        "telefone": "+5535999497914",
+        "is_private": false,
+        "is_verified": false
+      },
+      "source_type": "briefing",
+      "source_name": "Instagram MCP",
+      "fetched_at": "2026-04-07T23:08:46.096876"
+    },
+    {
+      "category": "images",
+      "label": "Foto perfil Linktree",
+      "value": "https://ugc.production.linktr.ee/c3164218-125d-4601-ae04-f853e3caf5e9_Imagem-do-WhatsApp-de-2024-08-23---s--10.11.49-0793848e.jpeg?io=true&size=avatar-v3_0",
+      "detail": {
+        "urls": [
+          "https://ugc.production.linktr.ee/c3164218-125d-4601-ae04-f853e3caf5e9_Imagem-do-WhatsApp-de-2024-08-23---s--10.11.49-0793848e.jpeg?io=true&size=avatar-v3_0"
+        ],
+        "tipo": "profile_pic",
+        "fonte": "Playwright (Linktree)",
+        "width": 400,
+        "height": 400
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-07T23:08:46.096876"
+    },
+    {
+      "category": "images",
+      "label": "Portfolio pagina 1",
+      "value": "https://drive.google.com/viewer/img?id=ACFrOgBLgZVu8nsxXiD8n17HLIFfBD04G586txRzAXMdIEJOITS0XbGd0Ocz_2lsQUPUCUnKbHTBNubWM54Vpis-DSOqG_6RT5NUKaWiOowJKr6IqYROLnRuDzxZPkw5EsqkJG9ItJ1ccUalP8aIFruFEDmGD_luH_TCq7x7AB6YcrxCOIBJjCqcEAabbytKIqdglihzfB5tVlzDYTi3e_w5qv-je1Yy9xsDjdYdag2qI8CscGvA4KDry8b-xj3CfnqoQQrZJHvZE7LVdfOz&dsmi=texmex&page=0&skiphighlight=true&w=1600",
+      "detail": {
+        "urls": [
+          "https://drive.google.com/viewer/img?id=ACFrOgBLgZVu8nsxXiD8n17HLIFfBD04G586txRzAXMdIEJOITS0XbGd0Ocz_2lsQUPUCUnKbHTBNubWM54Vpis-DSOqG_6RT5NUKaWiOowJKr6IqYROLnRuDzxZPkw5EsqkJG9ItJ1ccUalP8aIFruFEDmGD_luH_TCq7x7AB6YcrxCOIBJjCqcEAabbytKIqdglihzfB5tVlzDYTi3e_w5qv-je1Yy9xsDjdYdag2qI8CscGvA4KDry8b-xj3CfnqoQQrZJHvZE7LVdfOz&dsmi=texmex&page=0&skiphighlight=true&w=1600",
+          "https://drive.google.com/viewer/img?id=ACFrOgBLgZVu8nsxXiD8n17HLIFfBD04G586txRzAXMdIEJOITS0XbGd0Ocz_2lsQUPUCUnKbHTBNubWM54Vpis-DSOqG_6RT5NUKaWiOowJKr6IqYROLnRuDzxZPkw5EsqkJG9ItJ1ccUalP8aIFruFEDmGD_luH_TCq7x7AB6YcrxCOIBJjCqcEAabbytKIqdglihzfB5tVlzDYTi3e_w5qv-je1Yy9xsDjdYdag2qI8CscGvA4KDry8b-xj3CfnqoQQrZJHvZE7LVdfOz&dsmi=texmex&page=1&skiphighlight=true&w=1600",
+          "https://drive.google.com/viewer/img?id=ACFrOgBLgZVu8nsxXiD8n17HLIFfBD04G586txRzAXMdIEJOITS0XbGd0Ocz_2lsQUPUCUnKbHTBNubWM54Vpis-DSOqG_6RT5NUKaWiOowJKr6IqYROLnRuDzxZPkw5EsqkJG9ItJ1ccUalP8aIFruFEDmGD_luH_TCq7x7AB6YcrxCOIBJjCqcEAabbytKIqdglihzfB5tVlzDYTi3e_w5qv-je1Yy9xsDjdYdag2qI8CscGvA4KDry8b-xj3CfnqoQQrZJHvZE7LVdfOz&dsmi=texmex&page=2&skiphighlight=true&w=1600",
+          "https://drive.google.com/viewer/img?id=ACFrOgBLgZVu8nsxXiD8n17HLIFfBD04G586txRzAXMdIEJOITS0XbGd0Ocz_2lsQUPUCUnKbHTBNubWM54Vpis-DSOqG_6RT5NUKaWiOowJKr6IqYROLnRuDzxZPkw5EsqkJG9ItJ1ccUalP8aIFruFEDmGD_luH_TCq7x7AB6YcrxCOIBJjCqcEAabbytKIqdglihzfB5tVlzDYTi3e_w5qv-je1Yy9xsDjdYdag2qI8CscGvA4KDry8b-xj3CfnqoQQrZJHvZE7LVdfOz&dsmi=texmex&page=3&skiphighlight=true&w=1600",
+          "https://drive.google.com/viewer/img?id=ACFrOgBLgZVu8nsxXiD8n17HLIFfBD04G586txRzAXMdIEJOITS0XbGd0Ocz_2lsQUPUCUnKbHTBNubWM54Vpis-DSOqG_6RT5NUKaWiOowJKr6IqYROLnRuDzxZPkw5EsqkJG9ItJ1ccUalP8aIFruFEDmGD_luH_TCq7x7AB6YcrxCOIBJjCqcEAabbytKIqdglihzfB5tVlzDYTi3e_w5qv-je1Yy9xsDjdYdag2qI8CscGvA4KDry8b-xj3CfnqoQQrZJHvZE7LVdfOz&dsmi=texmex&page=4&skiphighlight=true&w=1600",
+          "https://drive.google.com/viewer/img?id=ACFrOgBLgZVu8nsxXiD8n17HLIFfBD04G586txRzAXMdIEJOITS0XbGd0Ocz_2lsQUPUCUnKbHTBNubWM54Vpis-DSOqG_6RT5NUKaWiOowJKr6IqYROLnRuDzxZPkw5EsqkJG9ItJ1ccUalP8aIFruFEDmGD_luH_TCq7x7AB6YcrxCOIBJjCqcEAabbytKIqdglihzfB5tVlzDYTi3e_w5qv-je1Yy9xsDjdYdag2qI8CscGvA4KDry8b-xj3CfnqoQQrZJHvZE7LVdfOz&dsmi=texmex&page=5&skiphighlight=true&w=1600"
+        ],
+        "tipo": "portfolio",
+        "fonte": "Playwright (Google Drive)",
+        "total_paginas": 6,
+        "has_text": true
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-07T23:08:46.096876"
+    },
+    {
+      "category": "images",
+      "label": "Linktree og:image",
+      "value": "https://linktr.ee/og/image/beatrizpereiraodontologia2.jpg",
+      "detail": {
+        "urls": [
+          "https://linktr.ee/og/image/beatrizpereiraodontologia2.jpg"
+        ],
+        "tipo": "profile_pic",
+        "fonte": "Playwright (Linktree og:image)"
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-07T23:08:46.096876"
+    },
+    {
+      "category": "services",
+      "label": "Portfolio Drive",
+      "value": "Portfolio profissional com 6 paginas disponivel no Google Drive",
+      "detail": {
+        "url": "https://drive.google.com/file/d/1iJ2W8C3QGfoDLPvqohUNg1l2SGHlem7c/view",
+        "paginas": 6
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright (Google Drive)",
+      "fetched_at": "2026-04-07T23:08:46.096876"
+    },
+    {
+      "category": "brand",
+      "label": "Padroes da marca",
+      "value": "Tom acolhedor e feminino, foco em humanizar atendimento odontologico",
+      "detail": {
+        "cores": [
+          "rosa",
+          "branco",
+          "tons pasteis"
+        ],
+        "tom": "informal-acolhedor",
+        "publico_alvo": "Pacientes com medo de dentista, familias, criancas (odontopediatria)",
+        "estilo_visual": "Feminino, clean, profissional com toque pessoal",
+        "slogan": "Te ajudo a perder o medo de dentista!",
+        "temas_conteudo": [
+          "odontopediatria",
+          "dentes de leite",
+          "empoderamento feminino",
+          "educacao em saude bucal"
+        ],
+        "experiencia": "5+ anos"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-07T23:09:50.646536"
+    },
+    {
+      "category": "competitors",
+      "label": "Concorrentes com site",
+      "value": "3 encontrados",
+      "detail": [
+        "OdontoCompany Três Pontas - https://odontocompany.com/trespontas",
+        "Odonto Ávila - https://odontoavila.com.br/",
+        "Clínica Sorria Três Pontas - @sorriatrespontas (Instagram)"
+      ],
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T23:09:50.646536"
+    }
+  ],
+  "phases": {
+    "phase_1": {
+      "status": "complete"
+    },
+    "phase_2": {
+      "status": "complete",
+      "result": "2 URLs descobertas (Facebook + Instagram), 7 data_points"
+    },
+    "phase_3": {
+      "status": "complete",
+      "result": "CNPJ nao encontrado, CRO-MG 55956 confirmado via Instagram"
+    },
+    "phase_4": {
+      "status": "complete",
+      "result": "Sem site - fase encerrada"
+    },
+    "phase_5": {
+      "status": "complete",
+      "result": "Google Maps encontrado (Dental Pereira). Sem Doctoralia/BoaConsulta/ReclameAqui."
+    },
+    "phase_6": {
+      "status": "complete",
+      "result": "8 imagens capturadas (1 foto perfil Linktree, 6 paginas portfolio Drive, 1 og:image Linktree)"
+    },
+    "phase_7": {
+      "status": "complete",
+      "result": "Briefing salvo no vendedor.db"
+    }
+  },
+  "started_at": "2026-04-07T22:56:18.774958",
+  "completed_at": "2026-04-07T23:09:50.650326"
+}

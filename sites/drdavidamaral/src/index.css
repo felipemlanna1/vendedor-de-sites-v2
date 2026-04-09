@@ -1,0 +1,79 @@
+@import "tailwindcss";
+@import "./design-system/tokens.css";
+
+/* Tailwind v4 ja inclui Preflight. NAO use * { margin:0; padding:0 } */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: auto; /* Lenis controla o smooth scroll */
+}
+
+body {
+  font-family: var(--font-body);
+  color: var(--color-text-primary);
+  background: var(--color-background);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+}
+
+/* Ultrasound scan animation — horizontal sweep on service cards */
+@keyframes ultrasound-scan {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(200%); }
+}
+.animate-ultrasound-scan {
+  animation: ultrasound-scan 2s ease-in-out infinite;
+}
+
+/* Ultrasound vertical sweep — for technology image */
+@keyframes ultrasound-vertical {
+  0% { transform: translateY(-100%); }
+  100% { transform: translateY(200%); }
+}
+.animate-ultrasound-vertical {
+  animation: ultrasound-vertical 3s ease-in-out infinite;
+}
+
+/* Hover states for interactive elements */
+a:hover, button:hover {
+  transition: all 0.2s ease;
+}
+
+.hover-lift:hover {
+  transform: translateY(-2px);
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Smooth scroll container for Lenis */
+html.lenis, html.lenis body {
+  height: auto;
+}
+
+.lenis.lenis-smooth {
+  scroll-behavior: auto;
+}
+
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+
+.lenis.lenis-stopped {
+  overflow: hidden;
+}

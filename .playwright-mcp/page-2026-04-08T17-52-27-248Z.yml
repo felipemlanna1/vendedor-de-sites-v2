@@ -1,0 +1,623 @@
+- generic [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic [ref=e18]:
+          - generic [ref=e21]:
+            - link [ref=e989] [cursor=pointer]:
+              - /url: /
+              - img [ref=e990]
+            - generic [ref=e34]:
+              - link [ref=e991] [cursor=pointer]:
+                - /url: /
+                - img [ref=e992]
+              - link [ref=e993] [cursor=pointer]:
+                - /url: /reels/
+                - img [ref=e994]
+              - link [ref=e995] [cursor=pointer]:
+                - /url: /direct/inbox/
+                - img [ref=e996]
+              - link [ref=e997] [cursor=pointer]:
+                - /url: /explore/
+                - img [ref=e998]
+              - link [ref=e999] [cursor=pointer]:
+                - /url: "#"
+                - img [ref=e1000]
+              - link [ref=e1001] [cursor=pointer]:
+                - /url: "#"
+                - img [ref=e1002]
+              - link [ref=e1003] [cursor=pointer]:
+                - /url: /_pipelinestudio/
+                - link [ref=e1004]:
+                  - img [ref=e1005]
+            - generic [ref=e113]:
+              - link [ref=e1006] [cursor=pointer]:
+                - /url: "#"
+                - img [ref=e1007]
+              - link [ref=e1008] [cursor=pointer]:
+                - /url: "#"
+                - img [ref=e1009]
+          - generic [ref=e132]:
+            - main [ref=e133]:
+              - generic [ref=e135]:
+                - generic [ref=e136]:
+                  - generic [ref=e137]:
+                    - button [ref=e1010] [cursor=pointer]:
+                      - link [ref=e1011]:
+                        - img [ref=e1012]
+                    - generic [ref=e146]:
+                      - generic [ref=e147]:
+                        - generic [ref=e148]:
+                          - link [ref=e1013] [cursor=pointer]:
+                            - /url: "#"
+                            - heading [level=2] [ref=e1014]:
+                              - generic [ref=e152]: dramilenagrossigerminiani
+                          - button [ref=e1015] [cursor=pointer]:
+                            - img [ref=e1016]
+                        - generic [ref=e161]: Dra. Milena Grossi Germiniani
+                        - generic [ref=e162]:
+                          - generic [ref=e164]:
+                            - generic [ref=e165]: "56"
+                            - text: posts
+                          - link [ref=e1017] [cursor=pointer]:
+                            - /url: /dramilenagrossigerminiani/followers/
+                            - generic [ref=e168]:
+                              - generic [ref=e1018]: "2.873"
+                              - text: seguidores
+                          - link [ref=e1019] [cursor=pointer]:
+                            - /url: /dramilenagrossigerminiani/following/
+                            - generic [ref=e172]:
+                              - generic [ref=e173]: "3.962"
+                              - text: seguindo
+                      - generic [ref=e175]:
+                        - generic [ref=e176]:
+                          - button [ref=e1020] [cursor=pointer]:
+                            - generic [ref=e178]: "CRO: MG 26.171 Cirurgiã-dentista | Especialista em Harmonização Orofacial | Especialista em Ortodontia/Ortopedia |"
+                          - generic [ref=e179]:
+                            - text: ...
+                            - button [ref=e1021] [cursor=pointer]:
+                              - generic [ref=e181]: mais
+                        - heading [level=1] [ref=e1022]: Rua Prefeito José Serra, 228, Ouro Fino 37570000
+                        - generic [ref=e184]:
+                          - img [ref=e1023]
+                          - link [ref=e1024] [cursor=pointer]:
+                            - /url: https://l.instagram.com/?u=http%3A%2F%2Fwa.me%2F5535997255631%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnBnv-424eV-U2fbnn9bkihgP3aOSql72Iv-1Iuz36OrL4rqf36eelanYPVTA_aem_rsgYGIlR9wE7052aqz_z5g&e=AT4BzrPG9zgkkm7US1qa6wlmmDt1sacPBQyReaNPFVlpRPrQfAh6L6-46tOCJnTgaNgPXfiVIspNYpNi9QOhMEvIRamawV7dxlMvWPc5YhTFsKEd6UDrxYidpQ
+                            - generic [ref=e191]: wa.me/5535997255631
+                  - generic [ref=e196]:
+                    - button [ref=e1025] [cursor=pointer]:
+                      - generic [ref=e200]: Seguir
+                    - button [ref=e1026] [cursor=pointer]: Enviar mensagem
+                    - button [ref=e1027] [cursor=pointer]:
+                      - img [ref=e1028]
+                  - menu [ref=e210]:
+                    - generic [ref=e212]:
+                      - list [ref=e214]:
+                        - listitem [ref=e215]
+                        - listitem [ref=e216]
+                        - listitem [ref=e217]:
+                          - link [ref=e1029] [cursor=pointer]:
+                            - /url: /stories/highlights/18082377065015911/
+                            - button [ref=e1030]:
+                              - button [ref=e1031]:
+                                - img [ref=e1032]
+                              - generic [ref=e228]: HIPRO
+                        - listitem [ref=e229]:
+                          - link [ref=e1033] [cursor=pointer]:
+                            - /url: /stories/highlights/18548647882025675/
+                            - button [ref=e1034]:
+                              - button [ref=e1035]:
+                                - img [ref=e1036]
+                              - generic [ref=e240]: Ortopedia
+                        - listitem [ref=e241]:
+                          - link [ref=e1037] [cursor=pointer]:
+                            - /url: /stories/highlights/18062350255238522/
+                            - button [ref=e1038]:
+                              - button [ref=e1039]:
+                                - img [ref=e1040]
+                              - generic [ref=e252]: Toxina B.
+                        - listitem [ref=e253]:
+                          - link [ref=e1041] [cursor=pointer]:
+                            - /url: /stories/highlights/17973965650835447/
+                            - button [ref=e1042]:
+                              - button [ref=e1043]:
+                                - img [ref=e1044]
+                              - generic [ref=e264]: IOA - SP
+                        - listitem [ref=e265]:
+                          - link [ref=e1045] [cursor=pointer]:
+                            - /url: /stories/highlights/18065989697390351/
+                            - button [ref=e1046]:
+                              - button [ref=e1047]:
+                                - img [ref=e1048]
+                              - generic [ref=e276]: Invisalign
+                        - listitem [ref=e277]:
+                          - link [ref=e1049] [cursor=pointer]:
+                            - /url: /stories/highlights/18058972445272498/
+                            - button [ref=e1050]:
+                              - button [ref=e1051]:
+                                - img [ref=e1052]
+                              - generic [ref=e288]: Protocoll
+                        - listitem [ref=e289]:
+                          - link [ref=e1053] [cursor=pointer]:
+                            - /url: /stories/highlights/17847364448235735/
+                            - button [ref=e1054]:
+                              - button [ref=e1055]:
+                                - img [ref=e1056]
+                              - generic [ref=e300]: Lábios
+                        - listitem [ref=e301]:
+                          - link [ref=e1057] [cursor=pointer]:
+                            - /url: /stories/highlights/17896906222580386/
+                            - button [ref=e1058]:
+                              - button [ref=e1059]:
+                                - img [ref=e1060]
+                              - generic [ref=e312]: Odontopediatria
+                        - listitem [ref=e313]:
+                          - link [ref=e1061] [cursor=pointer]:
+                            - /url: /stories/highlights/18118639639555692/
+                            - button [ref=e1062]:
+                              - button [ref=e1063]:
+                                - img [ref=e1064]
+                              - generic [ref=e324]: Fada do 🦷
+                        - listitem [ref=e325]:
+                          - link [ref=e1065] [cursor=pointer]:
+                            - /url: /stories/highlights/17961225371251147/
+                            - button [ref=e1066]:
+                              - button [ref=e1067]:
+                                - img [ref=e1068]
+                              - generic [ref=e336]: Cirurgia HOF
+                        - listitem [ref=e337]:
+                          - link [ref=e1069] [cursor=pointer]:
+                            - /url: /stories/highlights/17877531949730920/
+                            - button [ref=e1070]:
+                              - button [ref=e1071]:
+                                - img [ref=e1072]
+                              - generic [ref=e348]: Clareamento
+                        - listitem [ref=e349]:
+                          - link [ref=e1073] [cursor=pointer]:
+                            - /url: /stories/highlights/18037469341282521/
+                            - button [ref=e1074]:
+                              - button [ref=e1075]:
+                                - img [ref=e1076]
+                              - generic [ref=e360]: Instituto T.S
+                      - button [ref=e1077] [cursor=pointer]
+                - tablist [ref=e364]:
+                  - link [ref=e1078] [cursor=pointer]:
+                    - /url: /dramilenagrossigerminiani/
+                    - img [ref=e1079]
+                  - link [ref=e1080] [cursor=pointer]:
+                    - /url: /dramilenagrossigerminiani/reels/
+                    - img [ref=e1081]
+                  - link [ref=e1082] [cursor=pointer]:
+                    - /url: /dramilenagrossigerminiani/tagged/
+                    - img [ref=e1083]
+                - generic [ref=e393]:
+                  - generic [ref=e818]:
+                    - link [ref=e1084] [cursor=pointer]:
+                      - /url: /dramilenagrossigerminiani/reel/DSASdxxDRRZ/
+                      - img [ref=e1085]
+                      - generic:
+                        - generic:
+                          - img
+                    - link [ref=e1086] [cursor=pointer]:
+                      - /url: /dramilenagrossigerminiani/reel/DRVYcmOEpVZ/
+                      - img [ref=e1087]
+                      - generic:
+                        - generic:
+                          - img
+                    - link [ref=e1088] [cursor=pointer]:
+                      - /url: /dramilenagrossigerminiani/p/DRLJZp8EoqL/
+                      - img [ref=e1089]
+                  - generic [ref=e837]:
+                    - link [ref=e1090] [cursor=pointer]:
+                      - /url: /dramilenagrossigerminiani/p/DQ7rPcykQfP/
+                      - img [ref=e1091]
+                      - generic:
+                        - generic:
+                          - img
+                    - link [ref=e1092] [cursor=pointer]:
+                      - /url: /dramilenagrossigerminiani/reel/DPByZxFDcqK/
+                      - img [ref=e1093]
+                      - generic:
+                        - generic:
+                          - img
+                    - link [ref=e1094] [cursor=pointer]:
+                      - /url: /dramilenagrossigerminiani/reel/DOHZP_5EnyF/
+                      - img [ref=e1095]
+                      - generic:
+                        - generic:
+                          - img
+                  - generic [ref=e856]:
+                    - link [ref=e1096] [cursor=pointer]:
+                      - /url: /dramilenagrossigerminiani/p/DNT3CJ5vfd7/
+                      - img [ref=e1097]
+                      - generic:
+                        - generic:
+                          - img
+                    - link [ref=e1098] [cursor=pointer]:
+                      - /url: /dramilenagrossigerminiani/p/DNL9cFbvc6A/
+                      - img [ref=e1099]
+                      - generic:
+                        - generic:
+                          - img
+                    - link [ref=e1100] [cursor=pointer]:
+                      - /url: /roof_radiologia/p/DJsMEZdt0F3/
+                      - img [ref=e1101]
+                      - generic:
+                        - generic:
+                          - img
+                  - generic [ref=e875]:
+                    - link [ref=e1102] [cursor=pointer]:
+                      - /url: /dramilenagrossigerminiani/reel/DJhEgCsNLoZ/
+                      - img [ref=e1103]
+                      - generic:
+                        - generic:
+                          - img
+                    - link [ref=e1104] [cursor=pointer]:
+                      - /url: /dramilenagrossigerminiani/reel/DI7MgVUPah9/
+                      - img [ref=e1105]
+                      - generic:
+                        - generic:
+                          - img
+                    - link [ref=e1106] [cursor=pointer]:
+                      - /url: /dramilenagrossigerminiani/p/DHZmI7Bvfat/
+                      - img [ref=e1107]
+                  - generic [ref=e894]:
+                    - link [ref=e1108] [cursor=pointer]:
+                      - /url: /dramilenagrossigerminiani/p/DHHb2TxPaNd/
+                      - img [ref=e1109]
+                    - link [ref=e1110] [cursor=pointer]:
+                      - /url: /dramilenagrossigerminiani/p/DGT_vVCv-R3/
+                      - img [ref=e1111]
+                    - link [ref=e1112] [cursor=pointer]:
+                      - /url: /dramilenagrossigerminiani/p/DAo8j6SNnR_/
+                      - img [ref=e1113]
+                  - generic [ref=e913]:
+                    - link [ref=e1114] [cursor=pointer]:
+                      - /url: /dramilenagrossigerminiani/p/DARtO5Nvqbx/
+                      - img [ref=e1115]
+                    - link [ref=e1116] [cursor=pointer]:
+                      - /url: /dramilenagrossigerminiani/p/C_y2LTwvQxl/
+                      - img [ref=e1117]
+                      - generic:
+                        - generic:
+                          - img
+                    - link [ref=e1118] [cursor=pointer]:
+                      - /url: /dramilenagrossigerminiani/p/C_RZMo6vopA/
+                      - img [ref=e1119]
+                      - generic:
+                        - generic:
+                          - img
+                  - generic [ref=e932]:
+                    - link [ref=e1120] [cursor=pointer]:
+                      - /url: /dramilenagrossigerminiani/p/C_MNsz-Pjy4/
+                      - img [ref=e1121]
+                    - link [ref=e1122] [cursor=pointer]:
+                      - /url: /dramilenagrossigerminiani/reel/C-8tNfbPZvd/
+                      - img [ref=e1123]
+                      - generic:
+                        - generic:
+                          - img
+                    - link [ref=e1124] [cursor=pointer]:
+                      - /url: /dramilenagrossigerminiani/reel/C437KUivjlW/
+                      - img [ref=e1125]
+                      - generic:
+                        - generic:
+                          - img
+                  - generic [ref=e951]:
+                    - link [ref=e1126] [cursor=pointer]:
+                      - /url: /dramilenagrossigerminiani/reel/C4gsiuVvzIv/
+                      - img [ref=e956]
+                      - generic:
+                        - generic:
+                          - img
+                    - link [ref=e1127] [cursor=pointer]:
+                      - /url: /dramilenagrossigerminiani/p/C4RJjuMvhJG/
+                      - img [ref=e1128]
+                    - link [ref=e1129] [cursor=pointer]:
+                      - /url: /dramilenagrossigerminiani/reel/C4HER8PtmVY/
+                      - img [ref=e1130]
+                      - generic:
+                        - generic:
+                          - img
+                  - generic [ref=e970]:
+                    - link [ref=e1131] [cursor=pointer]:
+                      - /url: /dramilenagrossigerminiani/reel/C33o13LNtUA/
+                      - img [ref=e1132]
+                      - generic:
+                        - generic:
+                          - img
+                    - link [ref=e1133] [cursor=pointer]:
+                      - /url: /dramilenagrossigerminiani/p/C2vfFeoPPVL/
+                      - img [ref=e1134]
+                    - link [ref=e1135] [cursor=pointer]:
+                      - /url: /dramilenagrossigerminiani/p/C2tBHGBNdmK/
+                      - img [ref=e1136]
+                  - generic [ref=e633]:
+                    - link [ref=e1137] [cursor=pointer]:
+                      - /url: /dramilenagrossigerminiani/p/C2r_CRAr_2c/
+                      - img [ref=e1138]
+                    - link [ref=e1139] [cursor=pointer]:
+                      - /url: /dramilenagrossigerminiani/p/C2bCQW2tJRC/
+                      - img [ref=e1140]
+                    - link [ref=e1141] [cursor=pointer]:
+                      - /url: /dramilenagrossigerminiani/p/C2TR3lSNQuc/
+                      - img [ref=e1142]
+            - contentinfo [ref=e470]:
+              - generic [ref=e471]:
+                - generic [ref=e473]:
+                  - link [ref=e1143] [cursor=pointer]:
+                    - /url: https://about.meta.com/
+                    - generic [ref=e476]: Meta
+                  - link [ref=e1144] [cursor=pointer]:
+                    - /url: https://about.instagram.com/
+                    - generic [ref=e479]: Sobre
+                  - link [ref=e1145] [cursor=pointer]:
+                    - /url: https://about.instagram.com/blog/
+                    - generic [ref=e482]: Blog
+                  - link [ref=e1146] [cursor=pointer]:
+                    - /url: https://about.instagram.com/about-us/careers
+                    - generic [ref=e485]: Carreiras
+                  - link [ref=e1147] [cursor=pointer]:
+                    - /url: https://help.instagram.com/
+                    - generic [ref=e488]: Ajuda
+                  - link [ref=e1148] [cursor=pointer]:
+                    - /url: https://developers.facebook.com/docs/instagram
+                    - generic [ref=e491]: API
+                  - link [ref=e1149] [cursor=pointer]:
+                    - /url: /legal/privacy/
+                    - generic [ref=e494]: Privacidade
+                  - link [ref=e1150] [cursor=pointer]:
+                    - /url: /legal/terms/
+                    - generic [ref=e497]: Termos
+                  - link [ref=e1151] [cursor=pointer]:
+                    - /url: /explore/locations/
+                    - generic [ref=e500]: Localizações
+                  - link [ref=e1152] [cursor=pointer]:
+                    - /url: /web/lite/
+                    - generic [ref=e503]: Instagram Lite
+                  - link [ref=e1153] [cursor=pointer]:
+                    - /url: https://www.meta.ai/?utm_source=foa_web_footer
+                    - generic [ref=e506]: Meta AI
+                  - link [ref=e1154] [cursor=pointer]:
+                    - /url: https://www.threads.com/
+                    - generic [ref=e509]: Threads
+                  - link [ref=e1155] [cursor=pointer]:
+                    - /url: https://www.facebook.com/help/instagram/261704639352628
+                    - generic [ref=e512]: Upload de contatos e não usuários
+                  - link [ref=e1156] [cursor=pointer]:
+                    - /url: /accounts/meta_verified/?entrypoint=web_footer
+                    - generic [ref=e515]: Meta Verified
+                - generic [ref=e516]:
+                  - generic [ref=e517] [cursor=pointer]:
+                    - generic [ref=e518]:
+                      - generic [ref=e519]: Português (Brasil)
+                      - img [ref=e1157]
+                    - combobox [ref=e1158]
+                  - generic [ref=e526]: © 2026 Instagram from Meta
+        - button "Mensagens" [ref=e529] [cursor=pointer]:
+          - generic "Mensagens" [ref=e530]:
+            - generic [ref=e531]:
+              - img "Mensagens" [ref=e534]
+              - generic [ref=e537]: Mensagens
+  - generic [ref=e1161]:
+    - button "Fechar" [ref=e1164] [cursor=pointer]:
+      - img "Fechar" [ref=e1166]
+    - generic [ref=e1170]:
+      - generic:
+        - dialog:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - button "Voltar" [ref=e1172] [cursor=pointer]:
+                    - img "Voltar" [ref=e1175]
+                  - button "Avançar" [ref=e1178] [cursor=pointer]:
+                    - img "Avançar" [ref=e1181]
+            - generic:
+              - generic:
+                - article:
+                  - generic:
+                    - button "Photo by Dra. Milena Grossi Germiniani on March 19, 2025." [ref=e1185]:
+                      - img "Photo by Dra. Milena Grossi Germiniani on March 19, 2025." [ref=e1189]
+                    - generic [ref=e1191]:
+                      - generic [ref=e1193]:
+                        - banner [ref=e1194]:
+                          - button "Foto do perfil de dramilenagrossigerminiani" [ref=e1199] [cursor=pointer]:
+                            - link "Foto do perfil de dramilenagrossigerminiani" [ref=e1201]:
+                              - img "Foto do perfil de dramilenagrossigerminiani" [ref=e1202]
+                          - generic [ref=e1204]:
+                            - link "dramilenagrossigerminiani" [ref=e1213] [cursor=pointer]:
+                              - /url: /dramilenagrossigerminiani/
+                              - generic [ref=e1215]: dramilenagrossigerminiani
+                            - generic [ref=e1216]:
+                              - generic [ref=e1219]: •
+                              - button "Seguir" [ref=e1220] [cursor=pointer]:
+                                - generic [ref=e1222]: Seguir
+                        - button "Mais opções" [ref=e1226] [cursor=pointer]:
+                          - img "Mais opções" [ref=e1229]
+                      - generic [ref=e1233]:
+                        - generic [ref=e1234]:
+                          - button "Curtir" [ref=e1237] [cursor=pointer]:
+                            - img "Curtir" [ref=e1240]
+                          - button "Comentar" [ref=e1243] [cursor=pointer]:
+                            - img "Comentar" [ref=e1245]
+                          - button "Compartilhar post" [ref=e1248] [cursor=pointer]:
+                            - img "Compartilhar post" [ref=e1250]
+                          - button "Salvar" [ref=e1255] [cursor=pointer]:
+                            - button "Salvar" [ref=e1256]:
+                              - img "Salvar" [ref=e1258]
+                        - button "45 curtidas" [ref=e1264] [cursor=pointer]
+                        - list [ref=e1266]:
+                          - button [ref=e1267]:
+                            - listitem [ref=e1268]:
+                              - generic [ref=e1270]:
+                                - button "Foto do perfil de dramilenagrossigerminiani" [ref=e1274] [cursor=pointer]:
+                                  - link "Foto do perfil de dramilenagrossigerminiani" [ref=e1276]:
+                                    - img "Foto do perfil de dramilenagrossigerminiani" [ref=e1277]
+                                - generic [ref=e1278]:
+                                  - heading "dramilenagrossigerminiani" [active] [level=2] [ref=e1279]:
+                                    - link "dramilenagrossigerminiani" [ref=e1284] [cursor=pointer]:
+                                      - /url: /dramilenagrossigerminiani/
+                                  - heading [level=1] [ref=e1286]:
+                                    - text: Os tratamentos com Ultrassom Microfocado, são bem vindos aos pacientes que desejam um gerenciamento facial com abordagem mais conservadora.
+                                    - text: Através de um planejamento individualizado, é possível valorizar traços da beleza natural de cada paciente.
+                                    - text: Sempre teremos um pós operatório inicial, porém os resultados começam a ser tornar mais efetivos 30 dias após a aplicação. E assim vão se apresentando entre 60 a 90 dias, que é o tempo necessário para a formação de uma rede de colágeno e elastina organizada, proporcionando firmeza e sustentação.
+                                    - text: Através deste planejamento, é possível tratar flacidez, melhorar o contorno facial, promover Lifting facial, tratar áreas como papada e pescoço, melhorar a abertura do olhar, entre outros benefícios.
+                                    - text: "Mas atenção: os resultados são individuais, dependem do planejamento que inclui número de disparos, quantidade de camadas tratadas, saúde e hábitos do paciente."
+                                    - text: Um adequado acompanhamento profissional faz toda diferença em seu resultado final.
+                                    - text: Te aguardo para uma consulta comigo!
+                                    - link "#hof" [ref=e1287] [cursor=pointer]:
+                                      - /url: /explore/tags/hof/
+                                    - link "#harmonizacaofacial" [ref=e1288] [cursor=pointer]:
+                                      - /url: /explore/tags/harmonizacaofacial/
+                                    - link "#hipro" [ref=e1289] [cursor=pointer]:
+                                      - /url: /explore/tags/hipro/
+                                    - link "#hifu" [ref=e1290] [cursor=pointer]:
+                                      - /url: /explore/tags/hifu/
+                                    - link "#lineskinultra" [ref=e1291] [cursor=pointer]:
+                                      - /url: /explore/tags/lineskinultra/
+                                    - link "#ultrassommicrofocado" [ref=e1292] [cursor=pointer]:
+                                      - /url: /explore/tags/ultrassommicrofocado/
+                                  - time [ref=e1295]: 54 sem
+                          - generic [ref=e1298]:
+                            - list [ref=e1300]:
+                              - button "Foto do perfil de rafaferrazzzz rafaferrazzzz Procedimento maravilhoso 😍 amei o resultado 👏👏 54 sem 1 curtida Responder Curtir" [ref=e1301]:
+                                - listitem [ref=e1302]:
+                                  - generic [ref=e1303]:
+                                    - generic [ref=e1304]:
+                                      - button "Foto do perfil de rafaferrazzzz" [disabled] [ref=e1308]:
+                                        - link "Foto do perfil de rafaferrazzzz" [disabled] [ref=e1310] [cursor=pointer]:
+                                          - /url: /rafaferrazzzz/
+                                          - img "Foto do perfil de rafaferrazzzz" [ref=e1311]
+                                      - generic [ref=e1312]:
+                                        - heading "rafaferrazzzz" [level=3] [ref=e1313]:
+                                          - link "rafaferrazzzz" [ref=e1318] [cursor=pointer]:
+                                            - /url: /rafaferrazzzz/
+                                        - generic [ref=e1319]: Procedimento maravilhoso 😍 amei o resultado 👏👏
+                                        - generic [ref=e1321]:
+                                          - link "54 sem" [ref=e1322] [cursor=pointer]:
+                                            - /url: /p/DHZmI7Bvfat/c/18028128779649789/
+                                            - time [ref=e1323]: 54 sem
+                                          - button "1 curtida" [ref=e1324] [cursor=pointer]
+                                          - button "Responder" [ref=e1325] [cursor=pointer]
+                                    - button "Curtir" [ref=e1328] [cursor=pointer]:
+                                      - img "Curtir" [ref=e1331]
+                              - listitem [ref=e1333]:
+                                - list [ref=e1334]:
+                                  - listitem [ref=e1335]:
+                                    - button "Ver respostas (1)" [ref=e1337] [cursor=pointer]: Ver respostas (1)
+                            - list [ref=e1340]:
+                              - button "Foto do perfil de matheusale189 matheusale189 😍😍😍 @ferrazalexandrenicolau 54 sem 1 curtida Responder Curtir" [ref=e1341]:
+                                - listitem [ref=e1342]:
+                                  - generic [ref=e1343]:
+                                    - generic [ref=e1344]:
+                                      - button "Foto do perfil de matheusale189" [disabled] [ref=e1348]:
+                                        - link "Foto do perfil de matheusale189" [disabled] [ref=e1350] [cursor=pointer]:
+                                          - /url: /matheusale189/
+                                          - img "Foto do perfil de matheusale189" [ref=e1351]
+                                      - generic [ref=e1352]:
+                                        - heading "matheusale189" [level=3] [ref=e1353]:
+                                          - link "matheusale189" [ref=e1358] [cursor=pointer]:
+                                            - /url: /matheusale189/
+                                        - generic [ref=e1360]:
+                                          - text: 😍😍😍
+                                          - link "@ferrazalexandrenicolau" [ref=e1361] [cursor=pointer]:
+                                            - /url: /ferrazalexandrenicolau/
+                                        - generic [ref=e1363]:
+                                          - link "54 sem" [ref=e1364] [cursor=pointer]:
+                                            - /url: /p/DHZmI7Bvfat/c/18168767572336754/
+                                            - time [ref=e1365]: 54 sem
+                                          - button "1 curtida" [ref=e1366] [cursor=pointer]
+                                          - button "Responder" [ref=e1367] [cursor=pointer]
+                                    - button "Curtir" [ref=e1370] [cursor=pointer]:
+                                      - img "Curtir" [ref=e1373]
+                              - listitem [ref=e1375]:
+                                - list [ref=e1376]:
+                                  - listitem [ref=e1377]:
+                                    - button "Ver respostas (1)" [ref=e1379] [cursor=pointer]: Ver respostas (1)
+                            - list [ref=e1382]:
+                              - button "Foto do perfil de gigerminiani gigerminiani mais linda ainda minha sogrinha ❤️ 54 sem 1 curtida Responder Curtir" [ref=e1383]:
+                                - listitem [ref=e1384]:
+                                  - generic [ref=e1385]:
+                                    - generic [ref=e1386]:
+                                      - button "Foto do perfil de gigerminiani" [disabled] [ref=e1390]:
+                                        - link "Foto do perfil de gigerminiani" [disabled] [ref=e1392] [cursor=pointer]:
+                                          - /url: /gigerminiani/
+                                          - img "Foto do perfil de gigerminiani" [ref=e1393]
+                                      - generic [ref=e1394]:
+                                        - heading "gigerminiani" [level=3] [ref=e1395]:
+                                          - link "gigerminiani" [ref=e1400] [cursor=pointer]:
+                                            - /url: /gigerminiani/
+                                        - generic [ref=e1401]: mais linda ainda minha sogrinha ❤️
+                                        - generic [ref=e1403]:
+                                          - link "54 sem" [ref=e1404] [cursor=pointer]:
+                                            - /url: /p/DHZmI7Bvfat/c/18075548449754550/
+                                            - time [ref=e1405]: 54 sem
+                                          - button "1 curtida" [ref=e1406] [cursor=pointer]
+                                          - button "Responder" [ref=e1407] [cursor=pointer]
+                                    - button "Curtir" [ref=e1410] [cursor=pointer]:
+                                      - img "Curtir" [ref=e1413]
+                              - listitem [ref=e1415]:
+                                - list [ref=e1416]:
+                                  - listitem [ref=e1417]:
+                                    - button "Ver respostas (1)" [ref=e1419] [cursor=pointer]: Ver respostas (1)
+                            - list [ref=e1422]:
+                              - button "Foto do perfil de gabrielagerminianii gabrielagerminianii Resultado incrível 🔥🔥🔥 54 sem 1 curtida Responder Curtir" [ref=e1423]:
+                                - listitem [ref=e1424]:
+                                  - generic [ref=e1425]:
+                                    - generic [ref=e1426]:
+                                      - button "Foto do perfil de gabrielagerminianii" [disabled] [ref=e1430]:
+                                        - link "Foto do perfil de gabrielagerminianii" [disabled] [ref=e1432] [cursor=pointer]:
+                                          - /url: /gabrielagerminianii/
+                                          - img "Foto do perfil de gabrielagerminianii" [ref=e1433]
+                                      - generic [ref=e1434]:
+                                        - heading "gabrielagerminianii" [level=3] [ref=e1435]:
+                                          - link "gabrielagerminianii" [ref=e1440] [cursor=pointer]:
+                                            - /url: /gabrielagerminianii/
+                                        - generic [ref=e1441]: Resultado incrível 🔥🔥🔥
+                                        - generic [ref=e1443]:
+                                          - link "54 sem" [ref=e1444] [cursor=pointer]:
+                                            - /url: /p/DHZmI7Bvfat/c/17865658482357203/
+                                            - time [ref=e1445]: 54 sem
+                                          - button "1 curtida" [ref=e1446] [cursor=pointer]
+                                          - button "Responder" [ref=e1447] [cursor=pointer]
+                                    - button "Curtir" [ref=e1450] [cursor=pointer]:
+                                      - img "Curtir" [ref=e1453]
+                              - listitem [ref=e1455]:
+                                - list [ref=e1456]:
+                                  - listitem [ref=e1457]:
+                                    - button "Ver respostas (1)" [ref=e1459] [cursor=pointer]: Ver respostas (1)
+                            - list [ref=e1462]:
+                              - button "Foto do perfil de carolbrandaao carolbrandaao Que resultado!!! 👏👏👏 profissional impecável 54 sem 2 curtidas Responder Curtir" [ref=e1463]:
+                                - listitem [ref=e1464]:
+                                  - generic [ref=e1465]:
+                                    - generic [ref=e1466]:
+                                      - button "Foto do perfil de carolbrandaao" [disabled] [ref=e1470]:
+                                        - link "Foto do perfil de carolbrandaao" [disabled] [ref=e1472] [cursor=pointer]:
+                                          - /url: /carolbrandaao/
+                                          - img "Foto do perfil de carolbrandaao" [ref=e1473]
+                                      - generic [ref=e1474]:
+                                        - heading "carolbrandaao" [level=3] [ref=e1475]:
+                                          - link "carolbrandaao" [ref=e1480] [cursor=pointer]:
+                                            - /url: /carolbrandaao/
+                                        - generic [ref=e1481]: Que resultado!!! 👏👏👏 profissional impecável
+                                        - generic [ref=e1483]:
+                                          - link "54 sem" [ref=e1484] [cursor=pointer]:
+                                            - /url: /p/DHZmI7Bvfat/c/18062765365966733/
+                                            - time [ref=e1485]: 54 sem
+                                          - button "2 curtidas" [ref=e1486] [cursor=pointer]
+                                          - button "Responder" [ref=e1487] [cursor=pointer]
+                                    - button "Curtir" [ref=e1490] [cursor=pointer]:
+                                      - img "Curtir" [ref=e1493]
+                              - listitem [ref=e1495]:
+                                - list [ref=e1496]:
+                                  - listitem [ref=e1497]:
+                                    - button "Ver respostas (1)" [ref=e1499] [cursor=pointer]: Ver respostas (1)
+                        - link "19 de março de 2025" [ref=e1504] [cursor=pointer]:
+                          - /url: /dramilenagrossigerminiani/p/DHZmI7Bvfat/
+                          - time [ref=e1506]: 19 de março de 2025
+                        - generic [ref=e1510]:
+                          - button "Emoji" [ref=e1512] [cursor=pointer]:
+                            - img "Emoji" [ref=e1514]
+                          - textbox "Adicione um comentário..." [ref=e1516]
+                          - generic [ref=e1517]:
+                            - button "Postar" [disabled]

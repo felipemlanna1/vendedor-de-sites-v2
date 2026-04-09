@@ -1,0 +1,394 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e86] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e91]
+        - link "Foto do perfil de _pipelinestudio" [ref=e97] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e102]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e103]
+      - generic [ref=e104]:
+        - link "Configurações" [ref=e107] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e112]
+        - link "Também da Meta" [ref=e115] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e120]
+    - generic [ref=e123]:
+      - main [ref=e124]:
+        - generic [ref=e125]:
+          - generic [ref=e127]:
+            - button [ref=e132]:
+              - img [ref=e138]
+            - generic [ref=e141]:
+              - generic [ref=e143]:
+                - button "Foto do perfil de dramilenagrossigerminiani" [ref=e148] [cursor=pointer]:
+                  - link "Foto do perfil de dramilenagrossigerminiani" [ref=e150]:
+                    - img "Foto do perfil de dramilenagrossigerminiani" [ref=e151]
+                - generic [ref=e154]:
+                  - link "dramilenagrossigerminiani" [ref=e163] [cursor=pointer]:
+                    - /url: /dramilenagrossigerminiani/
+                    - generic [ref=e166]: dramilenagrossigerminiani
+                  - button "Seguir" [ref=e168] [cursor=pointer]
+                - button "Mais opções" [ref=e171] [cursor=pointer]:
+                  - img "Mais opções" [ref=e174]
+              - separator [ref=e178]
+              - generic [ref=e180]:
+                - generic [ref=e182]:
+                  - link "Foto do perfil de dramilenagrossigerminiani" [ref=e187] [cursor=pointer]:
+                    - /url: /dramilenagrossigerminiani/
+                    - img "Foto do perfil de dramilenagrossigerminiani" [ref=e188]
+                  - generic [ref=e192]:
+                    - generic [ref=e193]:
+                      - link "dramilenagrossigerminiani" [ref=e197] [cursor=pointer]:
+                        - /url: /dramilenagrossigerminiani/
+                        - generic [ref=e200]: dramilenagrossigerminiani
+                      - time [ref=e202]: 54 sem
+                    - generic [ref=e203]:
+                      - text: Os tratamentos com Ultrassom Microfocado, são bem vindos aos pacientes que desejam um gerenciamento facial com abordagem mais conservadora.
+                      - text: Através de um planejamento individualizado, é possível valorizar traços da beleza natural de cada paciente.
+                      - text: Sempre teremos um pós operatório inicial, porém os resultados começam a ser tornar mais efetivos 30 dias após a aplicação. E assim vão se apresentando entre 60 a 90 dias, que é o tempo necessário para a formação de uma rede de colágeno e elastina organizada, proporcionando firmeza e sustentação.
+                      - text: Através deste planejamento, é possível tratar flacidez, melhorar o contorno facial, promover Lifting facial, tratar áreas como papada e pescoço, melhorar a abertura do olhar, entre outros benefícios.
+                      - text: "Mas atenção: os resultados são individuais, dependem do planejamento que inclui número de disparos, quantidade de camadas tratadas, saúde e hábitos do paciente."
+                      - text: Um adequado acompanhamento profissional faz toda diferença em seu resultado final.
+                      - text: Te aguardo para uma consulta comigo!
+                      - link "#hof" [ref=e204] [cursor=pointer]:
+                        - /url: /explore/tags/hof/
+                      - link "#harmonizacaofacial" [ref=e205] [cursor=pointer]:
+                        - /url: /explore/tags/harmonizacaofacial/
+                      - link "#hipro" [ref=e206] [cursor=pointer]:
+                        - /url: /explore/tags/hipro/
+                      - link "#hifu" [ref=e207] [cursor=pointer]:
+                        - /url: /explore/tags/hifu/
+                      - link "#lineskinultra" [ref=e208] [cursor=pointer]:
+                        - /url: /explore/tags/lineskinultra/
+                      - link "#ultrassommicrofocado" [ref=e209] [cursor=pointer]:
+                        - /url: /explore/tags/ultrassommicrofocado/
+                - generic [ref=e210]:
+                  - generic [ref=e211]:
+                    - generic [ref=e213]:
+                      - link "Foto do perfil de rafaferrazzzz" [ref=e219] [cursor=pointer]:
+                        - /url: /rafaferrazzzz/
+                        - img "Foto do perfil de rafaferrazzzz" [ref=e220]
+                      - generic [ref=e221]:
+                        - generic [ref=e222]:
+                          - generic [ref=e224]:
+                            - generic [ref=e225]:
+                              - link "rafaferrazzzz" [ref=e230] [cursor=pointer]:
+                                - /url: /rafaferrazzzz/
+                                - generic [ref=e233]: rafaferrazzzz
+                              - link "54 sem" [ref=e235] [cursor=pointer]:
+                                - /url: /p/DHZmI7Bvfat/c/18028128779649789/
+                                - time [ref=e236]: 54 sem
+                            - generic [ref=e238]: Procedimento maravilhoso 😍 amei o resultado 👏👏
+                          - generic [ref=e239]:
+                            - button "1 curtida" [ref=e240] [cursor=pointer]:
+                              - generic [ref=e242]: 1 curtida
+                            - button "Responder" [ref=e243] [cursor=pointer]:
+                              - generic [ref=e245]: Responder
+                        - button "Curtir" [ref=e250] [cursor=pointer]:
+                          - img "Curtir" [ref=e253]
+                    - button "Ver todas as 1 respostas" [ref=e256] [cursor=pointer]:
+                      - generic [ref=e259]: Ver todas as 1 respostas
+                  - generic [ref=e260]:
+                    - generic [ref=e262]:
+                      - link "Foto do perfil de matheusale189" [ref=e268] [cursor=pointer]:
+                        - /url: /matheusale189/
+                        - img "Foto do perfil de matheusale189" [ref=e269]
+                      - generic [ref=e270]:
+                        - generic [ref=e271]:
+                          - generic [ref=e273]:
+                            - generic [ref=e274]:
+                              - link "matheusale189" [ref=e279] [cursor=pointer]:
+                                - /url: /matheusale189/
+                                - generic [ref=e282]: matheusale189
+                              - link "54 sem" [ref=e284] [cursor=pointer]:
+                                - /url: /p/DHZmI7Bvfat/c/18168767572336754/
+                                - time [ref=e285]: 54 sem
+                            - generic [ref=e287]:
+                              - text: 😍😍😍
+                              - link "@ferrazalexandrenicolau" [ref=e288] [cursor=pointer]:
+                                - /url: /ferrazalexandrenicolau/
+                          - generic [ref=e289]:
+                            - button "1 curtida" [ref=e290] [cursor=pointer]:
+                              - generic [ref=e292]: 1 curtida
+                            - button "Responder" [ref=e293] [cursor=pointer]:
+                              - generic [ref=e295]: Responder
+                        - button "Curtir" [ref=e300] [cursor=pointer]:
+                          - img "Curtir" [ref=e303]
+                    - button "Ver todas as 1 respostas" [ref=e306] [cursor=pointer]:
+                      - generic [ref=e309]: Ver todas as 1 respostas
+                  - generic [ref=e310]:
+                    - generic [ref=e312]:
+                      - link "Foto do perfil de gigerminiani" [ref=e318] [cursor=pointer]:
+                        - /url: /gigerminiani/
+                        - img "Foto do perfil de gigerminiani" [ref=e319]
+                      - generic [ref=e320]:
+                        - generic [ref=e321]:
+                          - generic [ref=e323]:
+                            - generic [ref=e324]:
+                              - link "gigerminiani" [ref=e329] [cursor=pointer]:
+                                - /url: /gigerminiani/
+                                - generic [ref=e332]: gigerminiani
+                              - link "54 sem" [ref=e334] [cursor=pointer]:
+                                - /url: /p/DHZmI7Bvfat/c/18075548449754550/
+                                - time [ref=e335]: 54 sem
+                            - generic [ref=e337]: mais linda ainda minha sogrinha ❤️
+                          - generic [ref=e338]:
+                            - button "1 curtida" [ref=e339] [cursor=pointer]:
+                              - generic [ref=e341]: 1 curtida
+                            - button "Responder" [ref=e342] [cursor=pointer]:
+                              - generic [ref=e344]: Responder
+                        - button "Curtir" [ref=e349] [cursor=pointer]:
+                          - img "Curtir" [ref=e352]
+                    - button "Ver todas as 1 respostas" [ref=e355] [cursor=pointer]:
+                      - generic [ref=e358]: Ver todas as 1 respostas
+                  - generic [ref=e359]:
+                    - generic [ref=e361]:
+                      - link "Foto do perfil de gabrielagerminianii" [ref=e367] [cursor=pointer]:
+                        - /url: /gabrielagerminianii/
+                        - img "Foto do perfil de gabrielagerminianii" [ref=e368]
+                      - generic [ref=e369]:
+                        - generic [ref=e370]:
+                          - generic [ref=e372]:
+                            - generic [ref=e373]:
+                              - link "gabrielagerminianii" [ref=e378] [cursor=pointer]:
+                                - /url: /gabrielagerminianii/
+                                - generic [ref=e381]: gabrielagerminianii
+                              - link "54 sem" [ref=e383] [cursor=pointer]:
+                                - /url: /p/DHZmI7Bvfat/c/17865658482357203/
+                                - time [ref=e384]: 54 sem
+                            - generic [ref=e386]: Resultado incrível 🔥🔥🔥
+                          - generic [ref=e387]:
+                            - button "1 curtida" [ref=e388] [cursor=pointer]:
+                              - generic [ref=e390]: 1 curtida
+                            - button "Responder" [ref=e391] [cursor=pointer]:
+                              - generic [ref=e393]: Responder
+                        - button "Curtir" [ref=e398] [cursor=pointer]:
+                          - img "Curtir" [ref=e401]
+                    - button "Ver todas as 1 respostas" [ref=e404] [cursor=pointer]:
+                      - generic [ref=e407]: Ver todas as 1 respostas
+                  - generic [ref=e408]:
+                    - generic [ref=e410]:
+                      - link "Foto do perfil de carolbrandaao" [ref=e416] [cursor=pointer]:
+                        - /url: /carolbrandaao/
+                        - img "Foto do perfil de carolbrandaao" [ref=e417]
+                      - generic [ref=e418]:
+                        - generic [ref=e419]:
+                          - generic [ref=e421]:
+                            - generic [ref=e422]:
+                              - link "carolbrandaao" [ref=e427] [cursor=pointer]:
+                                - /url: /carolbrandaao/
+                                - generic [ref=e430]: carolbrandaao
+                              - link "54 sem" [ref=e432] [cursor=pointer]:
+                                - /url: /p/DHZmI7Bvfat/c/18062765365966733/
+                                - time [ref=e433]: 54 sem
+                            - generic [ref=e435]: Que resultado!!! 👏👏👏 profissional impecável
+                          - generic [ref=e436]:
+                            - button "2 curtidas" [ref=e437] [cursor=pointer]:
+                              - generic [ref=e439]: 2 curtidas
+                            - button "Responder" [ref=e440] [cursor=pointer]:
+                              - generic [ref=e442]: Responder
+                        - button "Curtir" [ref=e447] [cursor=pointer]:
+                          - img "Curtir" [ref=e450]
+                    - button "Ver todas as 1 respostas" [ref=e453] [cursor=pointer]:
+                      - generic [ref=e456]: Ver todas as 1 respostas
+              - generic [ref=e457]:
+                - generic [ref=e458]:
+                  - generic [ref=e459]:
+                    - button "Curtir" [ref=e462] [cursor=pointer]:
+                      - img "Curtir" [ref=e465]
+                    - button "45" [ref=e467] [cursor=pointer]
+                    - button "Comentar" [ref=e469] [cursor=pointer]:
+                      - img "Comentar" [ref=e471]
+                    - button "10" [ref=e473] [cursor=pointer]
+                    - button "Compartilhar" [ref=e474] [cursor=pointer]:
+                      - img "Compartilhar" [ref=e475]
+                  - button "Salvar" [ref=e480] [cursor=pointer]:
+                    - button "Salvar" [ref=e481]:
+                      - img "Salvar" [ref=e483]
+                - link "19 de março de 2025" [ref=e487] [cursor=pointer]:
+                  - /url: /dramilenagrossigerminiani/p/DHZmI7Bvfat/
+                  - time [ref=e489]: 19 de março de 2025
+              - generic [ref=e492]:
+                - link [ref=e493]
+                - generic [ref=e495]:
+                  - button "Emoji" [ref=e497] [cursor=pointer]:
+                    - img "Emoji" [ref=e499]
+                  - textbox "Adicione um comentário..." [ref=e501]
+          - separator [ref=e503]
+          - generic [ref=e504]:
+            - generic [ref=e506]:
+              - text: Mais posts de
+              - link "dramilenagrossigerminiani" [ref=e507] [cursor=pointer]:
+                - /url: /dramilenagrossigerminiani/
+            - generic [ref=e510]:
+              - generic [ref=e511]:
+                - link "Skinbooster é um tratamento estético injetável feito para melhorar a hidratação profunda da pele. Ele não muda traços nem dá volume, diferente de preenchedores. A função dele é devolver viço, maciez e luminosidade, deixando a pele com aquele aspecto saudável de dentro pra fora. Ele é composto principalmente por ácido hialurônico bem leve, que age como um “reservatório” de água dentro da pele. Assim, melhora a textura, reduz linhas finas, suaviza poros e dá mais firmeza. O resultado é uma pele mais hidratada, bonita e com toque sedoso, perfeita para quem quer um efeito natural e progressivo. Quer saber mais sobre esse procedimento que está sendo o queridinho do ano? Agende a sua avaliação através do link na bio ou me mande uma DM ☺️🩷 Clipe" [ref=e513] [cursor=pointer]:
+                  - /url: /dramilenagrossigerminiani/reel/DSASdxxDRRZ/
+                  - img "Skinbooster é um tratamento estético injetável feito para melhorar a hidratação profunda da pele. Ele não muda traços nem dá volume, diferente de preenchedores. A função dele é devolver viço, maciez e luminosidade, deixando a pele com aquele aspecto saudável de dentro pra fora. Ele é composto principalmente por ácido hialurônico bem leve, que age como um “reservatório” de água dentro da pele. Assim, melhora a textura, reduz linhas finas, suaviza poros e dá mais firmeza. O resultado é uma pele mais hidratada, bonita e com toque sedoso, perfeita para quem quer um efeito natural e progressivo. Quer saber mais sobre esse procedimento que está sendo o queridinho do ano? Agende a sua avaliação através do link na bio ou me mande uma DM ☺️🩷" [ref=e516]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - 'link "✨HIPRO day✨ Principais benefícios: - Efeito lifting e rejuvenescimento; - Redução de rugas finas e linhas de expressão; - Melhora do contorno facial; - Resultados progressivos; - Segurança: procedimento não invasivo; - Recuperação rápida; - Tratamento mais confortável e que pode ser realizado sem anestesia. Nos mande uma mensagem através do link disponível na nossa bio e agende a sua avaliação💋 Clipe" [ref=e519] [cursor=pointer]':
+                  - /url: /dramilenagrossigerminiani/reel/DRVYcmOEpVZ/
+                  - 'img "✨HIPRO day✨ Principais benefícios: - Efeito lifting e rejuvenescimento; - Redução de rugas finas e linhas de expressão; - Melhora do contorno facial; - Resultados progressivos; - Segurança: procedimento não invasivo; - Recuperação rápida; - Tratamento mais confortável e que pode ser realizado sem anestesia. Nos mande uma mensagem através do link disponível na nossa bio e agende a sua avaliação💋" [ref=e522]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - link "Photo by Dra. Milena Grossi Germiniani in Ouro Fino - MG." [ref=e525] [cursor=pointer]:
+                  - /url: /dramilenagrossigerminiani/p/DRLJZp8EoqL/
+                  - img "Photo by Dra. Milena Grossi Germiniani in Ouro Fino - MG." [ref=e528]
+              - generic [ref=e530]:
+                - 'link "Entre em contato! #selfcare #autocuidado #botox #harmonizacaofacial #bioestimulador Carrossel" [ref=e532] [cursor=pointer]':
+                  - /url: /dramilenagrossigerminiani/p/DQ7rPcykQfP/
+                  - 'img "Entre em contato! #selfcare #autocuidado #botox #harmonizacaofacial #bioestimulador" [ref=e535]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - 'link "🩷🎀 Interceptar e tratar precocemente as alterações do crescimento e desenvolvimento facial são as maiores atuações da Ortopedia Funcional dos Maxilares. Quando atuamos principalmente em crianças e adolescentes buscando corrigir desequilíbrios ósseos e musculares, promovemos mais rapidamente a restauração das funções como mastigação, respiração e fala. 💝 Agende a avaliação de seu filho através do link na minha bio! A consulta preventiva pode promover resultados surpreendentes a longo prazo, contribuindo para a saúde geral do paciente! #aparelhoortodontico #hellokittylover #odontopediatria Clipe" [ref=e538] [cursor=pointer]':
+                  - /url: /dramilenagrossigerminiani/reel/DPByZxFDcqK/
+                  - 'img "🩷🎀 Interceptar e tratar precocemente as alterações do crescimento e desenvolvimento facial são as maiores atuações da Ortopedia Funcional dos Maxilares. Quando atuamos principalmente em crianças e adolescentes buscando corrigir desequilíbrios ósseos e musculares, promovemos mais rapidamente a restauração das funções como mastigação, respiração e fala. 💝 Agende a avaliação de seu filho através do link na minha bio! A consulta preventiva pode promover resultados surpreendentes a longo prazo, contribuindo para a saúde geral do paciente! #aparelhoortodontico #hellokittylover #odontopediatria" [ref=e541]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - 'link "Venha desfrutar dos benefícios desta tecnologia! #hipro #harmonizaçãofacial #harmonização #explorepage✨ Clipe" [ref=e544] [cursor=pointer]':
+                  - /url: /dramilenagrossigerminiani/reel/DOHZP_5EnyF/
+                  - 'img "Venha desfrutar dos benefícios desta tecnologia! #hipro #harmonizaçãofacial #harmonização #explorepage✨" [ref=e547]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+      - contentinfo [ref=e549]:
+        - generic [ref=e550]:
+          - generic [ref=e552]:
+            - link "Meta" [ref=e554] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e555]: Meta
+            - link "Sobre" [ref=e557] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e558]: Sobre
+            - link "Blog" [ref=e560] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e561]: Blog
+            - link "Carreiras" [ref=e563] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e564]: Carreiras
+            - link "Ajuda" [ref=e566] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e567]: Ajuda
+            - link "API" [ref=e569] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e570]: API
+            - link "Privacidade" [ref=e572] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e573]: Privacidade
+            - link "Termos" [ref=e575] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e576]: Termos
+            - link "Localizações" [ref=e578] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e579]: Localizações
+            - link "Instagram Lite" [ref=e581] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e582]: Instagram Lite
+            - link "Meta AI" [ref=e584] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e585]: Meta AI
+            - link "Threads" [ref=e587] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e588]: Threads
+            - link "Upload de contatos e não usuários" [ref=e590] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e591]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e593] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e594]: Meta Verified
+          - generic [ref=e595]:
+            - generic [ref=e596] [cursor=pointer]:
+              - generic [ref=e597]:
+                - generic [ref=e598]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e601]
+              - combobox "Trocar idioma de exibição" [ref=e603]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e605]: © 2026 Instagram from Meta
+  - button "Mensagens Mensagens" [ref=e607] [cursor=pointer]:
+    - generic [ref=e609]:
+      - img "Mensagens" [ref=e611]
+      - generic [ref=e614]: Mensagens

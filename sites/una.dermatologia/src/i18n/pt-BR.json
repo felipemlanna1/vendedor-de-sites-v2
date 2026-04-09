@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre",
+    "team": "Equipe",
+    "services": "Servicos",
+    "technology": "Tecnologia",
+    "location": "Localizacao",
+    "contact": "Contato",
+    "cta": "Agende sua consulta"
+  },
+  "hero": {
+    "headline": "Onde a ciencia ve alem da pele",
+    "subtitle": "Dermatologia clinica, cirurgica e estetica com diagnostico por imagem no coracao de Florianopolis",
+    "cta_primary": "Agende pelo WhatsApp",
+    "cta_secondary": "Conheca a clinica",
+    "badge_google": "5.0 no Google",
+    "badge_doctoralia": "5.0 na Doctoralia"
+  },
+  "impact": {
+    "phrase": "Um novo conceito em tratamento dermatologico"
+  },
+  "about": {
+    "label": "Sobre a UNA",
+    "title": "Ciencia, tecnologia e cuidado em um so lugar",
+    "paragraph_1": "A UNA Dermatologia nasceu de uma convicao: dermatologia moderna exige mais do que olhos treinados. Exige tecnologia de diagnostico por imagem, equipe multidisciplinar e compromisso com evidencias cientificas.",
+    "paragraph_2": "Fundada em 2023 pela Dra. Ariel Cordova Rosa, a clinica reune dermatologistas, radiologista e enfermeira num espaco acolhedor e elegante no centro de Florianopolis.",
+    "paragraph_3": "Aqui, cada consulta e um encontro entre rigor cientifico e atencao genuina. Porque sua pele merece ser compreendida, nao apenas tratada.",
+    "mission_title": "Missao",
+    "mission": "Cuidar da saude da pele integralmente com tratamentos baseados em evidencias cientificas.",
+    "vision_title": "Visao",
+    "vision": "Ser referencia em dermatologia moderna e humanizada em Santa Catarina.",
+    "values_title": "Valores",
+    "values": "Etica, seguranca e rigor cientifico."
+  },
+  "team": {
+    "label": "Equipe",
+    "title": "Profissionais que fazem a diferenca",
+    "subtitle": "Uma equipe multidisciplinar dedicada ao cuidado integral da sua pele",
+    "role_rt": "Responsavel Tecnica",
+    "role_dermatologist": "Dermatologista",
+    "role_radiologist": "Radiologista",
+    "role_nurse": "Enfermeira",
+    "formation": "Formacao",
+    "credentials": "Credenciais",
+    "areas": "Areas de atuacao"
+  },
+  "services": {
+    "label": "Servicos",
+    "title": "Areas de atuacao",
+    "subtitle": "Cuidado completo para a saude e beleza da sua pele",
+    "clinica_title": "Dermatologia clinica",
+    "clinica_desc": "Diagnostico, prevencao e tratamento de doencas da pele, cabelos e unhas com abordagem baseada em evidencias.",
+    "cirurgica_title": "Dermatologia cirurgica",
+    "cirurgica_desc": "Procedimentos cirurgicos dermatologicos com tecnica precisa e atencao ao resultado estetico.",
+    "estetica_title": "Dermatologia estetica",
+    "estetica_desc": "Tratamentos esteticos avancados com tecnologias de ultima geracao para rejuvenescimento e harmonizacao.",
+    "diagnostico_title": "Diagnostico por imagem",
+    "diagnostico_desc": "Ultrassom dermatologico e dermatoscopia digital para diagnosticos mais precisos e precoces.",
+    "cta": "Saiba mais sobre nossos servicos"
+  },
+  "technology": {
+    "label": "Diferencial",
+    "title": "Vendo alem da superficie",
+    "subtitle": "Somos uma das poucas clinicas de Florianopolis com ultrassom dermatologico in-house",
+    "paragraph_1": "Enquanto a maioria das clinicas dermatologicas depende apenas da observacao visual, a UNA conta com um radiologista especializado na equipe permanente.",
+    "paragraph_2": "O ultrassom dermatologico permite visualizar as camadas da pele em alta resolucao, auxiliando no diagnostico de lesoes, planejamento cirurgico e acompanhamento de tratamentos.",
+    "paragraph_3": "Essa integracao entre dermatologia e radiologia e rara e representa o futuro do diagnostico dermatologico.",
+    "stat_1_label": "Nota no Google",
+    "stat_2_label": "Nota na Doctoralia",
+    "stat_3_label": "Avaliacoes",
+    "stat_4_label": "Reclamacoes"
+  },
+  "social_proof": {
+    "title": "Reconhecida pela excelencia",
+    "google": "Google",
+    "doctoralia": "Doctoralia",
+    "reviews": "avaliacoes",
+    "zero_complaints": "Zero reclamacoes",
+    "reclame_aqui": "no Reclame Aqui"
+  },
+  "space": {
+    "label": "Nosso espaco",
+    "title": "Acolhedor e elegante, no coracao de Florianopolis",
+    "paragraph": "Localizada no Edificio Estacao Milano, ao lado do Patio Milano, a UNA foi projetada para oferecer conforto e privacidade em cada consulta. Um ambiente que reflete nosso compromisso com excelencia.",
+    "atendimento": "Atendimento com hora marcada",
+    "particular": "Exclusivamente particular"
+  },
+  "location": {
+    "label": "Localizacao",
+    "title": "Como chegar",
+    "address": "Ed. Estacao Milano, R. Angelo La Porta, 53 - sala 904",
+    "neighborhood": "Centro, Florianopolis - SC",
+    "zip": "CEP 88020-600",
+    "reference": "Ao lado do Patio Milano",
+    "phone_label": "Telefone",
+    "whatsapp_label": "WhatsApp",
+    "open_maps": "Abrir no Google Maps"
+  },
+  "cta_final": {
+    "title": "Sua pele tem uma historia",
+    "subtitle": "Vamos le-la juntos. Agende sua consulta e descubra um novo conceito em cuidado dermatologico.",
+    "button": "Agende pelo WhatsApp",
+    "phone": "Ou ligue: (48) 3085-0247",
+    "doctoralia": "Agende pela Doctoralia"
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados.",
+    "cnpj": "CNPJ: 51.054.141/0001-28",
+    "rt": "Responsavel Tecnica: Dra. Ariel Cordova Rosa - CRM/SC 23372 | RQE 18753",
+    "instagram": "Instagram",
+    "facebook": "Facebook",
+    "doctoralia": "Doctoralia",
+    "privacy": "Politica de Privacidade"
+  },
+  "lang": {
+    "toggle": "English",
+    "current": "PT"
+  }
+}

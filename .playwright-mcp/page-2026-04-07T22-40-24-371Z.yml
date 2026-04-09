@@ -1,0 +1,274 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e88] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e93]
+        - link "Foto do perfil de _pipelinestudio" [ref=e99] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e104]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e105]
+      - generic [ref=e106]:
+        - link "Configurações" [ref=e109] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e114]
+        - link "Também da Meta" [ref=e117] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e122]
+    - generic [ref=e125]:
+      - main [ref=e126]:
+        - generic [ref=e127]:
+          - generic [ref=e129]:
+            - button [ref=e134]:
+              - generic [ref=e141]:
+                - list [ref=e143]:
+                  - listitem [ref=e144]
+                  - listitem [ref=e145]:
+                    - img [ref=e152]
+                  - listitem [ref=e154]:
+                    - img [ref=e161]
+                - button [ref=e163] [cursor=pointer]
+            - generic [ref=e166]:
+              - generic [ref=e168]:
+                - button "Foto do perfil de thalita.arquiteta" [disabled] [ref=e173]:
+                  - link "Foto do perfil de thalita.arquiteta" [disabled] [ref=e175] [cursor=pointer]:
+                    - img "Foto do perfil de thalita.arquiteta" [ref=e176]
+                - generic [ref=e179]:
+                  - link "thalita.arquiteta" [ref=e188] [cursor=pointer]:
+                    - /url: /thalita.arquiteta/
+                    - generic [ref=e191]: thalita.arquiteta
+                  - button "Seguir" [ref=e193] [cursor=pointer]
+                - button "Mais opções" [ref=e196] [cursor=pointer]:
+                  - img "Mais opções" [ref=e199]
+              - separator [ref=e203]
+              - generic [ref=e205]:
+                - generic [ref=e207]:
+                  - link "Foto do perfil de thalita.arquiteta" [ref=e212] [cursor=pointer]:
+                    - /url: /thalita.arquiteta/
+                    - img "Foto do perfil de thalita.arquiteta" [ref=e213]
+                  - generic [ref=e217]:
+                    - generic [ref=e218]:
+                      - link "thalita.arquiteta" [ref=e222] [cursor=pointer]:
+                        - /url: /thalita.arquiteta/
+                        - generic [ref=e225]: thalita.arquiteta
+                      - generic [ref=e226]: Editado
+                      - generic [ref=e227]: •
+                      - time [ref=e229]: 52 sem
+                    - generic [ref=e230]:
+                      - text: 🔨🏠 Contratar uma arquiteta não é gasto, é um investimento! ✨
+                      - text: Muitas pessoas acreditam que economizar na contratação de um profissional vai reduzir os custos da obra, mas, na verdade, a ausência de um planejamento especializado pode gerar mais despesas no futuro. 🤔
+                      - text: A arquiteta não só garante que cada detalhe do seu projeto esteja pensado de forma inteligente e funcional, como também evita erros que podem ser caros de corrigir depois. Ela otimiza o uso do espaço, escolhe os materiais certos e assegura que o projeto atenda às suas necessidades, respeitando o seu orçamento e evitando desperdícios.
+                      - text: "Não se engane: improvisar na obra pode sair muito mais caro no final! Invista em quem entende do assunto e transforma seus sonhos em realidade, com qualidade, segurança e eficiência. 💡👩‍🎨"
+                      - text: 🔑 Está pronto para transformar seu projeto com quem entende do assunto? Entre em contato conosco e vamos criar juntos o espaço dos seus sonhos! 💬
+                      - link "#Arquitetura" [ref=e231] [cursor=pointer]:
+                        - /url: /explore/tags/arquitetura/
+                      - link "#ProjetoComQualidade" [ref=e232] [cursor=pointer]:
+                        - /url: /explore/tags/projetocomqualidade/
+                      - link "#InvestimentoInteligente" [ref=e233] [cursor=pointer]:
+                        - /url: /explore/tags/investimentointeligente/
+                      - link "#ObraSemErros" [ref=e234] [cursor=pointer]:
+                        - /url: /explore/tags/obrasemerros/
+                      - link "#Planejamento" [ref=e235] [cursor=pointer]:
+                        - /url: /explore/tags/planejamento/
+                      - link "#DesignDeInteriores" [ref=e236] [cursor=pointer]:
+                        - /url: /explore/tags/designdeinteriores/
+                - generic [ref=e239]:
+                  - heading "Ainda não há nenhum comentário." [level=2] [ref=e241]
+                  - generic [ref=e243]: Inicie a conversa.
+              - generic [ref=e244]:
+                - generic [ref=e245]:
+                  - generic [ref=e246]:
+                    - button "Curtir" [ref=e249] [cursor=pointer]:
+                      - img "Curtir" [ref=e252]
+                    - button "4" [ref=e254] [cursor=pointer]
+                    - button "Comentar" [ref=e256] [cursor=pointer]:
+                      - img "Comentar" [ref=e258]
+                    - button "Compartilhar" [ref=e260] [cursor=pointer]:
+                      - img "Compartilhar" [ref=e261]
+                  - button "Salvar" [ref=e266] [cursor=pointer]:
+                    - button "Salvar" [ref=e267]:
+                      - img "Salvar" [ref=e269]
+                - link "7 de abril de 2025" [ref=e273] [cursor=pointer]:
+                  - /url: /thalita.arquiteta/p/DIJ8PKsx7JC/
+                  - time [ref=e275]: 7 de abril de 2025
+              - generic [ref=e278]:
+                - link [ref=e279]
+                - generic [ref=e281]:
+                  - button "Emoji" [ref=e283] [cursor=pointer]:
+                    - img "Emoji" [ref=e285]
+                  - textbox "Adicione um comentário..." [ref=e287]
+          - separator [ref=e289]
+          - generic [ref=e290]:
+            - generic [ref=e292]:
+              - text: Mais posts de
+              - link "thalita.arquiteta" [ref=e293] [cursor=pointer]:
+                - /url: /thalita.arquiteta/
+            - generic [ref=e296]:
+              - generic [ref=e297]:
+                - 'link "Na Virtude Arquitetura, cada projeto é desenvolvido com responsabilidade, qualidade e atenção aos detalhes. Nosso compromisso é transformar ideias em espaços funcionais, bem planejados e que realmente atendam às necessidades de cada cliente. Conheça quem está por trás da Virtude Arquitetura. #VirtudeArquitetura #Arquitetura #ProjetosArquitetônicos #ArquiteturaResidencial Carrossel" [ref=e299] [cursor=pointer]':
+                  - /url: /virtude.arquitetura/p/DVylHA1jXoO/
+                  - 'img "Na Virtude Arquitetura, cada projeto é desenvolvido com responsabilidade, qualidade e atenção aos detalhes. Nosso compromisso é transformar ideias em espaços funcionais, bem planejados e que realmente atendam às necessidades de cada cliente. Conheça quem está por trás da Virtude Arquitetura. #VirtudeArquitetura #Arquitetura #ProjetosArquitetônicos #ArquiteturaResidencial" [ref=e302]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - 'link "Como arquiteta, meu papel é garantir que cada escolha no seu projeto tenha um propósito: funcionalidade, conforto, economia e harmonia. Seu espaço merece ser bem pensado — e você merece viver em um ambiente que funcione para a sua rotina, do jeito certo. 🏡 Se você está prestes a construir, reformar ou quer melhorar seu espaço com inteligência e segurança, entre em contato. Vamos conversar sobre o que você precisa e transformar suas ideias em um projeto bem planejado, com técnica, cuidado e propósito. 📩 Me chame no direct ou WhatsApp para agendarmos uma consultoria personalizada. Link na bio, te espero! 🥰 #Arquitetura #ProjetoArquitetônico #Arquiteta #Construção #Reforma #ObraBemPlanejada #ValorizaçãoImóvel #DesignInteligente #EspaçosBemPensados #ArquiteturaComPropósito Carrossel" [ref=e305] [cursor=pointer]':
+                  - /url: /thalita.arquiteta/p/DIhat6yyyrH/
+                  - 'img "Como arquiteta, meu papel é garantir que cada escolha no seu projeto tenha um propósito: funcionalidade, conforto, economia e harmonia. Seu espaço merece ser bem pensado — e você merece viver em um ambiente que funcione para a sua rotina, do jeito certo. 🏡 Se você está prestes a construir, reformar ou quer melhorar seu espaço com inteligência e segurança, entre em contato. Vamos conversar sobre o que você precisa e transformar suas ideias em um projeto bem planejado, com técnica, cuidado e propósito. 📩 Me chame no direct ou WhatsApp para agendarmos uma consultoria personalizada. Link na bio, te espero! 🥰 #Arquitetura #ProjetoArquitetônico #Arquiteta #Construção #Reforma #ObraBemPlanejada #ValorizaçãoImóvel #DesignInteligente #EspaçosBemPensados #ArquiteturaComPropósito" [ref=e308]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - 'link "“Sou eu que vou seguir você Do primeiro rabisco até o be-a-bá Em todos os desenhos coloridos vou estar…” - Toquinho Formatura da Elisa - 12/2025. Meu agradecimento à professora Bruna Cinara por tanto amor, cuidado e dedicação com a minha pequena. Sim, minha família é linda, obrigada. 😍🥰🫠 Ps.: Faltou meu amor @rodgger.br e o meu querido filho do coração @_juliocesaar7 #maeleoa🐯 Carrossel" [ref=e311] [cursor=pointer]':
+                  - /url: /thalita.arquiteta/p/DSB4n0BDbHB/
+                  - 'img "“Sou eu que vou seguir você Do primeiro rabisco até o be-a-bá Em todos os desenhos coloridos vou estar…” - Toquinho Formatura da Elisa - 12/2025. Meu agradecimento à professora Bruna Cinara por tanto amor, cuidado e dedicação com a minha pequena. Sim, minha família é linda, obrigada. 😍🥰🫠 Ps.: Faltou meu amor @rodgger.br e o meu querido filho do coração @_juliocesaar7 #maeleoa🐯" [ref=e314]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+              - generic [ref=e316]:
+                - link "Photo by Thalita Ferreira | Virtude Arquitetura on August 31, 2025." [ref=e318] [cursor=pointer]:
+                  - /url: /thalita.arquiteta/p/DOCnyW-D9eo/
+                  - img "Photo by Thalita Ferreira | Virtude Arquitetura on August 31, 2025." [ref=e321]
+                - link "🖤❤️ Carrossel" [ref=e324] [cursor=pointer]:
+                  - /url: /thalita.arquiteta/p/C3MCjxfu2i1/
+                  - img "🖤❤️" [ref=e327]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - link "A reportagem sobre a reforma do auditório e outras grandes realizações da AMNOR que foram apresentadas em um único evento no último dia 31/08/23 pelo @jornaltribunanoroeste. 👏🏻👏🏻👏🏻 Carrossel" [ref=e330] [cursor=pointer]:
+                  - /url: /thalita.arquiteta/p/CxHXmtoOZic/
+                  - img "A reportagem sobre a reforma do auditório e outras grandes realizações da AMNOR que foram apresentadas em um único evento no último dia 31/08/23 pelo @jornaltribunanoroeste. 👏🏻👏🏻👏🏻" [ref=e333]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+      - contentinfo [ref=e335]:
+        - generic [ref=e336]:
+          - generic [ref=e338]:
+            - link "Meta" [ref=e340] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e341]: Meta
+            - link "Sobre" [ref=e343] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e344]: Sobre
+            - link "Blog" [ref=e346] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e347]: Blog
+            - link "Carreiras" [ref=e349] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e350]: Carreiras
+            - link "Ajuda" [ref=e352] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e353]: Ajuda
+            - link "API" [ref=e355] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e356]: API
+            - link "Privacidade" [ref=e358] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e359]: Privacidade
+            - link "Termos" [ref=e361] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e362]: Termos
+            - link "Localizações" [ref=e364] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e365]: Localizações
+            - link "Instagram Lite" [ref=e367] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e368]: Instagram Lite
+            - link "Meta AI" [ref=e370] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e371]: Meta AI
+            - link "Threads" [ref=e373] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e374]: Threads
+            - link "Upload de contatos e não usuários" [ref=e376] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e377]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e379] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e380]: Meta Verified
+          - generic [ref=e381]:
+            - generic [ref=e382] [cursor=pointer]:
+              - generic [ref=e383]:
+                - generic [ref=e384]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e387]
+              - combobox "Trocar idioma de exibição" [ref=e389]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e391]: © 2026 Instagram from Meta
+  - button "Mensagens Mensagens" [ref=e393] [cursor=pointer]:
+    - generic [ref=e395]:
+      - img "Mensagens" [ref=e397]
+      - generic [ref=e400]: Mensagens

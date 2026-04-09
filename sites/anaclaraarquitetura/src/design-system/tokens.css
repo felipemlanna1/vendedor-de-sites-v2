@@ -1,0 +1,57 @@
+/* Design System Tokens — Ana Clara Arquitetura */
+/* Gerado a partir do mapa de encantamento (Fase 3) */
+
+@theme {
+  /* Colors */
+  --color-primary: #8B6F5C;
+  --color-primary-light: #A8907A;
+  --color-primary-dark: #5C4A3D;
+  --color-secondary: #2C2825;
+  --color-accent: #C67D4A;
+  --color-accent-btn: #9E5E2E;
+  --color-accent-text: #905828;
+  --color-accent-on-dark: #D08855;
+  --color-background: #F7F3EF;
+  --color-surface: #EDE7E0;
+  --color-text-primary: #2C2825;
+  --color-text-secondary: #6B5E54;
+  --color-text-muted: #9A8D82;
+
+  /* Fonts */
+  --font-display: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+  --font-body: "Outfit", system-ui, -apple-system, sans-serif;
+
+  /* Spacing (8px grid) */
+  --spacing-1: 0.25rem;
+  --spacing-2: 0.5rem;
+  --spacing-3: 0.75rem;
+  --spacing-4: 1rem;
+  --spacing-6: 1.5rem;
+  --spacing-8: 2rem;
+  --spacing-10: 2.5rem;
+  --spacing-12: 3rem;
+  --spacing-16: 4rem;
+  --spacing-20: 5rem;
+  --spacing-24: 6rem;
+  --spacing-section-mobile: 5rem;
+  --spacing-section-desktop: 7.5rem;
+
+  /* Border radius */
+  --radius-none: 0px;
+  --radius-full: 9999px;
+
+  /* Shadows (tinted with primary) */
+  --shadow-sm: 0 4px 12px -2px rgba(139, 111, 92, 0.06);
+  --shadow-md: 0 12px 24px -8px rgba(139, 111, 92, 0.08);
+  --shadow-lg: 0 20px 40px -15px rgba(139, 111, 92, 0.1);
+
+  /* Transitions */
+  --transition-fast: 150ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-base: 300ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: 500ms cubic-bezier(0.4, 0, 0.2, 1);
+
+  /* Layout */
+  --max-width: 80rem;
+  --padding-mobile: 1.5rem;
+  --padding-desktop: 2rem;
+}

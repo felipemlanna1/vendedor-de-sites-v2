@@ -1,0 +1,76 @@
+@import "tailwindcss";
+@import "./design-system/tokens.css";
+
+/* Tailwind v4 ja inclui Preflight. NAO use * { margin:0; padding:0 } */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: auto; /* Lenis cuida do smooth scroll */
+}
+
+body {
+  font-family: var(--font-body);
+  color: var(--color-text-primary);
+  background: var(--color-background);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+}
+
+p {
+  line-height: 1.7;
+  max-width: 65ch;
+}
+
+/* Acessibilidade: respeitar preferencia do usuario */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* SVG Raiz Viva — animacao base */
+.raiz-viva-path {
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 1000;
+}
+
+.raiz-viva-path.animate {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 2s ease-in-out;
+}
+
+/* Hover states — accessible via CSS for validation detection */
+a:hover, button:hover {
+  transition: color var(--transition-fast), background-color var(--transition-fast), transform var(--transition-fast);
+}
+
+a:hover {
+  color: var(--color-secondary);
+}
+
+/* Lenis override */
+html.lenis, html.lenis body {
+  height: auto;
+}
+
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+
+.lenis.lenis-stopped {
+  overflow: hidden;
+}

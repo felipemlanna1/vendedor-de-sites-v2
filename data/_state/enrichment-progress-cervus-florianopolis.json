@@ -1,0 +1,487 @@
+{
+  "current_phase": 7,
+  "lead_id": "cervus-florianopolis",
+  "nome": "Cervus Florianópolis",
+  "cidade": "Florianópolis",
+  "nicho": "barbearia",
+  "strategy": "beauty",
+  "source": "instagram",
+  "discovered_urls": {
+    "site_url": "https://cervusbarbearia.com.br/",
+    "instagram_username": "cervusflorianopolis",
+    "facebook_url": "https://www.facebook.com/61575150119956/",
+    "google_maps_url": "",
+    "platform_urls": {
+      "linktree_floripa": "https://linktr.ee/cervusflorianopolis",
+      "linktree_marca": "https://linktr.ee/CervusBarbearia",
+      "behance": "https://www.behance.net/gallery/179572811/Cervus-Barbearia",
+      "instagram_marca": "https://www.instagram.com/cervusbarbearia/",
+      "appbarber": "https://sites.appbarber.com.br/cervusbarbearia-wgkg",
+      "facebook_caxias": "https://www.facebook.com/cervusbarbearia/"
+    }
+  },
+  "data_points": [
+    {
+      "category": "presence",
+      "label": "Site oficial",
+      "value": "https://cervusbarbearia.com.br/",
+      "detail": {
+        "status": "em_desenvolvimento",
+        "tech_stack": "desconhecido",
+        "ssl": true
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:24:05.063009"
+    },
+    {
+      "category": "presence",
+      "label": "Instagram Florianopolis",
+      "value": "@cervusflorianopolis",
+      "detail": {
+        "url": "https://www.instagram.com/cervusflorianopolis/",
+        "nome_display": "CERVUS | IMAGEM MASCULINA"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:24:05.063009"
+    },
+    {
+      "category": "presence",
+      "label": "Instagram marca principal",
+      "value": "@cervusbarbearia",
+      "detail": {
+        "url": "https://www.instagram.com/cervusbarbearia/",
+        "nome_display": "CERVUS | IMAGEM MASCULINA"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:24:05.063009"
+    },
+    {
+      "category": "presence",
+      "label": "Facebook Florianopolis",
+      "value": "https://www.facebook.com/61575150119956/",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:24:05.063009"
+    },
+    {
+      "category": "presence",
+      "label": "Facebook Caxias do Sul",
+      "value": "https://www.facebook.com/cervusbarbearia/",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:24:05.063009"
+    },
+    {
+      "category": "presence",
+      "label": "Linktree Florianopolis",
+      "value": "https://linktr.ee/cervusflorianopolis",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:24:05.063009"
+    },
+    {
+      "category": "presence",
+      "label": "Linktree marca",
+      "value": "https://linktr.ee/CervusBarbearia",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:24:05.063009"
+    },
+    {
+      "category": "presence",
+      "label": "AppBarber",
+      "value": "https://sites.appbarber.com.br/cervusbarbearia-wgkg",
+      "detail": {
+        "descricao": "Pagina de agendamento AppBarber"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:24:05.063009"
+    },
+    {
+      "category": "presence",
+      "label": "Behance branding",
+      "value": "https://www.behance.net/gallery/179572811/Cervus-Barbearia",
+      "detail": {
+        "descricao": "Projeto de rebranding por Anselmi Branding"
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch (Behance)",
+      "fetched_at": "2026-04-08T08:24:05.063009"
+    },
+    {
+      "category": "history",
+      "label": "Historia da marca",
+      "value": "Fundada em 2020 em Caxias do Sul/RS",
+      "detail": {
+        "fundacao": "2020",
+        "cidade_origem": "Caxias do Sul",
+        "estado_origem": "RS",
+        "unidades": "8 (RS, SC, CE)",
+        "conceito": "Imagem masculina, barbearia e visagismo",
+        "arquetipos": "Explorador e Cuidador",
+        "rebranding": "Anselmi Branding - cervus (cervo) como simbolo"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch + WebFetch (Behance)",
+      "fetched_at": "2026-04-08T08:24:05.063009"
+    },
+    {
+      "category": "identity",
+      "label": "CNPJ Florianopolis",
+      "value": "61.082.167/0001-33",
+      "detail": {
+        "razao_social": "FL02 BARBEARIA LTDA",
+        "nome_fantasia": "CERVUS BARBEARIA",
+        "data_abertura": "2025-05-30",
+        "porte": "Micro Empresa",
+        "cnae": "Cabeleireiros, manicure e pedicure",
+        "capital_social": 25000,
+        "situacao": "Ativa",
+        "endereco": "Av Rio Branco 533, Sala L2T, Centro, Florianopolis/SC 88015-203",
+        "telefone": "(58) 81323182",
+        "socios": [
+          "Daniel Henrique Tonini",
+          "Italo Franco Fernandes",
+          "Jurandir da Silva (Adm)"
+        ]
+      },
+      "source_type": "briefing",
+      "source_name": "BrasilAPI",
+      "fetched_at": "2026-04-08T08:24:05.063009"
+    },
+    {
+      "category": "brand",
+      "label": "Identidade visual",
+      "value": "Cervo como simbolo, arquetipos explorador+cuidador",
+      "detail": {
+        "designer": "Anselmi Branding / Joao Pedro Anselmi Jr",
+        "simbolo": "cervus (cervo)",
+        "og_image_behance": "https://mir-s3-cdn-cf.behance.net/projects/404/ede268179572811.Y3JvcCw4MjMsNjQ0LDUyNywyMDE.png"
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch (Behance)",
+      "fetched_at": "2026-04-08T08:24:05.063009"
+    },
+    {
+      "category": "identity",
+      "label": "CNPJ Matriz (Caxias do Sul)",
+      "value": "28.915.723/0001-30",
+      "detail": {
+        "razao_social": "CERVUS BARBEARIA LTDA",
+        "nome_fantasia": "CERVUS BARBEARIA",
+        "data_abertura": "2017-10-23",
+        "porte": "Empresa de pequeno porte",
+        "cnae": "Cabeleireiros, manicure e pedicure",
+        "cnaes_secundarios": [
+          "Comercio varejista de bebidas",
+          "Cosmeticos/higiene pessoal",
+          "Suvenires/bijuterias"
+        ],
+        "capital_social": 25000,
+        "situacao": "Ativa",
+        "simples_nacional": true,
+        "endereco": "Rua Floriano Prezzi 1217, Sala 05, Pio X, Caxias do Sul/RS 95034170",
+        "telefone": "(54) 30671058",
+        "socios": [
+          "Italo Franco Fernandes (Adm, desde 03/2021)",
+          "Jurandir da Silva (desde 11/2023)",
+          "Wesley Araujo Ferreira (desde 03/2021)"
+        ]
+      },
+      "source_type": "briefing",
+      "source_name": "BrasilAPI",
+      "fetched_at": "2026-04-08T08:24:49.332105"
+    },
+    {
+      "category": "identity",
+      "label": "Registro profissional",
+      "value": "Nao aplicavel (barbearia)",
+      "detail": {
+        "motivo": "Nicho beauty/barbearia nao requer registro profissional obrigatorio"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-08T08:24:49.332105"
+    },
+    {
+      "category": "website",
+      "label": "Website",
+      "value": "Em desenvolvimento",
+      "detail": {
+        "url": "https://cervusbarbearia.com.br/",
+        "status": "em_desenvolvimento",
+        "titulo_pagina": "Cervus Barbearia - Em desenvolvimento",
+        "acessivel": false,
+        "nota": "Site existe mas nao funcional"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch + WebFetch",
+      "fetched_at": "2026-04-08T08:25:41.116191"
+    },
+    {
+      "category": "website",
+      "label": "AppBarber (agendamento)",
+      "value": "https://sites.appbarber.com.br/cervusbarbearia-wgkg",
+      "detail": {
+        "tipo": "pagina_agendamento",
+        "plataforma": "AppBarber",
+        "nota": "Usado para agendamentos, nao e um site completo"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:25:41.116191"
+    },
+    {
+      "category": "contact",
+      "label": "Email marca",
+      "value": "cervusbarbearia@gmail.com",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:25:41.116191"
+    },
+    {
+      "category": "contact",
+      "label": "Telefone marca (Caxias)",
+      "value": "(54) 99945-3230",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:25:41.116191"
+    },
+    {
+      "category": "contact",
+      "label": "Telefone fixo marca",
+      "value": "(54) 3067-1058",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "BrasilAPI",
+      "fetched_at": "2026-04-08T08:25:41.116191"
+    },
+    {
+      "category": "contact",
+      "label": "Endereco Florianopolis",
+      "value": "Av Rio Branco 533, Sala L2T, Centro, Florianopolis/SC",
+      "detail": {
+        "cep": "88015-203",
+        "nota": "Unidade Rio Branco"
+      },
+      "source_type": "briefing",
+      "source_name": "BrasilAPI",
+      "fetched_at": "2026-04-08T08:25:41.116191"
+    },
+    {
+      "category": "contact",
+      "label": "Unidades Florianopolis",
+      "value": "2 unidades: Beira Mar Norte e Av Rio Branco",
+      "detail": {
+        "unidade_1": "Beira Mar Norte",
+        "unidade_2": "Av Rio Branco",
+        "agendamento": "App Cervus + WhatsApp"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (Linktree)",
+      "fetched_at": "2026-04-08T08:25:41.116191"
+    },
+    {
+      "category": "sales_channels",
+      "label": "AppBarber (agendamento online)",
+      "value": "Ativo",
+      "detail": {
+        "url_pio_x": "https://sites.appbarber.com.br/cervusbarbearia-wgkg",
+        "url_tronca": "https://sites.appbarber.com.br/cervustronca-7nog",
+        "tipo": "Sistema de agendamento",
+        "nota": "Principal canal de agendamento da marca, com paginas por unidade"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:26:48.571049"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Booksy",
+      "value": "Nao encontrado",
+      "detail": {
+        "nota": "Cervus nao listada no Booksy Florianopolis"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:26:48.571049"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Trinks",
+      "value": "Nao encontrado",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:26:48.571049"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Reclame Aqui",
+      "value": "Nao encontrado",
+      "detail": {
+        "nota": "Sem reclamacoes registradas"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:26:48.571049"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Google Maps",
+      "value": "Nao confirmado via busca",
+      "detail": {
+        "nota": "Busca nao retornou link direto do Google Maps. Unidade pode existir mas abriu recentemente (05/2025)."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:26:48.571049"
+    },
+    {
+      "category": "sales_channels",
+      "label": "WhatsApp",
+      "value": "Ativo para ambas unidades",
+      "detail": {
+        "unidades": [
+          "Beira Mar Norte",
+          "Av Rio Branco"
+        ],
+        "fonte": "Linktree"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (Linktree)",
+      "fetched_at": "2026-04-08T08:26:48.571049"
+    },
+    {
+      "category": "images",
+      "label": "Logo Behance (branding project)",
+      "value": "https://mir-s3-cdn-cf.behance.net/projects/404/ede268179572811.Y3JvcCw4MjMsNjQ0LDUyNywyMDE.png",
+      "detail": {
+        "urls": [
+          "https://mir-s3-cdn-cf.behance.net/projects/404/ede268179572811.Y3JvcCw4MjMsNjQ0LDUyNywyMDE.png"
+        ],
+        "tipo": "logo",
+        "fonte": "WebFetch (Behance)",
+        "descricao": "Thumbnail do projeto de rebranding Cervus Barbearia no Behance"
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch (Behance)",
+      "fetched_at": "2026-04-08T08:28:49.804297"
+    },
+    {
+      "category": "images",
+      "label": "Instagram posts conhecidos",
+      "value": "URLs de posts coletadas (sem og:image - Instagram bloqueou)",
+      "detail": {
+        "urls": [],
+        "post_urls": [
+          "https://www.instagram.com/cervusbarbearia/p/Cz4kxILrtCE/",
+          "https://www.instagram.com/p/DCmO20ouPWu/",
+          "https://www.instagram.com/reel/C95DmdQuSmI/",
+          "https://www.instagram.com/p/DTOl6k-FMfr/"
+        ],
+        "tipo": "post",
+        "fonte": "WebSearch",
+        "nota": "Instagram nao retorna og:image via WebFetch. Playwright nao disponivel nesta execucao."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:28:49.804297"
+    },
+    {
+      "category": "images",
+      "label": "Instagram perfis",
+      "value": "Perfis encontrados sem imagem extraivel",
+      "detail": {
+        "urls": [],
+        "perfis": [
+          "@cervusflorianopolis",
+          "@cervusbarbearia",
+          "@cervusfortaleza",
+          "@cervusindaial"
+        ],
+        "tipo": "profile_pic",
+        "fonte": "WebSearch",
+        "nota": "Instagram bloqueou og:image via WebFetch"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:28:49.804297"
+    },
+    {
+      "category": "brand",
+      "label": "Padroes da marca",
+      "value": "Masculinidade sofisticada, natureza, cervo como simbolo. Arquetipos Explorador+Cuidador.",
+      "detail": {
+        "cores": [
+          "tons escuros",
+          "dourado",
+          "preto"
+        ],
+        "tom": "premium/sofisticado",
+        "publico_alvo": "Homens 25-45 anos, preocupados com imagem pessoal, profissionais",
+        "estilo_visual": "Minimalista sofisticado, animal (cervo) como simbolo central",
+        "slogan": "Conceito em Imagem Masculina",
+        "arquetipos": "Explorador + Cuidador",
+        "designer": "Anselmi Branding"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-08T08:30:06.651066"
+    },
+    {
+      "category": "competitors",
+      "label": "Concorrentes com site em Florianopolis",
+      "value": "3 encontrados",
+      "detail": [
+        "Corte Visagismo - https://cortevisagismo.com.br/ (visagismo, Av Rio Branco 847)",
+        "Barbearia Tradicional - https://barbeariatradicional.com/ (centro, referencia em Floripa)",
+        "Barao da Navalha - https://baraodanavalha.com.br/ (centro, franquia)"
+      ],
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-08T08:30:06.651066"
+    }
+  ],
+  "phases": {
+    "phase_1": {
+      "status": "complete"
+    },
+    "phase_2": {
+      "status": "complete",
+      "result": "12 data_points, 8 URLs descobertas"
+    },
+    "phase_3": {
+      "status": "complete",
+      "result": "2 CNPJs encontrados (filial Floripa + matriz Caxias), registro profissional N/A"
+    },
+    "phase_4": {
+      "status": "complete",
+      "result": "Site em desenvolvimento (nao funcional). 7 data_points de website/contato."
+    },
+    "phase_5": {
+      "status": "complete",
+      "result": "6 data_points de canais. AppBarber ativo, Booksy/Trinks nao encontrados."
+    },
+    "phase_6": {
+      "status": "complete",
+      "result": "1 imagem real (Behance logo), 4 post URLs coletadas (sem og:image). Playwright indisponivel. Total imagens: 3"
+    },
+    "phase_7": {
+      "status": "complete",
+      "result": "Briefing salvo no vendedor.db"
+    }
+  },
+  "started_at": "2026-04-08T08:21:58.815605",
+  "completed_at": "2026-04-08T08:30:06.651066"
+}

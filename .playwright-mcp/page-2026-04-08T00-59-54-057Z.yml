@@ -1,0 +1,300 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Ir para o conteúdo principal" [ref=e2] [cursor=pointer]
+      - link "Desativar a rolagem contínua" [ref=e3] [cursor=pointer]:
+        - /url: "#"
+      - link "Ajuda sobre acessibilidade" [ref=e4] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=pt-BR
+      - link "Feedback de acessibilidade" [ref=e5] [cursor=pointer]
+  - generic [ref=e10]:
+    - search [ref=e11]:
+      - generic [ref=e13]:
+        - link "Ir para a página inicial do Google" [ref=e15] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=pt-BR&sa=X&ved=0ahUKEwjF1PbWht2TAxW3QUEAHcyOMTQQPAgK
+          - img [ref=e16]
+        - generic [ref=e18]:
+          - generic [ref=e19]:
+            - combobox "Pesquisar" [ref=e22]: dramarcelabraz site:instagram.com dramarcelabraz site:instagram.com
+            - generic [ref=e23]:
+              - button "Limpar" [ref=e25] [cursor=pointer]:
+                - img [ref=e27]
+              - generic [ref=e30]:
+                - button "Ferramentas de inserção de texto" [ref=e31] [cursor=pointer]:
+                  - img [ref=e33]
+                - button "Pesquisar por voz" [ref=e35] [cursor=pointer]:
+                  - img [ref=e36]
+                - button "Pesquisa por imagem" [ref=e38] [cursor=pointer]:
+                  - img [ref=e39]
+          - button "Pesquisar" [ref=e41] [cursor=pointer]:
+            - img [ref=e44]
+    - generic [ref=e46]:
+      - button "Configurações" [ref=e48] [cursor=pointer]:
+        - img [ref=e51]
+      - generic [ref=e54]:
+        - button "Google Apps" [ref=e56] [cursor=pointer]:
+          - img [ref=e57]
+        - link "Fazer login" [ref=e61] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=pt-BR&passive=true&continue=https://www.google.com/search%3Fq%3Ddramarcelabraz%2Bsite:instagram.com%26udm%3D2&ec=futura_srp_og_si_72236_p
+  - generic [ref=e63]:
+    - navigation [ref=e68]:
+      - generic [ref=e69]:
+        - list [ref=e70]:
+          - listitem [ref=e71]:
+            - link "Modo IA" [ref=e74] [cursor=pointer]:
+              - /url: /search?q=dramarcelabraz+site:instagram.com&sca_esv=91f788fc0d48d683&udm=50&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB056b93wKmVeAAORa3GINFZT67RHmD8tBnhEcNAi-9cSkyUOnfW1dj70A8r-7Qd4s_sdVzBjEPQTM-e7jn02dSpjVryr0orHEWWj2G7_A1WYF-QAL3O5XftuUj2SmGsvMkxlybL3b8JS55HgIkHIZDdD-Wew6CYA0bUKlqzvCs99HSZDLjx54BidxQ4GJHdBCXpuahoWM&aep=1&ntc=1&sa=X&ved=2ahUKEwjF1PbWht2TAxW3QUEAHcyOMTQQ2J8OegQIChAD
+              - generic [ref=e77]: Modo IA
+          - listitem [ref=e78]:
+            - link "Tudo" [ref=e79] [cursor=pointer]:
+              - /url: /search?sca_esv=91f788fc0d48d683&q=dramarcelabraz+site:instagram.com&source=lnms&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB056b93wKmVeAAORa3GINFZT67RHmD8tBnhEcNAi-9cSkyUOnfW1dj70A8r-7Qd4s_sdVzBjEPQTM-e7jn02dSpjVryr0orHEWWj2G7_A1WYF-QAL3O5XftuUj2SmGsvMkxlybL3b8JS55HgIkHIZDdD-Wew6CYA0bUKlqzvCs99HSZDLjx54BidxQ4GJHdBCXpuahoWM&sa=X&ved=2ahUKEwjF1PbWht2TAxW3QUEAHcyOMTQQ0pQJegQIDxAB
+              - generic [ref=e81]: Tudo
+          - listitem [ref=e82]:
+            - link "Imagens" [disabled] [ref=e83]:
+              - generic [ref=e85]: Imagens
+          - listitem [ref=e86]:
+            - link "Shopping" [ref=e87] [cursor=pointer]:
+              - /url: /search?sca_esv=91f788fc0d48d683&udm=28&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB056b93wKmVeAAORa3GINFZT67RHmD8tBnhEcNAi-9cSkyUOnfW1dj70A8r-7Qd4s_sdVzBjEPQTM-e7jn02dSpjVryr0orHEWWj2G7_A1WYF-QAL3O5XftuUj2SmGsvMkxlybL3b8JS55HgIkHIZDdD-Wew6CYA0bUKlqzvCs99HSZDLjx54BidxQ4GJHdBCXpuahoWM&q=dramarcelabraz+site:instagram.com&ved=1t:220175&ictx=111
+              - generic [ref=e89]: Shopping
+          - listitem [ref=e90]:
+            - link "Vídeos" [ref=e91] [cursor=pointer]:
+              - /url: /search?sca_esv=91f788fc0d48d683&udm=7&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB056b93wKmVeAAORa3GINFZT67RHmD8tBnhEcNAi-9cSkyUOnfW1dj70A8r-7Qd4s_sdVzBjEPQTM-e7jn02dSpjVryr0orHEWWj2G7_A1WYF-QAL3O5XftuUj2SmGsvMkxlybL3b8JS55HgIkHIZDdD-Wew6CYA0bUKlqzvCs99HSZDLjx54BidxQ4GJHdBCXpuahoWM&q=dramarcelabraz+site:instagram.com&sa=X&ved=2ahUKEwjF1PbWht2TAxW3QUEAHcyOMTQQtKgLegQIDhAB
+              - generic [ref=e93]: Vídeos
+          - listitem [ref=e94]:
+            - link "Maps" [ref=e95] [cursor=pointer]:
+              - /url: https://maps.google.com/maps?sca_esv=91f788fc0d48d683&output=search&q=dramarcelabraz+site:instagram.com&source=lnms&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB056b93wKmVeAAORa3GINFZT67RHmD8tBnhEcNAi-9cSkyUOnfW1dj70A8r-7Qd4s_sdVzBjEPQTM-e7jn02dSpjVryr0orHEWWj2G7_A1WYF-QAL3O5XftuUj2SmGsvMkxlybL3b8JS55HgIkHIZDdD-Wew6CYA0bUKlqzvCs99HSZDLjx54BidxQ4GJHdBCXpuahoWM&entry=mc&ved=1t:200715&ictx=111
+              - generic [ref=e97]: Maps
+          - listitem [ref=e98]:
+            - link "Notícias" [ref=e99] [cursor=pointer]:
+              - /url: /search?sca_esv=91f788fc0d48d683&q=dramarcelabraz+site:instagram.com&tbm=nws&source=lnms&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB056b93wKmVeAAORa3GINFZT67RHmD8tBnhEcNAi-9cSkyUOnfW1dj70A8r-7Qd4s_sdVzBjEPQTM-e7jn02dSpjVryr0orHEWWj2G7_A1WYF-QAL3O5XftuUj2SmGsvMkxlybL3b8JS55HgIkHIZDdD-Wew6CYA0bUKlqzvCs99HSZDLjx54BidxQ4GJHdBCXpuahoWM&sa=X&ved=2ahUKEwjF1PbWht2TAxW3QUEAHcyOMTQQ0pQJegQIEBAB
+              - generic [ref=e101]: Notícias
+          - listitem [ref=e102]:
+            - button "Mais filtros" [ref=e103] [cursor=pointer]:
+              - generic "Mais filtros" [ref=e104]:
+                - generic [ref=e105]:
+                  - generic [ref=e106]: Mais
+                  - img [ref=e108]
+        - button "Ferramentas" [ref=e111] [cursor=pointer]:
+          - generic [ref=e113]:
+            - generic [ref=e114]: Ferramentas
+            - img [ref=e116]
+    - heading "Resultados da pesquisa" [level=1] [ref=e118]
+    - main [ref=e120]:
+      - generic [ref=e126]:
+        - generic [ref=e129]:
+          - generic [ref=e130] [cursor=pointer]:
+            - heading "Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [level=3] [ref=e132]:
+              - button "Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [ref=e134]:
+                - img "Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [ref=e137]
+            - link "Instagram Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [ref=e139]:
+              - /url: https://www.instagram.com/dramarcelabraz/
+              - generic [ref=e144]: Instagram
+              - generic [ref=e146]: Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos
+          - generic [ref=e147] [cursor=pointer]:
+            - heading "Dra Marcela Braz Pediatra (@dramarcela_pediatra) · Itajaí, SC" [level=3] [ref=e149]:
+              - button "Dra Marcela Braz Pediatra (@dramarcela_pediatra) · Itajaí, SC" [ref=e151]:
+                - img "Dra Marcela Braz Pediatra (@dramarcela_pediatra) · Itajaí, SC" [ref=e154]
+            - link "Instagram Dra Marcela Braz Pediatra (@dramarcela_pediatra) · Itajaí, SC" [ref=e156]:
+              - /url: https://www.instagram.com/dramarcela_pediatra/
+              - generic [ref=e161]: Instagram
+              - generic [ref=e163]: Dra Marcela Braz Pediatra (@dramarcela_pediatra) · Itajaí, SC
+          - generic [ref=e164] [cursor=pointer]:
+            - heading "Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [level=3] [ref=e166]:
+              - button "Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [ref=e168]:
+                - img "Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [ref=e171]
+            - link "Instagram Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [ref=e173]:
+              - /url: https://www.instagram.com/dramarcelabraz/reels/
+              - generic [ref=e178]: Instagram
+              - generic [ref=e180]: Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos
+          - generic [ref=e181] [cursor=pointer]:
+            - heading "Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [level=3] [ref=e183]:
+              - button "Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [ref=e185]:
+                - img "Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [ref=e188]
+            - link "Instagram Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [ref=e190]:
+              - /url: https://www.instagram.com/dramarcelabraz/
+              - generic [ref=e195]: Instagram
+              - generic [ref=e197]: Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos
+          - generic [ref=e198] [cursor=pointer]:
+            - heading "Dra Marcela Braz Pediatra (@dramarcela_pediatra) · Itajaí, SC" [level=3] [ref=e200]:
+              - button "Dra Marcela Braz Pediatra (@dramarcela_pediatra) · Itajaí, SC" [ref=e202]:
+                - img "Dra Marcela Braz Pediatra (@dramarcela_pediatra) · Itajaí, SC" [ref=e205]
+            - link "Instagram Dra Marcela Braz Pediatra (@dramarcela_pediatra) · Itajaí, SC" [ref=e207]:
+              - /url: https://www.instagram.com/dramarcela_pediatra/
+              - generic [ref=e212]: Instagram
+              - generic [ref=e214]: Dra Marcela Braz Pediatra (@dramarcela_pediatra) · Itajaí, SC
+          - generic [ref=e215] [cursor=pointer]:
+            - heading "E fechando uma semana puxada de trabalho, eu ganho esse presente da @gerusadadam !!! Meu coração não aguenta quando eu vejo as crianças “brincando de dra Marcela”!!! Tem diploma mais valioso que" [level=3] [ref=e217]:
+              - button "E fechando uma semana puxada de trabalho, eu ganho esse presente da @gerusadadam !!! Meu coração não aguenta quando eu vejo as crianças “brincando de dra Marcela”!!! Tem diploma mais valioso que" [ref=e219]:
+                - img "E fechando uma semana puxada de trabalho, eu ganho esse presente da @gerusadadam !!! Meu coração não aguenta quando eu vejo as crianças “brincando de dra Marcela”!!! Tem diploma mais valioso que" [ref=e222]
+            - link "Instagram E fechando uma semana puxada de trabalho, eu ganho esse presente da @gerusadadam !!! Meu coração não aguenta quando eu vejo as crianças “brincando de dra Marcela”!!! Tem diploma mais valioso que" [ref=e224]:
+              - /url: https://www.instagram.com/reel/CuIRpQsATBa/
+              - generic [ref=e229]: Instagram
+              - generic [ref=e231]: E fechando uma semana puxada de trabalho, eu ganho esse presente da @gerusadadam !!! Meu coração não aguenta quando eu vejo as crianças “brincando de dra Marcela”!!! Tem diploma mais valioso que
+          - generic [ref=e232] [cursor=pointer]:
+            - heading "Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas" [level=3] [ref=e234]:
+              - button "Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas" [ref=e236]:
+                - img "Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas" [ref=e239]
+            - link "Instagram Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas" [ref=e241]:
+              - /url: https://www.instagram.com/p/C20Uaj9RzY3/
+              - generic [ref=e246]: Instagram
+              - generic [ref=e248]: Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas
+          - generic [ref=e249] [cursor=pointer]:
+            - heading "Eu juro que nunca me imaginei examinando um pinguim 😳🙈 mas com a ajuda da pequena @isismunizpinter a consulta foi um sucesso 😆🤣 Mais uma daquelas do fantástico mundo da pediatria!!!" [level=3] [ref=e251]:
+              - button "Eu juro que nunca me imaginei examinando um pinguim 😳🙈 mas com a ajuda da pequena @isismunizpinter a consulta foi um sucesso 😆🤣 Mais uma daquelas do fantástico mundo da pediatria!!!" [ref=e253]:
+                - img "Eu juro que nunca me imaginei examinando um pinguim 😳🙈 mas com a ajuda da pequena @isismunizpinter a consulta foi um sucesso 😆🤣 Mais uma daquelas do fantástico mundo da pediatria!!!" [ref=e256]
+            - link "Instagram Eu juro que nunca me imaginei examinando um pinguim 😳🙈 mas com a ajuda da pequena @isismunizpinter a consulta foi um sucesso 😆🤣 Mais uma daquelas do fantástico mundo da pediatria!!!" [ref=e258]:
+              - /url: https://www.instagram.com/dramarcela_pediatra/reel/CF-XXiiD878/
+              - generic [ref=e263]: Instagram
+              - generic [ref=e265]: Eu juro que nunca me imaginei examinando um pinguim 😳🙈 mas com a ajuda da pequena @isismunizpinter a consulta foi um sucesso 😆🤣 Mais uma daquelas do fantástico mundo da pediatria!!!
+          - generic [ref=e266] [cursor=pointer]:
+            - heading "Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas" [level=3] [ref=e268]:
+              - button "Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas" [ref=e270]:
+                - img "Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas" [ref=e273]
+            - link "Instagram Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas" [ref=e275]:
+              - /url: https://www.instagram.com/p/C20Uaj9RzY3/
+              - generic [ref=e280]: Instagram
+              - generic [ref=e282]: Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas
+          - generic [ref=e283] [cursor=pointer]:
+            - generic [ref=e284]:
+              - heading "O cuidado pediátrico vai muito além de acompanhar o crescimento. Ele começa na escuta, no olhar atento e na construção de confiança com cada família. Aqui na You Can, a Dra. Marcela" [level=3] [ref=e285]:
+                - button "O cuidado pediátrico vai muito além de acompanhar o crescimento. Ele começa na escuta, no olhar atento e na construção de confiança com cada família. Aqui na You Can, a Dra. Marcela" [ref=e287]:
+                  - img "O cuidado pediátrico vai muito além de acompanhar o crescimento. Ele começa na escuta, no olhar atento e na construção de confiança com cada família. Aqui na You Can, a Dra. Marcela" [ref=e290]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram O cuidado pediátrico vai muito além de acompanhar o crescimento. Ele começa na escuta, no olhar atento e na construção de confiança com cada família. Aqui na You Can, a Dra. Marcela" [ref=e292]:
+              - /url: https://www.instagram.com/reel/DVt3DOaRpyU/
+              - generic [ref=e297]: Instagram
+              - generic [ref=e299]: O cuidado pediátrico vai muito além de acompanhar o crescimento. Ele começa na escuta, no olhar atento e na construção de confiança com cada família. Aqui na You Can, a Dra. Marcela
+          - generic [ref=e300] [cursor=pointer]:
+            - heading "Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas" [level=3] [ref=e302]:
+              - button "Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas" [ref=e304]:
+                - img "Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas" [ref=e307]
+            - link "Instagram Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas" [ref=e309]:
+              - /url: https://www.instagram.com/p/C20Uaj9RzY3/
+              - generic [ref=e314]: Instagram
+              - generic [ref=e316]: Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas
+          - generic [ref=e317] [cursor=pointer]:
+            - heading "Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas" [level=3] [ref=e319]:
+              - button "Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas" [ref=e321]:
+                - img "Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas" [ref=e324]
+            - link "Instagram Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas" [ref=e326]:
+              - /url: https://www.instagram.com/p/C20Uaj9RzY3/
+              - generic [ref=e331]: Instagram
+              - generic [ref=e333]: Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas
+          - generic [ref=e334] [cursor=pointer]:
+            - heading "Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [level=3] [ref=e336]:
+              - button "Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [ref=e338]:
+                - img "Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [ref=e341]
+            - link "Instagram Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [ref=e343]:
+              - /url: https://www.instagram.com/dramarcelabraz/
+              - generic [ref=e348]: Instagram
+              - generic [ref=e350]: Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos
+          - generic [ref=e351] [cursor=pointer]:
+            - heading "Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [level=3] [ref=e353]:
+              - button "Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [ref=e355]:
+                - img "Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [ref=e358]
+            - link "Instagram Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [ref=e360]:
+              - /url: https://www.instagram.com/dramarcelabraz/
+              - generic [ref=e365]: Instagram
+              - generic [ref=e367]: Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos
+          - generic [ref=e368] [cursor=pointer]:
+            - heading "Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas" [level=3] [ref=e370]:
+              - button "Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas" [ref=e372]:
+                - img "Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas" [ref=e375]
+            - link "Instagram Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas" [ref=e377]:
+              - /url: https://www.instagram.com/p/C20Uaj9RzY3/
+              - generic [ref=e382]: Instagram
+              - generic [ref=e384]: Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas
+          - generic [ref=e385] [cursor=pointer]:
+            - heading "Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas" [level=3] [ref=e387]:
+              - button "Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas" [ref=e389]:
+                - img "Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas" [ref=e392]
+            - link "Instagram Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas" [ref=e394]:
+              - /url: https://www.instagram.com/p/C20Uaj9RzY3/
+              - generic [ref=e399]: Instagram
+              - generic [ref=e401]: Olá! Que bom ter você por aqui! Sou Marcela, esposa do Gu e mamãe da Laura! Sou pediatra e tenho um orgulho enorme da minha profissão! Por aqui, você vai encontrar muitas
+          - generic [ref=e402] [cursor=pointer]:
+            - heading "Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [level=3] [ref=e404]:
+              - button "Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [ref=e406]:
+                - img "Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [ref=e409]
+            - link "Instagram Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [ref=e411]:
+              - /url: https://www.instagram.com/dramarcelabraz/
+              - generic [ref=e416]: Instagram
+              - generic [ref=e418]: Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos
+          - generic [ref=e419] [cursor=pointer]:
+            - heading "E fechando uma semana puxada de trabalho, eu ganho esse presente da @gerusadadam !!! Meu coração não aguenta quando eu vejo as crianças “brincando de dra Marcela”!!! Tem diploma mais valioso que" [level=3] [ref=e421]:
+              - button "E fechando uma semana puxada de trabalho, eu ganho esse presente da @gerusadadam !!! Meu coração não aguenta quando eu vejo as crianças “brincando de dra Marcela”!!! Tem diploma mais valioso que" [ref=e423]:
+                - img "E fechando uma semana puxada de trabalho, eu ganho esse presente da @gerusadadam !!! Meu coração não aguenta quando eu vejo as crianças “brincando de dra Marcela”!!! Tem diploma mais valioso que" [ref=e426]
+            - link "Instagram E fechando uma semana puxada de trabalho, eu ganho esse presente da @gerusadadam !!! Meu coração não aguenta quando eu vejo as crianças “brincando de dra Marcela”!!! Tem diploma mais valioso que" [ref=e428]:
+              - /url: https://www.instagram.com/reel/CuIRpQsATBa/
+              - generic [ref=e433]: Instagram
+              - generic [ref=e435]: E fechando uma semana puxada de trabalho, eu ganho esse presente da @gerusadadam !!! Meu coração não aguenta quando eu vejo as crianças “brincando de dra Marcela”!!! Tem diploma mais valioso que
+          - generic [ref=e436] [cursor=pointer]:
+            - heading "Dra Marcela Braz Pediatra (@dramarcela_pediatra) · Itajaí, SC" [level=3] [ref=e438]:
+              - button "Dra Marcela Braz Pediatra (@dramarcela_pediatra) · Itajaí, SC" [ref=e440]:
+                - img "Dra Marcela Braz Pediatra (@dramarcela_pediatra) · Itajaí, SC" [ref=e443]
+            - link "Instagram Dra Marcela Braz Pediatra (@dramarcela_pediatra) · Itajaí, SC" [ref=e445]:
+              - /url: https://www.instagram.com/dramarcela_pediatra/
+              - generic [ref=e450]: Instagram
+              - generic [ref=e452]: Dra Marcela Braz Pediatra (@dramarcela_pediatra) · Itajaí, SC
+          - generic [ref=e453] [cursor=pointer]:
+            - heading "E fechando uma semana puxada de trabalho, eu ganho esse presente da @gerusadadam !!! Meu coração não aguenta quando eu vejo as crianças “brincando de dra Marcela”!!! Tem diploma mais valioso que" [level=3] [ref=e455]:
+              - button "E fechando uma semana puxada de trabalho, eu ganho esse presente da @gerusadadam !!! Meu coração não aguenta quando eu vejo as crianças “brincando de dra Marcela”!!! Tem diploma mais valioso que" [ref=e457]:
+                - img "E fechando uma semana puxada de trabalho, eu ganho esse presente da @gerusadadam !!! Meu coração não aguenta quando eu vejo as crianças “brincando de dra Marcela”!!! Tem diploma mais valioso que" [ref=e460]
+            - link "Instagram E fechando uma semana puxada de trabalho, eu ganho esse presente da @gerusadadam !!! Meu coração não aguenta quando eu vejo as crianças “brincando de dra Marcela”!!! Tem diploma mais valioso que" [ref=e462]:
+              - /url: https://www.instagram.com/reel/CuIRpQsATBa/
+              - generic [ref=e467]: Instagram
+              - generic [ref=e469]: E fechando uma semana puxada de trabalho, eu ganho esse presente da @gerusadadam !!! Meu coração não aguenta quando eu vejo as crianças “brincando de dra Marcela”!!! Tem diploma mais valioso que
+          - generic [ref=e470] [cursor=pointer]:
+            - heading "Registros de uma refeição que enchem meu ❤️ de alegria, orgulho e esperança! A Malu e a mamãe @larissafps me contaram na consulta que os pratos do almoço e do jantar estavam" [level=3] [ref=e472]:
+              - button "Registros de uma refeição que enchem meu ❤️ de alegria, orgulho e esperança! A Malu e a mamãe @larissafps me contaram na consulta que os pratos do almoço e do jantar estavam" [ref=e474]:
+                - img "Registros de uma refeição que enchem meu ❤️ de alegria, orgulho e esperança! A Malu e a mamãe @larissafps me contaram na consulta que os pratos do almoço e do jantar estavam" [ref=e477]
+            - link "Instagram Registros de uma refeição que enchem meu ❤️ de alegria, orgulho e esperança! A Malu e a mamãe @larissafps me contaram na consulta que os pratos do almoço e do jantar estavam" [ref=e479]:
+              - /url: https://www.instagram.com/p/DWWpFJ9jcIr/
+              - generic [ref=e484]: Instagram
+              - generic [ref=e486]: Registros de uma refeição que enchem meu ❤️ de alegria, orgulho e esperança! A Malu e a mamãe @larissafps me contaram na consulta que os pratos do almoço e do jantar estavam
+          - generic [ref=e487] [cursor=pointer]:
+            - heading "Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [level=3] [ref=e489]:
+              - button "Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [ref=e491]:
+                - img "Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [ref=e494]
+            - link "Instagram Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [ref=e496]:
+              - /url: https://www.instagram.com/dramarcelabraz/reels/
+              - generic [ref=e501]: Instagram
+              - generic [ref=e503]: Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos
+          - generic [ref=e504] [cursor=pointer]:
+            - heading "Completamente apaixonada pelo material que estou entregando para as famílias dos meus pacientes na consulta de introdução alimentar! Dicas práticas que deixam todos mais confiantes para esse momento tão lindo ( e" [level=3] [ref=e506]:
+              - button "Completamente apaixonada pelo material que estou entregando para as famílias dos meus pacientes na consulta de introdução alimentar! Dicas práticas que deixam todos mais confiantes para esse momento tão lindo ( e" [ref=e508]:
+                - img "Completamente apaixonada pelo material que estou entregando para as famílias dos meus pacientes na consulta de introdução alimentar! Dicas práticas que deixam todos mais confiantes para esse momento tão lindo ( e" [ref=e511]
+            - link "Instagram Completamente apaixonada pelo material que estou entregando para as famílias dos meus pacientes na consulta de introdução alimentar! Dicas práticas que deixam todos mais confiantes para esse momento tão lindo ( e" [ref=e513]:
+              - /url: https://www.instagram.com/p/DArLCjqPT5j/
+              - generic [ref=e518]: Instagram
+              - generic [ref=e520]: Completamente apaixonada pelo material que estou entregando para as famílias dos meus pacientes na consulta de introdução alimentar! Dicas práticas que deixam todos mais confiantes para esse momento tão lindo ( e
+          - generic [ref=e521] [cursor=pointer]:
+            - generic [ref=e522]:
+              - heading "Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [level=3] [ref=e523]:
+                - button "Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [ref=e525]:
+                  - img "Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [ref=e528]
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+            - link "Instagram Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [ref=e530]:
+              - /url: https://www.instagram.com/dramarcelabraz/
+              - generic [ref=e535]: Instagram
+              - generic [ref=e537]: Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos
+          - generic [ref=e538] [cursor=pointer]:
+            - heading "Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [level=3] [ref=e540]:
+              - button "Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [ref=e542]:
+                - img "Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [ref=e545]
+            - link "Instagram Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos" [ref=e547]:
+              - /url: https://www.instagram.com/dramarcelabraz/reels/
+              - generic [ref=e552]: Instagram
+              - generic [ref=e554]: Marcela Braz | Dentista em Caxambu (@dramarcelabraz) • Instagram photos and videos
+        - generic [ref=e557]:
+          - heading "Page Navigation" [level=1] [ref=e558]
+          - generic [ref=e559]:
+            - text: O restante dos resultados pode não ser o que você procura.
+            - link "Conferir mais mesmo assim" [ref=e560] [cursor=pointer]:
+              - /url: "#"
+      - navigation

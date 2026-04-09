@@ -1,0 +1,399 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e88] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e93]
+        - link "Foto do perfil de _pipelinestudio" [ref=e99] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e104]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e105]
+      - generic [ref=e106]:
+        - link "Configurações" [ref=e109] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e114]
+        - link "Também da Meta" [ref=e117] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e122]
+    - generic [ref=e125]:
+      - main [ref=e126]:
+        - generic [ref=e127]:
+          - generic [ref=e129]:
+            - button [ref=e134]:
+              - generic [ref=e141]:
+                - list [ref=e143]:
+                  - listitem [ref=e144]
+                  - listitem [ref=e145]:
+                    - img [ref=e152]
+                  - listitem [ref=e154]:
+                    - img [ref=e161]
+                - button [ref=e163] [cursor=pointer]
+            - generic [ref=e166]:
+              - generic [ref=e168]:
+                - button "Foto do perfil de dradjeniferschlickmann" [ref=e173] [cursor=pointer]:
+                  - link "Foto do perfil de dradjeniferschlickmann" [ref=e175]:
+                    - img "Foto do perfil de dradjeniferschlickmann" [ref=e176]
+                - generic [ref=e179]:
+                  - generic [ref=e183]:
+                    - link "dradjeniferschlickmann" [ref=e188] [cursor=pointer]:
+                      - /url: /dradjeniferschlickmann/
+                      - generic [ref=e191]: dradjeniferschlickmann
+                    - img "Verificado" [ref=e193]
+                  - button "Seguir" [ref=e196] [cursor=pointer]
+                - button "Mais opções" [ref=e199] [cursor=pointer]:
+                  - img "Mais opções" [ref=e202]
+              - separator [ref=e206]
+              - generic [ref=e208]:
+                - generic [ref=e210]:
+                  - link "Foto do perfil de dradjeniferschlickmann" [ref=e215] [cursor=pointer]:
+                    - /url: /dradjeniferschlickmann/
+                    - img "Foto do perfil de dradjeniferschlickmann" [ref=e216]
+                  - generic [ref=e220]:
+                    - generic [ref=e221]:
+                      - link "dradjeniferschlickmann Verificado" [ref=e225] [cursor=pointer]:
+                        - /url: /dradjeniferschlickmann/
+                        - generic [ref=e227]:
+                          - generic [ref=e228]: dradjeniferschlickmann
+                          - img "Verificado" [ref=e230]
+                      - time [ref=e233]: 10 sem
+                    - generic [ref=e234]:
+                      - text: "Ela chegou dizendo: Dra, quero melhorar minha aparência… sinto que minhas rugas estão muito marcadas e quando sorrio, marca demais."
+                      - text: Após uma avaliação cuidadosa e um planejamento individualizado, realizamos um protocolo de rejuvenescimento pensado para suavizar as marcas do tempo sem tirar a expressão e a naturalidade.
+                      - text: O resultado?
+                      - text: Uma pele mais leve, descansada e um sorriso que agora transmite juventude, não cansaço.✨
+                      - text: Porque rejuvenescimento não é mudar quem você é —
+                      - text: é fazer você se reconhecer novamente no espelho. 💕
+                - generic [ref=e235]:
+                  - generic [ref=e236]:
+                    - generic [ref=e238]:
+                      - link "Foto do perfil de janetetaxista" [ref=e244] [cursor=pointer]:
+                        - /url: /janetetaxista/
+                        - img "Foto do perfil de janetetaxista" [ref=e245]
+                      - generic [ref=e246]:
+                        - generic [ref=e247]:
+                          - generic [ref=e249]:
+                            - generic [ref=e250]:
+                              - link "janetetaxista" [ref=e255] [cursor=pointer]:
+                                - /url: /janetetaxista/
+                                - generic [ref=e258]: janetetaxista
+                              - link "10 sem" [ref=e260] [cursor=pointer]:
+                                - /url: /p/DT8TWPTjvqq/c/17878863684465027/
+                                - time [ref=e261]: 10 sem
+                            - generic [ref=e263]: 👏👏👏👏👏👏👏👏👏👏👏👏
+                          - generic [ref=e264]:
+                            - button "1 curtida" [ref=e265] [cursor=pointer]:
+                              - generic [ref=e267]: 1 curtida
+                            - button "Responder" [ref=e268] [cursor=pointer]:
+                              - generic [ref=e270]: Responder
+                        - button "Curtir" [ref=e275] [cursor=pointer]:
+                          - img "Curtir" [ref=e278]
+                    - button "Ver todas as 1 respostas" [ref=e281] [cursor=pointer]:
+                      - generic [ref=e284]: Ver todas as 1 respostas
+                  - generic [ref=e285]:
+                    - generic [ref=e287]:
+                      - link "Foto do perfil de ingriddeoliveirarinaldi" [ref=e293] [cursor=pointer]:
+                        - /url: /ingriddeoliveirarinaldi/
+                        - img "Foto do perfil de ingriddeoliveirarinaldi" [ref=e294]
+                      - generic [ref=e295]:
+                        - generic [ref=e296]:
+                          - generic [ref=e298]:
+                            - generic [ref=e299]:
+                              - link "ingriddeoliveirarinaldi" [ref=e304] [cursor=pointer]:
+                                - /url: /ingriddeoliveirarinaldi/
+                                - generic [ref=e307]: ingriddeoliveirarinaldi
+                              - link "10 sem" [ref=e309] [cursor=pointer]:
+                                - /url: /p/DT8TWPTjvqq/c/18170670841379371/
+                                - time [ref=e310]: 10 sem
+                            - generic [ref=e312]: A pele fica incrível, você é demais 👏
+                          - generic [ref=e313]:
+                            - button "1 curtida" [ref=e314] [cursor=pointer]:
+                              - generic [ref=e316]: 1 curtida
+                            - button "Responder" [ref=e317] [cursor=pointer]:
+                              - generic [ref=e319]: Responder
+                        - button "Curtir" [ref=e324] [cursor=pointer]:
+                          - img "Curtir" [ref=e327]
+                    - button "Ver todas as 1 respostas" [ref=e330] [cursor=pointer]:
+                      - generic [ref=e333]: Ver todas as 1 respostas
+                  - generic [ref=e334]:
+                    - generic [ref=e336]:
+                      - link "Foto do perfil de janetetaxista" [ref=e342] [cursor=pointer]:
+                        - /url: /janetetaxista/
+                        - img "Foto do perfil de janetetaxista" [ref=e343]
+                      - generic [ref=e344]:
+                        - generic [ref=e345]:
+                          - generic [ref=e347]:
+                            - generic [ref=e348]:
+                              - link "janetetaxista" [ref=e353] [cursor=pointer]:
+                                - /url: /janetetaxista/
+                                - generic [ref=e356]: janetetaxista
+                              - link "10 sem" [ref=e358] [cursor=pointer]:
+                                - /url: /p/DT8TWPTjvqq/c/17871573324525771/
+                                - time [ref=e359]: 10 sem
+                            - generic [ref=e361]: Surreal amei amei amei vc é a melhorrrrrr t amo d❤️
+                          - generic [ref=e362]:
+                            - button "1 curtida" [ref=e363] [cursor=pointer]:
+                              - generic [ref=e365]: 1 curtida
+                            - button "Responder" [ref=e366] [cursor=pointer]:
+                              - generic [ref=e368]: Responder
+                        - button "Curtir" [ref=e373] [cursor=pointer]:
+                          - img "Curtir" [ref=e376]
+                    - button "Ver todas as 1 respostas" [ref=e379] [cursor=pointer]:
+                      - generic [ref=e382]: Ver todas as 1 respostas
+                  - generic [ref=e385]:
+                    - link "Foto do perfil de cidafaleiro" [ref=e391] [cursor=pointer]:
+                      - /url: /cidafaleiro/
+                      - img "Foto do perfil de cidafaleiro" [ref=e392]
+                    - generic [ref=e393]:
+                      - generic [ref=e394]:
+                        - generic [ref=e396]:
+                          - generic [ref=e397]:
+                            - link "cidafaleiro" [ref=e402] [cursor=pointer]:
+                              - /url: /cidafaleiro/
+                              - generic [ref=e405]: cidafaleiro
+                            - link "6 sem" [ref=e407] [cursor=pointer]:
+                              - /url: /p/DT8TWPTjvqq/c/18085414403189251/
+                              - time [ref=e408]: 6 sem
+                          - generic [ref=e410]: Perfeito
+                        - button "Responder" [ref=e412] [cursor=pointer]:
+                          - generic [ref=e414]: Responder
+                      - button "Curtir" [ref=e419] [cursor=pointer]:
+                        - img "Curtir" [ref=e422]
+                  - generic [ref=e426]:
+                    - link "Foto do perfil de vera_claricee" [ref=e432] [cursor=pointer]:
+                      - /url: /vera_claricee/
+                      - img "Foto do perfil de vera_claricee" [ref=e433]
+                    - generic [ref=e434]:
+                      - generic [ref=e435]:
+                        - generic [ref=e437]:
+                          - generic [ref=e438]:
+                            - link "vera_claricee" [ref=e443] [cursor=pointer]:
+                              - /url: /vera_claricee/
+                              - generic [ref=e446]: vera_claricee
+                            - link "7 sem" [ref=e448] [cursor=pointer]:
+                              - /url: /p/DT8TWPTjvqq/c/18111607840645040/
+                              - time [ref=e449]: 7 sem
+                          - generic [ref=e451]: Como é feito esse procedimento?
+                        - button "Responder" [ref=e453] [cursor=pointer]:
+                          - generic [ref=e455]: Responder
+                      - button "Curtir" [ref=e460] [cursor=pointer]:
+                        - img "Curtir" [ref=e463]
+                  - generic [ref=e467]:
+                    - link "Foto do perfil de ramoncardo" [ref=e473] [cursor=pointer]:
+                      - /url: /ramoncardo/
+                      - img "Foto do perfil de ramoncardo" [ref=e474]
+                    - generic [ref=e475]:
+                      - generic [ref=e476]:
+                        - generic [ref=e478]:
+                          - generic [ref=e479]:
+                            - link "ramoncardo" [ref=e484] [cursor=pointer]:
+                              - /url: /ramoncardo/
+                              - generic [ref=e487]: ramoncardo
+                            - link "10 sem" [ref=e489] [cursor=pointer]:
+                              - /url: /p/DT8TWPTjvqq/c/18083618605940970/
+                              - time [ref=e490]: 10 sem
+                          - generic [ref=e492]: O melhor protocolo pra tirar rugas e flacidez, sem dúvidas 😍👏🏻
+                        - generic [ref=e493]:
+                          - button "1 curtida" [ref=e494] [cursor=pointer]:
+                            - generic [ref=e496]: 1 curtida
+                          - button "Responder" [ref=e497] [cursor=pointer]:
+                            - generic [ref=e499]: Responder
+                      - button "Curtir" [ref=e504] [cursor=pointer]:
+                        - img "Curtir" [ref=e507]
+              - generic [ref=e509]:
+                - generic [ref=e510]:
+                  - generic [ref=e511]:
+                    - button "Curtir" [ref=e514] [cursor=pointer]:
+                      - img "Curtir" [ref=e517]
+                    - button "25" [ref=e519] [cursor=pointer]
+                    - button "Comentar" [ref=e521] [cursor=pointer]:
+                      - img "Comentar" [ref=e523]
+                    - button "9" [ref=e525] [cursor=pointer]
+                    - button "Compartilhar" [ref=e526] [cursor=pointer]:
+                      - img "Compartilhar" [ref=e527]
+                  - button "Salvar" [ref=e532] [cursor=pointer]:
+                    - button "Salvar" [ref=e533]:
+                      - img "Salvar" [ref=e535]
+                - link "25 de janeiro" [ref=e539] [cursor=pointer]:
+                  - /url: /dradjeniferschlickmann/p/DT8TWPTjvqq/
+                  - time [ref=e541]: 25 de janeiro
+              - generic [ref=e544]:
+                - link [ref=e545]
+                - generic [ref=e547]:
+                  - button "Emoji" [ref=e549] [cursor=pointer]:
+                    - img "Emoji" [ref=e551]
+                  - textbox "Adicione um comentário..." [ref=e553]
+          - separator [ref=e555]
+          - generic [ref=e556]:
+            - generic [ref=e558]:
+              - text: Mais posts de
+              - link "dradjeniferschlickmann" [ref=e559] [cursor=pointer]:
+                - /url: /dradjeniferschlickmann/
+            - generic [ref=e562]:
+              - generic [ref=e563]:
+                - 'link "Ela chegou dizendo que sentia o rosto “derretendo” e sem contorno… Após um planejamento feito com cuidado e naturalidade, saiu se sentindo mais jovem, mais bonita e com a autoestima renovada ✨ Harmonização não é mudar quem você é, é devolver o que o tempo levou 💉🤍 #metodoDS #harmonizacao #autoestima Carrossel" [ref=e565] [cursor=pointer]':
+                  - /url: /dradjeniferschlickmann/p/DTrBrISDjcx/
+                  - 'img "Ela chegou dizendo que sentia o rosto “derretendo” e sem contorno… Após um planejamento feito com cuidado e naturalidade, saiu se sentindo mais jovem, mais bonita e com a autoestima renovada ✨ Harmonização não é mudar quem você é, é devolver o que o tempo levou 💉🤍 #metodoDS #harmonizacao #autoestima" [ref=e568]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - 'link "Nós amamos transformar vidas e elevar autoestima com esse procedimento incrível que é o Line Skin ✨😍. Deixe aqui no comentário, o que você achou dessa transformação? 👇🏻✨ #explorar #hof #lineskin #rejuvenescimento #pele Clipe" [ref=e571] [cursor=pointer]':
+                  - /url: /dradjeniferschlickmann/reel/DA7DOCKx0ed/
+                  - 'img "Nós amamos transformar vidas e elevar autoestima com esse procedimento incrível que é o Line Skin ✨😍. Deixe aqui no comentário, o que você achou dessa transformação? 👇🏻✨ #explorar #hof #lineskin #rejuvenescimento #pele" [ref=e574]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - link "Protocolo de rejuvenescimento facial, sem cortes e sem cirurgia! Resultados incríveis 🪄✨ Clipe" [ref=e577] [cursor=pointer]:
+                  - /url: /dradjeniferschlickmann/reel/DOZhS0ADvrT/
+                  - img "Protocolo de rejuvenescimento facial, sem cortes e sem cirurgia! Resultados incríveis 🪄✨" [ref=e580]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+              - generic [ref=e582]:
+                - 'link "Muitos pacientes chegam no consultório, principalmente depois dos 40, com a mesma queixa: “Antes eu conseguia disfarçar... agora nem a maquiagem ajuda mais.” Quando a pele perde qualidade, a maquiagem deixa de camuflar e começa a evidenciar. O craquelado aparece mais, marca mais, incomoda mais. Esse tipo de tratamento exige experiência técnica e de manejo de pele. A partir daqui o resultado muda de nível. Ah mas e o vermelhidão? Ele é temporário, mas a ruga não tratada é permanente né?! 🤭 Carrossel" [ref=e584] [cursor=pointer]':
+                  - /url: /dradjeniferschlickmann/p/DWkW0shjp6A/
+                  - 'img "Muitos pacientes chegam no consultório, principalmente depois dos 40, com a mesma queixa: “Antes eu conseguia disfarçar... agora nem a maquiagem ajuda mais.” Quando a pele perde qualidade, a maquiagem deixa de camuflar e começa a evidenciar. O craquelado aparece mais, marca mais, incomoda mais. Esse tipo de tratamento exige experiência técnica e de manejo de pele. A partir daqui o resultado muda de nível. Ah mas e o vermelhidão? Ele é temporário, mas a ruga não tratada é permanente né?! 🤭" [ref=e587]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - link "Photo shared by Djenifer Schlickmann | Harmonização Facial on March 21, 2026 tagging @ramoncardo. May be a black-and-white image of baby, smiling and text." [ref=e590] [cursor=pointer]:
+                  - /url: /dradjeniferschlickmann/p/DWKIIx8iZb2/
+                  - img "Photo shared by Djenifer Schlickmann | Harmonização Facial on March 21, 2026 tagging @ramoncardo. May be a black-and-white image of baby, smiling and text." [ref=e593]
+                - link "Quer vir conhecer?… Vem 😂 Clipe" [ref=e596] [cursor=pointer]:
+                  - /url: /dradjeniferschlickmann/reel/DWFUKtjDt6z/
+                  - img "Quer vir conhecer?… Vem 😂" [ref=e599]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+      - contentinfo [ref=e601]:
+        - generic [ref=e602]:
+          - generic [ref=e604]:
+            - link "Meta" [ref=e606] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e607]: Meta
+            - link "Sobre" [ref=e609] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e610]: Sobre
+            - link "Blog" [ref=e612] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e613]: Blog
+            - link "Carreiras" [ref=e615] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e616]: Carreiras
+            - link "Ajuda" [ref=e618] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e619]: Ajuda
+            - link "API" [ref=e621] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e622]: API
+            - link "Privacidade" [ref=e624] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e625]: Privacidade
+            - link "Termos" [ref=e627] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e628]: Termos
+            - link "Localizações" [ref=e630] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e631]: Localizações
+            - link "Instagram Lite" [ref=e633] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e634]: Instagram Lite
+            - link "Meta AI" [ref=e636] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e637]: Meta AI
+            - link "Threads" [ref=e639] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e640]: Threads
+            - link "Upload de contatos e não usuários" [ref=e642] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e643]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e645] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e646]: Meta Verified
+          - generic [ref=e647]:
+            - generic [ref=e648] [cursor=pointer]:
+              - generic [ref=e649]:
+                - generic [ref=e650]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e653]
+              - combobox "Trocar idioma de exibição" [ref=e655]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e657]: © 2026 Instagram from Meta
+  - button "Mensagens Mensagens" [ref=e659] [cursor=pointer]:
+    - generic [ref=e661]:
+      - img "Mensagens" [ref=e663]
+      - generic [ref=e666]: Mensagens

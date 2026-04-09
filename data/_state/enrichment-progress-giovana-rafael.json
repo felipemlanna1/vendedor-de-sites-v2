@@ -1,0 +1,331 @@
+{
+  "current_phase": 7,
+  "lead_id": "giovana-rafael",
+  "nome": "Giovana Rafael",
+  "cidade": "São Lourenço, MG",
+  "nicho": "arquiteta",
+  "strategy": "generic",
+  "source": "instagram",
+  "discovered_urls": {
+    "site_url": "",
+    "instagram_username": "giovanarafael.arquitetura",
+    "facebook_url": "",
+    "google_maps_url": "",
+    "platform_urls": {}
+  },
+  "data_points": [
+    {
+      "category": "presence",
+      "label": "Instagram confirmado",
+      "value": "@giovanarafael.arquitetura",
+      "detail": {
+        "followers": 1183,
+        "posts": 97,
+        "following": 575,
+        "bio": "Arquitetura e Interiores, LinkTree na bio, sem site real"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:17:26.840131"
+    },
+    {
+      "category": "presence",
+      "label": "CNPJ encontrado",
+      "value": "51.502.018/0001-22",
+      "detail": {
+        "razao_social": "Giovana Rafael Arquitetura e Interiores LTDA",
+        "data_abertura": "20/07/2023",
+        "cnae": "M-7111-1/00 Servicos de arquitetura",
+        "endereco": "Alameda dos Ipes, 205 - Alto dos Pinheiros",
+        "cidade": "São Lourenço",
+        "estado": "MG",
+        "cep": "37.470-000",
+        "administrador": "Giovana Rafael Ferreira",
+        "situacao": "ATIVA"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch + WebFetch (econodata.com.br)",
+      "fetched_at": "2026-04-07T21:17:26.840131"
+    },
+    {
+      "category": "presence",
+      "label": "Nome completo",
+      "value": "Giovana Rafael Ferreira",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "Econodata",
+      "fetched_at": "2026-04-07T21:17:26.840131"
+    },
+    {
+      "category": "presence",
+      "label": "Cidade confirmada",
+      "value": "São Lourenço, MG",
+      "detail": {
+        "cep": "37.470-000",
+        "bairro": "Alto dos Pinheiros"
+      },
+      "source_type": "briefing",
+      "source_name": "Econodata",
+      "fetched_at": "2026-04-07T21:17:26.840131"
+    },
+    {
+      "category": "presence",
+      "label": "Sem site oficial",
+      "value": "Nenhum website encontrado",
+      "detail": {
+        "nota": "Usa LinkTree na bio do Instagram, sem dominio proprio"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:17:26.840131"
+    },
+    {
+      "category": "presence",
+      "label": "LinkedIn nao encontrado",
+      "value": "Nao encontrado",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:17:26.840131"
+    },
+    {
+      "category": "presence",
+      "label": "Facebook nao encontrado",
+      "value": "Nao encontrado",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:17:26.840131"
+    },
+    {
+      "category": "reviews",
+      "label": "Avaliacoes online",
+      "value": "Nao encontrado",
+      "detail": {
+        "nota": "Sem avaliacoes Google, sem reviews publicas"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:17:26.840131"
+    },
+    {
+      "category": "history",
+      "label": "Empresa fundada em 2023",
+      "value": "20/07/2023",
+      "detail": {
+        "tempo_atividade": "~3 anos"
+      },
+      "source_type": "briefing",
+      "source_name": "Econodata",
+      "fetched_at": "2026-04-07T21:17:26.840131"
+    },
+    {
+      "category": "identity",
+      "label": "CNPJ (BrasilAPI)",
+      "value": "51.502.018/0001-22",
+      "detail": {
+        "razao_social": "GIOVANA RAFAEL ARQUITETURA E INTERIORES LTDA",
+        "nome_fantasia": "",
+        "data_abertura": "20/07/2023",
+        "porte": "Microempresa",
+        "cnae": "7111100 - Servicos de arquitetura",
+        "socios": [
+          "Giovana Rafael Ferreira (Socio-Administrador)"
+        ],
+        "endereco": "Alameda dos Ipes 205, Vale dos Pinheiros, Sao Lourenco MG 37470-000",
+        "telefone": "(35) 3331-4737",
+        "email": "",
+        "capital_social": 10000.0,
+        "situacao_cadastral": "Baixada",
+        "data_situacao": "21/07/2025",
+        "motivo_situacao": "Encerramento/liquidacao voluntaria"
+      },
+      "source_type": "briefing",
+      "source_name": "BrasilAPI",
+      "fetched_at": "2026-04-07T21:18:27.085151"
+    },
+    {
+      "category": "identity",
+      "label": "Telefone comercial",
+      "value": "(35) 3331-4737",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "BrasilAPI",
+      "fetched_at": "2026-04-07T21:18:27.085151"
+    },
+    {
+      "category": "identity",
+      "label": "CNPJ Baixado",
+      "value": "Empresa encerrada em 21/07/2025",
+      "detail": {
+        "nota": "CNPJ foi baixado por liquidacao voluntaria. Pode estar operando como PF ou nova empresa."
+      },
+      "source_type": "briefing",
+      "source_name": "BrasilAPI",
+      "fetched_at": "2026-04-07T21:18:27.085151"
+    },
+    {
+      "category": "professional_registry",
+      "label": "Registro CAU",
+      "value": "Nao encontrado via busca publica",
+      "detail": {
+        "nota": "CAU/BR nao permite busca publica por nome sem numero de registro. Provavel que tenha CAU por ser arquiteta formada com empresa registrada."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch + WebFetch (caubr.gov.br)",
+      "fetched_at": "2026-04-07T21:18:27.085151"
+    },
+    {
+      "category": "website",
+      "label": "Website",
+      "value": "Nao possui site",
+      "detail": {
+        "status": "sem_site",
+        "nota": "Usa LinkTree na bio do Instagram. Sem dominio proprio. CNPJ foi baixado em 07/2025. Oportunidade clara de venda de site."
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-07T21:18:58.343179"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Instagram (canal principal)",
+      "value": "@giovanarafael.arquitetura",
+      "detail": {
+        "followers": 1183,
+        "posts": 97,
+        "tipo": "Principal canal de presenca digital",
+        "linktree": true
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch + WebFetch (instagram.com)",
+      "fetched_at": "2026-04-07T21:19:34.944789"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Reclame Aqui",
+      "value": "Nao encontrado",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:19:34.944789"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Google Maps",
+      "value": "Nao encontrado",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:19:34.944789"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Houzz/ArchDaily/VivaDecora",
+      "value": "Nao encontrado",
+      "detail": {
+        "nota": "Sem perfil em plataformas de arquitetura"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:19:34.944789"
+    },
+    {
+      "category": "images",
+      "label": "Foto de perfil Instagram",
+      "value": "https://www.instagram.com/giovanarafael.arquitetura/",
+      "detail": {
+        "urls": [
+          "https://www.instagram.com/giovanarafael.arquitetura/"
+        ],
+        "tipo": "profile_pic",
+        "fonte": "WebSearch (Instagram og:image nao extraido - Playwright indisponivel)",
+        "nota": "Playwright MCP desconectado. Foto de perfil disponivel no perfil Instagram."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:20:56.286564"
+    },
+    {
+      "category": "social",
+      "label": "Bio Instagram",
+      "value": "Seu sonho a um projeto de se tornar realidade!",
+      "detail": {
+        "username": "giovanarafael.arquitetura",
+        "followers": 1183,
+        "posts": 97,
+        "following": 575,
+        "linktree": true,
+        "areas": "SP, MG, internacional"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (Instagram)",
+      "fetched_at": "2026-04-07T21:20:56.286564"
+    },
+    {
+      "category": "brand",
+      "label": "Padroes da marca",
+      "value": "Arquitetura minimalista e elegante, tom aspiracional, publico classes A/B",
+      "detail": {
+        "cores": [
+          "neutras",
+          "branco",
+          "preto",
+          "tons terrosos"
+        ],
+        "tom": "aspiracional e profissional",
+        "publico_alvo": "Casais e familias classes A/B buscando projetos residenciais de interiores em SP e MG",
+        "estilo_visual": "Clean, minimalista, sofisticado - tipico de escritorios de arquitetura de interiores",
+        "slogan": "Seu sonho a um projeto de se tornar realidade!"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-07T21:22:01.323742"
+    },
+    {
+      "category": "competitors",
+      "label": "Concorrentes com site em Sao Lourenco MG",
+      "value": "3 encontrados",
+      "detail": [
+        "Michela Perigolo Arquiteta - cnpj.biz/54018963000141",
+        "SM Arquitetura & Engenharia - facebook.com/smarquiteturaeengenharia",
+        "Renan Medau Arquitetura - medau.com.br"
+      ],
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:22:01.323742"
+    }
+  ],
+  "phases": {
+    "phase_1": {
+      "status": "complete"
+    },
+    "phase_2": {
+      "status": "complete",
+      "result": "9 data_points, CNPJ encontrado, sem site, sem LinkedIn/Facebook"
+    },
+    "phase_3": {
+      "status": "complete",
+      "result": "CNPJ confirmado (baixado 07/2025), telefone encontrado, CAU nao localizado via busca publica"
+    },
+    "phase_4": {
+      "status": "complete",
+      "result": "Sem site - registrado ausencia"
+    },
+    "phase_5": {
+      "status": "complete",
+      "result": "Instagram como unico canal. Sem Google Maps, Reclame Aqui, Houzz, ArchDaily ou VivaDecora."
+    },
+    "phase_6": {
+      "status": "complete",
+      "result": "Playwright MCP indisponivel (browser closed). Imagens limitadas a WebSearch. 2 data_points (perfil + bio). Posts individuais nao acessiveis sem Playwright.",
+      "playwright_unavailable": true
+    },
+    "phase_7": {
+      "status": "complete",
+      "result": "Briefing salvo. Sales score: 7/10. 22 data_points."
+    }
+  },
+  "started_at": "2026-04-07T21:16:04.687455",
+  "completed_at": "2026-04-07T21:22:01.323742"
+}

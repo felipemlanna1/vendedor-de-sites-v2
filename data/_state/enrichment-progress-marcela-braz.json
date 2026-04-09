@@ -1,0 +1,490 @@
+{
+  "current_phase": 7,
+  "lead_id": "marcela-braz",
+  "nome": "Marcela Braz",
+  "cidade": "Caxambu",
+  "nicho": "dentista",
+  "strategy": "dental",
+  "source": "instagram",
+  "discovered_urls": {
+    "site_url": "",
+    "instagram_username": "dramarcelabraz",
+    "facebook_url": "https://www.facebook.com/dramarcelabraz/",
+    "google_maps_url": "",
+    "platform_urls": {
+      "ident": "https://www.ident.com.br/marcelabraz",
+      "dentistas_net": "https://www.dentistas.net.br/sobre/dra-marcela-braz",
+      "linkedin": "https://br.linkedin.com/in/marcela-carvalho-braz-224759a9",
+      "doctoralia_listing": "https://www.doctoralia.com.br/dentista/caxambu",
+      "zoominfo": "https://www.zoominfo.com/p/Marcela-Braz/8550262763"
+    }
+  },
+  "data_points": [
+    {
+      "category": "presence",
+      "label": "Nome completo",
+      "value": "Marcela Carvalho Braz",
+      "detail": {
+        "titulo": "Dra."
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:56:28.683285"
+    },
+    {
+      "category": "presence",
+      "label": "Endereço consultório",
+      "value": "R. Oliveira Mafra, 248, Caxambu - MG, 37440-000",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:56:28.683285"
+    },
+    {
+      "category": "presence",
+      "label": "Formação",
+      "value": "UFF - Universidade Federal Fluminense",
+      "detail": {
+        "curso": "Odontologia"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (Ident)",
+      "fetched_at": "2026-04-07T21:56:28.683285"
+    },
+    {
+      "category": "presence",
+      "label": "Especialidade 1",
+      "value": "Endodontia (Tratamento de Canal)",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:56:28.683285"
+    },
+    {
+      "category": "presence",
+      "label": "Especialidade 2",
+      "value": "Odontopediatria",
+      "detail": {
+        "formacao": "Associação Brasileira de Odontologia - PE"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:56:28.683285"
+    },
+    {
+      "category": "presence",
+      "label": "Serviços estéticos",
+      "value": "Harmonização Facial, Botox, Preenchimento Labial, Microagulhamento, Skinbooster",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "WebSearch (SoaMaps)",
+      "fetched_at": "2026-04-07T21:56:28.683285"
+    },
+    {
+      "category": "presence",
+      "label": "Serviços odontológicos",
+      "value": "Tratamento de Canal, Limpeza Dental, Clareamento Dental, Dentista de Criança",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "WebSearch (SoaMaps)",
+      "fetched_at": "2026-04-07T21:56:28.683285"
+    },
+    {
+      "category": "social",
+      "label": "Instagram",
+      "value": "@dramarcelabraz",
+      "detail": {
+        "followers": 1582,
+        "posts": 192
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:56:28.683285"
+    },
+    {
+      "category": "social",
+      "label": "Facebook",
+      "value": "https://www.facebook.com/dramarcelabraz/",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:56:28.683285"
+    },
+    {
+      "category": "social",
+      "label": "LinkedIn",
+      "value": "https://br.linkedin.com/in/marcela-carvalho-braz-224759a9",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:56:28.683285"
+    },
+    {
+      "category": "presence",
+      "label": "Ident desde",
+      "value": "Fevereiro 2016",
+      "detail": {
+        "url": "https://www.ident.com.br/marcelabraz"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (Ident)",
+      "fetched_at": "2026-04-07T21:56:28.683285"
+    },
+    {
+      "category": "presence",
+      "label": "Trabalho público",
+      "value": "PSF do Caxambu Velho (Prefeitura)",
+      "detail": {
+        "email_domain": "caxambu.mg.gov.br"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (ZoomInfo)",
+      "fetched_at": "2026-04-07T21:56:28.683285"
+    },
+    {
+      "category": "presence",
+      "label": "Sem site próprio",
+      "value": "Não possui website",
+      "detail": {},
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:56:28.683285"
+    },
+    {
+      "category": "reviews",
+      "label": "Avaliações",
+      "value": "Não encontradas em buscas",
+      "detail": {
+        "nota": "N/A"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:56:28.683285"
+    },
+    {
+      "category": "identity",
+      "label": "CNPJ",
+      "value": "Não encontrado",
+      "detail": {
+        "tentativas": [
+          "WebSearch CNPJ + nome + cidade",
+          "WebSearch CNPJ + nome completo + odontologia"
+        ]
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:57:46.668290"
+    },
+    {
+      "category": "professional_registry",
+      "label": "CRO-MG",
+      "value": "Não encontrado nas buscas",
+      "detail": {
+        "tentativas": [
+          "WebSearch CRO MG + nome",
+          "WebSearch CRO-MG + nome completo + Caxambu"
+        ],
+        "nota": "Provavelmente atende como pessoa física ou CLT no PSF"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:57:46.668290"
+    },
+    {
+      "category": "website",
+      "label": "Website",
+      "value": "Não possui site",
+      "detail": {
+        "status": "sem_site"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-07T21:58:07.571533"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Doctoralia",
+      "value": "Não encontrada",
+      "detail": {
+        "status": "sem_perfil"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:59:03.157830"
+    },
+    {
+      "category": "sales_channels",
+      "label": "BoaConsulta",
+      "value": "Não encontrada",
+      "detail": {
+        "status": "sem_perfil"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:59:03.157830"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Instagram @dramarcelabraz",
+      "value": "Perfil confirmado",
+      "detail": {
+        "followers": 1582,
+        "posts": 192,
+        "bio": "WhatsApp na bio"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch + WebFetch",
+      "fetched_at": "2026-04-07T21:59:03.157830"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Facebook Dra. Marcela Braz",
+      "value": "Página confirmada",
+      "detail": {
+        "url": "https://www.facebook.com/dramarcelabraz/"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:59:03.157830"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Ident",
+      "value": "Perfil desde Fev/2016",
+      "detail": {
+        "url": "https://www.ident.com.br/marcelabraz"
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch",
+      "fetched_at": "2026-04-07T21:59:03.157830"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Dentistas.net.br",
+      "value": "Perfil presente",
+      "detail": {
+        "url": "https://www.dentistas.net.br/sobre/dra-marcela-braz"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T21:59:03.157830"
+    },
+    {
+      "category": "images",
+      "label": "Foto de perfil Instagram (alta resolução)",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.2885-19/338068604_234897582274670_1347720495013539850_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-poa1-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gF9x53CHv6nTUjO6QOvCk0-FN8V79tjc_TpKpt-BmzGBEc_ezTJ5g39pNYw-oF5sORPkdzeSMhlZodR367L7BAM&_nc_ohc=gXEKJEhw47IQ7kNvwHKHfrQ&_nc_gid=2LmM1N3zLGWUTZ61vdNLvQ&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_Af3WSUHQaodex0x8yjSsdF7hikintHnVAbVq5B337dtMRQ&oe=69DB72AB&_nc_sid=7a9f4b",
+      "detail": {
+        "tipo": "profile_pic",
+        "fonte": "Playwright (Instagram perfil)",
+        "width": 1080,
+        "height": 1080
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-07T22:03:19.861092"
+    },
+    {
+      "category": "images",
+      "label": "Post Instagram - Photo shared by Marcela Braz | Dentista em Caxambu on Decemb",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/623055730_18086721800148648_7477829641248306_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post)",
+        "width": 1440,
+        "height": 1216
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-07T22:03:19.861092"
+    },
+    {
+      "category": "images",
+      "label": "Post Instagram - 25/10 - Dia do Dentista!",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/655135083_18057601007444762_7198988652655540177_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108",
+      "detail": {
+        "tipo": "equipe",
+        "fonte": "Playwright (Instagram post)",
+        "width": 1440,
+        "height": 1800
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-07T22:03:19.861092"
+    },
+    {
+      "category": "images",
+      "label": "Post Instagram - Dia das maes",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/652768469_18002946086899523_7864916344848789746_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post)",
+        "width": 1440,
+        "height": 989
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-07T22:03:19.861092"
+    },
+    {
+      "category": "images",
+      "label": "Post Instagram - Dia da Mulher",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t39.30808-6/472002523_18439557862073215_8723118656720948115_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post)",
+        "width": 1440,
+        "height": 1800
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-07T22:03:19.861092"
+    },
+    {
+      "category": "images",
+      "label": "Post Instagram - Odontopediatria - Laurinha fechou tratamento",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t39.30808-6/472220159_18439553719073215_6374961517645692406_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104",
+      "detail": {
+        "tipo": "produto",
+        "fonte": "Playwright (Instagram post)",
+        "width": 1440,
+        "height": 1800
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-07T22:03:19.861092"
+    },
+    {
+      "category": "images",
+      "label": "Post Instagram - Photo by Marcela Braz in Caxambu - Sul De Minas Gerais",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t39.30808-6/471158353_18437192341073215_7853946585894499158_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100",
+      "detail": {
+        "tipo": "fachada",
+        "fonte": "Playwright (Instagram post)",
+        "width": 1440,
+        "height": 1800
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-07T22:03:19.861092"
+    },
+    {
+      "category": "images",
+      "label": "Post Instagram - Ultima semana de atendimentos - consultorio preparado",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.71878-15/502712313_1044231694488482_3962549756275652792_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110",
+      "detail": {
+        "tipo": "fachada",
+        "fonte": "Playwright (Instagram post)",
+        "width": 720,
+        "height": 1280
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-07T22:03:19.861092"
+    },
+    {
+      "category": "images",
+      "label": "Post Instagram - Novos horizontes, transformar vidas",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t39.30808-6/470875282_18436993519073215_9073844984667421052_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103",
+      "detail": {
+        "tipo": "equipe",
+        "fonte": "Playwright (Instagram post)",
+        "width": 1440,
+        "height": 1440
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-07T22:03:19.861092"
+    },
+    {
+      "category": "images",
+      "label": "Post Instagram - Photo by Marcela Braz in Caxambu",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t39.30808-6/471087386_18436986754073215_4582295524769096866_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post)",
+        "width": 1440,
+        "height": 1799
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-07T22:03:19.861092"
+    },
+    {
+      "category": "images",
+      "label": "Post Instagram - Photo by Marcela Braz in Caxambu",
+      "value": "https://scontent-poa1-1.cdninstagram.com/v/t39.30808-6/470234453_18436127980073215_3473558017338794052_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101",
+      "detail": {
+        "tipo": "post",
+        "fonte": "Playwright (Instagram post)",
+        "width": 1440,
+        "height": 1800
+      },
+      "source_type": "briefing",
+      "source_name": "Playwright MCP",
+      "fetched_at": "2026-04-07T22:03:19.861092"
+    },
+    {
+      "category": "brand",
+      "label": "Padrões da marca",
+      "value": "Profissional de saúde com tom acolhedor e próximo, foco em odontopediatria e estética",
+      "detail": {
+        "cores": [
+          "rosa",
+          "branco",
+          "tons pastéis"
+        ],
+        "tom": "acolhedor, próximo, maternal",
+        "publico_alvo": "Famílias com crianças, mulheres buscando estética facial, adultos com problemas de canal",
+        "estilo_visual": "Feminino, acolhedor, fotos pessoais e profissionais",
+        "slogan": "Não identificado"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-07T22:04:56.247845"
+    },
+    {
+      "category": "competitors",
+      "label": "Concorrentes com presença web em Caxambu",
+      "value": "3 encontrados",
+      "detail": [
+        "Odontoprimer Caxambu - https://www.facebook.com/odontoprimercaxambu/",
+        "Dr. Marco Antonio Alvarenga - https://www.ident.com.br/marcoalvarenga",
+        "Sisdente - https://sisdente.com.br/"
+      ],
+      "source_type": "briefing",
+      "source_name": "WebSearch",
+      "fetched_at": "2026-04-07T22:04:56.247845"
+    }
+  ],
+  "phases": {
+    "phase_1": {
+      "status": "complete"
+    },
+    "phase_2": {
+      "status": "complete",
+      "result": "5 URLs descobertas, 14 data_points"
+    },
+    "phase_3": {
+      "status": "complete",
+      "result": "CNPJ nao encontrado, CRO nao encontrado nas buscas"
+    },
+    "phase_4": {
+      "status": "complete",
+      "result": "Sem site proprio"
+    },
+    "phase_5": {
+      "status": "complete",
+      "result": "4 canais encontrados (IG, FB, Ident, Dentistas.net), Doctoralia/BoaConsulta ausentes"
+    },
+    "phase_6": {
+      "status": "complete",
+      "result": "11 imagens capturadas via Playwright (1 perfil + 10 posts)"
+    },
+    "phase_7": {
+      "status": "complete",
+      "result": "Briefing salvo no vendedor.db"
+    }
+  },
+  "started_at": "2026-04-07T21:52:44.686623",
+  "completed_at": "2026-04-07T22:04:56.247845"
+}

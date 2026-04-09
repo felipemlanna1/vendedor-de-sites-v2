@@ -1,0 +1,13 @@
+[     305ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5180/node_modules/.vite/deps/react-dom_client.js?v=6674ab09:20102
+[     349ms] [ERROR] Invalid DOM property `%s`. Did you mean `%s`? fetchpriority fetchPriority @ http://localhost:5180/node_modules/.vite/deps/react-dom_client.js?v=6674ab09:2396
+[     436ms] [ERROR] Error: <ellipse> attribute rx: Expected length, "undefined". @ http://localhost:5180/node_modules/.vite/deps/motion_react.js?v=6674ab09:5875
+[     436ms] [ERROR] Error: <ellipse> attribute rx: Expected length, "undefined". @ http://localhost:5180/node_modules/.vite/deps/motion_react.js?v=6674ab09:5875
+[     436ms] [ERROR] Error: <ellipse> attribute ry: Expected length, "undefined". @ http://localhost:5180/node_modules/.vite/deps/motion_react.js?v=6674ab09:5875
+[     436ms] [ERROR] Error: <ellipse> attribute ry: Expected length, "undefined". @ http://localhost:5180/node_modules/.vite/deps/motion_react.js?v=6674ab09:5875
+[   14939ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5180/node_modules/.vite/deps/react-dom_client.js?v=6674ab09:20102
+[   14960ms] [ERROR] Invalid DOM property `%s`. Did you mean `%s`? fetchpriority fetchPriority @ http://localhost:5180/node_modules/.vite/deps/react-dom_client.js?v=6674ab09:2396
+[   15012ms] [ERROR] Error: <ellipse> attribute rx: Expected length, "undefined". @ http://localhost:5180/node_modules/.vite/deps/motion_react.js?v=6674ab09:5875
+[   15012ms] [ERROR] Error: <ellipse> attribute rx: Expected length, "undefined". @ http://localhost:5180/node_modules/.vite/deps/motion_react.js?v=6674ab09:5875
+[   15012ms] [ERROR] Error: <ellipse> attribute ry: Expected length, "undefined". @ http://localhost:5180/node_modules/.vite/deps/motion_react.js?v=6674ab09:5875
+[   15012ms] [ERROR] Error: <ellipse> attribute ry: Expected length, "undefined". @ http://localhost:5180/node_modules/.vite/deps/motion_react.js?v=6674ab09:5875
+[  663524ms] [ERROR] WebSocket connection to 'ws://localhost:5180/?token=9zyxs--7aK6R' failed:  @ http://localhost:5180/@vite/client:801

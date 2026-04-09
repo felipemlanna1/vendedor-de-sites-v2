@@ -1,0 +1,301 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e86] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e91]
+        - link "Foto do perfil de _pipelinestudio" [ref=e97] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e102]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e103]
+      - generic [ref=e104]:
+        - link "Configurações" [ref=e107] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e112]
+        - link "Também da Meta" [ref=e115] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e120]
+    - generic [ref=e123]:
+      - main [ref=e124]:
+        - generic [ref=e125]:
+          - generic [ref=e127]:
+            - button [ref=e132]:
+              - img [ref=e138]
+            - generic [ref=e141]:
+              - generic [ref=e143]:
+                - button "Foto do perfil de adv_polianaandrade" [ref=e148] [cursor=pointer]:
+                  - link "Foto do perfil de adv_polianaandrade" [ref=e150]:
+                    - img "Foto do perfil de adv_polianaandrade" [ref=e151]
+                - generic [ref=e154]:
+                  - generic [ref=e155]:
+                    - link "adv_polianaandrade" [ref=e163] [cursor=pointer]:
+                      - /url: /adv_polianaandrade/
+                      - generic [ref=e166]: adv_polianaandrade
+                    - link "Brasília DF" [ref=e170] [cursor=pointer]:
+                      - /url: /explore/locations/1689658768019158/brasilia-df/
+                  - button "Seguir" [ref=e172] [cursor=pointer]
+                - button "Mais opções" [ref=e175] [cursor=pointer]:
+                  - img "Mais opções" [ref=e178]
+              - separator [ref=e182]
+              - generic [ref=e184]:
+                - generic [ref=e186]:
+                  - link "Foto do perfil de adv_polianaandrade" [ref=e191] [cursor=pointer]:
+                    - /url: /adv_polianaandrade/
+                    - img "Foto do perfil de adv_polianaandrade" [ref=e192]
+                  - generic [ref=e196]:
+                    - generic [ref=e197]:
+                      - link "adv_polianaandrade" [ref=e201] [cursor=pointer]:
+                        - /url: /adv_polianaandrade/
+                        - generic [ref=e204]: adv_polianaandrade
+                      - time [ref=e206]: 33 sem
+                    - generic [ref=e207]:
+                      - text: Bens da madrasta podem ser penhorados por dívida de pensão do pai!
+                      - text: .
+                      - text: .
+                      - text: Em decisão recente, o Superior Tribunal de Justiça (STJ) entendeu que bens adquiridos em comunhão com o devedor de pensão alimentícia podem ser penhorados, mesmo que estejam em nome da atual companheira (a madrasta).
+                      - text: .
+                      - text: O que isso significa?
+                      - text: Quando o pai (genitor) não paga a pensão alimentícia e vive em união estável ou casamento sob o regime de comunhão parcial de bens, o patrimônio adquirido durante essa convivência pode ser usado para quitar a dívida alimentar.
+                      - text: .
+                      - text: Ou seja, os bens da madrasta – se adquiridos após o início da união podem ser atingidos pela penhora, já que integram o patrimônio comum do casal.
+                      - text: .
+                      - text: Por que isso é importante?
+                      - text: Essa decisão reforça a proteção ao direito fundamental à alimentação.
+                      - text: .
+                      - text: O STJ entendeu que a responsabilidade patrimonial do casal não pode ser usada como escudo para fraudes ou para impedir a efetiva satisfação da dívida alimentar.
+                      - text: ⠀
+                      - text: "Vale lembrar: a medida não atinge bens particulares da madrasta adquiridos antes da união, mas apenas aqueles considerados fruto do esforço comum durante a relação."
+                      - text: ⠀
+                      - text: Fique atento! Se você está enfrentando questões relacionadas a pensão alimentícia ou partilha de bens, procure orientação jurídica especializada.
+                - generic [ref=e208]:
+                  - generic [ref=e211]:
+                    - link "Foto do perfil de renata_mello18" [ref=e217] [cursor=pointer]:
+                      - /url: /renata_mello18/
+                      - img "Foto do perfil de renata_mello18" [ref=e218]
+                    - generic [ref=e219]:
+                      - generic [ref=e220]:
+                        - generic [ref=e222]:
+                          - generic [ref=e223]:
+                            - link "renata_mello18" [ref=e228] [cursor=pointer]:
+                              - /url: /renata_mello18/
+                              - generic [ref=e231]: renata_mello18
+                            - link "33 sem" [ref=e233] [cursor=pointer]:
+                              - /url: /p/DNhYDWlOKX5/c/18062945453459629/
+                              - time [ref=e234]: 33 sem
+                          - generic [ref=e236]: 👏🏻👏🏻
+                        - button "Responder" [ref=e238] [cursor=pointer]:
+                          - generic [ref=e240]: Responder
+                      - button "Curtir" [ref=e245] [cursor=pointer]:
+                        - img "Curtir" [ref=e248]
+                  - generic [ref=e252]:
+                    - link "Foto do perfil de gabesandrade_" [ref=e258] [cursor=pointer]:
+                      - /url: /gabesandrade_/
+                      - img "Foto do perfil de gabesandrade_" [ref=e259]
+                    - generic [ref=e260]:
+                      - generic [ref=e261]:
+                        - generic [ref=e263]:
+                          - generic [ref=e264]:
+                            - link "gabesandrade_" [ref=e269] [cursor=pointer]:
+                              - /url: /gabesandrade_/
+                              - generic [ref=e272]: gabesandrade_
+                            - link "33 sem" [ref=e274] [cursor=pointer]:
+                              - /url: /p/DNhYDWlOKX5/c/18030797246686181/
+                              - time [ref=e275]: 33 sem
+                          - generic [ref=e277]: 😮👏🏼
+                        - button "Responder" [ref=e279] [cursor=pointer]:
+                          - generic [ref=e281]: Responder
+                      - button "Curtir" [ref=e286] [cursor=pointer]:
+                        - img "Curtir" [ref=e289]
+              - generic [ref=e291]:
+                - generic [ref=e292]:
+                  - generic [ref=e293]:
+                    - button "Curtir" [ref=e296] [cursor=pointer]:
+                      - img "Curtir" [ref=e299]
+                    - button "Comentar" [ref=e302] [cursor=pointer]:
+                      - img "Comentar" [ref=e304]
+                    - button "2" [ref=e306] [cursor=pointer]
+                    - button "Compartilhar" [ref=e307] [cursor=pointer]:
+                      - img "Compartilhar" [ref=e308]
+                  - button "Salvar" [ref=e313] [cursor=pointer]:
+                    - button "Salvar" [ref=e314]:
+                      - img "Salvar" [ref=e316]
+                - link "19 de agosto de 2025" [ref=e320] [cursor=pointer]:
+                  - /url: /adv_polianaandrade/p/DNhYDWlOKX5/
+                  - time [ref=e322]: 19 de agosto de 2025
+              - generic [ref=e325]:
+                - link [ref=e326]
+                - generic [ref=e328]:
+                  - button "Emoji" [ref=e330] [cursor=pointer]:
+                    - img "Emoji" [ref=e332]
+                  - textbox "Adicione um comentário..." [ref=e334]
+          - separator [ref=e336]
+          - generic [ref=e337]:
+            - generic [ref=e339]:
+              - text: Mais posts de
+              - link "adv_polianaandrade" [ref=e340] [cursor=pointer]:
+                - /url: /adv_polianaandrade/
+            - generic [ref=e343]:
+              - generic [ref=e344]:
+                - link [ref=e346] [cursor=pointer]:
+                  - /url: /adv_polianaandrade/reel/DNQzm5kud4m/
+                  - img [ref=e349]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - link "Photo by Andrade e Bispo Advogados Associados in Brasília DF with @dra.lalescabispo, and @adv_polianaandrade." [ref=e352] [cursor=pointer]:
+                  - /url: /andradeebispo_/p/Cz4suQAL6L2/
+                  - img "Photo by Andrade e Bispo Advogados Associados in Brasília DF with @dra.lalescabispo, and @adv_polianaandrade." [ref=e355]
+                - link "Photo by Poliana Andrade | Advogada de inventários in Connect Towers." [ref=e358] [cursor=pointer]:
+                  - /url: /adv_polianaandrade/p/DNOfbOkOHhQ/
+                  - img "Photo by Poliana Andrade | Advogada de inventários in Connect Towers." [ref=e361]
+              - generic [ref=e363]:
+                - link "Carta aberta para 2025. Carrossel" [ref=e365] [cursor=pointer]:
+                  - /url: /adv_polianaandrade/p/DS8HkAbjhF9/
+                  - img "Carta aberta para 2025." [ref=e368]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - 'link "Hoje tive a honra de tomar posse como Vice-Presidente da Comissão de Direito Imobiliário da OAB/DF, subseção de Taguatinga. . . Assumo essa missão com imensa gratidão e senso de responsabilidade, consciente da importância de fortalecer o debate jurídico e promover o aprimoramento técnico e ético de nossa advocacia. . . Agradeço à diretoria da subseção, aos colegas de comissão e a todos que confiam em meu trabalho. Que esta nova jornada seja marcada por aprendizado, cooperação e conquistas coletivas! #OABTaguatinga #DireitoImobiliário #Advocacia #ComissãoDeDireitoImobiliário #Posse #Ética Carrossel" [ref=e371] [cursor=pointer]':
+                  - /url: /adv_polianaandrade/p/DQvC2vCDoKT/
+                  - 'img "Hoje tive a honra de tomar posse como Vice-Presidente da Comissão de Direito Imobiliário da OAB/DF, subseção de Taguatinga. . . Assumo essa missão com imensa gratidão e senso de responsabilidade, consciente da importância de fortalecer o debate jurídico e promover o aprimoramento técnico e ético de nossa advocacia. . . Agradeço à diretoria da subseção, aos colegas de comissão e a todos que confiam em meu trabalho. Que esta nova jornada seja marcada por aprendizado, cooperação e conquistas coletivas! #OABTaguatinga #DireitoImobiliário #Advocacia #ComissãoDeDireitoImobiliário #Posse #Ética" [ref=e374]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - link "Noite de celebração . Baile de meio jaleco . Fisioterapia Todo sucesso do mundo @m.velozo__ ♥️ Carrossel" [ref=e377] [cursor=pointer]:
+                  - /url: /adv_polianaandrade/p/DQk5kgqDpLy/
+                  - img "Noite de celebração . Baile de meio jaleco . Fisioterapia Todo sucesso do mundo @m.velozo__ ♥️" [ref=e380]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+      - contentinfo [ref=e382]:
+        - generic [ref=e383]:
+          - generic [ref=e385]:
+            - link "Meta" [ref=e387] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e388]: Meta
+            - link "Sobre" [ref=e390] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e391]: Sobre
+            - link "Blog" [ref=e393] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e394]: Blog
+            - link "Carreiras" [ref=e396] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e397]: Carreiras
+            - link "Ajuda" [ref=e399] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e400]: Ajuda
+            - link "API" [ref=e402] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e403]: API
+            - link "Privacidade" [ref=e405] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e406]: Privacidade
+            - link "Termos" [ref=e408] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e409]: Termos
+            - link "Localizações" [ref=e411] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e412]: Localizações
+            - link "Instagram Lite" [ref=e414] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e415]: Instagram Lite
+            - link "Meta AI" [ref=e417] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e418]: Meta AI
+            - link "Threads" [ref=e420] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e421]: Threads
+            - link "Upload de contatos e não usuários" [ref=e423] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e424]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e426] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e427]: Meta Verified
+          - generic [ref=e428]:
+            - generic [ref=e429] [cursor=pointer]:
+              - generic [ref=e430]:
+                - generic [ref=e431]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e434]
+              - combobox "Trocar idioma de exibição" [ref=e436]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e438]: © 2026 Instagram from Meta
+  - button "Mensagens Mensagens" [ref=e440] [cursor=pointer]:
+    - generic [ref=e442]:
+      - img "Mensagens" [ref=e444]
+      - generic [ref=e447]: Mensagens

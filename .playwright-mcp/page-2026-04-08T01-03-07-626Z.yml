@@ -1,0 +1,249 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e86] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e91]
+        - link "Foto do perfil de _pipelinestudio" [ref=e97] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e102]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e103]
+      - generic [ref=e104]:
+        - link "Configurações" [ref=e107] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e112]
+        - link "Também da Meta" [ref=e115] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e120]
+    - generic [ref=e123]:
+      - main [ref=e124]:
+        - generic [ref=e125]:
+          - generic [ref=e127]:
+            - button [ref=e132]:
+              - img [ref=e138]
+            - generic [ref=e141]:
+              - generic [ref=e143]:
+                - button "Foto do perfil de dragiovannalima" [disabled] [ref=e148]:
+                  - link "Foto do perfil de dragiovannalima" [disabled] [ref=e150] [cursor=pointer]:
+                    - img "Foto do perfil de dragiovannalima" [ref=e151]
+                - generic [ref=e154]:
+                  - generic [ref=e155]:
+                    - generic [ref=e158]:
+                      - link "dragiovannalima" [ref=e163] [cursor=pointer]:
+                        - /url: /dragiovannalima/
+                        - generic [ref=e166]: dragiovannalima
+                      - img "Verificado" [ref=e168]
+                    - link "GL Clinic - Dra. Giovanna Lima" [ref=e173] [cursor=pointer]:
+                      - /url: /explore/locations/841118875748817/gl-clinic-dra-giovanna-lima/
+                  - button "Seguir" [ref=e175] [cursor=pointer]
+                - button "Mais opções" [ref=e178] [cursor=pointer]:
+                  - img "Mais opções" [ref=e181]
+              - separator [ref=e185]
+              - generic [ref=e187]:
+                - generic [ref=e189]:
+                  - link "Foto do perfil de dragiovannalima" [ref=e194] [cursor=pointer]:
+                    - /url: /dragiovannalima/
+                    - img "Foto do perfil de dragiovannalima" [ref=e195]
+                  - generic [ref=e199]:
+                    - generic [ref=e200]:
+                      - link "dragiovannalima Verificado" [ref=e204] [cursor=pointer]:
+                        - /url: /dragiovannalima/
+                        - generic [ref=e206]:
+                          - generic [ref=e207]: dragiovannalima
+                          - img "Verificado" [ref=e209]
+                      - time [ref=e212]: 3 sem
+                    - generic [ref=e213]:
+                      - text: Rejuvenescer sem perder a naturalidade é possível ✨🤌🏼
+                      - text: Nesse caso realizamos um protocolo de rejuvenescimento facial completo, focado em suavizar linhas, melhorar a qualidade da pele e devolver sustentação ao rosto.
+                      - text: "O resultado fala por si:"
+                      - text: pele mais uniforme, expressão descansada e um rosto visivelmente mais jovem, sem exageros e sem perder a identidade.
+                      - text: Muitas vezes pequenos ajustes fazem uma diferença enorme no espelho… e na autoestima.
+                      - text: Agenda aberta para avaliação personalizada porque pra mim, cada rosto é único✨
+                      - text: Envie uma mensagem e descubra qual protocolo é ideal para você.
+                - generic [ref=e216]:
+                  - heading "Ainda não há nenhum comentário." [level=2] [ref=e218]
+                  - generic [ref=e220]: Inicie a conversa.
+              - generic [ref=e221]:
+                - generic [ref=e222]:
+                  - generic [ref=e223]:
+                    - button "Curtir" [ref=e226] [cursor=pointer]:
+                      - img "Curtir" [ref=e229]
+                    - button "Comentar" [ref=e232] [cursor=pointer]:
+                      - img "Comentar" [ref=e234]
+                    - button "Compartilhar" [ref=e236] [cursor=pointer]:
+                      - img "Compartilhar" [ref=e237]
+                  - button "Salvar" [ref=e242] [cursor=pointer]:
+                    - button "Salvar" [ref=e243]:
+                      - img "Salvar" [ref=e245]
+                - link "13 de março" [ref=e249] [cursor=pointer]:
+                  - /url: /dragiovannalima/p/DV1aPvJjsvp/
+                  - time [ref=e251]: 13 de março
+              - generic [ref=e254]:
+                - link [ref=e255]
+                - generic [ref=e257]:
+                  - button "Emoji" [ref=e259] [cursor=pointer]:
+                    - img "Emoji" [ref=e261]
+                  - textbox "Adicione um comentário..." [ref=e263]
+          - separator [ref=e265]
+          - generic [ref=e266]:
+            - generic [ref=e268]:
+              - text: Mais posts de
+              - link "dragiovannalima" [ref=e269] [cursor=pointer]:
+                - /url: /dragiovannalima/
+            - generic [ref=e272]:
+              - generic [ref=e273]:
+                - 'link "Ela se incomodava com o envelhecimento e algumas linhas de expressões marcadas, então realizamos o nosso protocolo FULL FACE by GL ✨ E foi esse resultado que eu entreguei!✨ #estėticafacial #rejuvenescímentofacial #harmonizacaofacialabc Carrossel" [ref=e275] [cursor=pointer]':
+                  - /url: /dragiovannalima/p/DRihUA3jg19/
+                  - 'img "Ela se incomodava com o envelhecimento e algumas linhas de expressões marcadas, então realizamos o nosso protocolo FULL FACE by GL ✨ E foi esse resultado que eu entreguei!✨ #estėticafacial #rejuvenescímentofacial #harmonizacaofacialabc" [ref=e278]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - link "Photo by Dra. Giovanna Lima | Harmonização Facial in SBT - Sistema Brasileiro De Televisão." [ref=e281] [cursor=pointer]:
+                  - /url: /dragiovannalima/p/DRpUt9-jhY5/
+                  - img "Photo by Dra. Giovanna Lima | Harmonização Facial in SBT - Sistema Brasileiro De Televisão." [ref=e284]
+                - link "Photo by Dra. Giovanna Lima | Harmonização Facial on March 24, 2025." [ref=e287] [cursor=pointer]:
+                  - /url: /dragiovannalima/p/DHmOEN2B-uA/
+                  - img "Photo by Dra. Giovanna Lima | Harmonização Facial on March 24, 2025." [ref=e290]
+              - generic [ref=e292]:
+                - 'link "O objetivo aqui nunca foi mudar, e sim valorizar suavizar sinais do tempo, devolver viço e realçar a naturalidade desse rosto. Um resultado delicado, harmônico e pensado em cada detalhe✨ Porque cuidar de si mesma é também uma forma de autocuidado e confiança. Quer um resultado assim, natural e sofisticado? Me chama no direct e agende sua avaliação!✨ #procedimentosestéticos #botoxabc #bioestimulador #saocaetano Carrossel" [ref=e294] [cursor=pointer]':
+                  - /url: /dragiovannalima/p/DWkNItSDs0Q/
+                  - 'img "O objetivo aqui nunca foi mudar, e sim valorizar suavizar sinais do tempo, devolver viço e realçar a naturalidade desse rosto. Um resultado delicado, harmônico e pensado em cada detalhe✨ Porque cuidar de si mesma é também uma forma de autocuidado e confiança. Quer um resultado assim, natural e sofisticado? Me chama no direct e agende sua avaliação!✨ #procedimentosestéticos #botoxabc #bioestimulador #saocaetano" [ref=e297]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - link "Photo by Dra. Giovanna Lima | Harmonização Facial in Congresso SBTI. May be an image of one or more people, blonde hair, makeup, lighting, suit, top, blazer and text." [ref=e300] [cursor=pointer]:
+                  - /url: /dragiovannalima/p/DWM6tZ2Dnv_/
+                  - img "Photo by Dra. Giovanna Lima | Harmonização Facial in Congresso SBTI. May be an image of one or more people, blonde hair, makeup, lighting, suit, top, blazer and text." [ref=e303]
+                - link "Photo by Dra. Giovanna Lima | Harmonização Facial in GL Clinic - Dra. Giovanna Lima. May be an image of one or more people and text." [ref=e306] [cursor=pointer]:
+                  - /url: /dragiovannalima/p/DWM4hoMDr7E/
+                  - img "Photo by Dra. Giovanna Lima | Harmonização Facial in GL Clinic - Dra. Giovanna Lima. May be an image of one or more people and text." [ref=e309]
+      - contentinfo [ref=e311]:
+        - generic [ref=e312]:
+          - generic [ref=e314]:
+            - link "Meta" [ref=e316] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e317]: Meta
+            - link "Sobre" [ref=e319] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e320]: Sobre
+            - link "Blog" [ref=e322] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e323]: Blog
+            - link "Carreiras" [ref=e325] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e326]: Carreiras
+            - link "Ajuda" [ref=e328] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e329]: Ajuda
+            - link "API" [ref=e331] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e332]: API
+            - link "Privacidade" [ref=e334] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e335]: Privacidade
+            - link "Termos" [ref=e337] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e338]: Termos
+            - link "Localizações" [ref=e340] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e341]: Localizações
+            - link "Instagram Lite" [ref=e343] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e344]: Instagram Lite
+            - link "Meta AI" [ref=e346] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e347]: Meta AI
+            - link "Threads" [ref=e349] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e350]: Threads
+            - link "Upload de contatos e não usuários" [ref=e352] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e353]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e355] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e356]: Meta Verified
+          - generic [ref=e357]:
+            - generic [ref=e358] [cursor=pointer]:
+              - generic [ref=e359]:
+                - generic [ref=e360]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e363]
+              - combobox "Trocar idioma de exibição" [ref=e365]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e367]: © 2026 Instagram from Meta
+  - button "Mensagens Mensagens" [ref=e369] [cursor=pointer]:
+    - generic [ref=e371]:
+      - img "Mensagens" [ref=e373]
+      - generic [ref=e376]: Mensagens

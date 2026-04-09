@@ -1,0 +1,304 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e88] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e93]
+        - link "Foto do perfil de _pipelinestudio" [ref=e99] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e104]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e105]
+      - generic [ref=e106]:
+        - link "Configurações" [ref=e109] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e114]
+        - link "Também da Meta" [ref=e117] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e122]
+    - generic [ref=e125]:
+      - main [ref=e126]:
+        - generic [ref=e127]:
+          - generic [ref=e129]:
+            - button [ref=e134]:
+              - generic [ref=e141]:
+                - list [ref=e143]:
+                  - listitem [ref=e144]
+                  - listitem [ref=e145]:
+                    - img [ref=e152]
+                  - listitem [ref=e154]:
+                    - img [ref=e161]
+                - button [ref=e163] [cursor=pointer]
+            - generic [ref=e166]:
+              - generic [ref=e168]:
+                - button "Foto do perfil de thalita.arquiteta" [disabled] [ref=e173]:
+                  - link "Foto do perfil de thalita.arquiteta" [disabled] [ref=e175] [cursor=pointer]:
+                    - img "Foto do perfil de thalita.arquiteta" [ref=e176]
+                - generic [ref=e179]:
+                  - generic [ref=e180]:
+                    - link "thalita.arquiteta" [ref=e188] [cursor=pointer]:
+                      - /url: /thalita.arquiteta/
+                      - generic [ref=e191]: thalita.arquiteta
+                    - link "Paracatu, MG" [ref=e195] [cursor=pointer]:
+                      - /url: /explore/locations/347844624/paracatu-mg/
+                  - button "Seguir" [ref=e197] [cursor=pointer]
+                - button "Mais opções" [ref=e200] [cursor=pointer]:
+                  - img "Mais opções" [ref=e203]
+              - separator [ref=e207]
+              - generic [ref=e209]:
+                - generic [ref=e211]:
+                  - link "Foto do perfil de thalita.arquiteta" [ref=e216] [cursor=pointer]:
+                    - /url: /thalita.arquiteta/
+                    - img "Foto do perfil de thalita.arquiteta" [ref=e217]
+                  - generic [ref=e221]:
+                    - generic [ref=e222]:
+                      - link "thalita.arquiteta" [ref=e226] [cursor=pointer]:
+                        - /url: /thalita.arquiteta/
+                        - generic [ref=e229]: thalita.arquiteta
+                      - time [ref=e231]: 134 sem
+                    - generic [ref=e232]: Na dúvida, vai as duas.
+                - generic [ref=e233]:
+                  - generic [ref=e236]:
+                    - link "Foto do perfil de joaquinamonteiro277" [ref=e242] [cursor=pointer]:
+                      - /url: /joaquinamonteiro277/
+                      - img "Foto do perfil de joaquinamonteiro277" [ref=e243]
+                    - generic [ref=e244]:
+                      - generic [ref=e245]:
+                        - generic [ref=e247]:
+                          - generic [ref=e248]:
+                            - link "joaquinamonteiro277" [ref=e253] [cursor=pointer]:
+                              - /url: /joaquinamonteiro277/
+                              - generic [ref=e256]: joaquinamonteiro277
+                            - link "134 sem" [ref=e258] [cursor=pointer]:
+                              - /url: /p/Cw8rD4Lu94k/c/18005537347835845/
+                              - time [ref=e259]: 134 sem
+                          - generic [ref=e261]: 👏👏
+                        - generic [ref=e262]:
+                          - button "1 curtida" [ref=e263] [cursor=pointer]:
+                            - generic [ref=e265]: 1 curtida
+                          - button "Responder" [ref=e266] [cursor=pointer]:
+                            - generic [ref=e268]: Responder
+                      - button "Curtir" [ref=e273] [cursor=pointer]:
+                        - img "Curtir" [ref=e276]
+                  - generic [ref=e278]:
+                    - generic [ref=e280]:
+                      - link "Foto do perfil de gleiciellepscarvalho" [ref=e286] [cursor=pointer]:
+                        - /url: /gleiciellepscarvalho/
+                        - img "Foto do perfil de gleiciellepscarvalho" [ref=e287]
+                      - generic [ref=e288]:
+                        - generic [ref=e289]:
+                          - generic [ref=e291]:
+                            - generic [ref=e292]:
+                              - link "gleiciellepscarvalho" [ref=e297] [cursor=pointer]:
+                                - /url: /gleiciellepscarvalho/
+                                - generic [ref=e300]: gleiciellepscarvalho
+                              - link "134 sem" [ref=e302] [cursor=pointer]:
+                                - /url: /p/Cw8rD4Lu94k/c/17981522939241660/
+                                - time [ref=e303]: 134 sem
+                            - generic [ref=e305]: Linda 😍
+                          - generic [ref=e306]:
+                            - button "1 curtida" [ref=e307] [cursor=pointer]:
+                              - generic [ref=e309]: 1 curtida
+                            - button "Responder" [ref=e310] [cursor=pointer]:
+                              - generic [ref=e312]: Responder
+                        - button "Curtir" [ref=e317] [cursor=pointer]:
+                          - img "Curtir" [ref=e320]
+                    - button "Ver todas as 1 respostas" [ref=e323] [cursor=pointer]:
+                      - generic [ref=e326]: Ver todas as 1 respostas
+              - generic [ref=e327]:
+                - generic [ref=e328]:
+                  - generic [ref=e329]:
+                    - button "Curtir" [ref=e332] [cursor=pointer]:
+                      - img "Curtir" [ref=e335]
+                    - button "30" [ref=e337] [cursor=pointer]
+                    - button "Comentar" [ref=e339] [cursor=pointer]:
+                      - img "Comentar" [ref=e341]
+                    - button "3" [ref=e343] [cursor=pointer]
+                    - button "Compartilhar" [ref=e344] [cursor=pointer]:
+                      - img "Compartilhar" [ref=e345]
+                  - button "Salvar" [ref=e350] [cursor=pointer]:
+                    - button "Salvar" [ref=e351]:
+                      - img "Salvar" [ref=e353]
+                - link "8 de setembro de 2023" [ref=e357] [cursor=pointer]:
+                  - /url: /thalita.arquiteta/p/Cw8rD4Lu94k/
+                  - time [ref=e359]: 8 de setembro de 2023
+              - generic [ref=e362]:
+                - link [ref=e363]
+                - generic [ref=e365]:
+                  - button "Emoji" [ref=e367] [cursor=pointer]:
+                    - img "Emoji" [ref=e369]
+                  - textbox "Adicione um comentário..." [ref=e371]
+          - separator [ref=e373]
+          - generic [ref=e374]:
+            - generic [ref=e376]:
+              - text: Mais posts de
+              - link "thalita.arquiteta" [ref=e377] [cursor=pointer]:
+                - /url: /thalita.arquiteta/
+            - generic [ref=e380]:
+              - generic [ref=e381]:
+                - 'link "Na Virtude Arquitetura, cada projeto é desenvolvido com responsabilidade, qualidade e atenção aos detalhes. Nosso compromisso é transformar ideias em espaços funcionais, bem planejados e que realmente atendam às necessidades de cada cliente. Conheça quem está por trás da Virtude Arquitetura. #VirtudeArquitetura #Arquitetura #ProjetosArquitetônicos #ArquiteturaResidencial Carrossel" [ref=e383] [cursor=pointer]':
+                  - /url: /virtude.arquitetura/p/DVylHA1jXoO/
+                  - 'img "Na Virtude Arquitetura, cada projeto é desenvolvido com responsabilidade, qualidade e atenção aos detalhes. Nosso compromisso é transformar ideias em espaços funcionais, bem planejados e que realmente atendam às necessidades de cada cliente. Conheça quem está por trás da Virtude Arquitetura. #VirtudeArquitetura #Arquitetura #ProjetosArquitetônicos #ArquiteturaResidencial" [ref=e386]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - 'link "Como arquiteta, meu papel é garantir que cada escolha no seu projeto tenha um propósito: funcionalidade, conforto, economia e harmonia. Seu espaço merece ser bem pensado — e você merece viver em um ambiente que funcione para a sua rotina, do jeito certo. 🏡 Se você está prestes a construir, reformar ou quer melhorar seu espaço com inteligência e segurança, entre em contato. Vamos conversar sobre o que você precisa e transformar suas ideias em um projeto bem planejado, com técnica, cuidado e propósito. 📩 Me chame no direct ou WhatsApp para agendarmos uma consultoria personalizada. Link na bio, te espero! 🥰 #Arquitetura #ProjetoArquitetônico #Arquiteta #Construção #Reforma #ObraBemPlanejada #ValorizaçãoImóvel #DesignInteligente #EspaçosBemPensados #ArquiteturaComPropósito Carrossel" [ref=e389] [cursor=pointer]':
+                  - /url: /thalita.arquiteta/p/DIhat6yyyrH/
+                  - 'img "Como arquiteta, meu papel é garantir que cada escolha no seu projeto tenha um propósito: funcionalidade, conforto, economia e harmonia. Seu espaço merece ser bem pensado — e você merece viver em um ambiente que funcione para a sua rotina, do jeito certo. 🏡 Se você está prestes a construir, reformar ou quer melhorar seu espaço com inteligência e segurança, entre em contato. Vamos conversar sobre o que você precisa e transformar suas ideias em um projeto bem planejado, com técnica, cuidado e propósito. 📩 Me chame no direct ou WhatsApp para agendarmos uma consultoria personalizada. Link na bio, te espero! 🥰 #Arquitetura #ProjetoArquitetônico #Arquiteta #Construção #Reforma #ObraBemPlanejada #ValorizaçãoImóvel #DesignInteligente #EspaçosBemPensados #ArquiteturaComPropósito" [ref=e392]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - link [ref=e395] [cursor=pointer]:
+                  - /url: /thalita.arquiteta/p/DIJ8PKsx7JC/
+                  - img [ref=e398]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+              - generic [ref=e400]:
+                - 'link "“Sou eu que vou seguir você Do primeiro rabisco até o be-a-bá Em todos os desenhos coloridos vou estar…” - Toquinho Formatura da Elisa - 12/2025. Meu agradecimento à professora Bruna Cinara por tanto amor, cuidado e dedicação com a minha pequena. Sim, minha família é linda, obrigada. 😍🥰🫠 Ps.: Faltou meu amor @rodgger.br e o meu querido filho do coração @_juliocesaar7 #maeleoa🐯 Carrossel" [ref=e402] [cursor=pointer]':
+                  - /url: /thalita.arquiteta/p/DSB4n0BDbHB/
+                  - 'img "“Sou eu que vou seguir você Do primeiro rabisco até o be-a-bá Em todos os desenhos coloridos vou estar…” - Toquinho Formatura da Elisa - 12/2025. Meu agradecimento à professora Bruna Cinara por tanto amor, cuidado e dedicação com a minha pequena. Sim, minha família é linda, obrigada. 😍🥰🫠 Ps.: Faltou meu amor @rodgger.br e o meu querido filho do coração @_juliocesaar7 #maeleoa🐯" [ref=e405]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - link "Photo by Thalita Ferreira | Virtude Arquitetura on August 31, 2025." [ref=e408] [cursor=pointer]:
+                  - /url: /thalita.arquiteta/p/DOCnyW-D9eo/
+                  - img "Photo by Thalita Ferreira | Virtude Arquitetura on August 31, 2025." [ref=e411]
+                - link "🖤❤️ Carrossel" [ref=e414] [cursor=pointer]:
+                  - /url: /thalita.arquiteta/p/C3MCjxfu2i1/
+                  - img "🖤❤️" [ref=e417]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+      - contentinfo [ref=e419]:
+        - generic [ref=e420]:
+          - generic [ref=e422]:
+            - link "Meta" [ref=e424] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e425]: Meta
+            - link "Sobre" [ref=e427] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e428]: Sobre
+            - link "Blog" [ref=e430] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e431]: Blog
+            - link "Carreiras" [ref=e433] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e434]: Carreiras
+            - link "Ajuda" [ref=e436] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e437]: Ajuda
+            - link "API" [ref=e439] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e440]: API
+            - link "Privacidade" [ref=e442] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e443]: Privacidade
+            - link "Termos" [ref=e445] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e446]: Termos
+            - link "Localizações" [ref=e448] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e449]: Localizações
+            - link "Instagram Lite" [ref=e451] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e452]: Instagram Lite
+            - link "Meta AI" [ref=e454] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e455]: Meta AI
+            - link "Threads" [ref=e457] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e458]: Threads
+            - link "Upload de contatos e não usuários" [ref=e460] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e461]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e463] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e464]: Meta Verified
+          - generic [ref=e465]:
+            - generic [ref=e466] [cursor=pointer]:
+              - generic [ref=e467]:
+                - generic [ref=e468]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e471]
+              - combobox "Trocar idioma de exibição" [ref=e473]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e475]: © 2026 Instagram from Meta
+  - button "Mensagens Mensagens" [ref=e477] [cursor=pointer]:
+    - generic [ref=e479]:
+      - img "Mensagens" [ref=e481]
+      - generic [ref=e484]: Mensagens

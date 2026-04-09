@@ -1,0 +1,279 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Página inicial" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Mensagens" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=e57]
+        - link "Pesquisa" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=e68]
+        - link "Notificações" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=e80]
+        - link "Novo post" [ref=e88] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=e93]
+        - link "Foto do perfil de _pipelinestudio" [ref=e99] [cursor=pointer]:
+          - /url: /_pipelinestudio/
+          - link "Foto do perfil de _pipelinestudio" [ref=e104]:
+            - img "Foto do perfil de _pipelinestudio" [ref=e105]
+      - generic [ref=e106]:
+        - link "Configurações" [ref=e109] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=e114]
+        - link "Também da Meta" [ref=e117] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=e122]
+    - generic [ref=e125]:
+      - main [ref=e126]:
+        - generic [ref=e127]:
+          - generic [ref=e129]:
+            - button [ref=e134]:
+              - img [ref=e140]
+            - generic [ref=e143]:
+              - generic [ref=e145]:
+                - button "Foto do perfil de dra.marianagoulart" [ref=e150] [cursor=pointer]:
+                  - link "Foto do perfil de dra.marianagoulart" [ref=e152]:
+                    - img "Foto do perfil de dra.marianagoulart" [ref=e153]
+                - generic [ref=e156]:
+                  - generic [ref=e157]:
+                    - generic [ref=e160]:
+                      - link "dra.marianagoulart" [ref=e165] [cursor=pointer]:
+                        - /url: /dra.marianagoulart/
+                        - generic [ref=e168]: dra.marianagoulart
+                      - img "Verificado" [ref=e170]
+                    - link "Dra. Mariana Goulart" [ref=e175] [cursor=pointer]:
+                      - /url: /explore/locations/493840287687096/dra-mariana-goulart/
+                  - button "Seguir" [ref=e177] [cursor=pointer]
+                - button "Mais opções" [ref=e180] [cursor=pointer]:
+                  - img "Mais opções" [ref=e183]
+              - separator [ref=e187]
+              - generic [ref=e189]:
+                - generic [ref=e191]:
+                  - link "Foto do perfil de dra.marianagoulart" [ref=e196] [cursor=pointer]:
+                    - /url: /dra.marianagoulart/
+                    - img "Foto do perfil de dra.marianagoulart" [ref=e197]
+                  - generic [ref=e201]:
+                    - generic [ref=e202]:
+                      - link "dra.marianagoulart Verificado" [ref=e206] [cursor=pointer]:
+                        - /url: /dra.marianagoulart/
+                        - generic [ref=e208]:
+                          - generic [ref=e209]: dra.marianagoulart
+                          - img "Verificado" [ref=e211]
+                      - time [ref=e214]: 32 sem
+                    - generic [ref=e215]:
+                      - text: ✨ Rejuvenescimento Facial ✨
+                      - text: A Karina me procurou querendo rejuvenescer de forma sútil. Na primeira consulta, eu falei vamos rejuvenescer e realçar o que você tem de mais bonito, os olhos, pois a atenção tem que ser voltada para eles e não para um olhar cansado. Assim, foi entregue o resultado da primeira etapa. Ela ainda está em tratamento e está ficando cada vez mais linda e natural.✨
+                      - text: Dra.Mariana Goulart
+                      - text: CROSP:115664
+                      - text: .
+                      - text: .
+                      - text: .
+                      - text: .
+                      - text: .
+                      - text: .
+                      - text: .
+                      - text: .
+                      - text: .
+                      - text: .
+                      - link "#harmonização" [ref=e216] [cursor=pointer]:
+                        - /url: /explore/tags/harmoniza%C3%A7%C3%A3o/
+                      - link "#harmonizaçãofacial" [ref=e217] [cursor=pointer]:
+                        - /url: /explore/tags/harmoniza%C3%A7%C3%A3ofacial/
+                      - link "#harmonizaçaofacial" [ref=e218] [cursor=pointer]:
+                        - /url: /explore/tags/harmoniza%C3%A7aofacial/
+                      - link "#naturalidade" [ref=e219] [cursor=pointer]:
+                        - /url: /explore/tags/naturalidade/
+                      - link "#beleza" [ref=e220] [cursor=pointer]:
+                        - /url: /explore/tags/beleza/
+                - generic [ref=e223]:
+                  - heading "Ainda não há nenhum comentário." [level=2] [ref=e225]
+                  - generic [ref=e227]: Inicie a conversa.
+              - generic [ref=e228]:
+                - generic [ref=e229]:
+                  - generic [ref=e230]:
+                    - button "Curtir" [ref=e233] [cursor=pointer]:
+                      - img "Curtir" [ref=e236]
+                    - button "200" [ref=e238] [cursor=pointer]
+                    - button "Comentar" [ref=e240] [cursor=pointer]:
+                      - img "Comentar" [ref=e242]
+                    - button "Compartilhar" [ref=e244] [cursor=pointer]:
+                      - img "Compartilhar" [ref=e245]
+                  - button "Salvar" [ref=e250] [cursor=pointer]:
+                    - button "Salvar" [ref=e251]:
+                      - img "Salvar" [ref=e253]
+                - link "26 de agosto de 2025" [ref=e257] [cursor=pointer]:
+                  - /url: /dra.marianagoulart/p/DN1IFtraMlo/
+                  - time [ref=e259]: 26 de agosto de 2025
+              - generic [ref=e262]:
+                - link [ref=e263]
+                - generic [ref=e265]:
+                  - button "Emoji" [ref=e267] [cursor=pointer]:
+                    - img "Emoji" [ref=e269]
+                  - textbox "Adicione um comentário..." [ref=e271]
+          - separator [ref=e273]
+          - generic [ref=e274]:
+            - generic [ref=e276]:
+              - text: Mais posts de
+              - link "dra.marianagoulart" [ref=e277] [cursor=pointer]:
+                - /url: /dra.marianagoulart/
+            - generic [ref=e280]:
+              - generic [ref=e281]:
+                - 'link "Ela chegou até nós incomodada com alguns pontos do rosto que transmitiam cansaço e apagavam sua expressão natural. Nosso objetivo nunca foi mudar quem ela é, mas sim ressaltar sua beleza e devolver equilíbrio ao rosto. O resultado? Um rosto mais iluminado, com expressão descansada, rejuvenescida e cheia de vida. Harmonização não é sobre transformação radical, é sobre resgatar a sua melhor versão, aquela que já existe em você. ✨ Dra.Mariana Goulart CROSP:115664 . . . . . . . . #harmonizaçaofacial #harmonizacao #preenchimentobigodechinês #preenchimentolábial #fullface #beleza #francasp #ribeirãopreto Carrossel" [ref=e283] [cursor=pointer]':
+                  - /url: /dra.marianagoulart/p/DPCignRlHS8/
+                  - 'img "Ela chegou até nós incomodada com alguns pontos do rosto que transmitiam cansaço e apagavam sua expressão natural. Nosso objetivo nunca foi mudar quem ela é, mas sim ressaltar sua beleza e devolver equilíbrio ao rosto. O resultado? Um rosto mais iluminado, com expressão descansada, rejuvenescida e cheia de vida. Harmonização não é sobre transformação radical, é sobre resgatar a sua melhor versão, aquela que já existe em você. ✨ Dra.Mariana Goulart CROSP:115664 . . . . . . . . #harmonizaçaofacial #harmonizacao #preenchimentobigodechinês #preenchimentolábial #fullface #beleza #francasp #ribeirãopreto" [ref=e286]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - link "Photo by Mariana Goulart | Harmonização Facial on October 03, 2025." [ref=e289] [cursor=pointer]:
+                  - /url: /dra.marianagoulart/p/DPWuD-mAEwk/
+                  - img "Photo by Mariana Goulart | Harmonização Facial on October 03, 2025." [ref=e292]
+                - 'link "Essa é a Ana Júlia. Chegou ao consultório com queixa de olheiras profunda, bigode chinês marcado e lábios que não se destacavam no conjunto do rosto. Fizemos uma abordagem sutil e estratégica, cuidando da expressão cansada e valorizando seus traços naturais com harmonia. ✨ . . . . . . HarmonizacaoFacial #AntesEDepois #Olheiras #BigodeChines #PreenchimentoLabial #naturalidadesempre Carrossel" [ref=e295] [cursor=pointer]':
+                  - /url: /dra.marianagoulart/p/DM0o-bWuBLQ/
+                  - 'img "Essa é a Ana Júlia. Chegou ao consultório com queixa de olheiras profunda, bigode chinês marcado e lábios que não se destacavam no conjunto do rosto. Fizemos uma abordagem sutil e estratégica, cuidando da expressão cansada e valorizando seus traços naturais com harmonia. ✨ . . . . . . HarmonizacaoFacial #AntesEDepois #Olheiras #BigodeChines #PreenchimentoLabial #naturalidadesempre" [ref=e298]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+              - generic [ref=e300]:
+                - link "Tem sonhos que a gente guarda no coração por anos…e quando eles finalmente acontecem, a gente entende que tudo vale a pena. Hoje eu não sou só eu…sou aquela versão minha lá de trás, que sonhava com esse momento. E eu consegui ✨, realizando um sonho que parecia tão distante!! Clipe" [ref=e302] [cursor=pointer]:
+                  - /url: /dra.marianagoulart/reel/DW1e52UgMOc/
+                  - img "Tem sonhos que a gente guarda no coração por anos…e quando eles finalmente acontecem, a gente entende que tudo vale a pena. Hoje eu não sou só eu…sou aquela versão minha lá de trás, que sonhava com esse momento. E eu consegui ✨, realizando um sonho que parecia tão distante!!" [ref=e305]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clipe"
+                - link "Vivendo dias que parecem sonho… e guardando cada detalhe no coração ✨🏰 A Disney tem esse poder de fazer a gente voltar a ser criança, se encantar com o simples e lembrar que a vida também pode ser leve 💛 Foram dias inesquecíveis… daqueles que a gente queria pausar só pra viver mais um pouquinho ✨ Carrossel" [ref=e308] [cursor=pointer]:
+                  - /url: /dra.marianagoulart/p/DWohL5rAO_Z/
+                  - img "Vivendo dias que parecem sonho… e guardando cada detalhe no coração ✨🏰 A Disney tem esse poder de fazer a gente voltar a ser criança, se encantar com o simples e lembrar que a vida também pode ser leve 💛 Foram dias inesquecíveis… daqueles que a gente queria pausar só pra viver mais um pouquinho ✨" [ref=e311]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+                - 'link "O poder do detalhe bem feito…✨ Mais do que estética, é sobre devolver harmonia, equilíbrio e realçar a beleza que já existia, só precisava ser revelada. Dra.Mariana Goulart CROSP:115664 . . . . . . . . #harmonização #fullface #preenchimento #ribeirãopreto #francasp Carrossel" [ref=e314] [cursor=pointer]':
+                  - /url: /dra.marianagoulart/p/DWmnUA9FBzY/
+                  - 'img "O poder do detalhe bem feito…✨ Mais do que estética, é sobre devolver harmonia, equilíbrio e realçar a beleza que já existia, só precisava ser revelada. Dra.Mariana Goulart CROSP:115664 . . . . . . . . #harmonização #fullface #preenchimento #ribeirãopreto #francasp" [ref=e317]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carrossel"
+      - contentinfo [ref=e319]:
+        - generic [ref=e320]:
+          - generic [ref=e322]:
+            - link "Meta" [ref=e324] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e325]: Meta
+            - link "Sobre" [ref=e327] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e328]: Sobre
+            - link "Blog" [ref=e330] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e331]: Blog
+            - link "Carreiras" [ref=e333] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e334]: Carreiras
+            - link "Ajuda" [ref=e336] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e337]: Ajuda
+            - link "API" [ref=e339] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e340]: API
+            - link "Privacidade" [ref=e342] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e343]: Privacidade
+            - link "Termos" [ref=e345] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e346]: Termos
+            - link "Localizações" [ref=e348] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e349]: Localizações
+            - link "Instagram Lite" [ref=e351] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e352]: Instagram Lite
+            - link "Meta AI" [ref=e354] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e355]: Meta AI
+            - link "Threads" [ref=e357] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e358]: Threads
+            - link "Upload de contatos e não usuários" [ref=e360] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e361]: Upload de contatos e não usuários
+            - link "Meta Verified" [ref=e363] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e364]: Meta Verified
+          - generic [ref=e365]:
+            - generic [ref=e366] [cursor=pointer]:
+              - generic [ref=e367]:
+                - generic [ref=e368]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=e371]
+              - combobox "Trocar idioma de exibição" [ref=e373]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e375]: © 2026 Instagram from Meta
+  - button "Mensagens Mensagens" [ref=e377] [cursor=pointer]:
+    - generic [ref=e379]:
+      - img "Mensagens" [ref=e381]
+      - generic [ref=e384]: Mensagens

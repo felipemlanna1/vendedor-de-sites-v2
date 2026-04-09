@@ -1,0 +1,20 @@
+[     336ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5180/node_modules/.vite/deps/react-dom_client.js?v=243734fc:20102
+[     372ms] [ERROR] Invalid DOM property `%s`. Did you mean `%s`? fetchpriority fetchPriority @ http://localhost:5180/node_modules/.vite/deps/react-dom_client.js?v=243734fc:2396
+[ 1126723ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5180/node_modules/.vite/deps/react-dom_client.js?v=243734fc:20102
+[ 1126759ms] [ERROR] Invalid DOM property `%s`. Did you mean `%s`? fetchpriority fetchPriority @ http://localhost:5180/node_modules/.vite/deps/react-dom_client.js?v=243734fc:2396
+[ 1244531ms] ReferenceError: ExternalLink is not defined
+    at Contato (http://localhost:5180/src/components/sections/Contato.jsx?t=1775664534802:140:42)
+    at Object.react_stack_bottom_frame (http://localhost:5180/node_modules/.vite/deps/react-dom_client.js?v=243734fc:18509:20)
+    at renderWithHooks (http://localhost:5180/node_modules/.vite/deps/react-dom_client.js?v=243734fc:5654:24)
+    at updateFunctionComponent (http://localhost:5180/node_modules/.vite/deps/react-dom_client.js?v=243734fc:7475:21)
+    at beginWork (http://localhost:5180/node_modules/.vite/deps/react-dom_client.js?v=243734fc:8525:20)
+    at runWithFiberInDEV (http://localhost:5180/node_modules/.vite/deps/react-dom_client.js?v=243734fc:997:72)
+    at performUnitOfWork (http://localhost:5180/node_modules/.vite/deps/react-dom_client.js?v=243734fc:12561:98)
+    at workLoopSync (http://localhost:5180/node_modules/.vite/deps/react-dom_client.js?v=243734fc:12424:43)
+    at renderRootSync (http://localhost:5180/node_modules/.vite/deps/react-dom_client.js?v=243734fc:12408:13)
+    at performWorkOnRoot (http://localhost:5180/node_modules/.vite/deps/react-dom_client.js?v=243734fc:11827:37)
+[ 1244520ms] [WARNING] %s
+
+%s
+ An error occurred in the <Contato> component. Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://react.dev/link/error-boundaries to learn more about error boundaries. @ http://localhost:5180/node_modules/.vite/deps/react-dom_client.js?v=243734fc:6965
