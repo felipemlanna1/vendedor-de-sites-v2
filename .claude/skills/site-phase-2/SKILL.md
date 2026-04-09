@@ -1,53 +1,69 @@
 ---
 name: site-phase-2
-description: Fase 2 do build-site — Imersao profunda no cliente
+description: >-
+  Phase 2 — Deep client immersion. Analyzes briefing data_points to extract
+  identity, narrative, content inventory, gaps, audience, and site scope.
+allowed-tools: Read, Bash, WebSearch
+model: sonnet
+effort: medium
+context: fork
 user-invocable: false
 ---
 
-# Fase 2 — Imersao no Cliente
+# Phase 2 — Client Immersion
 
-Leia o briefing carregado na Fase 1 (todos os data_points) e responda POR ESCRITO ao usuario:
+## Objective
 
-**2.1 Quem e este cliente de verdade?**
-Nao "e um dentista". O que torna ESTE cliente unico — historia, diferencial, trajetoria. Use: identity, history, professional_registry, brand.
+Deeply understand the client beyond their niche. Extract what makes THIS client unique, inventory all available content, identify gaps, define target audience, and decide site scope (SPA vs multi-page).
 
-**2.2 Qual narrativa so ESTE cliente pode contar?**
-O fio condutor do site em 1 frase.
+## Step 1 — Who is this client really?
 
-**2.3 Inventario de conteudo:**
-- Textos: nome, historia, servicos/especialidades, slogan, diferencial
-- Imagens: TODAS as URLs (classifique: portrait/logo/banner/produto/venue)
-- Contato: telefones, email, endereco, horarios, WhatsApp, coordenadas
-- Numeros: seguidores, avaliacoes, anos, premios, certificacoes
-- Redes: Instagram, Facebook, LinkedIn, TikTok (URLs + metricas)
-- Cardapio/Servicos: itens com nome, descricao, preco
-- Avaliacoes: nota agregada, total reviews, depoimentos por plataforma
-- Concorrentes: SOMENTE cores (para evitar repeticao). Benchmark = catalogo curado (`sites/_templates/design-references.md`), NAO concorrentes
+Not "a dentist." What makes THIS client unique — story, differentiator, trajectory. Use: identity, history, professional_registry, brand data_points.
 
-**2.4 Lacunas e fallbacks:**
-- Sem cores → derivar de imagens reais + evitar cores concorrentes
-- Sem imagens → design tipografico ousado (gradientes, shapes, texturas CSS)
-- Sem historia → sintetizar de CNPJ, formacao, premios
-- Sem depoimentos → badges visuais das notas de plataformas
-- Sem slogan → criar do diferencial
-- 40+ itens → pagina dedicada com filtros
+## Step 2 — What narrative can ONLY this client tell?
 
-**2.5 Publico-alvo:**
-Quem visita? Jornada emocional? O que busca? Qual acao queremos?
+The site's guiding thread in 1 sentence.
 
-**2.6 Escopo — NAO e landing page:**
-- Servicos distintos que merecem paginas proprias?
-- Multiplas unidades?
-- Blog/artigos?
-- Cardapio extenso (40+)?
-- Portfolio/galeria?
+## Step 3 — Content inventory
 
-Se SIM: React Router com rotas dedicadas.
-Se simples: SPA robusta com profundidade em cada secao.
+Catalog everything available from data_points:
+- **Text:** name, story, services/specialties, slogan, differentiator
+- **Images:** ALL URLs (classify: portrait/logo/banner/product/venue)
+- **Contact:** phones, email, address, hours, WhatsApp, coordinates
+- **Numbers:** followers, ratings, years, awards, certifications
+- **Social:** Instagram, Facebook, LinkedIn, TikTok (URLs + metrics)
+- **Menu/Services:** items with name, description, price
+- **Reviews:** aggregate rating, total reviews, testimonials by platform
+- **Competitors:** ONLY their colors (to avoid repetition). Benchmark = curated catalog (`sites/_templates/design-references.md`), NOT competitors
 
-Mostre estrutura decidida ao usuario.
+## Step 4 — Gaps and fallbacks
 
-## CRITERIO DE CONCLUSAO
-- 6 itens escritos e mostrados ao usuario
-- Estrutura do site definida (SPA ou multi-pagina)
-- Inventario completo de conteudo disponivel
+- No colors → derive from real images + avoid competitor colors
+- No images → bold typographic design (gradients, shapes, CSS textures)
+- No story → synthesize from CNPJ, education, awards
+- No testimonials → visual badges from platform ratings
+- No slogan → create from differentiator
+- 40+ items → dedicated page with filters
+
+## Step 5 — Target audience
+
+Who visits? Emotional journey? What are they looking for? What action do we want?
+
+## Step 6 — Scope decision
+
+- Distinct services deserving their own pages?
+- Multiple locations?
+- Blog/articles?
+- Extensive menu (40+)?
+- Portfolio/gallery?
+
+If YES to any: React Router with dedicated routes.
+If simple: robust SPA with depth in each section.
+
+Show decided structure to user.
+
+## Exit Criteria
+
+- [ ] 6 items written and shown to user
+- [ ] Site structure defined (SPA or multi-page)
+- [ ] Complete inventory of available content

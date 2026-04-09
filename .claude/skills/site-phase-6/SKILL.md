@@ -1,292 +1,174 @@
 ---
 name: site-phase-6
-description: Fase 6 do build-site — Implementar blueprint, navbar, secoes, footer, App, main
+description: "Phase 6 of build-site — Implement blueprint: navbar, sections, footer, App, main"
+allowed-tools: Read, Write, Edit, Bash, Glob, Grep
+model: opus
+effort: high
+context: fork
 user-invocable: false
 ---
 
-# Fase 6 — Implementar o Blueprint
+# Phase 6 — Implement the Blueprint
 
-## 6.0 CARREGAR BLUEPRINT (OBRIGATORIO — ANTES DE TUDO)
+## Auto-loaded Context
 
 ```
-Read: sites/$LEAD_ID/mapa-encantamento.md
+!cat sites/$LEAD_ID/mapa-encantamento.md
 ```
 
-Extraia e MEMORIZE:
-1. O **Layout Map** (qual layout POR SECAO)
-2. As **animacoes especificas** POR SECAO (ANIMACAO DE ENTRADA + SCROLL)
-3. As **tecnicas visuais** POR SECAO
-4. O **elemento assinatura** e onde aparece
-5. A **navbar** definida (se houver)
-6. A **direcao estetica** comprometida
-7. Os **tokens de cor semanticos** e seus nomes
-8. O **Animation Budget** (showstopper, supporting, baseline)
+## Objective
 
-**REGRA ABSOLUTA: Implemente EXATAMENTE o que o blueprint especifica.**
-Se o blueprint diz "bento grid 2fr 1fr 1fr" → o codigo DEVE ter `grid-template-columns: 2fr 1fr 1fr`.
-Se o blueprint diz "clip-path reveal circular" → o codigo DEVE ter `clip-path` animation.
-NAO substitua por alternativas "mais faceis". O blueprint e um CONTRATO.
+Transform the blueprint (mapa-encantamento.md) into a fully functional React site. Every section, animation, layout, and visual technique specified in the blueprint MUST be implemented exactly as written. The blueprint is a CONTRACT, not a suggestion.
 
-## 6.0b GATE 0 — Verificar imagens
+## Pre-Gate — Verify Images
 
 ```bash
-cd /Users/felipemoreiralanna/Documents/GitHub/vendedor-de-sites-v2/sites/$LEAD_ID
-IMG_COUNT=$(find public/images -type f \( -name "*.jpg" -o -name "*.png" -o -name "*.webp" \) ! -path "*/stock/*" | wc -l | tr -d ' ')
-echo "Imagens do briefing: $IMG_COUNT"
-if [ "$IMG_COUNT" -lt 1 ]; then
-  echo "BLOQUEADO: ZERO imagens. Volte para Fase 4."
-  exit 1
-fi
-echo "OK: $IMG_COUNT imagens disponiveis"
+.claude/scripts/gate-images.sh $LEAD_ID
 ```
 
-## REGRA CRITICA — IMAGENS REAIS
+## Step 1 — Load Blueprint
 
-Se o briefing tem imagens, o site DEVE usa-las:
-- Hero ou About DEVE ter foto profissional do cliente
-- `<img>` com `src="/images/nome.jpg"`, `alt` descritivo, `loading="lazy"` (hero: `fetchpriority="high"`)
-- PROIBIDO substituir foto real por letra gigante, gradiente vazio, ou icone generico
-- Imagens stock apenas para: texturas, patterns, backgrounds abstratos. NUNCA para pessoas/fachadas/produtos.
+Read and memorize from `sites/$LEAD_ID/mapa-encantamento.md`:
+1. **Layout Map** — which layout PER SECTION
+2. **Animations** PER SECTION (entry animation + scroll animation)
+3. **Visual techniques** PER SECTION (grain, blend mode, mask, etc.)
+4. **Signature element** — what it is and where it appears
+5. **Navbar** — which pattern was chosen
+6. **Aesthetic direction** committed in the concept
+7. **Semantic color tokens** and their names
+8. **Animation Budget** — showstopper, supporting, baseline assignments
 
-Ordem de build: elemento assinatura → navbar → secoes → footer → App → main.
+**ABSOLUTE RULE: Implement EXACTLY what the blueprint specifies.**
+If the blueprint says "bento grid 2fr 1fr 1fr" the code MUST have `grid-template-columns: 2fr 1fr 1fr`.
+If the blueprint says "clip-path reveal circular" the code MUST have a `clip-path` animation.
+Do NOT substitute with "easier" alternatives.
 
-## PRINCIPIOS DE CODIGO
+## Step 2 — Real Images Rule
 
-**SOLID no React:**
-- S: Cada componente faz UMA coisa
-- O: Props para customizacao sem editar source
-- L: Wrappers se comportam como o elemento que substituem
-- I: Nao passe props desnecessarias
-- D: Componentes dependem de abstracoes (content.js, i18n)
+If the briefing has images, the site MUST use them:
+- Hero or About MUST feature the client's professional photo
+- `<img>` with `src="/images/name.jpg"`, descriptive `alt`, `loading="lazy"` (hero: `fetchpriority="high"`)
+- FORBIDDEN to replace real photos with giant letters, empty gradients, or generic icons
+- Stock images ONLY for: textures, patterns, abstract backgrounds. NEVER for people/facades/products.
 
-**Separacao de logica:**
-- `src/data/content.js` — dados. Componentes NUNCA leem briefing direto
-- `src/hooks/` — logica reutilizavel
-- `src/components/ui/` — atomicos sem logica de negocio
-- `src/components/sections/` — composicao: ui + dados + i18n
-- `src/components/layout/` — Navbar, Footer, Section
-- `src/components/seo/` — Schema.org, meta tags
+## Step 3 — Code Principles
 
-**Tailwind CSS v4:**
-- NAO existe tailwind.config.js no v4
-- Preflight JA INCLUSO — NUNCA adicione `* { margin: 0; padding: 0 }`
-- Cores via `@theme` ou CSS custom properties
-- Mobile-first: sem prefixo = mobile, `md:` = 768px+, `lg:` = 1024px+
-- Container: `mx-auto max-w-7xl px-5 md:px-8 lg:px-16`
+```
+Read: sites/_templates/code-principles.md
+```
 
-**Animacoes:**
-- GPU-only: transform e opacity
-- GSAP sempre com cleanup: `return () => ctx.revert()`
-- Respeitar prefers-reduced-motion
-- Touch targets >= 44x44px, textos body >= 16px mobile
+Follow all SOLID, Tailwind v4, and animation rules defined in the reference file.
 
-## 6.1 Elemento Assinatura (ANTES das secoes)
+## Step 4 — Build Order
 
-Crie conforme o blueprint. Componente separado em `src/components/ui/`.
-Se o blueprint diz SVG animado → SVG inline com CSS @keyframes ou Motion.
-Se o blueprint diz background interativo → Canvas ou CSS.
-Se o blueprint diz cursor custom → CSS cursor com SVG data URI.
+Execute in this exact order: signature element -> navbar -> sections -> footer -> App -> main.
 
-**O elemento DEVE ser importado em 1+ secoes ou App.jsx.**
+### 4.1 Signature Element (BEFORE sections)
 
-## 6.2 Navbar (VARIAVEL — NAO usar o padrao de sempre)
+Create as specified in the blueprint. Separate component in `src/components/ui/`.
+- If blueprint says animated SVG -> SVG inline with CSS `@keyframes` or Motion
+- If blueprint says interactive background -> Canvas or CSS
+- If blueprint says custom cursor -> CSS cursor with SVG data URI
 
-Execute para saber o que NAO repetir:
+**The element MUST be imported in 1+ sections or App.jsx.**
+
+### 4.2 Navbar (MUST differ from last site)
+
+Check what NOT to repeat:
 ```bash
 cd /Users/felipemoreiralanna/Documents/GitHub/vendedor-de-sites-v2
 LAST=$(ls -td sites/*/src/components/layout/Navbar.jsx 2>/dev/null | grep -v "$LEAD_ID" | head -1)
-[ -f "$LAST" ] && echo "=== ULTIMO NAVBAR ===" && head -20 "$LAST" && echo "=== NAO REPETIR ESTE PADRAO ==="
+[ -f "$LAST" ] && echo "=== LAST NAVBAR ===" && head -20 "$LAST" && echo "=== DO NOT REPEAT THIS PATTERN ==="
 ```
 
-Opcoes de navbar (escolha UMA diferente do ultimo site):
-- **Fixa transparente → solida ao scroll** (padrao atual — SO se nenhum outro site recente usou)
-- **Fixa com backdrop-blur** (glassmorphism sutil — blur + border-bottom translucido)
-- **Hide-on-scroll** (esconde ao scroll down, aparece ao scroll up via IntersectionObserver)
-- **Sidebar fixa (desktop) + bottom bar (mobile)** (navegacao lateral)
-- **Minima** (apenas logo + hamburger, sem links visiveis — menu overlay)
-- **Dynamic pill** (pill que muda de tamanho/conteudo conforme secao ativa)
+For available patterns and functional requirements:
+```
+Read: sites/_templates/navbar-patterns.md
+```
 
-Requisitos funcionais (independente do estilo):
-- Links para cada secao
-- LanguageToggle
-- CTA principal
-- Menu mobile funcional
-- TODOS os textos via `t()`
+### 4.3 Sections — Implement the Blueprint
 
-## 6.3 Secoes — IMPLEMENTAR O BLUEPRINT
+For EACH section in the blueprint:
+1. **Read LAYOUT** from blueprint -> implement THIS layout (not another)
+2. **Use the animation component** created in Phase 5 for ENTRY ANIMATION
+3. **Implement SCROLL ANIMATION** if specified
+4. **Apply VISUAL TECHNIQUE** described (grain, blend mode, mask shape, etc.)
+5. **Follow ANIMATION BUDGET**: showstopper on the designated section, supporting where indicated, baseline elsewhere
 
-Para CADA secao no blueprint, implemente EXATAMENTE o que foi especificado:
+For EACH section:
+- ALL text via `t('section.key')` — ZERO hardcoded strings
+- Images from `/images/` with descriptive alt
+- IMAGE-SECTION COHERENCE: image content must match section topic
+- MOBILE-FIRST: write for 375px FIRST, then `md:` and `lg:`
 
-1. **Ler LAYOUT** do blueprint → implementar ESTE layout (nao outro)
-2. **Usar o componente de animacao** criado na Phase 5 para a ANIMACAO DE ENTRADA
-3. **Implementar ANIMACAO DE SCROLL** se especificada
-4. **Aplicar TECNICA VISUAL** descrita (grain, blend mode, mask shape, etc)
-5. **Seguir o ANIMATION BUDGET**: showstopper na secao designada, supporting onde indicado, baseline no resto
-
-**PROIBIDO:**
-- Usar ScrollReveal generico (opacity:0 y:20 → 1 y:0) em mais de 1 secao
-- Usar o MESMO easing em todas as animacoes
-- Ter 3+ secoes consecutivas com o mesmo background-color
-- Ignorar o blueprint e fazer "o que e mais facil"
-
-Para CADA secao:
-- TODOS textos via `t('secao.chave')` — ZERO string hardcoded
-- Imagens do `/images/` com alt descritivo
-- COERENCIA IMAGEM ↔ SECAO: conteudo da imagem deve bater com assunto da secao
-- MOBILE-FIRST: escreva PRIMEIRO para 375px, depois `md:` e `lg:`
-
-**MCPs de componentes (consulte ANTES de inventar do zero):**
+**MCP component references (consult BEFORE building from scratch):**
 - `mcp__magic-ui` — blur-fade, aurora-text, number-ticker, shimmer-button
 - `mcp__aceternity-ui` — parallax-scroll, spotlight, hero-highlight, 3D-card
 - `mcp__shadcn-ui` — button, card, tabs, accordion, dialog
-- `mcp__gsap` — patterns de ScrollTrigger em React
+- `mcp__gsap` — ScrollTrigger patterns in React
 
-## 6.4 GATE — Elemento assinatura REAL (exit 1)
+### 4.4 Floating CTA
 
-```bash
-cd /Users/felipemoreiralanna/Documents/GitHub/vendedor-de-sites-v2/sites/$LEAD_ID
-echo "=== GATE: Elemento Assinatura ==="
-SIGNATURE_FILES=$(find src/components/ui/ -name "*.jsx" -exec grep -l "svg\|SVG\|viewBox\|@keyframes\|cursor.*url\|clip-path" {} \; 2>/dev/null | grep -iv "Button\|LanguageToggle")
-SIGNATURE_COUNT=$(echo "$SIGNATURE_FILES" | grep -c ".jsx" 2>/dev/null || echo 0)
-if [ "$SIGNATURE_COUNT" -lt 1 ]; then
-  echo "BLOQUEADO: Nenhum componente com SVG tematico ou animacao CSS unica"
-  exit 1
-fi
-for f in $SIGNATURE_FILES; do
-  LINES=$(wc -l < "$f" | tr -d ' ')
-  if [ "$LINES" -lt 30 ]; then
-    echo "BLOQUEADO: $f tem $LINES linhas — parece stub"
-    exit 1
-  fi
-  echo "OK: $f ($LINES linhas)"
-done
-echo "=== GATE PASS ==="
-```
+If the blueprint defined a floating CTA, implement as specified. If not defined, do NOT create one by default.
 
-## 6.5 CTA Flutuante (se decidido no blueprint)
+### 4.5 Footer
 
-Se o blueprint definiu CTA flutuante, implemente conforme especificado.
-Se nao definiu, NAO criar por padrao.
+Create `src/components/layout/Footer.jsx`:
+- Style derived from the design system (no fixed recipe)
+- Real data from the briefing
+- All text via `t()`
 
-## 6.6 Footer
+### 4.6 App.jsx + main.jsx
 
-Crie `src/components/layout/Footer.jsx`:
-- Estilo derivado do design system (nao receita fixa)
-- Dados reais do briefing
-- Textos via `t()`
+**App.jsx:** Assemble all sections per blueprint order, with Lenis (parameters from blueprint), HelmetProvider, SEO components.
 
-## 6.7 App.jsx + main.jsx
+**main.jsx:** Import i18n BEFORE App, `@fontsource` fonts, `index.css`.
 
-App.jsx: montar todas as secoes conforme blueprint, com Lenis (parametros do blueprint), HelmetProvider, SEO components.
-main.jsx: import i18n ANTES de App, fontes @fontsource, index.css.
+Generate `sitemap.xml` and `robots.txt` in `public/`.
 
-Sitemap e robots.txt em `public/`.
+## Verification — Build Check
 
-## VERIFICACAO
 ```bash
 cd /Users/felipemoreiralanna/Documents/GitHub/vendedor-de-sites-v2/sites/$LEAD_ID && npm run build 2>&1
 ```
-Se QUALQUER erro, corrija ate build passar.
 
-## GATE FINAL — Anti-Similaridade BLOQUEANTE (exit 1)
+If ANY error, fix until build passes.
+
+## Exit Gate — Signature Element (blocking)
 
 ```bash
-cd /Users/felipemoreiralanna/Documents/GitHub/vendedor-de-sites-v2
-echo "=== GATE: Anti-Similaridade ==="
-CURRENT="sites/$LEAD_ID"
-
-# 1. Layouts DISTINTOS (minimo 3 tipos)
-SPLIT=$(grep -rl 'md:flex-row\|grid-cols-2' $CURRENT/src/components/sections/*.jsx 2>/dev/null | wc -l | tr -d ' ')
-GRID=$(grep -rl 'grid-cols-[34]' $CURRENT/src/components/sections/*.jsx 2>/dev/null | wc -l | tr -d ' ')
-CENTER=$(grep -rl 'text-center.*mx-auto\|items-center.*justify-center.*min-h' $CURRENT/src/components/sections/*.jsx 2>/dev/null | wc -l | tr -d ' ')
-BENTO=$(grep -rl 'grid-template\|bento\|masonry\|asymmetric\|2fr\|3fr' $CURRENT/src/components/sections/*.jsx 2>/dev/null | wc -l | tr -d ' ')
-OTHER=$(grep -rl 'scroll-snap\|timeline\|accordion\|sticky.*pin\|horizontal' $CURRENT/src/components/sections/*.jsx 2>/dev/null | wc -l | tr -d ' ')
-
-TYPES=0
-[ "$SPLIT" -gt 0 ] && TYPES=$((TYPES+1))
-[ "$GRID" -gt 0 ] && TYPES=$((TYPES+1))
-[ "$CENTER" -gt 0 ] && TYPES=$((TYPES+1))
-[ "$BENTO" -gt 0 ] && TYPES=$((TYPES+1))
-[ "$OTHER" -gt 0 ] && TYPES=$((TYPES+1))
-
-echo "Tipos de layout: $TYPES (split=$SPLIT grid=$GRID center=$CENTER bento=$BENTO other=$OTHER)"
-if [ "$TYPES" -lt 3 ]; then
-  echo "BLOQUEADO: Apenas $TYPES tipos de layout. Minimo 3 diferentes."
-  exit 1
-fi
-
-# 2. Animacoes DIVERSAS (minimo 3 tipos diferentes)
-ANIM_Y=$(grep -rl 'opacity.*0.*y:' $CURRENT/src/components/sections/*.jsx 2>/dev/null | wc -l | tr -d ' ')
-ANIM_SCALE=$(grep -rl 'scale' $CURRENT/src/components/sections/*.jsx 2>/dev/null | wc -l | tr -d ' ')
-ANIM_CLIP=$(grep -rl 'clipPath\|clip-path' $CURRENT/src/components/sections/*.jsx 2>/dev/null | wc -l | tr -d ' ')
-ANIM_ROTATE=$(grep -rl 'rotate' $CURRENT/src/components/sections/*.jsx 2>/dev/null | wc -l | tr -d ' ')
-ANIM_X=$(grep -rl 'opacity.*0.*x:' $CURRENT/src/components/sections/*.jsx 2>/dev/null | wc -l | tr -d ' ')
-ANIM_BLUR=$(grep -rl 'blur(' $CURRENT/src/components/sections/*.jsx 2>/dev/null | wc -l | tr -d ' ')
-
-ANIM_TYPES=0
-[ "$ANIM_Y" -gt 0 ] && ANIM_TYPES=$((ANIM_TYPES+1))
-[ "$ANIM_SCALE" -gt 0 ] && ANIM_TYPES=$((ANIM_TYPES+1))
-[ "$ANIM_CLIP" -gt 0 ] && ANIM_TYPES=$((ANIM_TYPES+1))
-[ "$ANIM_ROTATE" -gt 0 ] && ANIM_TYPES=$((ANIM_TYPES+1))
-[ "$ANIM_X" -gt 0 ] && ANIM_TYPES=$((ANIM_TYPES+1))
-[ "$ANIM_BLUR" -gt 0 ] && ANIM_TYPES=$((ANIM_TYPES+1))
-
-echo "Tipos de animacao: $ANIM_TYPES"
-if [ "$ANIM_TYPES" -lt 3 ]; then
-  echo "BLOQUEADO: Apenas $ANIM_TYPES tipos de animacao. Minimo 3 diferentes."
-  exit 1
-fi
-
-# 3. Timings BANIDOS do template antigo
-if grep -r "duration.*0\.8.*ease.*power3" $CURRENT/src/components/ui/ 2>/dev/null | grep -q "y.*60"; then
-  echo "BLOQUEADO: ScrollReveal com parametros identicos ao template antigo (y:60 duration:0.8 power3.out)"
-  exit 1
-fi
-if grep -r "delay.*0\.08.*ease.*0\.25.*0\.46" $CURRENT/src/components/ 2>/dev/null | grep -q "."; then
-  echo "BLOQUEADO: AnimatedText com timings identicos ao template antigo (delay:i*0.08 ease:[0.25,0.46,0.45,0.94])"
-  exit 1
-fi
-
-# 4. Hero NAO repete layout do ultimo site
-LAST_HERO=$(ls -td sites/*/src/components/sections/Hero.jsx 2>/dev/null | grep -v "$LEAD_ID" | head -1)
-if [ -f "$LAST_HERO" ]; then
-  LAST_SPLIT=$(grep -c "md:flex-row\|grid-cols-2" "$LAST_HERO" 2>/dev/null)
-  CURR_SPLIT=$(grep -c "md:flex-row\|grid-cols-2" "$CURRENT/src/components/sections/Hero.jsx" 2>/dev/null)
-  LAST_FULL=$(grep -c "min-h-screen\|min-h-\[100" "$LAST_HERO" 2>/dev/null)
-  CURR_FULL=$(grep -c "min-h-screen\|min-h-\[100" "$CURRENT/src/components/sections/Hero.jsx" 2>/dev/null)
-
-  if [ "$LAST_SPLIT" -gt 0 ] && [ "$CURR_SPLIT" -gt 0 ]; then
-    echo "BLOQUEADO: Hero usa layout split — mesmo do ultimo site. Mude para outro layout."
-    exit 1
-  fi
-  if [ "$LAST_FULL" -gt 0 ] && [ "$CURR_FULL" -gt 0 ] && [ "$LAST_SPLIT" -eq 0 ] && [ "$CURR_SPLIT" -eq 0 ]; then
-    echo "BLOQUEADO: Hero usa layout fullscreen — mesmo do ultimo site. Mude para outro layout."
-    exit 1
-  fi
-  echo "OK: Hero tem layout diferente do ultimo site"
-fi
-
-# 5. Fontes NAO repetem dos ultimos 3 sites
-CURR_FONTS=$(grep '@fontsource' "$CURRENT/src/main.jsx" 2>/dev/null | sed 's/.*@fontsource\///' | sed "s/[/\"';].*//" | tr '[:upper:]' '[:lower:]' | sort -u)
-for f in $(ls -td sites/*/src/main.jsx 2>/dev/null | grep -v "$LEAD_ID" | head -3); do
-  PREV_FONTS=$(grep '@fontsource' "$f" 2>/dev/null | sed 's/.*@fontsource\///' | sed "s/[/\"';].*//" | tr '[:upper:]' '[:lower:]' | sort -u)
-  for font in $CURR_FONTS; do
-    if echo "$PREV_FONTS" | grep -qw "$font"; then
-      PREV_SITE=$(echo "$f" | sed 's|sites/||;s|/src/main.jsx||')
-      echo "BLOQUEADO: Fonte '$font' ja usada em $PREV_SITE. Escolha outra."
-      exit 1
-    fi
-  done
-done
-echo "OK: Fontes sao originais"
-
-echo "=== GATE ANTI-SIMILARIDADE: PASS ==="
+.claude/scripts/gate-signature-element.sh $LEAD_ID
 ```
 
-## CRITERIO DE CONCLUSAO
-- `npm run build` passa sem erros
-- Blueprint implementado FIELMENTE (cada secao conforme especificado)
-- Navbar com estilo DIFERENTE do ultimo site
-- Elemento assinatura REAL (gate passed)
-- Gate anti-similaridade PASS (layouts diversos, animacoes diversas, sem timings banidos, hero unico, fontes originais)
-- Todos textos via t() — zero hardcoded
+## Exit Gate — Anti-Similarity (blocking)
+
+```bash
+.claude/scripts/gate-anti-similarity.sh $LEAD_ID
+```
+
+## Constraints
+
+| Constraint | Enforced by |
+|---|---|
+| Blueprint implemented exactly as written | Manual review + anti-similarity gate |
+| Real images used (no stock for people/products) | `gate-images.sh` |
+| Signature element exists and is non-trivial | `gate-signature-element.sh` |
+| 3+ layout types across sections | `gate-anti-similarity.sh` |
+| 3+ animation types across sections | `gate-anti-similarity.sh` |
+| No banned template timings | `gate-anti-similarity.sh` |
+| Hero layout differs from last site | `gate-anti-similarity.sh` |
+| Fonts differ from last 3 sites | `gate-anti-similarity.sh` |
+| Navbar pattern differs from last site | Anti-repetition check in step 4.2 |
+| All text via `t()`, zero hardcoded strings | Phase 7 validation |
+| `npm run build` passes with zero errors | Build check |
+
+## Exit Criteria
+
+- [ ] `npm run build` passes without errors
+- [ ] Blueprint implemented faithfully (each section as specified)
+- [ ] Navbar uses a DIFFERENT style from the last site
+- [ ] Signature element is REAL and non-trivial (gate passed)
+- [ ] Anti-similarity gate PASS (diverse layouts, diverse animations, no banned timings, unique hero, original fonts)
+- [ ] All text via `t()` — zero hardcoded strings
+- [ ] Real client images used prominently (hero/about)
+- [ ] Mobile-first responsive design (375px base)

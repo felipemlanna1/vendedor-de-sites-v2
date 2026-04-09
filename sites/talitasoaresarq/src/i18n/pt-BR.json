@@ -1,0 +1,104 @@
+{
+  "nav": {
+    "home": "In\u00edcio",
+    "about": "Sobre",
+    "services": "Servi\u00e7os",
+    "portfolio": "Projetos",
+    "process": "Processo",
+    "contact": "Contato",
+    "cta": "Fale Comigo"
+  },
+  "hero": {
+    "title": "Arquitetura que revela o extraordin\u00e1rio no cotidiano",
+    "subtitle": "Talita Soares | Arquitetura de Interiores",
+    "cta": "Agende uma conversa",
+    "tagline": "Florian\u00f3polis \u2022 Atendimento Remoto \u2022 Brasil"
+  },
+  "about": {
+    "title": "O \u00f3bvio que voc\u00ea n\u00e3o v\u00ea",
+    "description": "Cada espa\u00e7o conta uma hist\u00f3ria \u2014 a maioria das pessoas simplesmente n\u00e3o percebe. Meu trabalho como arquiteta de interiores \u00e9 revelar o potencial escondido em cada ambiente, transformando o comum em extraordin\u00e1rio.",
+    "philosophy": "Acredito que bons projetos nascem de conversas honestas. Antes de desenhar qualquer linha, preciso entender como voc\u00ea vive, o que te faz sentir em casa, quais s\u00e3o os detalhes que passam despercebidos mas fazem toda a diferen\u00e7a no seu dia a dia.",
+    "cta": "Conhe\u00e7a meu trabalho"
+  },
+  "services": {
+    "title": "Como posso transformar seu espa\u00e7o",
+    "items": {
+      "residential": {
+        "name": "Projeto Residencial",
+        "description": "Do conceito \u00e0 entrega: projetos completos de interiores para apartamentos, casas e coberturas. Cada ambiente pensado para a sua rotina, com funcionalidade e est\u00e9tica em equil\u00edbrio."
+      },
+      "commercial": {
+        "name": "Projeto Comercial",
+        "description": "Espa\u00e7os comerciais que comunicam a ess\u00eancia da sua marca. Escrit\u00f3rios, cl\u00ednicas, lojas e restaurantes projetados para encantar clientes e otimizar opera\u00e7\u00f5es."
+      },
+      "consulting": {
+        "name": "Consultoria de Interiores",
+        "description": "Sess\u00f5es de consultoria para quem precisa de dire\u00e7\u00e3o profissional. Orienta\u00e7\u00f5es sobre layout, paleta de cores, ilumina\u00e7\u00e3o e materiais para voc\u00ea executar com confian\u00e7a."
+      },
+      "followup": {
+        "name": "Acompanhamento de Obra",
+        "description": "Presen\u00e7a em cada etapa da execu\u00e7\u00e3o. Garantia de que o projeto ser\u00e1 materializado exatamente como foi concebido, com qualidade e dentro do prazo."
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Projetos que transformam",
+    "subtitle": "Cada espa\u00e7o \u00e9 \u00fanico \u2014 assim como quem vive nele",
+    "cta": "Ver mais no Instagram"
+  },
+  "process": {
+    "title": "Como funciona",
+    "steps": {
+      "step1": {
+        "title": "Conversa",
+        "description": "Entendo suas necessidades, rotina e sonhos para o espa\u00e7o. Tudo come\u00e7a com uma conversa honesta."
+      },
+      "step2": {
+        "title": "Projeto",
+        "description": "Desenvolvo o conceito, plantas, 3D e especifica\u00e7\u00f5es t\u00e9cnicas. Voc\u00ea participa de cada decis\u00e3o."
+      },
+      "step3": {
+        "title": "Acompanhamento",
+        "description": "Supervisiono a execu\u00e7\u00e3o para garantir fidelidade ao projeto e qualidade nos acabamentos."
+      },
+      "step4": {
+        "title": "Entrega",
+        "description": "O momento em que o espa\u00e7o ganha vida. A revela\u00e7\u00e3o do ambiente transformado \u00e9 sempre especial."
+      }
+    }
+  },
+  "social": {
+    "title": "N\u00fameros que contam nossa hist\u00f3ria",
+    "followers": "seguidores no Instagram",
+    "posts": "projetos compartilhados",
+    "viral": "curtidas no post mais popular",
+    "ticker": [
+      "coisas que s\u00e3o \u00f3bvias pra mim sendo arquiteta",
+      "ilumina\u00e7\u00e3o natural muda tudo",
+      "contrate um arquiteto",
+      "o detalhe faz a diferen\u00e7a",
+      "cada espa\u00e7o conta uma hist\u00f3ria"
+    ]
+  },
+  "contact": {
+    "title": "Vamos criar algo incr\u00edvel juntos",
+    "subtitle": "Entre em contato e conte sobre seu projeto. Atendimento em Florian\u00f3polis e remoto para todo o Brasil.",
+    "name_label": "Seu nome",
+    "email_label": "Seu e-mail",
+    "message_label": "Conte sobre seu projeto",
+    "submit": "Enviar mensagem",
+    "whatsapp_cta": "Prefere WhatsApp? Fale direto comigo",
+    "instagram": "@talitasoaresarq",
+    "location": "Florian\u00f3polis, SC"
+  },
+  "footer": {
+    "copyright": "\u00a9 2026 Talita Soares Arquitetura. Todos os direitos reservados.",
+    "social": "Siga nas redes",
+    "instagram": "Instagram",
+    "facebook": "Facebook"
+  },
+  "lang": {
+    "pt": "Portugu\u00eas",
+    "en": "English"
+  }
+}

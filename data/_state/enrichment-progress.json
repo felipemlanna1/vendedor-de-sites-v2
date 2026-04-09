@@ -1,508 +1,290 @@
 {
   "current_phase": 7,
-  "lead_id": "thalita-ferreira",
-  "nome": "Thalita Ferreira",
-  "cidade": "MG",
+  "lead_id": "talitasoaresarq",
+  "nome": "Talita Soares",
+  "cidade": "Contagem, MG",
   "nicho": "arquiteta",
   "strategy": "generic",
   "source": "instagram",
   "discovered_urls": {
     "site_url": "",
-    "instagram_username": "thalita.arquiteta",
-    "facebook_url": "",
+    "instagram_username": "talitasoaresarq",
+    "facebook_url": "https://www.facebook.com/talitasoaresarq/",
     "google_maps_url": "",
     "platform_urls": {}
   },
   "data_points": [
     {
       "category": "presence",
-      "label": "Instagram confirmado",
-      "value": "@thalita.arquiteta",
+      "label": "Instagram Business Profile",
+      "value": "@talitasoaresarq",
       "detail": {
-        "followers": 976,
-        "following": 48,
-        "posts": 54,
-        "bio": "Thalita Ferreira | Virtude Arquitetura - Projetos remotos, atendimento online para todo Brasil e exterior",
-        "platform": "instagram"
+        "followers": 4131,
+        "following": 544,
+        "posts": 292,
+        "bio": "Talita Soares | Arquitetura de interiores",
+        "url": "https://www.instagram.com/talitasoaresarq/"
       },
       "source_type": "briefing",
-      "source_name": "WebSearch",
-      "fetched_at": "2026-04-07T22:57:31.334997+00:00"
+      "source_name": "WebSearch (DuckDuckGo)",
+      "fetched_at": "2026-04-08T23:15:18.710634"
+    },
+    {
+      "category": "social",
+      "label": "Instagram Pessoal",
+      "value": "@talitaar",
+      "detail": {
+        "followers": 1952,
+        "following": 982,
+        "posts": 1032,
+        "bio": "Talita R. Soares - arquiteta @talitasoaresarq",
+        "url": "https://www.instagram.com/talitaar/",
+        "note": "Conta pessoal que referencia a conta profissional"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (DuckDuckGo)",
+      "fetched_at": "2026-04-08T23:15:18.710634"
     },
     {
       "category": "presence",
-      "label": "Site oficial",
-      "value": "Nao encontrado",
+      "label": "Conteudo Instagram - Post viral",
+      "value": "Serie: coisas obvias pra mim sendo arquiteta",
       "detail": {
-        "nota": "Nenhum site proprio identificado em buscas"
+        "post_url": "https://www.instagram.com/p/DQpwvTLDSEG/",
+        "likes": 3855,
+        "comments": 23,
+        "date": "2025-11-04",
+        "content_type": "educational"
       },
       "source_type": "briefing",
-      "source_name": "WebSearch",
-      "fetched_at": "2026-04-07T22:57:31.334997+00:00"
+      "source_name": "WebSearch (DuckDuckGo)",
+      "fetched_at": "2026-04-08T23:15:18.710634"
     },
     {
       "category": "presence",
-      "label": "Google Maps/Business",
-      "value": "Nao encontrado",
+      "label": "Conteudo Instagram - Reel ferias",
+      "value": "Tour de ferias",
       "detail": {
-        "nota": "Sem perfil no Google Maps/Business"
+        "post_url": "https://www.instagram.com/talitasoaresarq/reel/DTOUYctgc_N/",
+        "likes": 89,
+        "comments": 11,
+        "date": "2026-01-07",
+        "content_type": "lifestyle"
       },
       "source_type": "briefing",
-      "source_name": "WebSearch",
-      "fetched_at": "2026-04-07T22:57:31.334997+00:00"
+      "source_name": "WebSearch (DuckDuckGo)",
+      "fetched_at": "2026-04-08T23:15:18.710634"
     },
     {
       "category": "presence",
-      "label": "Facebook",
-      "value": "Nao encontrado",
-      "detail": {},
-      "source_type": "briefing",
-      "source_name": "WebSearch",
-      "fetched_at": "2026-04-07T22:57:31.334997+00:00"
-    },
-    {
-      "category": "presence",
-      "label": "LinkedIn",
-      "value": "Nao encontrado",
-      "detail": {},
-      "source_type": "briefing",
-      "source_name": "WebSearch",
-      "fetched_at": "2026-04-07T22:57:31.334997+00:00"
-    },
-    {
-      "category": "presence",
-      "label": "Nome da empresa",
-      "value": "Virtude Arquitetura",
+      "label": "Conteudo Instagram - Dicas arquitetura",
+      "value": "Serie educacional sobre arquitetura",
       "detail": {
-        "nome_fantasia": "Virtude Arquitetura",
-        "titular": "Thalita Ferreira"
+        "post_urls": [
+          "https://www.instagram.com/reel/DQVBlmWASyg/",
+          "https://www.instagram.com/reel/DQaSCgsDdPc/"
+        ],
+        "content_type": "educational",
+        "note": "Conteudo focado em dicas e educacao sobre arquitetura. Mensagem: CONTRATE UM ARQUITETO"
       },
       "source_type": "briefing",
-      "source_name": "WebSearch",
-      "fetched_at": "2026-04-07T22:57:31.334997+00:00"
-    },
-    {
-      "category": "presence",
-      "label": "Modelo de negocio",
-      "value": "Projetos remotos / online",
-      "detail": {
-        "atendimento": "Online para todo Brasil e exterior",
-        "tipo": "Arquitetura remota"
-      },
-      "source_type": "briefing",
-      "source_name": "WebSearch",
-      "fetched_at": "2026-04-07T22:57:31.334997+00:00"
-    },
-    {
-      "category": "identity",
-      "label": "CNPJ",
-      "value": "53.829.687/0001-39",
-      "detail": {
-        "razao_social": "53.829.687 THALITA CARVALHO PEREIRA FERREIRA",
-        "nome_fantasia": "Nao informado",
-        "data_abertura": "2024-02-06",
-        "porte": "Micro Empresa (MEI)",
-        "cnae": "7319002 - Promocao de vendas",
-        "cnae_secundario": "8599604 - Treinamento em desenvolvimento profissional",
-        "socios": [],
-        "endereco": "Parque Belo Horizonte Industrial, Contagem/MG, CEP 32341-510",
-        "telefone": "Nao informado",
-        "email": "Nao informado",
-        "situacao": "ATIVA",
-        "regime": "Simples Nacional / MEI",
-        "nota": "CNAE principal e promocao de vendas, nao arquitetura. Pode ser MEI generico usado para emissao de notas. Nome completo confirmado: Thalita Carvalho Pereira Ferreira."
-      },
-      "source_type": "briefing",
-      "source_name": "BrasilAPI",
-      "fetched_at": "2026-04-07T23:30:00.000000+00:00"
-    },
-    {
-      "category": "identity",
-      "label": "CNPJ antigo (baixado)",
-      "value": "16.958.813/0001-29",
-      "detail": {
-        "razao_social": "THALITA CARVALHO PEREIRA FERREIRA",
-        "cnae": "4781400 - Comercio varejista de vestuario e acessorios",
-        "situacao": "BAIXADA (extincao por encerramento em 31/05/2018)",
-        "data_abertura": "2012-10-04",
-        "municipio": "Contagem/MG",
-        "nota": "CNPJ antigo de comercio de vestuario, encerrado em 2018. Nao relacionado a arquitetura."
-      },
-      "source_type": "briefing",
-      "source_name": "BrasilAPI",
-      "fetched_at": "2026-04-07T23:30:00.000000+00:00"
-    },
-    {
-      "category": "professional_registry",
-      "label": "Registro CAU",
-      "value": "Nao encontrado via busca web",
-      "detail": {
-        "conselho": "CAU - Conselho de Arquitetura e Urbanismo",
-        "estado": "MG",
-        "nota": "Buscas por 'Thalita Ferreira' e 'Thalita Carvalho' no CAU/MG e CAU/BR nao retornaram resultados. O portal 'Ache um Arquiteto' (acheumarquiteto.caubr.gov.br) requer consulta interativa. Pode estar registrada com nome completo diferente ou registro pendente."
-      },
-      "source_type": "briefing",
-      "source_name": "WebSearch",
-      "fetched_at": "2026-04-07T23:30:00.000000+00:00"
-    },
-    {
-      "category": "reviews",
-      "label": "Avaliacoes publicas",
-      "value": "Nao encontrado",
-      "detail": {
-        "nota": "Sem avaliacoes publicas em Google, Facebook ou plataformas de review"
-      },
-      "source_type": "briefing",
-      "source_name": "WebSearch",
-      "fetched_at": "2026-04-07T22:57:31.334997+00:00"
-    },
-    {
-      "category": "history",
-      "label": "Historia da empresa",
-      "value": "Informacao limitada",
-      "detail": {
-        "nota": "Nenhum artigo, noticia ou pagina sobre encontrada. Presenca digital concentrada exclusivamente no Instagram."
-      },
-      "source_type": "briefing",
-      "source_name": "WebSearch",
-      "fetched_at": "2026-04-07T22:57:31.334997+00:00"
+      "source_name": "WebSearch (DuckDuckGo)",
+      "fetched_at": "2026-04-08T23:15:18.710634"
     },
     {
       "category": "website",
       "label": "Website",
       "value": "Nao possui site",
       "detail": {
-        "status": "sem_site"
+        "status": "sem_site",
+        "note": "Nenhum site encontrado nas pesquisas"
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (DuckDuckGo)",
+      "fetched_at": "2026-04-08T23:15:18.710634"
+    },
+    {
+      "category": "identity",
+      "label": "CNPJ",
+      "value": "Nao encontrado",
+      "detail": {
+        "note": "Busca via DuckDuckGo, Bing e APIs publicas nao retornou CNPJ. DDG rate limited durante pesquisa.",
+        "searches_performed": [
+          "talita soares arquitetura cnpj contagem",
+          "talita soares arquitetura CNPJ MG",
+          "CNPJ talita soares arquitetura"
+        ]
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (DuckDuckGo + Bing)",
+      "fetched_at": "2026-04-08T23:17:42.542991"
+    },
+    {
+      "category": "professional_registry",
+      "label": "CAU (Conselho de Arquitetura e Urbanismo)",
+      "value": "Nao encontrado online",
+      "detail": {
+        "note": "Registro CAU e obrigatorio para arquitetos. Nao foi possivel localizar o numero via busca web. Pode ser confirmado diretamente com a profissional.",
+        "required": true
+      },
+      "source_type": "briefing",
+      "source_name": "WebSearch (Bing)",
+      "fetched_at": "2026-04-08T23:17:42.542991"
+    },
+    {
+      "category": "website",
+      "label": "Website Analysis",
+      "value": "Nao possui site",
+      "detail": {
+        "status": "sem_site",
+        "note": "Nenhum site profissional encontrado. Presenca online limitada ao Instagram (@talitasoaresarq).",
+        "tech_stack": "N/A",
+        "ssl": "N/A"
       },
       "source_type": "briefing",
       "source_name": "analise",
-      "fetched_at": "2026-04-07T23:00:57.650766+00:00"
+      "fetched_at": "2026-04-08T23:17:57.311042"
     },
     {
       "category": "sales_channels",
-      "label": "ArchDaily",
-      "value": "Nao encontrado",
+      "label": "Plataformas de arquitetura",
+      "value": "Nenhum perfil encontrado",
       "detail": {
-        "plataforma": "archdaily.com.br",
-        "nota": "Sem projetos publicados no ArchDaily"
-      },
-      "source_type": "briefing",
-      "source_name": "WebSearch",
-      "fetched_at": "2026-04-07T23:45:00.000000+00:00"
-    },
-    {
-      "category": "sales_channels",
-      "label": "Viva Decora",
-      "value": "Nao encontrado",
-      "detail": {
-        "plataforma": "vivadecora.com.br",
-        "nota": "Sem perfil ou projetos no Viva Decora"
-      },
-      "source_type": "briefing",
-      "source_name": "WebSearch",
-      "fetched_at": "2026-04-07T23:45:00.000000+00:00"
-    },
-    {
-      "category": "sales_channels",
-      "label": "Houzz",
-      "value": "Nao encontrado",
-      "detail": {
-        "plataforma": "houzz.com.br",
-        "nota": "Sem perfil no Houzz Brasil"
-      },
-      "source_type": "briefing",
-      "source_name": "WebSearch",
-      "fetched_at": "2026-04-07T23:45:00.000000+00:00"
-    },
-    {
-      "category": "sales_channels",
-      "label": "Reclame Aqui",
-      "value": "Nao encontrado",
-      "detail": {
-        "plataforma": "reclameaqui.com.br",
-        "nota": "Existem empresas 'Virtude' no Reclame Aqui mas nenhuma e Virtude Arquitetura. Sem reclamacoes registradas."
-      },
-      "source_type": "briefing",
-      "source_name": "WebSearch",
-      "fetched_at": "2026-04-07T23:45:00.000000+00:00"
-    },
-    {
-      "category": "sales_channels",
-      "label": "GetNinjas",
-      "value": "Nao encontrado",
-      "detail": {
-        "plataforma": "getninjas.com.br",
-        "nota": "Sem perfil no GetNinjas"
-      },
-      "source_type": "briefing",
-      "source_name": "WebSearch",
-      "fetched_at": "2026-04-07T23:45:00.000000+00:00"
-    },
-    {
-      "category": "sales_channels",
-      "label": "Habitissimo",
-      "value": "Nao encontrado",
-      "detail": {
-        "plataforma": "habitissimo.com.br",
-        "nota": "Sem perfil no Habitissimo"
-      },
-      "source_type": "briefing",
-      "source_name": "WebSearch",
-      "fetched_at": "2026-04-07T23:45:00.000000+00:00"
-    },
-    {
-      "category": "sales_channels",
-      "label": "Behance",
-      "value": "Nao encontrado",
-      "detail": {
-        "plataforma": "behance.net",
-        "nota": "Sem portfolio no Behance"
-      },
-      "source_type": "briefing",
-      "source_name": "WebSearch",
-      "fetched_at": "2026-04-07T23:45:00.000000+00:00"
-    },
-    {
-      "category": "sales_channels",
-      "label": "YouTube",
-      "value": "Nao encontrado",
-      "detail": {
-        "plataforma": "youtube.com",
-        "nota": "Sem canal no YouTube"
-      },
-      "source_type": "briefing",
-      "source_name": "WebSearch",
-      "fetched_at": "2026-04-07T23:45:00.000000+00:00"
-    },
-    {
-      "category": "sales_channels",
-      "label": "Pinterest",
-      "value": "Inconclusivo",
-      "detail": {
-        "plataforma": "pinterest.com",
-        "nota": "Varios perfis 'Thalita Ferreira' encontrados mas nenhum confirmado como sendo a arquiteta de Contagem/MG. Perfil thaferreiraf nao confirmado."
-      },
-      "source_type": "briefing",
-      "source_name": "WebSearch",
-      "fetched_at": "2026-04-07T23:45:00.000000+00:00"
-    },
-    {
-      "category": "sales_channels",
-      "label": "Resumo canais",
-      "value": "Presenca digital concentrada exclusivamente no Instagram",
-      "detail": {
-        "plataformas_pesquisadas": [
-          "ArchDaily",
-          "Viva Decora",
+        "platforms_checked": [
           "Houzz",
-          "Reclame Aqui",
-          "GetNinjas",
+          "Viva Decora",
           "Habitissimo",
-          "Behance",
-          "YouTube",
-          "Pinterest",
-          "LinkedIn"
+          "ArchDaily"
         ],
-        "plataformas_encontradas": 0,
-        "nota": "Nenhum canal de venda ou portfolio externo identificado. Lead depende 100% do Instagram para presenca online. Oportunidade clara para site profissional."
+        "note": "Nenhuma presenca encontrada em plataformas de arquitetura/design. Presenca limitada ao Instagram.",
+        "main_channel": "Instagram (@talitasoaresarq)"
       },
       "source_type": "briefing",
-      "source_name": "WebSearch",
-      "fetched_at": "2026-04-07T23:45:00.000000+00:00"
+      "source_name": "WebSearch + verificacao direta",
+      "fetched_at": "2026-04-08T23:19:13.131361"
+    },
+    {
+      "category": "sales_channels",
+      "label": "Canal principal de vendas",
+      "value": "Instagram",
+      "detail": {
+        "platform": "Instagram",
+        "username": "talitasoaresarq",
+        "followers": 4131,
+        "posts": 292,
+        "content_strategy": "Conteudo educacional sobre arquitetura (serie dicas), posts de projetos, lifestyle",
+        "engagement": "Post viral com 3855 likes e 23 comentarios"
+      },
+      "source_type": "briefing",
+      "source_name": "analise",
+      "fetched_at": "2026-04-08T23:19:13.131361"
     },
     {
       "category": "images",
-      "label": "Foto de perfil Instagram (@thalita.arquiteta)",
-      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-19/592256490_18542848528024119_5964892864451328571_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=107&ccb=7-5&_nc_sid=bf7eb4",
+      "label": "Facebook Photo",
+      "value": "https://scontent-poa1-1.xx.fbcdn.net/v/t39.30808-6/469891130_1116671023155617_5653945226432796135_n.jpg",
       "detail": {
+        "urls": [
+          "https://scontent-poa1-1.xx.fbcdn.net/v/t39.30808-6/469891130_1116671023155617_5653945226432796135_n.jpg"
+        ],
+        "tipo": "post",
+        "fonte": "Facebook (og:image)",
+        "note": "Imagem extraida da pagina de fotos do Facebook"
+      },
+      "source_type": "briefing",
+      "source_name": "WebFetch (Facebook)",
+      "fetched_at": "2026-04-08T23:24:08.256428"
+    },
+    {
+      "category": "images",
+      "label": "Facebook Profile/Page Photo",
+      "value": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063456192991",
+      "detail": {
+        "urls": [
+          "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063456192991"
+        ],
         "tipo": "profile_pic",
-        "fonte": "Playwright (Instagram perfil)",
-        "conta": "@thalita.arquiteta",
-        "descricao": "993 seguidores, seguindo 87, 76 posts"
+        "fonte": "Bing Images (Facebook lookaside)",
+        "note": "URL de referencia para foto do perfil/pagina Facebook. Requer browser para resolver."
       },
       "source_type": "briefing",
-      "source_name": "Playwright MCP",
-      "fetched_at": "2026-04-07T23:07:00.000000+00:00"
+      "source_name": "Bing Images",
+      "fetched_at": "2026-04-08T23:24:08.256428"
     },
     {
       "category": "images",
-      "label": "Foto de perfil Instagram (@virtude.arquitetura)",
-      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-19/625216385_17851536960666105_3001714437400426017_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=7-5&_nc_sid=bf7eb4",
+      "label": "Instagram Posts (via Bing/lookaside)",
+      "value": "5 posts encontrados",
       "detail": {
-        "tipo": "logo",
-        "fonte": "Playwright (Instagram perfil)",
-        "conta": "@virtude.arquitetura",
-        "descricao": "30 seguidores, 1 post - conta da empresa Virtude Arquitetura"
-      },
-      "source_type": "briefing",
-      "source_name": "Playwright MCP",
-      "fetched_at": "2026-04-07T23:07:00.000000+00:00"
-    },
-    {
-      "category": "images",
-      "label": "Post - Papel da arquiteta no projeto",
-      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.75761-15/491446019_18496858678024119_1800121025534553241_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74",
-      "detail": {
+        "urls": [
+          "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3440231922193003534",
+          "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3479675765652275531",
+          "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3585999345296645077",
+          "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3597469949238615943",
+          "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3602088727561971089"
+        ],
+        "post_urls": [
+          "https://www.instagram.com/reel/C--KLTDRfQO",
+          "https://www.instagram.com/reel/DBKSqw5PUFL",
+          "https://www.instagram.com/reel/DHEB2e1MJvV",
+          "https://www.instagram.com/p/DHsx90ZApzL",
+          "https://www.instagram.com/p/DH9MJ8bR79q"
+        ],
         "tipo": "post",
-        "fonte": "Playwright (Instagram post)",
-        "post_url": "https://www.instagram.com/thalita.arquiteta/p/DIhat6yyyrH/",
-        "has_text": true,
-        "descricao": "Como arquiteta, meu papel e garantir que cada escolha no seu projeto tenha um proposito: funcionalidade, conforto, economia e harmonia.",
-        "likes": 14
+        "fonte": "Bing Images + Instagram lookaside",
+        "note": "URLs de referencia para posts do Instagram. 3 sao Reels (video), 2 sao posts estáticos. Requerem Playwright MCP para extrair og:image em alta resolucao."
       },
       "source_type": "briefing",
-      "source_name": "Playwright MCP",
-      "fetched_at": "2026-04-07T23:07:00.000000+00:00"
+      "source_name": "Bing Images",
+      "fetched_at": "2026-04-08T23:24:08.256428"
     },
     {
       "category": "images",
-      "label": "Post - Investimento em arquiteta",
-      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.75761-15/488755490_18494940724024119_5843256346103559605_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74",
+      "label": "Facebook Page descoberta",
+      "value": "https://www.facebook.com/talitasoaresarq/",
       "detail": {
-        "tipo": "post",
-        "fonte": "Playwright (Instagram post)",
-        "post_url": "https://www.instagram.com/thalita.arquiteta/p/DIJ8PKsx7JC/",
-        "has_text": true,
-        "descricao": "Contratar uma arquiteta nao e gasto, e um investimento!",
-        "likes": 4
+        "urls": [
+          "https://www.facebook.com/talitasoaresarq/photos/a.123815529107843/374233857399341/"
+        ],
+        "tipo": "banner",
+        "fonte": "Bing Images",
+        "note": "Pagina Facebook com fotos disponivel. Nome: Talita Soares Arquitetura de Interiores"
       },
       "source_type": "briefing",
-      "source_name": "Playwright MCP",
-      "fetched_at": "2026-04-07T23:07:00.000000+00:00"
+      "source_name": "Bing Images",
+      "fetched_at": "2026-04-08T23:24:08.256428"
     },
     {
-      "category": "images",
-      "label": "Post - Pessoal/Formatura",
-      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/591165577_18542778898024119_4438674751746862436_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74",
+      "category": "brand",
+      "label": "Padroes da marca",
+      "value": "Arquitetura de interiores com posicionamento educacional no Instagram",
       "detail": {
-        "tipo": "post",
-        "fonte": "Playwright (Instagram post)",
-        "post_url": "https://www.instagram.com/thalita.arquiteta/p/DSB4n0BDbHB/",
-        "descricao": "Formatura da Elisa - Toquinho",
-        "likes": 40
+        "cores": [
+          "nao determinado - requer analise visual do Instagram"
+        ],
+        "tom": "informal-educacional",
+        "publico_alvo": "Pessoas planejando reforma ou construcao em Contagem/BH/MG",
+        "estilo_visual": "Conteudo educacional (serie dicas de arquitetura), projetos de interiores",
+        "slogan": "Nao identificado",
+        "nome_marca": "Talita Soares | Arquitetura de interiores",
+        "conta_pessoal": "@talitaar (1952 seg, referencia @talitasoaresarq)",
+        "estrategia_conteudo": "Serie 'coisas que sao obvias pra mim sendo arquiteta' - post viral com 3855 likes"
       },
       "source_type": "briefing",
-      "source_name": "Playwright MCP",
-      "fetched_at": "2026-04-07T23:07:00.000000+00:00"
+      "source_name": "analise",
+      "fetched_at": "2026-04-08T23:25:31.636196"
     },
     {
-      "category": "images",
-      "label": "Post - Pessoal/Familia",
-      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/541606048_18521974966024119_6711822685680946610_n.jpg?stp=c207.0.623.622a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74",
+      "category": "competitors",
+      "label": "Concorrentes com site",
+      "value": "Busca limitada (search engines rate limited)",
       "detail": {
-        "tipo": "post",
-        "fonte": "Playwright (Instagram post)",
-        "post_url": "https://www.instagram.com/thalita.arquiteta/p/DOCnyW-D9eo/",
-        "descricao": "Minhas princesas",
-        "likes": 22
+        "note": "DuckDuckGo e Bing rate limited durante pesquisa. Recomenda-se busca manual posterior.",
+        "competitors_found": []
       },
       "source_type": "briefing",
-      "source_name": "Playwright MCP",
-      "fetched_at": "2026-04-07T23:07:00.000000+00:00"
-    },
-    {
-      "category": "images",
-      "label": "Post - Pessoal",
-      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/654068724_18059810045388733_8329422449364055235_n.jpg?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74",
-      "detail": {
-        "tipo": "post",
-        "fonte": "Playwright (Instagram post)",
-        "post_url": "https://www.instagram.com/thalita.arquiteta/p/C3MCjxfu2i1/",
-        "descricao": "Pessoal",
-        "likes": 5
-      },
-      "source_type": "briefing",
-      "source_name": "Playwright MCP",
-      "fetched_at": "2026-04-07T23:07:00.000000+00:00"
-    },
-    {
-      "category": "images",
-      "label": "Post - Reforma auditorio AMNOR",
-      "value": "https://scontent-poa1-1.cdninstagram.com/v/t39.30808-6/469986658_18472359319024119_5926774877193940565_n.jpg?stp=c143.0.430.430a_dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74",
-      "detail": {
-        "tipo": "post",
-        "fonte": "Playwright (Instagram post)",
-        "post_url": "https://www.instagram.com/thalita.arquiteta/p/CxHXmtoOZic/",
-        "has_text": true,
-        "descricao": "Reportagem sobre a reforma do auditorio e outras grandes realizacoes da AMNOR",
-        "likes": 23
-      },
-      "source_type": "briefing",
-      "source_name": "Playwright MCP",
-      "fetched_at": "2026-04-07T23:07:00.000000+00:00"
-    },
-    {
-      "category": "images",
-      "label": "Post - All black",
-      "value": "https://scontent-poa1-1.cdninstagram.com/v/t39.30808-6/358027582_18370880869024119_1880541954037610062_n.jpg?stp=c206.0.621.620a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74",
-      "detail": {
-        "tipo": "post",
-        "fonte": "Playwright (Instagram post)",
-        "post_url": "https://www.instagram.com/thalita.arquiteta/p/CuX2CT9uNu4/",
-        "descricao": "All black",
-        "likes": 25
-      },
-      "source_type": "briefing",
-      "source_name": "Playwright MCP",
-      "fetched_at": "2026-04-07T23:07:00.000000+00:00"
-    },
-    {
-      "category": "images",
-      "label": "Post - Equipe tecnica AMNOR",
-      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/624149007_18103359373633717_3265201988572929608_n.jpg?stp=c151.0.453.453a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74",
-      "detail": {
-        "tipo": "equipe",
-        "fonte": "Playwright (Instagram post)",
-        "post_url": "https://www.instagram.com/thalita.arquiteta/p/CsWlTrRAxxT/",
-        "descricao": "Equipe tecnica da Amnor",
-        "likes": 36
-      },
-      "source_type": "briefing",
-      "source_name": "Playwright MCP",
-      "fetched_at": "2026-04-07T23:07:00.000000+00:00"
-    },
-    {
-      "category": "images",
-      "label": "Post - AMNOR Avancando",
-      "value": "https://scontent-poa1-1.cdninstagram.com/v/t51.82787-15/653406296_18037560617564731_6660685677071494186_n.jpg?stp=c246.0.738.738a_dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74",
-      "detail": {
-        "tipo": "post",
-        "fonte": "Playwright (Instagram post)",
-        "post_url": "https://www.instagram.com/thalita.arquiteta/p/Cp0D2PmuQAJ/",
-        "descricao": "Amnor Avancando",
-        "likes": 11
-      },
-      "source_type": "briefing",
-      "source_name": "Playwright MCP",
-      "fetched_at": "2026-04-07T23:07:00.000000+00:00"
-    },
-    {
-      "category": "images",
-      "label": "Post - Virtude Arquitetura apresentacao",
-      "value": "https://scontent-poa1-1.cdninstagram.com/v/t39.30808-6/650650624_1013296008536945_2426534948812944091_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74",
-      "detail": {
-        "tipo": "post",
-        "fonte": "Playwright (Instagram post)",
-        "post_url": "https://www.instagram.com/virtude.arquitetura/p/DVylHA1jXoO/",
-        "has_text": true,
-        "descricao": "Na Virtude Arquitetura, cada projeto e desenvolvido com responsabilidade, qualidade e atencao aos detalhes. Nosso compromisso e transformar espacos.",
-        "likes": 96
-      },
-      "source_type": "briefing",
-      "source_name": "Playwright MCP",
-      "fetched_at": "2026-04-07T23:07:00.000000+00:00"
-    },
-    {
-      "category": "images",
-      "label": "Descoberta - Conta empresa @virtude.arquitetura",
-      "value": "https://www.instagram.com/virtude.arquitetura/",
-      "detail": {
-        "tipo": "discovery",
-        "nota": "Conta da empresa Virtude Arquitetura encontrada linkada no perfil pessoal. 30 seguidores, 1 post. Conta nova (marco 2026)."
-      },
-      "source_type": "briefing",
-      "source_name": "Playwright MCP",
-      "fetched_at": "2026-04-07T23:07:00.000000+00:00"
+      "source_name": "analise",
+      "fetched_at": "2026-04-08T23:25:31.636196"
     }
   ],
   "phases": {
@@ -511,29 +293,29 @@
     },
     "phase_2": {
       "status": "complete",
-      "result": "1 URL descoberta (Instagram), 11 data_points"
+      "result": "1 URL descoberta (Instagram), 6 data_points. Sem site encontrado."
     },
     "phase_3": {
       "status": "complete",
-      "result": "CNPJ 53.829.687/0001-39 confirmado via BrasilAPI (MEI, CNAE promocao de vendas). CNPJ antigo 16.958.813/0001-29 baixado. CAU nao encontrado via web. 12 data_points total."
+      "result": "CNPJ nao encontrado, CAU nao encontrado online"
     },
     "phase_4": {
       "status": "complete",
-      "result": "Lead sem site - ausencia registrada. Nenhuma analise de website necessaria."
+      "result": "Sem site - fase concluida rapidamente"
     },
     "phase_5": {
       "status": "complete",
-      "result": "10 plataformas pesquisadas (ArchDaily, Viva Decora, Houzz, Reclame Aqui, GetNinjas, Habitissimo, Behance, YouTube, Pinterest, LinkedIn). Nenhum canal encontrado. Presenca 100% Instagram. 10 data_points adicionados."
+      "result": "Instagram como unico canal de vendas. Nenhuma plataforma de arquitetura encontrada."
     },
     "phase_6": {
       "status": "complete",
-      "result": "13 imagens capturadas via Playwright MCP (2 fotos de perfil + 10 posts + 1 discovery). Fontes: @thalita.arquiteta (11 imagens) + @virtude.arquitetura (2 imagens). Conta empresa @virtude.arquitetura descoberta."
+      "result": "1 imagem Facebook (og:image), 5 refs Instagram posts, pagina Facebook descoberta. Playwright MCP nao disponivel para extrair og:image do Instagram."
     },
     "phase_7": {
       "status": "complete",
-      "result": "Briefing compilado e salvo no vendedor.db. Sales score: 8/10. 38 data_points, 13 imagens."
+      "result": "Briefing salvo no vendedor.db"
     }
   },
-  "started_at": "2026-04-07T19:55:27.014806",
-  "completed_at": "2026-04-07T20:11:34.179102"
+  "started_at": "2026-04-08T23:11:45.204031",
+  "completed_at": "2026-04-08T23:25:31.636196"
 }

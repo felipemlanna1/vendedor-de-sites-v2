@@ -1,0 +1,104 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "portfolio": "Projects",
+    "process": "Process",
+    "contact": "Contact",
+    "cta": "Get in Touch"
+  },
+  "hero": {
+    "title": "Architecture that reveals the extraordinary in everyday life",
+    "subtitle": "Talita Soares | Interior Architecture",
+    "cta": "Schedule a conversation",
+    "tagline": "Florian\u00f3polis \u2022 Remote Service \u2022 Brazil"
+  },
+  "about": {
+    "title": "The obvious you don't see",
+    "description": "Every space tells a story \u2014 most people simply don't notice. My work as an interior architect is to reveal the hidden potential in every environment, transforming the ordinary into the extraordinary.",
+    "philosophy": "I believe great projects are born from honest conversations. Before drawing a single line, I need to understand how you live, what makes you feel at home, and which details go unnoticed but make all the difference in your daily life.",
+    "cta": "See my work"
+  },
+  "services": {
+    "title": "How I can transform your space",
+    "items": {
+      "residential": {
+        "name": "Residential Design",
+        "description": "From concept to delivery: complete interior design for apartments, houses, and penthouses. Each space designed for your routine, balancing functionality and aesthetics."
+      },
+      "commercial": {
+        "name": "Commercial Design",
+        "description": "Commercial spaces that communicate your brand's essence. Offices, clinics, stores, and restaurants designed to delight clients and optimize operations."
+      },
+      "consulting": {
+        "name": "Interior Consulting",
+        "description": "Consulting sessions for those who need professional direction. Guidance on layout, color palette, lighting, and materials so you can execute with confidence."
+      },
+      "followup": {
+        "name": "Construction Supervision",
+        "description": "Present at every stage of execution. Ensuring the project is materialized exactly as conceived, with quality and on schedule."
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Projects that transform",
+    "subtitle": "Each space is unique \u2014 just like the people who live in it",
+    "cta": "See more on Instagram"
+  },
+  "process": {
+    "title": "How it works",
+    "steps": {
+      "step1": {
+        "title": "Conversation",
+        "description": "I understand your needs, routine, and dreams for the space. Everything starts with an honest conversation."
+      },
+      "step2": {
+        "title": "Design",
+        "description": "I develop the concept, floor plans, 3D renderings, and technical specifications. You participate in every decision."
+      },
+      "step3": {
+        "title": "Supervision",
+        "description": "I oversee the execution to ensure fidelity to the project and quality in every finishing detail."
+      },
+      "step4": {
+        "title": "Delivery",
+        "description": "The moment the space comes to life. The reveal of the transformed environment is always special."
+      }
+    }
+  },
+  "social": {
+    "title": "Numbers that tell our story",
+    "followers": "Instagram followers",
+    "posts": "shared projects",
+    "viral": "likes on most popular post",
+    "ticker": [
+      "things that are obvious to me as an architect",
+      "natural lighting changes everything",
+      "hire an architect",
+      "the detail makes the difference",
+      "every space tells a story"
+    ]
+  },
+  "contact": {
+    "title": "Let's create something incredible together",
+    "subtitle": "Get in touch and tell me about your project. I serve Florian\u00f3polis and remotely across Brazil.",
+    "name_label": "Your name",
+    "email_label": "Your email",
+    "message_label": "Tell me about your project",
+    "submit": "Send message",
+    "whatsapp_cta": "Prefer WhatsApp? Talk to me directly",
+    "instagram": "@talitasoaresarq",
+    "location": "Florian\u00f3polis, SC"
+  },
+  "footer": {
+    "copyright": "\u00a9 2026 Talita Soares Architecture. All rights reserved.",
+    "social": "Follow us",
+    "instagram": "Instagram",
+    "facebook": "Facebook"
+  },
+  "lang": {
+    "pt": "Portugu\u00eas",
+    "en": "English"
+  }
+}

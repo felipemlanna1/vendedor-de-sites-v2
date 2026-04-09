@@ -1,101 +1,112 @@
 ---
 name: site-phase-5
-description: Fase 5 do build-site — Componentes base, i18n, SEO
+description: >-
+  Phase 5 — Create base components derived from blueprint, i18n setup
+  (PT-BR + EN), SEO schema markup. No template copying.
+allowed-tools: Read, Write, Edit, Bash
+model: sonnet
+effort: medium
+context: fork
 user-invocable: false
 ---
 
-# Fase 5 — Componentes Base + i18n + SEO
+# Phase 5 — Base Components + i18n + SEO
 
-Leia os templates de referencia:
+## Objective
+
+Create animation components derived from the blueprint, set up bilingual i18n, and add SEO schema markup. Every component must be unique to THIS site.
+
+## Step 1 — Read references
+
 ```
-Read: /Users/felipemoreiralanna/Documents/GitHub/vendedor-de-sites-v2/sites/_templates/i18n-setup.js
-Read: /Users/felipemoreiralanna/Documents/GitHub/vendedor-de-sites-v2/sites/_templates/seo-templates.jsx
-```
-
-## 5.1 Componentes derivados do Blueprint
-
-**NAO copie templates prontos.** Cada site cria seus proprios componentes.
-
-Leia o blueprint tecnico do mapa de encantamento:
-```
+Read: sites/_templates/i18n-setup.js
+Read: sites/_templates/seo-templates.jsx
 Read: sites/$LEAD_ID/mapa-encantamento.md
 ```
 
-Para CADA animacao especificada no blueprint, crie o componente correspondente.
+## Step 2 — Create blueprint-derived components
 
-**Exemplos (NAO copie — derive do SEU blueprint):**
-- Blueprint diz "clip-path reveal" → crie ClipReveal.jsx com CSS clip-path animation
-- Blueprint diz "blur-scale entrance" → crie BlurScale.jsx com motion blur+scale
-- Blueprint diz "stagger vertical" → crie StaggerList.jsx com delay calculado
-- Blueprint diz "parallax invertido" → crie InvertedParallax.jsx com GSAP scrub
-- Blueprint diz "sticky scroll" → crie StickySection.jsx com ScrollTrigger pin
+For EACH animation specified in the blueprint, create the corresponding component.
 
-**ANTES de implementar do zero, consulte os MCPs:**
-- `magic-ui` → blur-fade, aurora-text, number-ticker, shimmer-button
-- `aceternity-ui` → parallax-scroll, text-generate-effect, hero-highlight, 3D-card
-- Se o MCP tem o componente, USE-O. Customize cores/timings para este site.
+**Before building from scratch, check MCPs:**
+- `magic-ui` — blur-fade, aurora-text, number-ticker, shimmer-button
+- `aceternity-ui` — parallax-scroll, text-generate-effect, hero-highlight, 3D-card
+- If the MCP has the component, USE IT. Customize colors/timings for this site.
 
-**Componentes OBRIGATORIOS (apenas 2):**
-- LanguageToggle.jsx — funcional (react-i18next changeLanguage). Visual pode ser unico.
-- Button.jsx — com variants baseadas nos tokens de cor DESTE site.
+**MANDATORY components (only 2):**
+- `LanguageToggle.jsx` — functional (react-i18next changeLanguage). Visual can be unique.
+- `Button.jsx` — with variants based on THIS site's color tokens.
 
-**Parametros PROIBIDOS de copiar do template antigo:**
-- ScrollReveal com y:60, duration:0.8, ease:'power3.out'
-- AnimatedText com duration:0.5, delay:i*0.08, ease:[0.25, 0.46, 0.45, 0.94]
-- ParallaxImage com speed:0.2, h-[120%]
-- CountUp com duration:2, ease:'power2.out'
-Se precisar de funcionalidade similar, use PARAMETROS DIFERENTES derivados do blueprint.
+**BANNED parameters (from old template):**
+- ScrollReveal: y:60, duration:0.8, ease:'power3.out'
+- AnimatedText: duration:0.5, delay:i*0.08, ease:[0.25, 0.46, 0.45, 0.94]
+- ParallaxImage: speed:0.2, h-[120%]
+- CountUp: duration:2, ease:'power2.out'
 
-**Checklist de cleanup patterns (referencie, nao copie):**
-- GSAP: sempre use gsap.context() e retorne ctx.revert() no useEffect cleanup
-- Motion: use viewport={{ once: true }} para animacoes de entrada
-- ScrollTrigger: kill no cleanup
-- Lenis: destroy no cleanup
-- prefers-reduced-motion: respeitar via CSS @media ou JS matchMedia
+If you need similar functionality, use DIFFERENT parameters derived from the blueprint.
 
-Referencia de patterns (NAO copie os componentes, apenas os patterns):
+**Cleanup patterns (reference, don't copy):**
+- GSAP: always `gsap.context()` with `ctx.revert()` in useEffect cleanup
+- Motion: `viewport={{ once: true }}` for entry animations
+- ScrollTrigger: kill on cleanup
+- Lenis: destroy on cleanup
+- prefers-reduced-motion: respect via CSS @media or JS matchMedia
+
+Reference patterns (do NOT copy components, only patterns):
 ```
-Read: /Users/felipemoreiralanna/Documents/GitHub/vendedor-de-sites-v2/sites/_templates/component-templates.jsx
+Read: sites/_templates/component-templates.jsx
 ```
 
-## 5.2 Layout base
-- `src/components/layout/Section.jsx` — baseado no template
+## Step 3 — Layout base
 
-## 5.3 i18n — config
-Crie `src/i18n/index.js` EXATAMENTE como no template i18n-setup.js.
-Importar ANTES do App no main.jsx.
+Create `src/components/layout/Section.jsx` based on the template.
 
-## 5.4 i18n — pt-BR.json
-TODAS as strings do site com acentos corretos (a, e, c, o, i, u).
-Estrutura: nav, hero, cada secao definida na Fase 3, contact, footer, lang.
-Preencher com dados REAIS do briefing — ZERO placeholder.
+## Step 4 — i18n config
 
-## 5.5 i18n — en.json
-MESMA estrutura do pt-BR.json. Traduzido naturalmente (nao robotico).
-Nomes proprios ficam em portugues.
+Create `src/i18n/index.js` exactly as in i18n-setup.js template.
+Import BEFORE App in main.jsx.
 
-## 5.6 Dados estruturados
-Crie `src/data/content.js` com todos os dados do briefing organizados para os componentes.
+## Step 5 — i18n PT-BR
 
-## 5.7 SEO
-Baseado nos templates seo-templates.jsx:
-- `src/components/seo/JsonLd.jsx` — schema.org com tipo MAIS ESPECIFICO. TODOS os dados: endereco, coordenadas, horarios, avaliacoes, redes (sameAs), servicos, registro profissional, knowsAbout, alumniOf, award, memberOf.
-- `src/components/seo/FaqSchema.jsx` — perguntas ESPECIFICAS sobre este cliente (nao genericas).
+Create `src/i18n/pt-BR.json` with ALL site strings, correct accents (a, e, c, o, i, u).
+Structure: nav, hero, each section from Phase 3, contact, footer, lang.
+Fill with REAL briefing data — ZERO placeholders.
 
-## VERIFICACAO CRITICA
-Apos criar os arquivos, execute:
+## Step 6 — i18n EN
+
+Create `src/i18n/en.json` with SAME structure as pt-BR.json. Naturally translated (not robotic).
+Proper nouns stay in Portuguese.
+
+## Step 7 — Structured data
+
+Create `src/data/content.js` with all briefing data organized for components.
+
+## Step 8 — SEO
+
+Based on seo-templates.jsx:
+- `src/components/seo/JsonLd.jsx` — schema.org with MOST SPECIFIC type. ALL data: address, coordinates, hours, reviews, social (sameAs), services, professional registry, knowsAbout, alumniOf, award, memberOf.
+- `src/components/seo/FaqSchema.jsx` — SPECIFIC questions about this client (not generic).
+
+## Exit Gate (blocking)
+
 ```bash
-cd /Users/felipemoreiralanna/Documents/GitHub/vendedor-de-sites-v2/sites/$LEAD_ID
-cat src/i18n/pt-BR.json | python3 -c "import json,sys; pt=json.load(sys.stdin); print(f'PT-BR keys: {len(json.dumps(pt).split(chr(34)))//2}')"
-cat src/i18n/en.json | python3 -c "import json,sys; en=json.load(sys.stdin); print(f'EN keys: {len(json.dumps(en).split(chr(34)))//2}')"
+.claude/scripts/gate-i18n-keys.sh $LEAD_ID
 ```
-Ambos devem ter a MESMA quantidade de chaves.
-Abra pt-BR.json e verifique acentos. Se faltou, corrija AGORA.
 
-## CRITERIO DE CONCLUSAO
-- Componentes de animacao criados conforme blueprint (NAO template generico)
-- NENHUM componente com parametros identicos ao template antigo
-- LanguageToggle e Button criados
-- pt-BR.json e en.json com mesmas chaves e acentos corretos
-- JsonLd.jsx e FaqSchema.jsx com dados reais
-- content.js com dados estruturados
+## Constraints
+
+| Rule | Enforced by |
+|------|-------------|
+| Same keys in pt-BR.json and en.json | gate-i18n-keys.sh |
+| No banned animation parameters | Visual review in Phase 7 |
+| Components derived from blueprint, not template | gate-anti-similarity.sh in Phase 6 |
+| Correct PT-BR accents | playwright-validate.py (pt_br_accents) |
+
+## Exit Criteria
+
+- [ ] Animation components created per blueprint (NOT generic template)
+- [ ] NO component with parameters identical to old template
+- [ ] LanguageToggle and Button created
+- [ ] pt-BR.json and en.json with same keys and correct accents
+- [ ] JsonLd.jsx and FaqSchema.jsx with real data
+- [ ] content.js with structured data

@@ -1,40 +1,54 @@
 ---
 name: site-phase-1
-description: Fase 1 do build-site — Carregar briefing do vendedor.db
+description: >-
+  Phase 1 — Load briefing from vendedor.db by ID. Returns lead metadata
+  and all data_points for subsequent phases.
+allowed-tools: Read, Bash
+model: sonnet
+effort: low
+context: fork
 user-invocable: false
 ---
 
-# Fase 1 — Carregar Briefing
+# Phase 1 — Load Briefing
 
-Receba o ID do briefing dos argumentos passados pelo orchestrator.
+## Objective
 
-Execute substituindo ID_AQUI:
+Load the client briefing from the database and extract all data needed for the pipeline. This is a simple data retrieval phase.
+
+## Step 1 — Query the database
+
+Replace ID_HERE with the briefing ID provided by the orchestrator:
 
 ```bash
 cd /Users/felipemoreiralanna/Documents/GitHub/vendedor-de-sites-v2
 .venv/bin/python3 -c "
 import sqlite3, json, sys
 db = sqlite3.connect('data/vendedor.db')
-row = db.execute('SELECT id, lead_source, lead_id, lead_name, lead_city, detected_niche, briefing_json FROM briefings WHERE id = ? OR lead_id = ?', ('ID_AQUI', 'ID_AQUI')).fetchone()
-if not row: print('ERRO: Briefing nao encontrado'); sys.exit(1)
+row = db.execute('SELECT id, lead_source, lead_id, lead_name, lead_city, detected_niche, briefing_json FROM briefings WHERE id = ? OR lead_id = ?', ('ID_HERE', 'ID_HERE')).fetchone()
+if not row: print('ERROR: Briefing not found'); sys.exit(1)
 b = json.loads(row[6])
 print(json.dumps({'db_id':row[0],'source':row[1],'lead_id':row[2],'name':row[3],'city':row[4],'niche':row[5],'data_points':len(b.get('data_points',[])), 'briefing':b}, ensure_ascii=False, indent=2))
 db.close()
 "
 ```
 
-Salve todo o JSON retornado — voce precisa de TODOS os data_points nas fases seguintes.
+Save the full returned JSON — ALL data_points are needed in subsequent phases.
 
-Mostre ao usuario: nome, cidade, nicho, total data_points, total imagens.
+## Step 2 — Save state
 
-Salve o lead_id no state:
 ```bash
 cd /Users/felipemoreiralanna/Documents/GitHub/vendedor-de-sites-v2
 mkdir -p sites/_state
-echo '{"current_phase":1,"lead_id":"LEAD_ID_AQUI","phases":{"phase_1":{"status":"complete"}}}' > sites/_state/progress.json
+echo '{"current_phase":1,"lead_id":"LEAD_ID_HERE","phases":{"phase_1":{"status":"complete"}}}' > sites/_state/progress.json
 ```
 
-## CRITERIO DE CONCLUSAO
-- Briefing carregou com sucesso (nao deu erro)
-- lead_id salvo no state file
-- Usuario viu o resumo
+## Step 3 — Show summary to user
+
+Display: name, city, niche, total data_points, total images.
+
+## Exit Criteria
+
+- [ ] Briefing loaded successfully (no errors)
+- [ ] lead_id saved in state file
+- [ ] User saw the summary

@@ -1,0 +1,53 @@
+:root {
+  /* Colors — semantic tokens derived from "O obvio que voce nao ve" */
+  --linho: #F5F0EA;
+  --marfim: #FFFDF8;
+  --carvao: #2B2622;
+  --terracota: #A84F38;
+  --terracota-light: #C4654A;
+  --terracota-hover: #8E3F2A;
+  --verde-folha: #5B7B5E;
+  --pergaminho: #E8DFD3;
+  --grafite: #6B6058;
+  --neblina: rgba(43, 38, 34, 0.06);
+  --janela: rgba(196, 101, 74, 0.08);
+
+  /* Semantic aliases */
+  --color-background: var(--linho);
+  --color-surface: var(--marfim);
+  --color-text-primary: var(--carvao);
+  --color-text-secondary: var(--grafite);
+  --color-accent: var(--terracota);
+  --color-accent-hover: var(--terracota-hover);
+  --color-accent-secondary: var(--verde-folha);
+  --color-border: var(--pergaminho);
+  --color-overlay: var(--neblina);
+  --color-glow: var(--janela);
+
+  /* Typography */
+  --font-display: 'DM Serif Display', Georgia, serif;
+  --font-body: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+
+  /* Spacing (8px grid) */
+  --space-1: 8px;
+  --space-2: 16px;
+  --space-3: 24px;
+  --space-4: 32px;
+  --space-5: 40px;
+  --space-6: 48px;
+  --space-8: 64px;
+  --space-10: 80px;
+  --space-12: 96px;
+  --space-15: 120px;
+
+  /* Layout */
+  --max-width: 1200px;
+  --max-width-full: 1440px;
+
+  /* Transitions */
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in-out-circ: cubic-bezier(0.77, 0, 0.175, 1);
+  --duration-fast: 200ms;
+  --duration-normal: 400ms;
+  --duration-slow: 800ms;
+}
